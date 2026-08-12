@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Telebot AI — A private AI assistant that lives on your Mac</title>
+  <meta name="description" content="Telebot AI turns your Mac into a private Telegram assistant. Chat with your own model — mlx-serve, Ollama, or any OpenAI-compatible API — from any device. Local-first, keyless, yours.">
+  <meta property="og:title" content="Telebot AI — A private AI assistant that lives on your Mac">
+  <meta property="og:description" content="A private Telegram assistant that runs entirely on your Mac. Bring your own brain — mlx-serve, Ollama, LM Studio, or any OpenAI-compatible API.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://qingbo93.github.io/telebot-ai-landing/">
+  <meta name="theme-color" content="#f5f5f7">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ══════════════ NAV ══════════════ -->
+<nav id="nav">
+  <div class="nav-inner">
+    <a class="brand" href="#top">
+      <span class="brand-mark">🤖</span>
+      <span class="brand-name">Telebot AI</span>
+    </a>
+    <div class="nav-links">
+      <a href="#features">Features</a>
+      <a href="#how">How it works</a>
+      <a href="#privacy">Privacy</a>
+      <a href="#faq">FAQ</a>
+    </div>
+    <div class="nav-actions">
+      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
+        <svg class="icon-sun" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.4M12 19.1v2.4M2.5 12h2.4M19.1 12h2.4M5.3 5.3l1.7 1.7M17 17l1.7 1.7M18.7 5.3L17 7M7 17l-1.7 1.7"/></svg>
+        <svg class="icon-moon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11z"/></svg>
+      </button>
+      <a class="btn btn-primary btn-sm" href="#download">Download</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ══════════════ HERO ══════════════ -->
+<header class="hero" id="top">
+  <div class="hero-glow" aria-hidden="true">
+    <span class="glow-1"></span>
+    <span class="glow-2"></span>
+    <span class="glow-3"></span>
+  </div>
+
+  <div class="hero-inner">
+    <p class="eyebrow mono">⌘ Free · Open source · Runs entirely on your Mac</p>
+    <h1>Your own AI,<br>living <span class="grad">in your chat</span></h1>
+    <p class="hero-sub">
+      Telebot AI turns your Mac into a private Telegram assistant. Chat with your
+      own model from any device, anywhere — local-first, keyless, and completely yours.
+    </p>
+    <div class="hero-cta">
+      <a class="btn btn-primary btn-lg" href="#download" id="download-hero">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0l-4.5-4.5M12 15l4.5-4.5M4 20h16"/></svg>
+        Download for macOS
+      </a>
+      <a class="btn btn-ghost btn-lg" href="https://github.com/qingbo93/Telebot-AI" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-4.3 1.4-4.3-2.5-6-3m12 5v-3.5c0-1 .1-1.4-.5-2 2.8-.3 5.5-1.4 5.5-6a4.6 4.6 0 0 0-1.3-3.2 4.2 4.2 0 0 0-.1-3.2s-1.1-.3-3.5 1.3a12.3 12.3 0 0 0-6.2 0C6.5 2.8 5.4 3.1 5.4 3.1a4.2 4.2 0 0 0-.1 3.2A4.6 4.6 0 0 0 4 9.5c0 4.6 2.7 5.7 5.5 6-.6.6-.6 1.2-.5 2V21"/></svg>
+        View on GitHub
+      </a>
+    </div>
+    <p class="hero-meta mono">v1.0.0 · macOS 13+ · Apple Silicon · <a href="#requirements">requirements</a></p>
+  </div>
+
+  <!-- CSS chat mockup -->
+  <div class="mockup" aria-label="Telebot AI chat preview">
+    <div class="mockup-bar">
+      <span class="traffic"><i></i><i></i><i></i></span>
+      <span class="mockup-title mono">🤖 Telebot AI — Telegram</span>
+      <span class="mockup-menu mono">⋯</span>
+    </div>
+    <div class="mockup-body">
+      <div class="msg msg-user">remind me to water the plants at 6pm 🌱</div>
+      <div class="msg msg-typing"><span></span><span></span><span></span></div>
+      <div class="msg msg-bot">
+        <span class="msg-head mono">🤖 Telebot AI · just now</span>
+        Done — watering plants 🌱 at 18:00. I'll ping you when it's time.
+        <div class="reminder-card">
+          <span class="rc-icon">🔔</span>
+          <div class="rc-body">
+            <span class="rc-title">Water the plants</span>
+            <span class="rc-time mono">today · 18:00</span>
+          </div>
+          <span class="rc-check">✓</span>
+        </div>
+      </div>
+      <div class="msg msg-bot msg-dice">
+        <span class="msg-head mono">🤖 Telebot AI · just now</span>
+        Feeling lucky? 🎲
+        <div class="dice">3</div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- ══════════════ WORKS WITH ══════════════ -->
+<section class="strip">
+  <p class="strip-label mono">Bring your own brain — works with any OpenAI-compatible server or API</p>
+  <div class="chips">
+    <span class="chip mono">mlx-serve</span>
+    <span class="chip mono">Ollama</span>
+    <span class="chip mono">LM Studio</span>
+    <span class="chip mono">vLLM</span>
+    <span class="chip mono">OpenAI</span>
+    <span class="chip mono">Groq</span>
+    <span class="chip mono">OpenRouter</span>
+  </div>
+</section>
+
+<!-- ══════════════ FEATURES ══════════════ -->
+<section class="section" id="features">
+  <div class="section-head reveal">
+    <p class="eyebrow mono">Features</p>
+    <h2>Everything your assistant<br>should just do.</h2>
+  </div>
+
+  <div class="bento">
+    <div class="bento-cell cell-big reveal">
+      <div class="cell-icon">🧰</div>
+      <h3>30+ tools, model-driven</h3>
+      <p>Reminders, weather, stocks, crypto, polls, dice, expenses, habits, bookmarks,
+         RSS feeds, translation, currency, PDFs &amp; receipt scanning, memory,
+         digests and briefings — the model picks the tool, no commands to memorize.</p>
+      <div class="cell-chips">
+        <span class="mini-chip mono">/remind</span>
+        <span class="mini-chip mono">/weather</span>
+        <span class="mini-chip mono">/stocks</span>
+        <span class="mini-chip mono">/poll</span>
+        <span class="mini-chip mono">/roll</span>
+        <span class="mini-chip mono">/translate</span>
+        <span class="mini-chip mono">/briefing</span>
+      </div>
+    </div>
+
+    <div class="bento-cell reveal" style="--d:.05s">
+      <div class="cell-icon">💬</div>
+      <h3>Telegram-native</h3>
+      <p>Streaming replies, typing dots, animated dice, native polls, voice notes
+         in and out. Feels like chatting with a friend — not a dashboard.</p>
+    </div>
+
+    <div class="bento-cell reveal" style="--d:.1s">
+      <div class="cell-icon">🔒</div>
+      <h3>Local-first privacy</h3>
+      <p>Conversation history, memory and skills live in <code class="mono">~/.mlx-serve</code> on
+         your Mac. Nothing leaves your machine unless you point it at a remote model.</p>
+    </div>
+
+    <div class="bento-cell reveal" style="--d:.05s">
+      <div class="cell-icon">🗝️</div>
+      <h3>Keyless data sources</h3>
+      <p>Weather &amp; air quality, currency rates (ECB), Wikipedia, SEC filings, RSS —
+         all fetched with zero API keys. No sign-ups, no rate-limit dashboards.</p>
+    </div>
+
+    <div class="bento-cell reveal" style="--d:.1s">
+      <div class="cell-icon">👥</div>
+      <h3>Multi-bot mode</h3>
+      <p>One token per bot. Run several assistants with different models,
+         personalities and skills — side by side, from a single Mac.</p>
+    </div>
+
+    <div class="bento-cell reveal" style="--d:.15s">
+      <div class="cell-icon">⚡</div>
+      <h3>Agentic extras</h3>
+      <p>Price alerts, nightly auto-memory with pruning, weekly reviews and a
+         morning briefing at 08:00. Your assistant keeps working while you sleep.</p>
+    </div>
+
+    <div class="bento-cell reveal" style="--d:.1s">
+      <div class="cell-icon">🍱</div>
+      <h3>Menu bar control</h3>
+      <p>Start, stop, restart, open settings or tail the logs — all from the
+         menu bar. The bot runs as a LaunchAgent, always on, out of your way.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════ HOW IT WORKS ══════════════ -->
+<section class="section section-alt" id="how">
+  <div class="section-head reveal">
+    <p class="eyebrow mono">Getting started</p>
+    <h2>Up and running in two minutes.</h2>
+  </div>
+  <div class="steps">
+    <div class="step reveal">
+      <span class="step-num mono">01</span>
+      <h3>Download the .dmg</h3>
+      <p>Open it, drag <strong>Telebot AI</strong> into Applications, and launch.
+         First launch of an unsigned build? Right-click → <em>Open</em>.</p>
+    </div>
+    <div class="step reveal" style="--d:.08s">
+      <span class="step-num mono">02</span>
+      <h3>Create your bot</h3>
+      <p>Message <code class="mono">@BotFather</code> on Telegram, get a token, and paste it
+         into the settings window. One token per bot — run as many as you like.</p>
+    </div>
+    <div class="step reveal" style="--d:.16s">
+      <span class="step-num mono">03</span>
+      <h3>Connect a brain</h3>
+      <p>Point it at mlx-serve, Ollama, LM Studio — or any API provider.
+         Add fallbacks and the bot keeps talking even if one model goes down.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════ PRIVACY ══════════════ -->
+<section class="section" id="privacy">
+  <div class="privacy-band reveal">
+    <p class="eyebrow mono light">Privacy</p>
+    <h2 class="light">Your conversations never<br>leave your Mac.</h2>
+    <p class="privacy-sub">No cloud account. No telemetry. No training on your chats.
+       Every message, memory and skill lives in one folder you own.</p>
+    <div class="privacy-path">
+      <span class="path-label mono">everything lives in</span>
+      <code class="path mono">~/.mlx-serve/</code>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════ REQUIREMENTS ══════════════ -->
+<section class="section section-alt" id="requirements">
+  <div class="section-head reveal">
+    <p class="eyebrow mono">Requirements</p>
+    <h2>Built for the Mac.</h2>
+  </div>
+  <div class="req-grid">
+    <div class="req-card reveal">
+      <h3>Hardware &amp; OS</h3>
+      <ul>
+        <li>macOS 13 (Ventura) or later</li>
+        <li>Apple Silicon — M1 or newer</li>
+        <li>Local models like RAM: the bigger the better</li>
+        <li>No GPU needed — MLX uses the Neural Engine</li>
+      </ul>
+    </div>
+    <div class="req-card reveal" style="--d:.08s">
+      <h3>Software</h3>
+      <ul>
+        <li>A Telegram account &amp; bot token from <code class="mono">@BotFather</code></li>
+        <li>Any OpenAI-compatible backend — local or cloud</li>
+        <li>Optional: mlx-serve, Ollama or LM Studio for fully offline AI</li>
+      </ul>
+    </div>
+  </div>
+  <p class="note mono reveal">Note: current builds are unsigned — on first launch use
+     right-click → Open, or remove the quarantine flag with
+     <code class="mono">xattr -dr com.apple.quarantine /Applications/Telebot\ AI.app</code>.
+     Signed &amp; notarized builds are on the way.</p>
+</section>
+
+<!-- ══════════════ FAQ ══════════════ -->
+<section class="section" id="faq">
+  <div class="section-head reveal">
+    <p class="eyebrow mono">FAQ</p>
+    <h2>Questions, answered.</h2>
+  </div>
+  <div class="faq">
+    <details class="faq-item reveal">
+      <summary>Do I need an API key or subscription?</summary>
+      <p>No. Run a local model (mlx-serve, Ollama, LM Studio) and everything is free.
+         Data sources — weather, currency, Wikipedia, SEC filings — need no keys.
+         Cloud APIs (OpenAI, Groq, OpenRouter…) are optional and bring-your-own.</p>
+    </details>
+    <details class="faq-item reveal">
+      <summary>Which models can I use?</summary>
+      <p>Anything that speaks OpenAI-compatible HTTP — from tiny local models on
+         your Mac to frontier models in the cloud. The settings app lets you add
+         fallback providers, so the bot keeps answering even when one is down.</p>
+    </details>
+    <details class="faq-item reveal">
+      <summary>Does my data leave my Mac?</summary>
+      <p>Your chat history, memories and skills stay in <code class="mono">~/.mlx-serve</code>.
+         The only outbound traffic is the Telegram API itself, plus whatever model
+         server you choose to point the bot at.</p>
+    </details>
+    <details class="faq-item reveal">
+      <summary>Do I need a powerful Mac?</summary>
+      <p>The menu bar app itself is tiny. Local models scale with your RAM — a
+         16&nbsp;GB M-series Mac runs small models comfortably. No Mac? Point the
+         bot at any cloud API instead.</p>
+    </details>
+    <details class="faq-item reveal">
+      <summary>Can I run multiple bots?</summary>
+      <p>Yes. Create a bot per token with @BotFather, add them all in settings,
+         and give each one its own model, personality file and skills.</p>
+    </details>
+    <details class="faq-item reveal">
+      <summary>Is it really free?</summary>
+      <p>Yes — MIT licensed and open source. You only pay for the model provider
+         you choose, if any. <a href="https://github.com/qingbo93/Telebot-AI" target="_blank" rel="noopener">Source on GitHub</a>.</p>
+    </details>
+  </div>
+</section>
+
+<!-- ══════════════ DOWNLOAD ══════════════ -->
+<section class="section" id="download">
+  <div class="download-band reveal">
+    <h2>Give your Mac a brain.<br>Put it in your pocket.</h2>
+    <p class="download-sub">Download the .dmg, drag it to Applications, and say hi
+       to your new assistant.</p>
+    <a class="btn btn-primary btn-xl" id="download-btn"
+       href="https://github.com/qingbo93/Telebot-AI/releases/latest/download/Telebot-AI-1.0.0.dmg">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0l-4.5-4.5M12 15l4.5-4.5M4 20h16"/></svg>
+      Download Telebot AI
+    </a>
+    <div class="download-meta mono">
+      <span id="meta-version">v1.0.0</span>
+      <span class="dot">·</span>
+      <span id="meta-size">27.2 MB</span>
+      <span class="dot">·</span>
+      <span>Apple Silicon</span>
+      <span class="dot">·</span>
+      <a id="meta-checksum" href="#" data-sha="9accf5e2530255057bed25e61dd9ce2981ccc11c0d20e3327fe03b654aea4e9c" title="SHA-256 checksum (click to copy)" class="checksum-link">SHA-256</a>
+    </div>
+    <p class="download-note mono">macOS 13+ · <a href="#requirements">requirements</a> ·
+       <a href="https://github.com/qingbo93/Telebot-AI/releases" target="_blank" rel="noopener">all releases &amp; changelog</a></p>
+  </div>
+</section>
+
+<!-- ══════════════ FOOTER ══════════════ -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <span class="brand-mark">🤖</span>
+      <span class="brand-name">Telebot AI</span>
+    </div>
+    <p class="footer-tag">A private AI assistant that lives on your Mac.</p>
+    <div class="footer-links">
+      <a href="https://github.com/qingbo93/Telebot-AI" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://github.com/qingbo93/Telebot-AI/blob/main/LICENSE" target="_blank" rel="noopener">MIT License</a>
+      <a href="https://github.com/qingbo93/Telebot-AI/releases" target="_blank" rel="noopener">Releases</a>
+    </div>
+    <p class="footer-copy">© <span id="year">2026</span> Telebot AI · Made for the Mac · Your data stays yours.</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
