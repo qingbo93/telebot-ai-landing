@@ -1,6 +1,6 @@
 # Telebot AI — landing page
 
-GitHub Pages site for [Telebot AI](https://github.com/qingbo93/Telebot-AI): product
+GitHub Pages site for [Telebot AI](https://github.com/qingbo93/Telebot_AI): product
 info + DMG download for the macOS app.
 
 **Live:** https://qingbo93.github.io/telebot-ai-landing/
@@ -17,12 +17,16 @@ Vanilla HTML/CSS/JS, zero build step. Deploys automatically via GitHub Actions
 ## Publishing a new release
 
 1. Build the DMG in the app repo: `./scripts/build_dmg.sh` → `dist/Telebot-AI-<version>.dmg`
-2. Create the GitHub release and upload the asset:
-   `gh release create v<version> "dist/Telebot-AI-<version>.dmg" --title "Telebot AI <version>" --notes "…"`
-   (the download button points at `releases/latest`, so it picks up automatically)
-3. Update version / size / SHA-256 in `index.html`:
-   - `#download-btn` href → `…/releases/latest/download/Telebot-AI-<version>.dmg`
+2. Copy the DMG here: `cp <app-repo>/dist/Telebot-AI-<version>.dmg downloads/` and commit
+   (GitHub Pages serves it at `downloads/Telebot-AI-<version>.dmg`)
+3. Also create a GitHub release with the asset:
+   `gh release create v<version> "<dmg>" --title "Telebot AI <version>" --notes "…"`
+   (the page's meta line links to the releases list)
+4. Update version / size / SHA-256 in `index.html`:
+   - `#download-btn` href → `downloads/Telebot-AI-<version>.dmg`
    - `#meta-version`, `#meta-size`, and `#meta-checksum[data-sha]`
+
+Note: the app repo is `qingbo93/Telebot_AI` (canonical, underscores).
 
 ## Local preview
 
