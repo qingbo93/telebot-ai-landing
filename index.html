@@ -288,8 +288,17 @@
     <details class="faq-item reveal">
       <summary>Does my data leave my Mac?</summary>
       <p>Your chat history, memories and skills stay in <code class="mono">~/.mlx-serve</code>.
-         The only outbound traffic is the Telegram API itself, plus whatever model
-         server you choose to point the bot at.</p>
+         The only outbound traffic is the Telegram API itself, whatever model
+         server you choose to point the bot at, and anonymous usage stats
+         (see below).</p>
+    </details>
+    <details class="faq-item reveal">
+      <summary>Do you collect any usage data?</summary>
+      <p>Only anonymous usage stats — app launches and menu actions — to see
+         which features people actually use. No chat content, no tokens, no
+         personal data: each Mac sends a random anonymous ID with event names
+         and app/OS versions, via PostHog's free tier. You can opt out anytime:</p>
+      <p><code class="mono">touch ~/Library/Application\ Support/Telebot\ AI/analytics-off</code></p>
     </details>
     <details class="faq-item reveal">
       <summary>Do I need a powerful Mac?</summary>
