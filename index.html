@@ -23,10 +23,11 @@
   <meta name="theme-color" content="#f5f5f7">
   <link rel="icon" href="assets/favicon.png">
   <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+  <link rel="manifest" href="assets/site.webmanifest">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=18">
+  <link rel="stylesheet" href="style.css?v=19">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -42,6 +43,8 @@
         "softwareVersion": "1.0.0",
         "fileSize": "27.2 MB",
         "downloadUrl": "https://qingbo93.github.io/telebot-ai-landing/downloads/Telebot-AI-1.0.0.dmg",
+        "releaseNotes": "https://telebot.abeaverscart.ca/changelog/",
+        "sameAs": "https://github.com/qingbo93/Telebot_AI",
         "offers": {
           "@type": "Offer",
           "price": "0",
@@ -91,10 +94,26 @@
           },
           {
             "@type": "Question",
+            "name": "Does it work on Intel Macs?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Not yet — the current build is Apple Silicon only (M1 or newer). The unified-memory architecture is what lets it run big local models; an Intel build is on the roadmap."
+            }
+          },
+          {
+            "@type": "Question",
             "name": "Can I run multiple bots?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Yes. Create a bot per token with @BotFather, add them all in settings, and give each one its own model, personality file and skills."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I update the app?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Download the latest .dmg from this page and drag it over the old app in Applications. Your settings, bots and memories live outside the app, so they carry over untouched."
             }
           },
           {
@@ -437,9 +456,21 @@
          bot at any cloud API instead.</p>
     </details>
     <details class="faq-item reveal">
+      <summary>Does it work on Intel Macs?</summary>
+      <p>Not yet — the current build is Apple Silicon only (M1 or newer). The
+         unified-memory architecture is what lets it run big local models;
+         an Intel build is on the roadmap.</p>
+    </details>
+    <details class="faq-item reveal">
       <summary>Can I run multiple bots?</summary>
       <p>Yes. Create a bot per token with @BotFather, add them all in settings,
          and give each one its own model, personality file and skills.</p>
+    </details>
+    <details class="faq-item reveal">
+      <summary>How do I update the app?</summary>
+      <p>Download the latest .dmg from this page and drag it over the old app in
+         Applications. Your settings, bots and memories live outside the app, so
+         they carry over untouched.</p>
     </details>
     <details class="faq-item reveal">
       <summary>Why does macOS warn about the app?</summary>
@@ -535,10 +566,19 @@
       <span class="brand-name">Telebot AI</span>
     </div>
     <p class="footer-tag">Bridge your Telegram bots to any AI — local or cloud.</p>
+    <div class="footer-links">
+      <a href="#download">Download</a>
+      <a href="changelog/">Changelog</a>
+      <a href="#features">Features</a>
+      <a href="#how">How it works</a>
+      <a href="#privacy">Privacy</a>
+      <a href="#faq">FAQ</a>
+      <a href="#feedback">Send feedback</a>
+    </div>
     <p class="footer-copy">© <span id="year">2026</span> Telebot AI · Made for the Mac · Your data stays yours.</p>
   </div>
 </footer>
 
-<script src="app.js?v=18"></script>
+<script src="app.js?v=19"></script>
 </body>
 </html>
