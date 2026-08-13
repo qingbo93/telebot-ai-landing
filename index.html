@@ -26,7 +26,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=9">
+  <link rel="stylesheet" href="style.css?v=10">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -195,6 +195,26 @@
         <span class="msg-head mono"><img src="assets/app-logo.png" alt=""> Telebot AI · just now</span>
         Feeling lucky? 🎲
         <div class="dice">3</div>
+      </div>
+      <div class="msg msg-user">Would an M5 Mac beat an RTX 4090 for local AI?</div>
+      <div class="msg msg-typing"><span></span><span></span><span></span></div>
+      <div class="msg msg-bot">
+        <span class="msg-head mono"><img src="assets/app-logo.png" alt=""> Telebot AI · just now</span>
+        Short version: depends on the job —
+        <div class="compare-card">
+          <div class="compare-row">
+            <span class="cr-label">M5 + MLX</span>
+            <span class="cr-val">128GB unified memory — fits models a 4090 can't even load</span>
+          </div>
+          <div class="compare-row">
+            <span class="cr-label">RTX 4090</span>
+            <span class="cr-val">faster tokens, but capped at 24GB VRAM</span>
+          </div>
+          <div class="compare-row verdict">
+            <span class="cr-label">Call</span>
+            <span class="cr-val">M5 wins for big models &amp; memory — 4090 for pure speed</span>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -502,6 +522,6 @@
   </div>
 </footer>
 
-<script src="app.js?v=9"></script>
+<script src="app.js?v=10"></script>
 </body>
 </html>
