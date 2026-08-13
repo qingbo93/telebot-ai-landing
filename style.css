@@ -175,6 +175,18 @@ code.mono {
 .btn-lg { padding: 14px 28px; font-size: 17px; }
 .btn-xl { padding: 18px 40px; font-size: 19px; }
 
+.btn-coffee {
+  background: transparent;
+  color: var(--text-primary);
+  border: 1px solid var(--border);
+}
+.btn-coffee:hover {
+  background: #ffdd00;
+  border-color: #ffdd00;
+  color: #1d1d1f;
+  box-shadow: 0 4px 16px rgba(255, 221, 0, 0.35);
+}
+
 /* ── hero ─────────────────────────────────────────────────────── */
 .hero {
   padding: 148px 24px 60px;
@@ -793,6 +805,8 @@ footer {
 .footer-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 10px 26px; font-size: 13.5px; }
 .footer-links a { color: var(--text-secondary); text-decoration: none; }
 .footer-links a:hover { color: var(--blue); }
+.footer-bmc { margin-top: 22px; }
+.download-bmc { margin-top: 20px; }
 .footer-copy { margin-top: 26px; color: var(--text-tertiary); font-size: 12px; }
 
 /* ── scroll reveal ────────────────────────────────────────────── */
