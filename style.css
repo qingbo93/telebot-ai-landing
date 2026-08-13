@@ -464,6 +464,14 @@ h1 .grad {
 .guide-end { text-align: center; margin-top: 44px; }
 .step a { color: var(--blue); text-decoration: none; }
 .step a:hover { text-decoration: underline; }
+.docs-toc { background: var(--bg-alt); border: 1px solid var(--border); border-radius: 16px; padding: 16px 20px; margin: 0 0 36px; display: flex; flex-wrap: wrap; gap: 6px 18px; align-items: center; }
+.docs-toc-title { font-size: 11px; color: var(--text-tertiary); text-transform: uppercase; letter-spacing: .05em; margin: 0; }
+.docs-toc a { font-size: 13px; color: var(--text-secondary); text-decoration: none; }
+.docs-toc a:hover { color: var(--blue); }
+.docs-ol { margin: 0 0 14px; padding-left: 22px; color: var(--text-secondary); font-size: 15px; line-height: 1.65; }
+.docs-ol li { margin-bottom: 8px; }
+.docs-support { color: var(--text-tertiary); font-size: 13.5px; margin-left: 6px; }
+.docs-support a { color: var(--blue); text-decoration: none; }
 
 /* ── changelog page ─────────────────────────────────────────── */
 .changelog { padding-top: 150px; padding-bottom: 40px; max-width: 860px; }

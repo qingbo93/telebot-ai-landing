@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Documentation — Telebot AI</title>
+  <meta name="description" content="Telebot AI documentation: quick start, the menu bar app, every setting explained (Model, Telegram, App, Skills, Registry, Updates), skills & features, data & privacy, and troubleshooting.">
+  <link rel="canonical" href="https://telebot.abeaverscart.ca/docs/">
+  <meta property="og:title" content="Documentation — Telebot AI">
+  <meta property="og:description" content="Every feature and setting of Telebot AI, explained: quick start, settings reference, skills, privacy and troubleshooting.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://telebot.abeaverscart.ca/docs/">
+  <meta property="og:site_name" content="Telebot AI">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:image" content="https://telebot.abeaverscart.ca/assets/og-image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Documentation — Telebot AI">
+  <meta name="twitter:description" content="Every feature and setting of Telebot AI, explained.">
+  <meta name="twitter:image" content="https://telebot.abeaverscart.ca/assets/og-image.png">
+  <meta name="theme-color" content="#f5f5f7">
+  <link rel="icon" href="../assets/favicon.png">
+  <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+  <link rel="manifest" href="../assets/site.webmanifest">
+  <link rel="stylesheet" href="../style.css?v=23">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Telebot AI Documentation",
+    "description": "Every feature and setting of Telebot AI, explained.",
+    "url": "https://telebot.abeaverscart.ca/docs/",
+    "isPartOf": { "@type": "WebSite", "name": "Telebot AI", "url": "https://telebot.abeaverscart.ca/" }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Telebot AI", "item": "https://telebot.abeaverscart.ca/" },
+      { "@type": "ListItem", "position": 2, "name": "Documentation", "item": "https://telebot.abeaverscart.ca/docs/" }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+<nav id="nav">
+  <div class="nav-inner">
+    <a class="brand" href="../">
+      <span class="brand-mark"><img src="../assets/app-logo.png" alt="Telebot AI logo"></span>
+      <span class="brand-name">Telebot AI</span>
+    </a>
+    <div class="nav-links">
+      <a href="../#features">Features</a>
+      <a href="../#how">How it works</a>
+      <a href="../#privacy">Privacy</a>
+      <a href="../#faq">FAQ</a>
+      <a href="../guides/">Guides</a>
+      <a href="../docs/" aria-current="page">Docs</a>
+      <a href="../changelog/">Changelog</a>
+    </div>
+    <div class="nav-actions">
+      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
+        <svg class="icon-sun" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.4M12 19.1v2.4M2.5 12h2.4M19.1 12h2.4M5.3 5.3l1.7 1.7M17 17l1.7 1.7M18.7 5.3L17 7M7 17l-1.7 1.7"/></svg>
+        <svg class="icon-moon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11z"/></svg>
+      </button>
+      <a class="btn btn-primary btn-sm" href="../#download">Download</a>
+    </div>
+  </div>
+</nav>
+
+<article class="section guide docs" id="top">
+  <p class="eyebrow mono">📚 Documentation</p>
+  <h1>Telebot AI, explained</h1>
+  <p class="guide-lede">Everything the app does and every setting it has — written for the version you're running. From the menu bar to the skills registry, this is the whole manual.</p>
+
+  <div class="docs-toc">
+    <p class="docs-toc-title mono">On this page</p>
+    <a href="#quickstart">Quick start</a>
+    <a href="#menubar">The menu bar app</a>
+    <a href="#settings">Settings, explained</a>
+    <a href="#model-tab">Model tab</a>
+    <a href="#telegram-tab">Telegram tab</a>
+    <a href="#bot-pages">Per-bot pages</a>
+    <a href="#app-tab">App tab</a>
+    <a href="#skills">Skills &amp; Features</a>
+    <a href="#registry">Skill Registry</a>
+    <a href="#updates">Updates</a>
+    <a href="#privacy">Data &amp; privacy</a>
+    <a href="#troubleshooting">Troubleshooting</a>
+  </div>
+
+  <h2 id="quickstart">Quick start</h2>
+  <ol class="docs-ol">
+    <li><strong>Install.</strong> Download the .dmg, drag <em>Telebot AI</em> into Applications. The build isn't notarized yet, so if macOS shows a warning, right-click (Control-click) the app and choose <em>Open</em> — once.</li>
+    <li><strong>Create a bot.</strong> Message <span class="mono">@BotFather</span> on Telegram, run <span class="mono">/newbot</span>, and copy the token. One token per bot — you can run several.</li>
+    <li><strong>Add the token.</strong> Open Telebot AI from the menu bar, open Settings, and paste the token into a bot's <em>Token</em> field. It's saved the moment you type — there's no Save button.</li>
+    <li><strong>Connect a brain.</strong> In the <em>Model</em> tab, set the server URL (<span class="mono">http://localhost:11234</span> for mlx-serve, <span class="mono">http://localhost:11434</span> for Ollama) and model name, or use any OpenAI-compatible cloud API. Hit <em>Test</em> to check the connection.</li>
+    <li><strong>Start the bot.</strong> Back in the menu bar, choose <em>Start bot</em>. Message your bot on Telegram — it answers from that moment on.</li>
+  </ol>
+  <p>New to local models? <a href="../guides/run-local-ai-models-on-mac/">Read the guide</a> — it covers mlx-serve, Ollama and LM Studio, and how much RAM each model needs.</p>
+
+  <h2 id="menubar">The menu bar app</h2>
+  <p>Telebot AI lives in your menu bar (⌘ icon). The menu gives you:</p>
+  <ul>
+    <li><strong>Start / Stop / Restart</strong> — per bot and all at once. Bots run as LaunchAgents: always on, out of your way.</li>
+    <li><strong>Open Settings</strong> — the settings window.</li>
+    <li><strong>Logs</strong> — tail the bot's log to see what it's doing or debug a problem.</li>
+    <li><strong>Quit</strong> — stops everything (and disables the LaunchAgents until you start again).</li>
+  </ul>
+
+  <h2 id="settings">Settings, explained</h2>
+  <p>The settings window has a sidebar with two kinds of pages:</p>
+  <ul>
+    <li><strong>Defaults</strong> — <em>Model, Telegram, App, Skills &amp; Features, Skill Registry, About, Updates</em>. Values every bot inherits.</li>
+    <li><strong>Bots</strong> — one page per bot. Every field shows what <em>this</em> bot actually uses: a value overrides the default, an empty field inherits it (the explainer under each row says so). That's why there are no "Use global" checkboxes — an empty field <em>is</em> "use global".</li>
+  </ul>
+  <p>Everything auto-saves as you type or toggle. Settings live in <span class="mono">~/.mlx-serve/config.json</span>.</p>
+
+  <h3 id="model-tab">Defaults → Model</h3>
+  <table class="guide-table">
+    <thead><tr><th>Setting</th><th>What it does</th></tr></thead>
+    <tbody>
+      <tr><td>Server URL</td><td>The OpenAI-compatible endpoint. Local servers need no key.</td></tr>
+      <tr><td>API key</td><td>Empty for local servers (mlx-serve, Ollama, LM Studio). The eye button shows or hides it.</td></tr>
+      <tr><td>Model name</td><td>Which model on that server, e.g. <span class="mono">deepseek-v4-flash-free</span>.</td></tr>
+      <tr><td>Test</td><td>Checks the connection with the current values — useful before saving anything.</td></tr>
+      <tr><td>Backup models</td><td>Tried in order when the primary fails or throttles. Each has its own nickname, URL, key and model, plus Test, reorder and remove. Add is disabled until the last row is complete.</td></tr>
+    </tbody>
+  </table>
+
+  <h3 id="telegram-tab">Defaults → Telegram</h3>
+  <table class="guide-table">
+    <thead><tr><th>Setting</th><th>What it does</th></tr></thead>
+    <tbody>
+      <tr><td>Allowed chat IDs</td><td>Comma-separated user/group IDs that may talk to the bot. Empty = anyone.</td></tr>
+      <tr><td>Daily briefing time</td><td>When the bot sends its daily briefing — 24-hour hour/minute dropdowns (e.g. 08:00).</td></tr>
+      <tr><td>Briefing prompt</td><td>What the briefing should cover — e.g. "weather, my reminders for today, and any price alerts".</td></tr>
+      <tr><td>Max reply tokens</td><td>Safety ceiling for replies; long answers split into multiple messages.</td></tr>
+      <tr><td>Context per chat</td><td>How many recent messages the bot holds per chat as context.</td></tr>
+      <tr><td>Memories per user</td><td>Long-term memories recalled per user, per message the bot answers.</td></tr>
+      <tr><td>Memory database size (per user)</td><td>Max stored memories per user; the oldest are evicted beyond this.</td></tr>
+      <tr><td>Research report tokens</td><td>Budget for /research and /insiders reports.</td></tr>
+      <tr><td>API timeout (s)</td><td>Seconds before a slow provider is abandoned — free-tier queues can stall for a minute+.</td></tr>
+      <tr><td>Soul file</td><td>The persona the bots run with. <span class="mono">.md</span> files in this folder (<span class="mono">soul*.md</span>, <span class="mono">*persona*.md</span>) appear in every bot's Soul dropdown.</td></tr>
+      <tr><td>Bot trigger words</td><td>Comma-separated words that make the bot answer in groups (besides @mention, reply or command) — e.g. "momo, jarvis, hey bot".</td></tr>
+      <tr><td>Video/audio clip trigger words</td><td>Words that make the bot grab an attached video or audio as a clip — e.g. "clip this, save this".</td></tr>
+    </tbody>
+  </table>
+
+  <h3 id="bot-pages">Per-bot pages</h3>
+  <p>Each bot in the sidebar has its own page. Empty fields inherit the defaults; the explainer under each row states what it inherits.</p>
+  <table class="guide-table">
+    <thead><tr><th>Setting</th><th>What it does</th></tr></thead>
+    <tbody>
+      <tr><td>Token</td><td>The bot's @BotFather token (eye button to reveal). Changing it renames the bot's sidebar entry.</td></tr>
+      <tr><td>Nickname</td><td>Used in status, logs and the sidebar — e.g. "Trading".</td></tr>
+      <tr><td>Allowed chat IDs / Trigger words / Clip words</td><td>This bot's overrides of the matching defaults.</td></tr>
+      <tr><td>Server URL, API key, Model</td><td>The dropdown offers the providers configured in Defaults → Model, plus any custom value. Own backup models can be added per bot.</td></tr>
+      <tr><td>Daily briefing time / Briefing prompt</td><td>Per-bot briefing with a "Use global" button that clears the override.</td></tr>
+      <tr><td>Mode</td><td>Researcher, Assistant, Coder, Chef or None — empty uses the default mode.</td></tr>
+      <tr><td>Soul file</td><td>This bot's persona override, chosen from the soul/persona files found on disk.</td></tr>
+      <tr><td>Skills</td><td>Opens the per-bot skill sheet — disable skills for this bot on top of the defaults, or reset to default.</td></tr>
+    </tbody>
+  </table>
+
+  <h3 id="app-tab">Defaults → App</h3>
+  <table class="guide-table">
+    <thead><tr><th>Setting</th><th>What it does</th></tr></thead>
+    <tbody>
+      <tr><td>Show in Dock</td><td>Whether the menu bar app also appears in the Dock.</td></tr>
+      <tr><td>Launch at Login</td><td>Start Telebot AI when you log in.</td></tr>
+      <tr><td>Data directory</td><td>Where config, memory, reminders and logs live (default <span class="mono">~/.mlx-serve</span>).</td></tr>
+      <tr><td>Open log / Open data folder</td><td>Jump straight to the log file or data folder in Finder.</td></tr>
+      <tr><td>Export settings</td><td>Save the full config (including API keys) to a file — for backups or moving Macs.</td></tr>
+      <tr><td>Import settings</td><td>Load a config file and apply it immediately.</td></tr>
+    </tbody>
+  </table>
+
+  <h2 id="skills">Skills &amp; Features</h2>
+  <p>The bot's abilities are model-driven skills — plain instructions the model follows with its tools, so you can describe what you want in plain language instead of memorizing commands. Each group has a master toggle; individual skills can be switched on or off.</p>
+  <table class="guide-table">
+    <thead><tr><th>Group</th><th>Skills</th><th>Try saying</th></tr></thead>
+    <tbody>
+      <tr><td>Research</td><td>stock-research, stocks-crypto, insider-trading, currency</td><td>"research TSLA", "price of BTC", "insider trades for AAPL", "how much is 50 USD in CAD?"</td></tr>
+      <tr><td>Daily</td><td>briefing, digest, reminders, habits, review, pomodoro, bookmarks, expenses</td><td>"/briefing", "digest this chat", "remind me at 5pm", "mark today's habit done", "weekly review", "/pomodoro 25", "track 25 lunch"</td></tr>
+      <tr><td>Media</td><td>media, voice, translation, feeds</td><td>"analyze this video", "read this aloud", "translate this to Chinese", "what's new in my feeds?"</td></tr>
+      <tr><td>Tools</td><td>memory</td><td>"what did we talk about yesterday?"</td></tr>
+      <tr><td>From registry</td><td>Skills you install from the registry</td><td>—</td></tr>
+    </tbody>
+  </table>
+
+  <h2 id="registry">Skill Registry</h2>
+  <p>The registry tab lets you install ready-made skills from the public <a href="https://github.com/anthropics/skills" rel="noopener">anthropics/skills</a> catalog — PDF and document handling, spreadsheets, presentations, web-app testing, MCP server building, art and more. Load the catalog, pick a skill, and it appears in the Skills &amp; Features tab like any other.</p>
+
+  <h2 id="updates">Updates</h2>
+  <p>The Updates tab checks the landing site's manifest against your installed version and shows the latest release with a download link. Checks are quiet — offline or unreachable just means "up to date". To update: download the new .dmg and drag it over the old app in Applications. Settings, bots and memories live outside the app, so they carry over untouched.</p>
+
+  <h2 id="privacy">Data &amp; privacy</h2>
+  <ul>
+    <li><strong>Where things live:</strong> config, chat memory, reminders, skills and logs all stay in your data directory (default <span class="mono">~/.mlx-serve</span>).</li>
+    <li><strong>What leaves your Mac:</strong> the Telegram API itself, whatever model server you point the bot at, and anonymous usage stats (app launches and menu actions). No chat content, no tokens, no personal data.</li>
+    <li><strong>Opt out of stats:</strong> <span class="mono">touch ~/Library/Application\ Support/Telebot\ AI/analytics-off</span></li>
+  </ul>
+
+  <h2 id="troubleshooting">Troubleshooting</h2>
+  <ul>
+    <li><strong>"Apple cannot check it for malicious software"</strong> — expected: right-click (Control-click) the app in Applications → <em>Open</em> → <em>Open</em> again. One time, then it runs normally.</li>
+    <li><strong>The bot doesn't answer.</strong> Open Settings → the bot's page: is the token right? Then Defaults → Model → <em>Test</em> the provider. Then check the log (menu bar → Logs, or App tab → Open log).</li>
+    <li><strong>Replies are slow or the bot goes quiet.</strong> Free-tier providers can stall for a minute+ — raise the API timeout, and add backup models so the bot falls over when the primary throttles.</li>
+    <li><strong>Local server not responding.</strong> Make sure the server is actually running (mlx-serve, Ollama…) before testing in the Model tab.</li>
+    <li><strong>Updates say "up to date" oddly.</strong> The check is silent by design — if the manifest is unreachable it reports up to date.</li>
+    <li><strong>Something else?</strong> <a href="../#feedback">Send feedback</a> — every message lands in the developer's Telegram and gets a real answer.</li>
+  </ul>
+
+  <p class="guide-end">
+    <a href="../#download" class="btn btn-primary btn-lg">Download Telebot AI</a>
+    <span class="docs-support">· Liking it? <a href="https://buymeacoffee.com/abeaverscart" target="_blank" rel="noopener">Buy me a coffee ☕</a></span>
+  </p>
+</article>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <span class="brand-mark"><img src="../assets/app-logo.png" alt="Telebot AI logo"></span>
+      <span class="brand-name">Telebot AI</span>
+    </div>
+    <p class="footer-tag">Bridge your Telegram bots to any AI — local or cloud.</p>
+    <div class="footer-links">
+      <a href="../#download">Download</a>
+      <a href="../changelog/">Changelog</a>
+      <a href="../guides/">Guides</a>
+      <a href="../docs/">Docs</a>
+      <a href="../#features">Features</a>
+      <a href="../#how">How it works</a>
+      <a href="../#privacy">Privacy</a>
+      <a href="../#faq">FAQ</a>
+      <a href="../#feedback">Send feedback</a>
+    </div>
+    <div class="footer-bmc">
+      <a class="btn btn-coffee btn-sm" href="https://buymeacoffee.com/abeaverscart" target="_blank" rel="noopener">☕ Buy me a coffee</a>
+    </div>
+    <p class="footer-copy">© <span id="year">2026</span> Telebot AI · Made for the Mac · Your data stays yours.</p>
+  </div>
+</footer>
+
+<script src="../app.js?v=23"></script>
+</body>
+</html>
