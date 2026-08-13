@@ -353,7 +353,8 @@ h1 .grad {
   display: flex; align-items: center; justify-content: center;
 }
 
-.msg-dice { flex-direction: row; align-items: center; gap: 10px; perspective: 240px; }
+.msg-dice { perspective: 240px; }
+.dice-row { display: flex; align-items: center; gap: 10px; }
 .dice {
   width: 42px; height: 42px;
   position: relative;
