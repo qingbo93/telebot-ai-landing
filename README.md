@@ -47,6 +47,17 @@ The download button points at the GitHub Pages-hosted DMG (absolute URL), so it 
 from both deployments. To get auto-deploys on push, connect this repo in the
 Cloudflare dashboard (Workers & Pages → telebot-ai-landing → Settings → Builds).
 
+## SEO
+
+Everything is set up for indexing; the canonical URL is **https://telebot.abeaverscart.ca/** (both hosts serve the same content):
+
+- `canonical`, Open Graph + Twitter cards (generated `assets/og-image.png`), `apple-touch-icon`
+- JSON-LD: `SoftwareApplication` (free, macOS 13+, Apple Silicon) + `WebSite` + `FAQPage` (6 Q&As)
+- `sitemap.xml` + `robots.txt` (Cloudflare injects its own AI-bot rules on top — search engines unaffected)
+- Progressive enhancement: all content is visible without JS (`.reveal` hides only under `.js`)
+- **IndexNow** key for Bing/Yandex/Naver/Seznam lives at `<key>.txt` in the repo root; regenerate + re-POST to `https://api.indexnow.org/indexnow` whenever the page changes materially
+- Google: submit in Search Console (domain property → DNS TXT, or URL-prefix property)
+
 ## Local preview
 
 ```bash
