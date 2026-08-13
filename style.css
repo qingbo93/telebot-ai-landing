@@ -422,6 +422,29 @@ h1 .grad {
 .compare-row.verdict .cr-label { color: var(--green); }
 .cr-val { color: var(--text-secondary); }
 
+/* ── changelog page ─────────────────────────────────────────── */
+.changelog { padding-top: 150px; padding-bottom: 40px; max-width: 860px; }
+.cl-intro { color: var(--text-secondary); font-size: 15px; margin-top: 14px; }
+.cl-entry {
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: var(--shadow-card);
+  padding: 28px 32px;
+  margin-bottom: 20px;
+}
+.cl-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 6px; }
+.cl-version { font-size: 17px; font-weight: 700; letter-spacing: -.01em; display: flex; align-items: center; gap: 10px; }
+.cl-badge { font-size: 10.5px; font-weight: 700; color: #fff; background: var(--blue); border-radius: 999px; padding: 3px 9px; letter-spacing: .02em; }
+.cl-date { font-size: 12.5px; color: var(--text-tertiary); }
+.cl-summary { color: var(--text-secondary); font-size: 14px; margin: 8px 0 14px; }
+.cl-list { margin: 0; padding: 0; list-style: none; }
+.cl-list li { position: relative; padding: 7px 0 7px 24px; color: var(--text-secondary); font-size: 13.5px; line-height: 1.5; }
+.cl-list li::before { content: ''; position: absolute; left: 6px; top: 15px; width: 6px; height: 6px; border-radius: 50%; background: var(--blue); }
+.cl-foot { text-align: center; color: var(--text-tertiary); font-size: 13px; margin-top: 36px; }
+.cl-foot a { color: var(--blue); text-decoration: none; }
+.cl-foot a:hover { text-decoration: underline; }
+
 /* ── works-with strip ─────────────────────────────────────────── */
 .strip {
   padding: 40px 24px 64px;
