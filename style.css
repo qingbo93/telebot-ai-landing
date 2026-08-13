@@ -354,6 +354,16 @@ h1 .grad {
 }
 
 .msg-dice { flex-direction: row; align-items: center; gap: 10px; }
+.msg-cmd { padding: 8px 16px; width: fit-content; }
+.cmd {
+  font-family: var(--mono);
+  font-size: 13.5px;
+  font-weight: 600;
+  letter-spacing: .2px;
+  color: #fff;
+}
+.dice-text { font-size: 13.5px; }
+.dice-text strong { font-weight: 700; }
 .compare-card {
   background: var(--bg);
   border: 1px solid var(--border);
