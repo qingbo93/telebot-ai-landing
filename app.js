@@ -2,6 +2,9 @@
 (function () {
   'use strict';
 
+  /* mark JS availability — CSS hides .reveal content only when JS is on */
+  document.documentElement.classList.add('js');
+
   /* ── theme ─────────────────────────────────────────────────── */
   const root = document.documentElement;
   const toggle = document.getElementById('theme-toggle');

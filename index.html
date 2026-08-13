@@ -3,18 +3,113 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Telebot AI — A private AI assistant that lives on your Mac</title>
-  <meta name="description" content="Telebot AI bridges your Telegram bots to any LLM — local models on your Mac or cloud AI from OpenAI, Anthropic, Groq and more. Free, local-first, entirely yours.">
-  <meta property="og:title" content="Telebot AI — A private AI assistant that lives on your Mac">
+  <title>Telebot AI — Private Telegram AI Assistant for macOS</title>
+  <meta name="description" content="Telebot AI bridges your Telegram bots to any LLM — local models on your Mac or cloud AI from OpenAI, Anthropic, Groq and more. Free, private, local-first. Download the macOS app.">
+  <link rel="canonical" href="https://telebot.abeaverscart.ca/">
+  <meta property="og:title" content="Telebot AI — Private Telegram AI Assistant for macOS">
   <meta property="og:description" content="Bridge your Telegram bots to any LLM — local models on your Mac or cloud AI from OpenAI, Anthropic, Groq and more. Free, local-first, entirely yours.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://qingbo93.github.io/telebot-ai-landing/">
+  <meta property="og:url" content="https://telebot.abeaverscart.ca/">
+  <meta property="og:site_name" content="Telebot AI">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:image" content="https://telebot.abeaverscart.ca/assets/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Telebot AI — bridge your Telegram bots to any LLM, local or cloud">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Telebot AI — Private Telegram AI Assistant for macOS">
+  <meta name="twitter:description" content="Bridge your Telegram bots to any LLM — local models on your Mac or cloud AI. Free, private, local-first.">
+  <meta name="twitter:image" content="https://telebot.abeaverscart.ca/assets/og-image.png">
   <meta name="theme-color" content="#f5f5f7">
   <link rel="icon" href="assets/favicon.png">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "SoftwareApplication",
+        "name": "Telebot AI",
+        "url": "https://telebot.abeaverscart.ca/",
+        "image": "https://telebot.abeaverscart.ca/assets/og-image.png",
+        "description": "Bridge your Telegram bots to any LLM — local models on your Mac or cloud AI from OpenAI, Anthropic, Groq and more. Free, private, local-first.",
+        "applicationCategory": "UtilitiesApplication",
+        "operatingSystem": "macOS 13+ (Apple Silicon)",
+        "softwareVersion": "1.0.0",
+        "fileSize": "27.2 MB",
+        "downloadUrl": "https://qingbo93.github.io/telebot-ai-landing/downloads/Telebot-AI-1.0.0.dmg",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD",
+          "description": "Free to download and use. Bring your own model provider (local or cloud)."
+        }
+      },
+      {
+        "@type": "WebSite",
+        "name": "Telebot AI",
+        "url": "https://telebot.abeaverscart.ca/"
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Do I need an API key or subscription?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Run a local model (mlx-serve, Ollama, LM Studio) and everything is free. Data sources — weather, currency, Wikipedia, SEC filings — need no keys. Cloud APIs (OpenAI, Anthropic, Groq, OpenRouter) are optional and bring-your-own."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Which models can I use?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Anything that speaks OpenAI-compatible HTTP — from tiny local models on your Mac to frontier cloud models like OpenAI and Anthropic Claude. The settings app lets you add fallback providers, so the bot keeps answering even when one is down."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does my data leave my Mac?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Your chat history, memories and skills stay in ~/.mlx-serve. The only outbound traffic is the Telegram API itself, plus whatever model server you choose to point the bot at."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I need a powerful Mac?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The menu bar app itself is tiny. Local models scale with your RAM — a 16 GB M-series Mac runs small models comfortably. No Mac? Point the bot at any cloud API instead."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I run multiple bots?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Create a bot per token with @BotFather, add them all in settings, and give each one its own model, personality file and skills."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is it really free?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — free to download and use. No subscriptions, no accounts. You only pay for the model provider you choose, if any."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
 
@@ -326,7 +421,7 @@
     <p class="download-sub">Download the .dmg, drag it to Applications, and say hi
        to your new assistant.</p>
     <a class="btn btn-primary btn-xl" id="download-btn"
-       href="downloads/Telebot-AI-1.0.0.dmg">
+       href="https://qingbo93.github.io/telebot-ai-landing/downloads/Telebot-AI-1.0.0.dmg">
       <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0l-4.5-4.5M12 15l4.5-4.5M4 20h16"/></svg>
       Download Telebot AI
     </a>
