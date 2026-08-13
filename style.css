@@ -143,6 +143,9 @@ code.mono {
 }
 .btn:hover { transform: translateY(-1px); }
 .btn:active { transform: translateY(0) scale(.98); }
+/* replace the browser's default focus ring with a soft, on-design one */
+.btn:focus { outline: none; }
+.btn:focus-visible { outline: 2px solid var(--blue); outline-offset: 3px; }
 
 .btn-primary {
   background: var(--blue);
@@ -199,6 +202,27 @@ code.mono {
   border-radius: 980px;
   padding: 6px 16px;
   margin-bottom: 26px;
+}
+
+.hero-icon {
+  width: 112px;
+  height: 112px;
+  margin: 0 auto 30px;
+  border-radius: 27px;
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-elevated);
+  overflow: hidden;
+  animation: fadeUp .6s ease .05s both;
+}
+.hero-icon img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  animation: floaty 5.5s ease-in-out 1.4s infinite alternate;
+}
+@keyframes floaty {
+  from { transform: translateY(0); }
+  to { transform: translateY(-7px); }
 }
 
 h1 {
