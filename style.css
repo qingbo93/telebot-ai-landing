@@ -204,15 +204,24 @@ code.mono {
   margin-bottom: 26px;
 }
 
+.hero-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 26px;
+  max-width: 860px;
+  margin: 0 auto 22px;
+  animation: fadeUp .6s ease .1s both;
+}
+.hero-title h1 { margin: 0; text-align: left; animation: none; }
 .hero-icon {
-  width: 112px;
-  height: 112px;
-  margin: 0 auto 30px;
-  border-radius: 27px;
+  width: 84px;
+  height: 84px;
+  flex-shrink: 0;
+  border-radius: 20px;
   border: 1px solid var(--border);
   box-shadow: var(--shadow-elevated);
   overflow: hidden;
-  animation: fadeUp .6s ease .05s both;
 }
 .hero-icon img {
   width: 100%;
@@ -711,6 +720,9 @@ footer {
   .bento { grid-template-columns: 1fr; }
   .cell-big { grid-column: span 1; }
   .hero { padding-top: 120px; }
+  .hero-title { flex-direction: column; gap: 14px; }
+  .hero-title h1 { text-align: center; }
+  .hero-icon { width: 72px; height: 72px; }
   .privacy-band, .download-band { padding: 56px 24px; }
   .hero-cta .btn { width: 100%; justify-content: center; }
 }
