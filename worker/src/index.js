@@ -27,13 +27,6 @@ export default {
     if (request.method === "OPTIONS") return new Response("ok", { headers: CORS });
     if (request.method !== "POST") return json({ ok: false, error: "Method not allowed" }, 405);
 
-    const ip = request.headers.get("CF-Connecting-IP") || "unknown";
-    const now = Date.now();
-    const recent = (hits.get(ip) || []).filter((t) => now - t < 60_000);
-    if (recent.length >= 3) return json({ ok: false, error: "Too many messages — try again in a minute." }, 429);
-    recent.push(now);
-    hits.set(ip, recent);
-
     let body;
     try {
       body = await request.json();
@@ -47,6 +40,14 @@ export default {
     const message = String(body.message || "").trim();
     if (message.length < 5 || message.length > 4000)
       return json({ ok: false, error: "Message must be between 5 and 4000 characters." }, 400);
+
+    // rate limit AFTER validation so junk doesn't burn the quota: 10/min/IP
+    const ip = request.headers.get("CF-Connecting-IP") || "unknown";
+    const now = Date.now();
+    const recent = (hits.get(ip) || []).filter((t) => now - t < 60_000);
+    if (recent.length >= 10) return json({ ok: false, error: "Too many messages — try again in a minute." }, 429);
+    recent.push(now);
+    hits.set(ip, recent);
 
     const name = String(body.name || "").trim().slice(0, 80);
     const email = String(body.email || "").trim().slice(0, 120);

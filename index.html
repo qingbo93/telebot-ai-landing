@@ -26,7 +26,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=3">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -445,19 +445,42 @@
     <p class="eyebrow mono">Feedback</p>
     <h2>Tell us what you think.</h2>
   </div>
-  <div class="feedback-card reveal">
-    <form id="feedback-form" novalidate>
-      <div class="f-row">
-        <input type="text" id="f-name" name="name" placeholder="Your name (optional)" maxlength="80" autocomplete="name">
-        <input type="email" id="f-email" name="email" placeholder="Email (optional)" maxlength="120" autocomplete="email">
+  <div class="feedback-wrap">
+    <div class="feedback-pitch reveal">
+      <div class="cell-icon">💡</div>
+      <h3>We read everything.</h3>
+      <p>Feature ideas, bugs, questions, a feature you wish existed — every
+         message lands directly in the developer's Telegram and gets a real
+         answer.</p>
+      <ul class="pitch-list">
+        <li>No account needed</li>
+        <li>No spam — ever</li>
+        <li>Replies within a day</li>
+      </ul>
+      <a class="btn btn-ghost btn-sm" href="https://t.me/telebot_feedback_bot" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2.5 10.6 13.4M21.5 2.5 15 21.5l-4.4-8.1M21.5 2.5 2.5 9l8.1 4.4"/></svg>
+        Chat on Telegram
+      </a>
+    </div>
+    <form id="feedback-form" class="feedback-card reveal" style="--d:.08s" novalidate>
+      <div class="f-field">
+        <label for="f-name">Your name <span class="f-opt">(optional)</span></label>
+        <input type="text" id="f-name" name="name" placeholder="Jane Doe" maxlength="80" autocomplete="name">
       </div>
-      <textarea id="f-message" name="message" placeholder="Feature ideas, bugs, questions — we read everything." rows="5" maxlength="4000" required></textarea>
+      <div class="f-field">
+        <label for="f-email">Email <span class="f-opt">(optional)</span></label>
+        <input type="email" id="f-email" name="email" placeholder="jane@example.com" maxlength="120" autocomplete="email">
+      </div>
+      <div class="f-field">
+        <label for="f-message">Message</label>
+        <textarea id="f-message" name="message" placeholder="Feature ideas, bugs, questions — we read everything." rows="4" maxlength="4000" required></textarea>
+      </div>
       <input type="text" id="f-honey" name="honey" class="honey" tabindex="-1" autocomplete="off" aria-hidden="true">
       <div class="f-actions">
-        <button type="submit" class="btn btn-primary btn-lg" id="f-submit">Send feedback</button>
+        <button type="submit" class="btn btn-primary" id="f-submit">Send feedback</button>
         <p class="f-status" id="f-status" role="status"></p>
       </div>
-      <p class="f-note">Feedback goes straight to the developer's Telegram and is only used to respond. Never share passwords or API keys here. Prefer chat? <a href="https://t.me/telebot_feedback_bot" target="_blank" rel="noopener">Message us on Telegram</a>.</p>
+      <p class="f-note">Feedback goes straight to the developer's Telegram and is only used to respond. Never share passwords or API keys here.</p>
     </form>
   </div>
 </section>
@@ -474,6 +497,6 @@
   </div>
 </footer>
 
-<script src="app.js"></script>
+<script src="app.js?v=3"></script>
 </body>
 </html>
