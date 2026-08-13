@@ -26,7 +26,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=15">
+  <link rel="stylesheet" href="style.css?v=16">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -95,6 +95,14 @@
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Yes. Create a bot per token with @BotFather, add them all in settings, and give each one its own model, personality file and skills."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why does macOS warn about the app?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Because the build isn't notarized by Apple yet. The warning is expected: right-click (Control-click) the app in Applications, choose Open, then Open again. One time, and it runs normally from then on."
             }
           },
           {
@@ -332,8 +340,9 @@
     <div class="step reveal">
       <span class="step-num mono">01</span>
       <h3>Download the .dmg</h3>
-      <p>Open it, drag <strong>Telebot AI</strong> into Applications, and launch.
-         First launch of an unsigned build? Right-click → <em>Open</em>.</p>
+      <p>Open it and drag <strong>Telebot AI</strong> into Applications. The build
+         isn't notarized yet, so if macOS shows a warning, right-click (Control-click)
+         the app and choose <em>Open</em> — once, and it launches normally from then on.</p>
     </div>
     <div class="step reveal" style="--d:.08s">
       <span class="step-num mono">02</span>
@@ -442,6 +451,13 @@
          and give each one its own model, personality file and skills.</p>
     </details>
     <details class="faq-item reveal">
+      <summary>Why does macOS warn about the app?</summary>
+      <p>Because the build isn't notarized by Apple yet — that costs money and
+         requires a paid developer account. The warning is expected: right-click
+         (Control-click) the app in Applications, choose <em>Open</em>, then
+         <em>Open</em> again. One time, and it runs normally from then on.</p>
+    </details>
+    <details class="faq-item reveal">
       <summary>Is it really free?</summary>
       <p>Yes — free to download and use. No subscriptions, no accounts.
          You only pay for the model provider you choose, if any.</p>
@@ -532,6 +548,6 @@
   </div>
 </footer>
 
-<script src="app.js?v=15"></script>
+<script src="app.js?v=16"></script>
 </body>
 </html>
