@@ -353,7 +353,45 @@ h1 .grad {
   display: flex; align-items: center; justify-content: center;
 }
 
-.msg-dice { flex-direction: row; align-items: center; gap: 10px; }
+.msg-dice { flex-direction: row; align-items: center; gap: 10px; perspective: 240px; }
+.dice {
+  width: 42px; height: 42px;
+  position: relative;
+  transform-style: preserve-3d;
+  /* a real die: white with dark pips, in BOTH themes */
+  animation: diceRoll 5s cubic-bezier(.45, .05, .35, 1) infinite;
+  will-change: transform;
+}
+.face {
+  position: absolute; inset: 0;
+  border-radius: 10px;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
+  backface-visibility: hidden;
+}
+/* pip layouts via radial gradients (dark pips on white, both themes) */
+.f1 { transform: rotateY(0deg) translateZ(21px); background-image: radial-gradient(circle at 50% 50%, #1d1d1f 2.6px, transparent 3.2px); }
+.f2 { transform: rotateY(90deg) translateZ(21px); background-image: radial-gradient(circle at 26% 26%, #1d1d1f 2.6px, transparent 3.2px), radial-gradient(circle at 74% 74%, #1d1d1f 2.6px, transparent 3.2px); }
+.f3 { transform: rotateY(180deg) translateZ(21px); background-image: radial-gradient(circle at 26% 26%, #1d1d1f 2.6px, transparent 3.2px), radial-gradient(circle at 50% 50%, #1d1d1f 2.6px, transparent 3.2px), radial-gradient(circle at 74% 74%, #1d1d1f 2.6px, transparent 3.2px); }
+.f4 { transform: rotateY(-90deg) translateZ(21px); background-image: radial-gradient(circle at 26% 26%, #1d1d1f 2.6px, transparent 3.2px), radial-gradient(circle at 26% 74%, #1d1d1f 2.6px, transparent 3.2px), radial-gradient(circle at 74% 26%, #1d1d1f 2.6px, transparent 3.2px), radial-gradient(circle at 74% 74%, #1d1d1f 2.6px, transparent 3.2px); }
+.f5 { transform: rotateX(90deg) translateZ(21px); background-image: radial-gradient(circle at 26% 26%, #1d1d1f 2.6px, transparent 3.2px), radial-gradient(circle at 26% 74%, #1d1d1f 2.6px, transparent 3.2px), radial-gradient(circle at 74% 26%, #1d1d1f 2.6px, transparent 3.2px), radial-gradient(circle at 74% 74%, #1d1d1f 2.6px, transparent 3.2px), radial-gradient(circle at 50% 50%, #1d1d1f 2.6px, transparent 3.2px); }
+.f6 { transform: rotateX(-90deg) translateZ(21px); background-image: radial-gradient(circle at 26% 26%, #1d1d1f 2.6px, transparent 3.2px), radial-gradient(circle at 26% 74%, #1d1d1f 2.6px, transparent 3.2px), radial-gradient(circle at 74% 26%, #1d1d1f 2.6px, transparent 3.2px), radial-gradient(circle at 74% 74%, #1d1d1f 2.6px, transparent 3.2px), radial-gradient(circle at 50% 26%, #1d1d1f 2.6px, transparent 3.2px), radial-gradient(circle at 50% 74%, #1d1d1f 2.6px, transparent 3.2px); }
+/* tumble through faces 1 → 5 → 2 → 6 → 4, land on 3, hold, re-roll */
+@keyframes diceRoll {
+  0%   { transform: rotateX(0deg) rotateY(0deg); }
+  4%   { transform: rotateX(-90deg) rotateY(0deg); }
+  8%   { transform: rotateX(-90deg) rotateY(-90deg); }
+  12%  { transform: rotateX(90deg) rotateY(-90deg); }
+  16%  { transform: rotateX(90deg) rotateY(90deg); }
+  20%  { transform: rotateX(0deg) rotateY(180deg); }
+  22%  { transform: rotateX(0deg) rotateY(180deg) scale(1.14); }
+  24%  { transform: rotateX(0deg) rotateY(180deg); }
+  100% { transform: rotateX(0deg) rotateY(180deg); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .dice { animation: none; transform: rotateX(0deg) rotateY(180deg); }
+}
 .msg-cmd { padding: 8px 16px; width: fit-content; }
 .cmd {
   font-family: var(--mono);
@@ -382,25 +420,6 @@ h1 .grad {
 .cr-label { flex-shrink: 0; width: 76px; font-size: 12px; font-weight: 600; }
 .compare-row.verdict .cr-label { color: var(--green); }
 .cr-val { color: var(--text-secondary); }
-.dice {
-  width: 42px; height: 42px;
-  border-radius: 12px;
-  /* a real die: white with dark pips, in BOTH themes */
-  background: #ffffff;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
-  display: flex; align-items: center; justify-content: center;
-  font-size: 18px; font-weight: 700; color: #1d1d1f;
-  animation: diceRoll 2.4s ease-in-out 1.2s both;
-}
-@keyframes diceRoll {
-  0% { transform: rotate(0) scale(1); }
-  20% { transform: rotate(200deg) scale(.8); }
-  40% { transform: rotate(120deg) scale(1.1); }
-  60% { transform: rotate(300deg) scale(.85); }
-  80% { transform: rotate(260deg) scale(1.05); }
-  100% { transform: rotate(360deg) scale(1); }
-}
 
 /* ── works-with strip ─────────────────────────────────────────── */
 .strip {

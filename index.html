@@ -26,7 +26,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=11">
+  <link rel="stylesheet" href="style.css?v=12">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -194,7 +194,14 @@
       <div class="msg msg-user msg-cmd"><span class="cmd">/dice</span></div>
       <div class="msg msg-bot msg-dice">
         <span class="msg-head mono"><img src="assets/app-logo.png" alt=""> Telebot AI · just now</span>
-        <span class="dice">3</span>
+        <span class="dice" aria-label="Rolled a 3">
+          <span class="face f1"></span>
+          <span class="face f2"></span>
+          <span class="face f3"></span>
+          <span class="face f4"></span>
+          <span class="face f5"></span>
+          <span class="face f6"></span>
+        </span>
         <span class="dice-text">You rolled a <strong>3</strong> 🎲</span>
       </div>
       <div class="msg msg-user">Would an M5 Mac beat an RTX 4090 for local AI?</div>
@@ -523,6 +530,6 @@
   </div>
 </footer>
 
-<script src="app.js?v=11"></script>
+<script src="app.js?v=12"></script>
 </body>
 </html>
