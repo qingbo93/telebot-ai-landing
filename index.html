@@ -26,7 +26,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=8">
+  <link rel="stylesheet" href="style.css?v=9">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -425,11 +425,16 @@
     <h2>Give your Mac a brain.<br>Put it in your pocket.</h2>
     <p class="download-sub">Download the .dmg, drag it to Applications, and say hi
        to your new assistant.</p>
-    <a class="btn btn-primary btn-xl" id="download-btn"
-       href="https://qingbo93.github.io/telebot-ai-landing/downloads/Telebot-AI-1.0.0.dmg">
-      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0l-4.5-4.5M12 15l4.5-4.5M4 20h16"/></svg>
-      Download Telebot AI
-    </a>
+    <div class="download-cta">
+      <div class="hero-icon">
+        <img src="assets/app-logo.png" alt="Telebot AI app icon" width="64" height="64">
+      </div>
+      <a class="btn btn-primary btn-xl" id="download-btn"
+         href="https://qingbo93.github.io/telebot-ai-landing/downloads/Telebot-AI-1.0.0.dmg">
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0l-4.5-4.5M12 15l4.5-4.5M4 20h16"/></svg>
+        Download Telebot AI
+      </a>
+    </div>
     <div class="download-meta mono">
       <span id="meta-version">v1.0.0</span>
       <span class="dot">·</span>
@@ -460,7 +465,6 @@
       <ul class="pitch-list">
         <li>No account needed</li>
         <li>No spam — ever</li>
-        <li>Replies within a day</li>
       </ul>
     </div>
     <form id="feedback-form" class="feedback-card reveal" style="--d:.08s" novalidate>
@@ -498,6 +502,6 @@
   </div>
 </footer>
 
-<script src="app.js?v=8"></script>
+<script src="app.js?v=9"></script>
 </body>
 </html>

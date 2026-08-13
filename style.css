@@ -589,6 +589,8 @@ h2.light { color: #f5f5f7; }
 }
 .download-band h2 { margin-bottom: 16px; }
 .download-sub { color: var(--text-secondary); font-size: 17px; max-width: 480px; margin: 0 auto 36px; }
+.download-cta { display: flex; align-items: center; justify-content: center; gap: 16px; flex-wrap: wrap; }
+.download-cta .hero-icon { width: 64px; height: 64px; border-radius: 16px; }
 .download-meta { margin-top: 22px; font-size: 12.5px; color: var(--text-tertiary); }
 .download-meta .dot { margin: 0 8px; opacity: .6; }
 .checksum-link { color: var(--text-tertiary); border-bottom: 1px dashed var(--border); }
@@ -714,6 +716,9 @@ footer {
   .hero { padding-top: 120px; }
   .cta-primary { width: 100%; }
   .hero-icon { width: 48px; height: 48px; }
+  .download-cta { width: 100%; }
+  .download-cta .hero-icon { width: 56px; height: 56px; }
+  .download-cta .btn { width: 100%; justify-content: center; }
   .privacy-band, .download-band { padding: 56px 24px; }
   .hero-cta .btn { width: 100%; justify-content: center; }
 }
