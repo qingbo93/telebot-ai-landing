@@ -204,21 +204,12 @@ code.mono {
   margin-bottom: 26px;
 }
 
-.hero-title {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 26px;
-  max-width: 860px;
-  margin: 0 auto 22px;
-  animation: fadeUp .6s ease .1s both;
-}
-.hero-title h1 { margin: 0; text-align: left; animation: none; }
+.hero-title { display: none; }
 .hero-icon {
-  width: 84px;
-  height: 84px;
+  width: 56px;
+  height: 56px;
   flex-shrink: 0;
-  border-radius: 20px;
+  border-radius: 14px;
   border: 1px solid var(--border);
   box-shadow: var(--shadow-elevated);
   overflow: hidden;
@@ -259,7 +250,8 @@ h1 .grad {
   animation: fadeUp .6s ease .2s both;
 }
 
-.hero-cta { display: flex; justify-content: center; gap: 14px; flex-wrap: wrap; animation: fadeUp .6s ease .3s both; }
+.hero-cta { display: flex; align-items: center; justify-content: center; gap: 14px; flex-wrap: wrap; animation: fadeUp .6s ease .3s both; }
+.cta-primary { display: flex; align-items: center; gap: 14px; }
 .hero-meta { margin-top: 18px; font-size: 12.5px; color: var(--text-tertiary); animation: fadeUp .6s ease .4s both; }
 
 @keyframes fadeUp {
@@ -720,9 +712,8 @@ footer {
   .bento { grid-template-columns: 1fr; }
   .cell-big { grid-column: span 1; }
   .hero { padding-top: 120px; }
-  .hero-title { flex-direction: column; gap: 14px; }
-  .hero-title h1 { text-align: center; }
-  .hero-icon { width: 72px; height: 72px; }
+  .cta-primary { width: 100%; }
+  .hero-icon { width: 48px; height: 48px; }
   .privacy-band, .download-band { padding: 56px 24px; }
   .hero-cta .btn { width: 100%; justify-content: center; }
 }
