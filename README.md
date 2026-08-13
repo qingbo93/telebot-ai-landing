@@ -31,6 +31,22 @@ To hook up your own domain later: add a `CNAME` file containing the domain and
 set the custom domain in the repo's Pages settings. Until then the site stays
 pure GitHub Pages at `qingbo93.github.io/telebot-ai-landing/`.
 
+## Cloudflare Pages mirror
+
+The site also runs on Cloudflare Pages at **https://telebot.abeaverscart.ca** (project
+`telebot-ai-landing`, account abeaverscart@gmail.com). Deploy is manual via wrangler:
+
+```bash
+# from this repo: DMG must be excluded (Cloudflare's 25 MiB/file cap)
+mv downloads /tmp/downloads-stash
+npx wrangler pages deploy . --project-name=telebot-ai-landing --branch=main
+mv /tmp/downloads-stash downloads
+```
+
+The download button points at the GitHub Pages-hosted DMG (absolute URL), so it works
+from both deployments. To get auto-deploys on push, connect this repo in the
+Cloudflare dashboard (Workers & Pages → telebot-ai-landing → Settings → Builds).
+
 ## Local preview
 
 ```bash
