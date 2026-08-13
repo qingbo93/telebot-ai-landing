@@ -439,6 +439,29 @@
   </div>
 </section>
 
+<!-- ══════════════ FEEDBACK ══════════════ -->
+<section class="section" id="feedback">
+  <div class="section-head reveal">
+    <p class="eyebrow mono">Feedback</p>
+    <h2>Tell us what you think.</h2>
+  </div>
+  <div class="feedback-card reveal">
+    <form id="feedback-form" novalidate>
+      <div class="f-row">
+        <input type="text" id="f-name" name="name" placeholder="Your name (optional)" maxlength="80" autocomplete="name">
+        <input type="email" id="f-email" name="email" placeholder="Email (optional)" maxlength="120" autocomplete="email">
+      </div>
+      <textarea id="f-message" name="message" placeholder="Feature ideas, bugs, questions — we read everything." rows="5" maxlength="4000" required></textarea>
+      <input type="text" id="f-honey" name="honey" class="honey" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <div class="f-actions">
+        <button type="submit" class="btn btn-primary btn-lg" id="f-submit">Send feedback</button>
+        <p class="f-status" id="f-status" role="status"></p>
+      </div>
+      <p class="f-note">Feedback goes straight to the developer's Telegram and is only used to respond. Never share passwords or API keys here.</p>
+    </form>
+  </div>
+</section>
+
 <!-- ══════════════ FOOTER ══════════════ -->
 <footer>
   <div class="footer-inner">

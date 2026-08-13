@@ -1,0 +1,8 @@
+name = "telebot-feedback"
+main = "src/index.js"
+compatibility_date = "2026-08-12"
+
+# same-origin route on the Pages custom domain
+routes = [
+  { pattern = "telebot.abeaverscart.ca/api/*", zone_id = "f9653bf251ec82cbb1a54f2db56d0d27" }
+]

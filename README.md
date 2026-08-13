@@ -47,6 +47,19 @@ The download button points at the GitHub Pages-hosted DMG (absolute URL), so it 
 from both deployments. To get auto-deploys on push, connect this repo in the
 Cloudflare dashboard (Workers & Pages → telebot-ai-landing → Settings → Builds).
 
+## Feedback form
+
+The Feedback section posts to a Cloudflare Worker (`worker/`, project `telebot-feedback`)
+mounted at `telebot.abeaverscart.ca/api/feedback` (same-origin, CORS open so the GitHub
+mirror works too). The worker forwards submissions to Telegram via the Bot API.
+
+- Secrets: `wrangler secret put BOT_TOKEN` (bot token) and `CHAT_ID` (owner chat id —
+  message the bot once, read it from `getUpdates`)
+- Deploy worker: `cd worker && npx wrangler deploy`
+- Anti-spam: honeypot field + 3 msgs/min/IP rate limit in the worker
+- If the form ever fails, check the worker with a test POST (validation errors
+  respond without secrets; a full delivery needs both secrets set)
+
 ## SEO
 
 Everything is set up for indexing; the canonical URL is **https://telebot.abeaverscart.ca/** (both hosts serve the same content):

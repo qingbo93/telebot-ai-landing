@@ -53,6 +53,55 @@
     });
   }
 
+  /* ── feedback form ─────────────────────────────────────────── */
+  const form = document.getElementById('feedback-form');
+  if (form) {
+    const status = document.getElementById('f-status');
+    const submit = document.getElementById('f-submit');
+    const ENDPOINT = 'https://telebot.abeaverscart.ca/api/feedback';
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const message = document.getElementById('f-message').value.trim();
+      if (message.length < 5) {
+        status.textContent = 'Please write at least a sentence.';
+        status.className = 'f-status err';
+        return;
+      }
+      status.textContent = '';
+      submit.disabled = true;
+      submit.textContent = 'Sending…';
+      fetch(ENDPOINT, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          name: document.getElementById('f-name').value.trim(),
+          email: document.getElementById('f-email').value.trim(),
+          message,
+          honey: document.getElementById('f-honey').value,
+        }),
+      })
+        .then((r) => r.json().catch(() => ({ ok: false })).then((d) => ({ r, d })))
+        .then(({ r, d }) => {
+          if (r.ok && d.ok) {
+            status.textContent = 'Thanks — your message is on its way ✓';
+            status.className = 'f-status ok';
+            form.reset();
+          } else {
+            status.textContent = (d && d.error) || 'Something went wrong — please try again.';
+            status.className = 'f-status err';
+          }
+        })
+        .catch(() => {
+          status.textContent = 'Network error — please try again.';
+          status.className = 'f-status err';
+        })
+        .finally(() => {
+          submit.disabled = false;
+          submit.textContent = 'Send feedback';
+        });
+    });
+  }
+
   /* ── footer year ───────────────────────────────────────────── */
   const year = document.getElementById('year');
   if (year) year.textContent = String(new Date().getFullYear());
