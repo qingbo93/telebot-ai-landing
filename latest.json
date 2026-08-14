@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://qingbo93.github.io/telebot-ai-landing/downloads/Telebot-AI-1.0.1.dmg",
-  "notes": "Launch error dialog with one-click reporting, clearer update-check feedback (✓ Up to date, green status), and a new Check automatically setting.",
-  "published": "2026-08-13"
+  "version": "1.0.2",
+  "url": "https://qingbo93.github.io/telebot-ai-landing/downloads/Telebot-AI-1.0.2.dmg",
+  "notes": "One-click in-app updates and full Chinese localization.",
+  "published": "2026-08-14"
 }
