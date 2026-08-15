@@ -21,7 +21,7 @@ const TEMPLATES = process.env.I18N_TEMPLATES || path.join(ROOT, 'templates');
 const TOKEN_RE = /{{\s*(?:json:)?([a-z0-9_.]+)\s*}}/g;
 
 // tokens injected by scripts/build.mjs — valid in templates, not catalog keys
-const BUILTIN = new Set(['base', 'canonical', 'rootcanonical', 'hreflang', 'htmllang', 'langswitcher', 'oglocale', 'js-i18n']);
+const BUILTIN = new Set(['base', 'canonical', 'rootcanonical', 'hreflang', 'htmllang', 'langswitcher', 'oglocale', 'js-i18n', 'dir']);
 // keys consumed by app.js / build.mjs at runtime — never in templates
 const JS_KEYS = new Set(['fb.err_short', 'fb.sending', 'fb.ok', 'fb.err_server', 'fb.err_network', 'footer.feedback', 'dl.copied', 'nav.language']);
 

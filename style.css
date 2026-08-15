@@ -117,10 +117,10 @@ code.mono {
 .brand-mark { font-size: 19px; line-height: 1; display: flex; }
 .brand-mark img { width: 24px; height: 24px; border-radius: 6px; display: block; border: 1px solid var(--border); }
 .brand-name { font-size: 15px; }
-.nav-links { display: flex; gap: 26px; margin-left: 12px; }
+.nav-links { display: flex; gap: 26px; margin-inline-start: 12px; }
 .nav-links a { color: var(--text-secondary); font-size: 14px; font-weight: 500; }
 .nav-links a:hover { color: var(--text-primary); }
-.nav-actions { margin-left: auto; display: flex; align-items: center; gap: 14px; }
+.nav-actions { margin-inline-start: auto; display: flex; align-items: center; gap: 14px; }
 
 .theme-toggle {
   display: flex; align-items: center; justify-content: center;
@@ -164,6 +164,7 @@ code.mono {
   box-shadow: 0 12px 32px rgba(0, 0, 0, 0.12);
   display: flex; flex-direction: column;
 }
+[dir="rtl"] .lang-menu { right: auto; left: 0; }
 .lang-menu a {
   padding: 7px 10px; border-radius: 8px;
   color: var(--text-secondary);
@@ -327,7 +328,7 @@ h1 .grad {
   border: 1px solid var(--border);
   border-radius: 20px;
   box-shadow: var(--shadow-elevated);
-  text-align: left;
+  text-align: start;
   animation: fadeUp .8s ease .45s both;
   overflow: hidden;
 }
@@ -346,7 +347,7 @@ h1 .grad {
 .traffic i:nth-child(3) { background: #28c840; }
 .mockup-title { font-size: 12px; color: var(--text-secondary); display: flex; align-items: center; gap: 6px; }
 .mockup-title img, .msg-head img { width: 14px; height: 14px; border-radius: 4px; display: block; }
-.mockup-menu { margin-left: auto; color: var(--text-tertiary); }
+.mockup-menu { margin-inline-start: auto; color: var(--text-tertiary); }
 
 .mockup-body {
   padding: 18px 16px 20px;
@@ -401,7 +402,7 @@ h1 .grad {
 .rc-title { font-size: 12.5px; font-weight: 600; }
 .rc-time { font-size: 10.5px; color: var(--text-tertiary); }
 .rc-check {
-  margin-left: auto;
+  margin-inline-start: auto;
   width: 19px; height: 19px;
   border-radius: 50%;
   background: var(--green);
@@ -487,14 +488,14 @@ h1 .grad {
 .guide h2 { font-size: 24px; font-weight: 700; letter-spacing: -.02em; margin: 44px 0 14px; }
 .guide h3 { font-size: 17.5px; font-weight: 700; margin: 28px 0 8px; }
 .guide p { color: var(--text-secondary); font-size: 15px; line-height: 1.65; margin: 0 0 14px; }
-.guide ul { margin: 0 0 14px; padding-left: 22px; color: var(--text-secondary); font-size: 15px; line-height: 1.65; }
+.guide ul { margin: 0 0 14px; padding-inline-start: 22px; color: var(--text-secondary); font-size: 15px; line-height: 1.65; }
 .guide li { margin-bottom: 6px; }
 .guide a:not(.btn) { color: var(--blue); text-decoration: none; }
 .guide a:not(.btn):hover { text-decoration: underline; }
 .guide code { background: var(--bg-alt); border: 1px solid var(--border); border-radius: 6px; padding: 1px 6px; font-size: 13px; }
 .guide pre { background: var(--bg-alt); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; font-size: 13px; line-height: 1.6; overflow-x: auto; margin: 0 0 14px; color: var(--text-primary); }
 .guide-table { width: 100%; border-collapse: collapse; font-size: 14px; margin: 10px 0 18px; background: var(--bg-alt); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
-.guide-table th, .guide-table td { text-align: left; padding: 10px 14px; border-bottom: 1px solid var(--border); }
+.guide-table th, .guide-table td { text-align: start; padding: 10px 14px; border-bottom: 1px solid var(--border); }
 .guide-table th { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--text-tertiary); font-weight: 600; }
 .guide-table tr:last-child td { border-bottom: none; }
 .guide-end { text-align: center; margin-top: 44px; }
@@ -504,9 +505,9 @@ h1 .grad {
 .docs-toc-title { grid-column: 1 / -1; font-size: 11px; color: var(--text-tertiary); text-transform: uppercase; letter-spacing: .05em; margin: 0 0 6px; }
 .docs-toc a { font-size: 13px; color: var(--text-secondary); text-decoration: none; padding: 3px 0; }
 .docs-toc a:hover { color: var(--blue); }
-.docs-ol { margin: 0 0 14px; padding-left: 22px; color: var(--text-secondary); font-size: 15px; line-height: 1.65; }
+.docs-ol { margin: 0 0 14px; padding-inline-start: 22px; color: var(--text-secondary); font-size: 15px; line-height: 1.65; }
 .docs-ol li { margin-bottom: 8px; }
-.docs-support { color: var(--text-tertiary); font-size: 13.5px; margin-left: 6px; }
+.docs-support { color: var(--text-tertiary); font-size: 13.5px; margin-inline-start: 6px; }
 .docs-support a { color: var(--blue); text-decoration: none; }
 
 /* ── changelog page ─────────────────────────────────────────── */
@@ -680,7 +681,7 @@ h2.light { color: #f5f5f7; }
   font-size: 14.5px;
   color: var(--text-secondary);
   padding: 8px 0;
-  padding-left: 22px;
+  padding-inline-start: 22px;
   position: relative;
   border-bottom: 1px solid var(--border);
 }
@@ -688,7 +689,7 @@ h2.light { color: #f5f5f7; }
 .req-card li::before {
   content: '';
   position: absolute;
-  left: 2px; top: 16px;
+  inset-inline-start: 2px; top: 16px;
   width: 6px; height: 6px;
   border-radius: 50%;
   background: var(--blue);

@@ -97,6 +97,7 @@ function render(tplPath, lang) {
     hreflang,
     oglocale: L.ogLocale,
     htmllang: L.htmlLang,
+    dir: L.dir,
     langswitcher: langSwitcher,
     'js-i18n': jsI18n,
   };

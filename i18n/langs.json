@@ -48,6 +48,90 @@
       "htmlLang": "pt",
       "ogLocale": "pt_PT",
       "dir": "ltr"
+    },
+    {
+      "code": "ko",
+      "nativeName": "한국어",
+      "htmlLang": "ko",
+      "ogLocale": "ko_KR",
+      "dir": "ltr"
+    },
+    {
+      "code": "it",
+      "nativeName": "Italiano",
+      "htmlLang": "it",
+      "ogLocale": "it_IT",
+      "dir": "ltr"
+    },
+    {
+      "code": "ru",
+      "nativeName": "Русский",
+      "htmlLang": "ru",
+      "ogLocale": "ru_RU",
+      "dir": "ltr"
+    },
+    {
+      "code": "ar",
+      "nativeName": "العربية",
+      "htmlLang": "ar",
+      "ogLocale": "ar_SA",
+      "dir": "rtl"
+    },
+    {
+      "code": "hi",
+      "nativeName": "हिन्दी",
+      "htmlLang": "hi",
+      "ogLocale": "hi_IN",
+      "dir": "ltr"
+    },
+    {
+      "code": "id",
+      "nativeName": "Bahasa Indonesia",
+      "htmlLang": "id",
+      "ogLocale": "id_ID",
+      "dir": "ltr"
+    },
+    {
+      "code": "tr",
+      "nativeName": "Türkçe",
+      "htmlLang": "tr",
+      "ogLocale": "tr_TR",
+      "dir": "ltr"
+    },
+    {
+      "code": "nl",
+      "nativeName": "Nederlands",
+      "htmlLang": "nl",
+      "ogLocale": "nl_NL",
+      "dir": "ltr"
+    },
+    {
+      "code": "pl",
+      "nativeName": "Polski",
+      "htmlLang": "pl",
+      "ogLocale": "pl_PL",
+      "dir": "ltr"
+    },
+    {
+      "code": "vi",
+      "nativeName": "Tiếng Việt",
+      "htmlLang": "vi",
+      "ogLocale": "vi_VN",
+      "dir": "ltr"
+    },
+    {
+      "code": "th",
+      "nativeName": "ไทย",
+      "htmlLang": "th",
+      "ogLocale": "th_TH",
+      "dir": "ltr"
+    },
+    {
+      "code": "uk",
+      "nativeName": "Українська",
+      "htmlLang": "uk",
+      "ogLocale": "uk_UA",
+      "dir": "ltr"
     }
   ]
 }
