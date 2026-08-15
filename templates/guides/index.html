@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="{{htmllang}}" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{g.meta.title}}</title>
+  <meta name="description" content="{{g.meta.description}}">
+  <link rel="canonical" href="{{canonical}}">
+  {{hreflang}}
+  <meta property="og:title" content="{{g.meta.title}}">
+  <meta property="og:description" content="{{g.og.description}}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{canonical}}">
+  <meta property="og:site_name" content="Telebot AI">
+  <meta property="og:locale" content="{{oglocale}}">
+  <meta property="og:image" content="https://telebot.abeaverscart.ca/assets/og-image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#f5f5f7">
+  <link rel="icon" href="{{base}}assets/favicon.png">
+  <link rel="apple-touch-icon" href="{{base}}assets/apple-touch-icon.png">
+  <link rel="manifest" href="{{base}}assets/site.webmanifest">
+  <link rel="stylesheet" href="{{base}}style.css?v=26">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Telebot AI", "item": "{{rootcanonical}}" },
+      { "@type": "ListItem", "position": 2, "name": {{json:nav.guides}}, "item": "{{canonical}}" }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+<nav id="nav">
+  <div class="nav-inner">
+    <a class="brand" href="{{base}}">
+      <span class="brand-mark"><img src="{{base}}assets/app-logo.png" alt="Telebot AI logo"></span>
+      <span class="brand-name">Telebot AI</span>
+    </a>
+    <div class="nav-links">
+      <a href="{{base}}#features">{{nav.features}}</a>
+      <a href="{{base}}#how">{{nav.how}}</a>
+      <a href="{{base}}#privacy">{{nav.privacy}}</a>
+      <a href="{{base}}#faq">{{nav.faq}}</a>
+      <a href="{{base}}guides/" aria-current="page">{{nav.guides}}</a>
+      <a href="{{base}}docs/">{{nav.docs}}</a>
+      <a href="{{base}}changelog/">{{nav.changelog}}</a>
+    </div>
+    <div class="nav-actions">
+      {{langswitcher}}
+      <button id="theme-toggle" class="theme-toggle" aria-label="{{nav.theme}}" title="{{nav.theme}}">
+        <svg class="icon-sun" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.4M12 19.1v2.4M2.5 12h2.4M19.1 12h2.4M5.3 5.3l1.7 1.7M17 17l1.7 1.7M18.7 5.3L17 7M7 17l-1.7 1.7"/></svg>
+        <svg class="icon-moon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11z"/></svg>
+      </button>
+      <a class="btn btn-primary btn-sm" href="{{base}}#download">{{nav.download}}</a>
+    </div>
+  </div>
+</nav>
+
+<section class="section changelog" id="top">
+  <div class="section-head">
+    <p class="eyebrow mono">{{g.eyebrow}}</p>
+    <h1>{{nav.guides}}</h1>
+    <p class="cl-intro">{{g.intro}}</p>
+  </div>
+
+  <div class="cl-entry reveal">
+    <div class="cl-head">
+      <div class="cl-version">{{ga.title}}</div>
+      <div class="cl-date mono">{{g1.read}}</div>
+    </div>
+    <p class="cl-summary">{{g1.summary}}</p>
+    <p class="cl-foot" style="text-align:left; margin-top:0;"><a href="{{base}}guides/run-local-ai-models-on-mac/">{{g1.cta}}</a></p>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <span class="brand-mark"><img src="{{base}}assets/app-logo.png" alt="Telebot AI logo"></span>
+      <span class="brand-name">Telebot AI</span>
+    </div>
+    <p class="footer-tag">{{footer.tag}}</p>
+    <div class="footer-links">
+      <a href="{{base}}#download">{{nav.download}}</a>
+      <a href="{{base}}changelog/">{{nav.changelog}}</a>
+      <a href="{{base}}guides/">{{nav.guides}}</a>
+      <a href="{{base}}docs/">{{nav.docs}}</a>
+      <a href="{{base}}#features">{{nav.features}}</a>
+      <a href="{{base}}#how">{{nav.how}}</a>
+      <a href="{{base}}#privacy">{{nav.privacy}}</a>
+      <a href="{{base}}#faq">{{nav.faq}}</a>
+      <a href="{{base}}#feedback">{{footer.feedback}}</a>
+    </div>
+    <div class="footer-bmc">
+      <a class="btn btn-coffee btn-sm" href="https://buymeacoffee.com/abeaverscart" target="_blank" rel="noopener">{{footer.bmc}}</a>
+    </div>
+    <p class="footer-more">{{footer.brand}} · <a href="https://abeaverscart.ca/" target="_blank" rel="noopener">{{footer.projects}}</a></p>
+    <p class="footer-copy">© <span id="year">2026</span> {{footer.copy}}</p>
+  </div>
+</footer>
+
+{{js-i18n}}
+<script src="{{base}}app.js?v=20"></script>
+</body>
+</html>

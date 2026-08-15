@@ -1,0 +1,53 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "nativeName": "English",
+      "htmlLang": "en",
+      "ogLocale": "en_US",
+      "dir": "ltr"
+    },
+    {
+      "code": "zh",
+      "nativeName": "中文",
+      "htmlLang": "zh-Hans",
+      "ogLocale": "zh_CN",
+      "dir": "ltr"
+    },
+    {
+      "code": "es",
+      "nativeName": "Español",
+      "htmlLang": "es",
+      "ogLocale": "es_ES",
+      "dir": "ltr"
+    },
+    {
+      "code": "ja",
+      "nativeName": "日本語",
+      "htmlLang": "ja",
+      "ogLocale": "ja_JP",
+      "dir": "ltr"
+    },
+    {
+      "code": "de",
+      "nativeName": "Deutsch",
+      "htmlLang": "de",
+      "ogLocale": "de_DE",
+      "dir": "ltr"
+    },
+    {
+      "code": "fr",
+      "nativeName": "Français",
+      "htmlLang": "fr",
+      "ogLocale": "fr_FR",
+      "dir": "ltr"
+    },
+    {
+      "code": "pt",
+      "nativeName": "Português",
+      "htmlLang": "pt",
+      "ogLocale": "pt_BR",
+      "dir": "ltr"
+    }
+  ]
+}

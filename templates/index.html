@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="{{htmllang}}" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{meta.title}}</title>
+  <meta name="description" content="{{meta.description}}">
+  <link rel="canonical" href="{{canonical}}">
+  {{hreflang}}
+  <meta property="og:title" content="{{meta.title}}">
+  <meta property="og:description" content="{{og.description}}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{canonical}}">
+  <meta property="og:site_name" content="Telebot AI">
+  <meta property="og:locale" content="{{oglocale}}">
+  <meta property="og:image" content="https://telebot.abeaverscart.ca/assets/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{og.image.alt}}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{meta.title}}">
+  <meta name="twitter:description" content="{{twitter.description}}">
+  <meta name="twitter:image" content="https://telebot.abeaverscart.ca/assets/og-image.png">
+  <meta name="theme-color" content="#f5f5f7">
+  <link rel="icon" href="{{base}}assets/favicon.png">
+  <link rel="apple-touch-icon" href="{{base}}assets/apple-touch-icon.png">
+  <link rel="manifest" href="{{base}}assets/site.webmanifest">
+  <link rel="stylesheet" href="{{base}}style.css?v=26">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "SoftwareApplication",
+        "name": "Telebot AI",
+        "url": "{{canonical}}",
+        "image": "https://telebot.abeaverscart.ca/assets/og-image.png",
+        "description": {{json:meta.description}},
+        "applicationCategory": "UtilitiesApplication",
+        "operatingSystem": "macOS 13+ (Apple Silicon)",
+        "softwareVersion": "1.0.2",
+        "fileSize": "31.1 MB",
+        "downloadUrl": "https://qingbo93.github.io/telebot-ai-landing/downloads/Telebot-AI-1.0.2.dmg",
+        "releaseNotes": "{{canonical}}changelog/",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD",
+          "description": {{json:jsonld.offer}}
+        }
+      },
+      {
+        "@type": "WebSite",
+        "name": "Telebot AI",
+        "url": "{{canonical}}"
+      },
+      {
+        "@type": "Organization",
+        "name": "Telebot AI",
+        "url": "{{canonical}}",
+        "logo": "https://telebot.abeaverscart.ca/assets/og-image.png"
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": {{json:faq.q1.q}},
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": {{json:faq.q1.a}}
+            }
+          },
+          {
+            "@type": "Question",
+            "name": {{json:faq.q2.q}},
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": {{json:faq.q2.a}}
+            }
+          },
+          {
+            "@type": "Question",
+            "name": {{json:faq.q3.q}},
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": {{json:faq.q3.a}}
+            }
+          },
+          {
+            "@type": "Question",
+            "name": {{json:faq.q4.q}},
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": {{json:faq.q4.a}}
+            }
+          },
+          {
+            "@type": "Question",
+            "name": {{json:faq.q5.q}},
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": {{json:faq.q5.a}}
+            }
+          },
+          {
+            "@type": "Question",
+            "name": {{json:faq.q6.q}},
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": {{json:faq.q6.a}}
+            }
+          },
+          {
+            "@type": "Question",
+            "name": {{json:faq.q7.q}},
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": {{json:faq.q7.a}}
+            }
+          },
+          {
+            "@type": "Question",
+            "name": {{json:faq.q8.q}},
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": {{json:faq.q8.a}}
+            }
+          },
+          {
+            "@type": "Question",
+            "name": {{json:faq.q9.q}},
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": {{json:faq.q9.a}}
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+<!-- ══════════════ NAV ══════════════ -->
+<nav id="nav">
+  <div class="nav-inner">
+    <a class="brand" href="{{base}}#top">
+      <span class="brand-mark"><img src="{{base}}assets/app-logo.png" alt="Telebot AI logo"></span>
+      <span class="brand-name">Telebot AI</span>
+    </a>
+    <div class="nav-links">
+      <a href="{{base}}#features">{{nav.features}}</a>
+      <a href="{{base}}#how">{{nav.how}}</a>
+      <a href="{{base}}#privacy">{{nav.privacy}}</a>
+      <a href="{{base}}#faq">{{nav.faq}}</a>
+      <a href="{{base}}guides/">{{nav.guides}}</a>
+      <a href="{{base}}docs/">{{nav.docs}}</a>
+      <a href="{{base}}changelog/">{{nav.changelog}}</a>
+    </div>
+    <div class="nav-actions">
+      {{langswitcher}}
+      <button id="theme-toggle" class="theme-toggle" aria-label="{{nav.theme}}" title="{{nav.theme}}">
+        <svg class="icon-sun" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.4M12 19.1v2.4M2.5 12h2.4M19.1 12h2.4M5.3 5.3l1.7 1.7M17 17l1.7 1.7M18.7 5.3L17 7M7 17l-1.7 1.7"/></svg>
+        <svg class="icon-moon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11z"/></svg>
+      </button>
+      <a class="btn btn-primary btn-sm" href="{{base}}#download">{{nav.download}}</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ══════════════ HERO ══════════════ -->
+<header class="hero" id="top">
+  <div class="hero-glow" aria-hidden="true">
+    <span class="glow-1"></span>
+    <span class="glow-2"></span>
+    <span class="glow-3"></span>
+  </div>
+
+  <div class="hero-inner">
+    <p class="eyebrow mono">{{hero.eyebrow}}</p>
+    <h1>{{hero.title}}</h1>
+    <p class="hero-sub">
+      {{hero.sub}}
+    </p>
+    <div class="hero-cta">
+      <div class="cta-primary">
+        <div class="hero-icon">
+          <img src="{{base}}assets/app-logo.png" alt="Telebot AI app icon" width="56" height="56">
+        </div>
+        <a class="btn btn-primary btn-lg" href="{{base}}#download" id="download-hero">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0l-4.5-4.5M12 15l4.5-4.5M4 20h16"/></svg>
+          {{hero.download}}
+        </a>
+      </div>
+      <a class="btn btn-ghost btn-lg" href="{{base}}#features">
+        {{hero.see}}
+      </a>
+    </div>
+    <p class="hero-meta mono">v1.0.2 · macOS 13+ · Apple Silicon · <a href="{{base}}#requirements">{{hero.req}}</a></p>
+  </div>
+
+  <!-- CSS chat mockup -->
+  <div class="mockup" aria-label="Telebot AI chat preview">
+    <div class="mockup-bar">
+      <span class="traffic"><i></i><i></i><i></i></span>
+      <span class="mockup-title mono"><img src="{{base}}assets/app-logo.png" alt=""> Telebot AI — Telegram</span>
+      <span class="mockup-menu mono">⋯</span>
+    </div>
+    <div class="mockup-body">
+      <div class="msg msg-user">{{mockup.msg1}}</div>
+      <div class="msg msg-bot">
+        <span class="msg-head mono"><img src="{{base}}assets/app-logo.png" alt=""> Telebot AI · {{mockup.justnow}}</span>
+        {{mockup.msg2}}
+        <div class="reminder-card">
+          <span class="rc-icon">🔔</span>
+          <div class="rc-body">
+            <span class="rc-title">{{mockup.rc.title}}</span>
+            <span class="rc-time mono">{{mockup.rc.time}}</span>
+          </div>
+          <span class="rc-check">✓</span>
+        </div>
+      </div>
+      <div class="msg msg-user msg-cmd"><span class="cmd">/dice</span></div>
+      <div class="msg msg-bot msg-dice">
+        <span class="msg-head mono"><img src="{{base}}assets/app-logo.png" alt=""> Telebot AI · {{mockup.justnow}}</span>
+        <div class="dice-row">
+          <span class="dice" aria-label="{{mockup.dice_aria}}">
+            <span class="face f1"></span>
+            <span class="face f2"></span>
+            <span class="face f3"></span>
+            <span class="face f4"></span>
+            <span class="face f5"></span>
+            <span class="face f6"></span>
+          </span>
+          <span class="dice-text">{{mockup.dice}}</span>
+        </div>
+      </div>
+      <div class="msg msg-user">{{mockup.msg4}}</div>
+      <div class="msg msg-typing"><span></span><span></span><span></span></div>
+      <div class="msg msg-bot">
+        <span class="msg-head mono"><img src="{{base}}assets/app-logo.png" alt=""> Telebot AI · {{mockup.justnow}}</span>
+        {{mockup.msg5}}
+        <div class="compare-card">
+          <div class="compare-row">
+            <span class="cr-label">M5 + MLX</span>
+            <span class="cr-val">{{mockup.cmp.m5}}</span>
+          </div>
+          <div class="compare-row">
+            <span class="cr-label">RTX 4090</span>
+            <span class="cr-val">{{mockup.cmp.rtx}}</span>
+          </div>
+          <div class="compare-row verdict">
+            <span class="cr-label">{{mockup.cmp.call}}</span>
+            <span class="cr-val">{{mockup.cmp.verdict}}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- ══════════════ WORKS WITH ══════════════ -->
+<section class="strip">
+  <p class="strip-label mono">{{strip.label}}</p>
+  <div class="chips">
+    <span class="chip mono">mlx-serve</span>
+    <span class="chip mono">Ollama</span>
+    <span class="chip mono">LM Studio</span>
+    <span class="chip mono">vLLM</span>
+    <span class="chip mono">OpenAI</span>
+    <span class="chip mono">Anthropic</span>
+    <span class="chip mono">Groq</span>
+    <span class="chip mono">OpenRouter</span>
+  </div>
+</section>
+
+<!-- ══════════════ FEATURES ══════════════ -->
+<section class="section" id="features">
+  <div class="section-head reveal">
+    <p class="eyebrow mono">{{nav.features}}</p>
+    <h2>{{features.title}}</h2>
+  </div>
+
+  <div class="bento">
+    <div class="bento-cell cell-big reveal">
+      <div class="cell-icon">🧰</div>
+      <h3>{{f1.title}}</h3>
+      <p>{{f1.body}}</p>
+      <div class="cell-chips">
+        <span class="mini-chip mono">/remind</span>
+        <span class="mini-chip mono">/weather</span>
+        <span class="mini-chip mono">/stocks</span>
+        <span class="mini-chip mono">/poll</span>
+        <span class="mini-chip mono">/roll</span>
+        <span class="mini-chip mono">/translate</span>
+        <span class="mini-chip mono">/briefing</span>
+      </div>
+    </div>
+
+    <div class="bento-cell reveal" style="--d:.05s">
+      <div class="cell-icon">🌐</div>
+      <h3>{{f2.title}}</h3>
+      <p>{{f2.body}}</p>
+    </div>
+
+    <div class="bento-cell reveal" style="--d:.1s">
+      <div class="cell-icon">💬</div>
+      <h3>{{f3.title}}</h3>
+      <p>{{f3.body}}</p>
+    </div>
+
+    <div class="bento-cell reveal" style="--d:.1s">
+      <div class="cell-icon">🔒</div>
+      <h3>{{f4.title}}</h3>
+      <p>{{f4.body}}</p>
+    </div>
+
+    <div class="bento-cell reveal" style="--d:.05s">
+      <div class="cell-icon">🗝️</div>
+      <h3>{{f5.title}}</h3>
+      <p>{{f5.body}}</p>
+    </div>
+
+    <div class="bento-cell reveal" style="--d:.1s">
+      <div class="cell-icon">👥</div>
+      <h3>{{f6.title}}</h3>
+      <p>{{f6.body}}</p>
+    </div>
+
+    <div class="bento-cell reveal" style="--d:.15s">
+      <div class="cell-icon">⚡</div>
+      <h3>{{f7.title}}</h3>
+      <p>{{f7.body}}</p>
+    </div>
+
+    <div class="bento-cell reveal" style="--d:.1s">
+      <div class="cell-icon">🍱</div>
+      <h3>{{f8.title}}</h3>
+      <p>{{f8.body}}</p>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════ HOW IT WORKS ══════════════ -->
+<section class="section section-alt" id="how">
+  <div class="section-head reveal">
+    <p class="eyebrow mono">{{how.eyebrow}}</p>
+    <h2>{{how.title}}</h2>
+  </div>
+  <div class="steps">
+    <div class="step reveal">
+      <span class="step-num mono">01</span>
+      <h3>{{s1.title}}</h3>
+      <p>{{s1.body}}</p>
+    </div>
+    <div class="step reveal" style="--d:.08s">
+      <span class="step-num mono">02</span>
+      <h3>{{s2.title}}</h3>
+      <p>{{s2.body}}</p>
+    </div>
+    <div class="step reveal" style="--d:.16s">
+      <span class="step-num mono">03</span>
+      <h3>{{s3.title}}</h3>
+      <p>{{s3.body}} <a href="{{base}}guides/run-local-ai-models-on-mac/">{{s3.read}}</a>.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════ PRIVACY ══════════════ -->
+<section class="section" id="privacy">
+  <div class="privacy-band reveal">
+    <p class="eyebrow mono light">{{nav.privacy}}</p>
+    <h2 class="light">{{privacy.title}}</h2>
+    <p class="privacy-sub">{{privacy.sub}}</p>
+    <div class="privacy-path">
+      <span class="path-label mono">{{privacy.pathlabel}}</span>
+      <code class="path mono">~/.mlx-serve/</code>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════ REQUIREMENTS ══════════════ -->
+<section class="section section-alt" id="requirements">
+  <div class="section-head reveal">
+    <p class="eyebrow mono">{{req.eyebrow}}</p>
+    <h2>{{req.title}}</h2>
+  </div>
+  <div class="req-grid">
+    <div class="req-card reveal">
+      <h3>{{req.hw.title}}</h3>
+      <ul>
+        <li>{{req.hw.l1}}</li>
+        <li>{{req.hw.l2}}</li>
+        <li>{{req.hw.l3}}</li>
+        <li>{{req.hw.l4}}</li>
+      </ul>
+    </div>
+    <div class="req-card reveal" style="--d:.08s">
+      <h3>{{req.sw.title}}</h3>
+      <ul>
+        <li>{{req.sw.l1}}</li>
+        <li>{{req.sw.l2}}</li>
+        <li>{{req.sw.l3}}</li>
+      </ul>
+    </div>
+  </div>
+  <p class="note mono reveal">{{req.note}}</p>
+</section>
+
+<!-- ══════════════ FAQ ══════════════ -->
+<section class="section" id="faq">
+  <div class="section-head reveal">
+    <p class="eyebrow mono">{{nav.faq}}</p>
+    <h2>{{faq.title}}</h2>
+  </div>
+  <div class="faq">
+    <details class="faq-item reveal">
+      <summary>{{faq.q1.q}}</summary>
+      <p>{{faq.q1.a}}</p>
+    </details>
+    <details class="faq-item reveal">
+      <summary>{{faq.q2.q}}</summary>
+      <p>{{faq.q2.a}}</p>
+    </details>
+    <details class="faq-item reveal">
+      <summary>{{faq.q3.q}}</summary>
+      <p>{{faq.q3.a}}</p>
+    </details>
+    <details class="faq-item reveal">
+      <summary>{{faq.q4.q}}</summary>
+      <p>{{faq.q4.a}}</p>
+    </details>
+    <details class="faq-item reveal">
+      <summary>{{faq.q5.q}}</summary>
+      <p>{{faq.q5.a}}</p>
+    </details>
+    <details class="faq-item reveal">
+      <summary>{{faq.q6.q}}</summary>
+      <p>{{faq.q6.a}}</p>
+    </details>
+    <details class="faq-item reveal">
+      <summary>{{faq.q7.q}}</summary>
+      <p>{{faq.q7.a}}</p>
+    </details>
+    <details class="faq-item reveal">
+      <summary>{{faq.q8.q}}</summary>
+      <p>{{faq.q8.a}}</p>
+    </details>
+    <details class="faq-item reveal">
+      <summary>{{faq.q9.q}}</summary>
+      <p>{{faq.q9.a}}</p>
+    </details>
+  </div>
+</section>
+
+<!-- ══════════════ DOWNLOAD ══════════════ -->
+<section class="section" id="download">
+  <div class="download-band reveal">
+    <h2>{{dl.title}}</h2>
+    <p class="download-sub">{{dl.sub}}</p>
+    <div class="download-cta">
+      <div class="hero-icon">
+        <img src="{{base}}assets/app-logo.png" alt="Telebot AI app icon" width="64" height="64">
+      </div>
+      <a class="btn btn-primary btn-xl" id="download-btn"
+         href="https://qingbo93.github.io/telebot-ai-landing/downloads/Telebot-AI-1.0.2.dmg">
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0l-4.5-4.5M12 15l4.5-4.5M4 20h16"/></svg>
+        {{dl.cta}}
+      </a>
+    </div>
+    <div class="download-meta mono">
+      <span id="meta-version">v1.0.2</span>
+      <span class="dot">·</span>
+      <span id="meta-size">31.1 MB</span>
+      <span class="dot">·</span>
+      <span>Apple Silicon</span>
+      <span class="dot">·</span>
+      <a id="meta-checksum" href="#" data-sha="8967bb879b2cbd252de998ecc5711b3c88b13774394b8b3e643d1111e44c430b" title="{{dl.sha.title}}" class="checksum-link">SHA-256</a>
+    </div>
+    <p class="download-note mono">macOS 13+ · <a href="{{base}}#requirements">{{hero.req}}</a> ·
+      <a href="{{base}}#faq">{{nav.faq}}</a></p>
+    <div class="download-bmc">
+      <a class="btn btn-coffee btn-sm" href="https://buymeacoffee.com/abeaverscart" target="_blank" rel="noopener">{{footer.bmc}}</a>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════ FEEDBACK ══════════════ -->
+<section class="section" id="feedback">
+  <div class="section-head reveal">
+    <p class="eyebrow mono">{{fb.eyebrow}}</p>
+    <h2>{{fb.title}}</h2>
+  </div>
+  <div class="feedback-wrap">
+    <div class="feedback-pitch reveal">
+      <div class="cell-icon">💡</div>
+      <h3>{{fb.pitch.title}}</h3>
+      <p>{{fb.pitch.body}}</p>
+      <ul class="pitch-list">
+        <li>{{fb.pitch.l1}}</li>
+        <li>{{fb.pitch.l2}}</li>
+      </ul>
+    </div>
+    <form id="feedback-form" class="feedback-card reveal" style="--d:.08s" novalidate>
+      <div class="f-field">
+        <label for="f-name">{{fb.name}} <span class="f-opt">{{fb.opt}}</span></label>
+        <input type="text" id="f-name" name="name" placeholder="{{fb.name.ph}}" maxlength="80" autocomplete="name">
+      </div>
+      <div class="f-field">
+        <label for="f-email">{{fb.email}} <span class="f-opt">{{fb.opt}}</span></label>
+        <input type="email" id="f-email" name="email" placeholder="{{fb.email.ph}}" maxlength="120" autocomplete="email">
+      </div>
+      <div class="f-field">
+        <label for="f-message">{{fb.msg}}</label>
+        <textarea id="f-message" name="message" placeholder="{{fb.msg.ph}}" rows="4" maxlength="4000" required></textarea>
+      </div>
+      <input type="text" id="f-honey" name="honey" class="honey" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <div class="f-actions">
+        <button type="submit" class="btn btn-primary" id="f-submit">{{footer.feedback}}</button>
+        <p class="f-status" id="f-status" role="status"></p>
+      </div>
+      <p class="f-note">{{fb.note}}</p>
+    </form>
+  </div>
+</section>
+
+<!-- ══════════════ FOOTER ══════════════ -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <span class="brand-mark"><img src="{{base}}assets/app-logo.png" alt="Telebot AI logo"></span>
+      <span class="brand-name">Telebot AI</span>
+    </div>
+    <p class="footer-tag">{{footer.tag}}</p>
+    <div class="footer-links">
+      <a href="{{base}}#download">{{nav.download}}</a>
+      <a href="{{base}}changelog/">{{nav.changelog}}</a>
+      <a href="{{base}}guides/">{{nav.guides}}</a>
+      <a href="{{base}}docs/">{{nav.docs}}</a>
+      <a href="{{base}}#features">{{nav.features}}</a>
+      <a href="{{base}}#how">{{nav.how}}</a>
+      <a href="{{base}}#privacy">{{nav.privacy}}</a>
+      <a href="{{base}}#faq">{{nav.faq}}</a>
+      <a href="{{base}}#feedback">{{footer.feedback}}</a>
+    </div>
+    <div class="footer-bmc">
+      <a class="btn btn-coffee btn-sm" href="https://buymeacoffee.com/abeaverscart" target="_blank" rel="noopener">{{footer.bmc}}</a>
+    </div>
+    <p class="footer-more">{{footer.brand}} · <a href="https://abeaverscart.ca/" target="_blank" rel="noopener">{{footer.projects}}</a></p>
+    <p class="footer-copy">© <span id="year">2026</span> {{footer.copy}}</p>
+  </div>
+</footer>
+
+{{js-i18n}}
+<script src="{{base}}app.js?v=20"></script>
+</body>
+</html>

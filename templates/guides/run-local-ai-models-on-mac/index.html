@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="{{htmllang}}" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ga.meta.title}}</title>
+  <meta name="description" content="{{ga.meta.description}}">
+  <link rel="canonical" href="{{canonical}}">
+  {{hreflang}}
+  <meta property="og:title" content="{{ga.og.title}}">
+  <meta property="og:description" content="{{ga.og.description}}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{canonical}}">
+  <meta property="og:site_name" content="Telebot AI">
+  <meta property="og:locale" content="{{oglocale}}">
+  <meta property="og:image" content="https://telebot.abeaverscart.ca/assets/og-image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ga.og.title}}">
+  <meta name="twitter:description" content="{{ga.twitter.description}}">
+  <meta name="twitter:image" content="https://telebot.abeaverscart.ca/assets/og-image.png">
+  <meta name="theme-color" content="#f5f5f7">
+  <link rel="icon" href="{{base}}assets/favicon.png">
+  <link rel="apple-touch-icon" href="{{base}}assets/apple-touch-icon.png">
+  <link rel="manifest" href="{{base}}assets/site.webmanifest">
+  <link rel="stylesheet" href="{{base}}style.css?v=26">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    "headline": {{json:ga.title}},
+    "description": {{json:ga.meta.description}},
+    "datePublished": "2026-08-13",
+    "dateModified": "2026-08-13",
+    "author": { "@type": "Organization", "name": "Telebot AI", "url": "{{rootcanonical}}" },
+    "publisher": { "@type": "Organization", "name": "Telebot AI", "url": "{{rootcanonical}}" },
+    "mainEntityOfPage": "{{canonical}}"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Telebot AI", "item": "{{rootcanonical}}" },
+      { "@type": "ListItem", "position": 2, "name": {{json:nav.guides}}, "item": "{{rootcanonical}}guides/" },
+      { "@type": "ListItem", "position": 3, "name": {{json:ga.title}}, "item": "{{canonical}}" }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+<!-- ══════════════ NAV ══════════════ -->
+<nav id="nav">
+  <div class="nav-inner">
+    <a class="brand" href="{{base}}">
+      <span class="brand-mark"><img src="{{base}}assets/app-logo.png" alt="Telebot AI logo"></span>
+      <span class="brand-name">Telebot AI</span>
+    </a>
+    <div class="nav-links">
+      <a href="{{base}}#features">{{nav.features}}</a>
+      <a href="{{base}}#how">{{nav.how}}</a>
+      <a href="{{base}}#privacy">{{nav.privacy}}</a>
+      <a href="{{base}}#faq">{{nav.faq}}</a>
+      <a href="{{base}}guides/" aria-current="page">{{nav.guides}}</a>
+      <a href="{{base}}docs/">{{nav.docs}}</a>
+      <a href="{{base}}changelog/">{{nav.changelog}}</a>
+    </div>
+    <div class="nav-actions">
+      {{langswitcher}}
+      <button id="theme-toggle" class="theme-toggle" aria-label="{{nav.theme}}" title="{{nav.theme}}">
+        <svg class="icon-sun" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.4M12 19.1v2.4M2.5 12h2.4M19.1 12h2.4M5.3 5.3l1.7 1.7M17 17l1.7 1.7M18.7 5.3L17 7M7 17l-1.7 1.7"/></svg>
+        <svg class="icon-moon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11z"/></svg>
+      </button>
+      <a class="btn btn-primary btn-sm" href="{{base}}#download">{{nav.download}}</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ══════════════ ARTICLE ══════════════ -->
+<article class="section guide" id="top">
+  <p class="eyebrow mono">{{ga.eyebrow}}</p>
+  <h1>{{ga.title}}</h1>
+  <p class="guide-lede">{{ga.lede}}</p>
+
+  <h2>{{ga.why.title}}</h2>
+  <p>{{ga.why.lead}}</p>
+  <ul>
+    <li>{{ga.why.l1}}</li>
+    <li>{{ga.why.l2}}</li>
+    <li>{{ga.why.l3}}</li>
+  </ul>
+  <p>{{ga.why.tradeoff}}</p>
+
+  <h2>{{ga.ways.title}}</h2>
+
+  <h3>{{ga.mlx.title}}</h3>
+  <p>{{ga.mlx.body}}</p>
+  <pre class="mono">pip install mlx-serve
+mlx-serve</pre>
+
+  <h3>{{ga.ollama.title}}</h3>
+  <p>{{ga.ollama.body}}</p>
+  <pre class="mono">brew install ollama
+ollama pull llama3.1
+ollama serve</pre>
+
+  <h3>{{ga.lm.title}}</h3>
+  <p>{{ga.lm.body}}</p>
+
+  <h2>{{ga.ram.title}}</h2>
+  <p>{{ga.ram.body}}</p>
+  <table class="guide-table">
+    <thead>
+      <tr><th>{{ga.ram.h1}}</th><th>{{ga.ram.h2}}</th><th>{{ga.ram.h3}}</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>8 GB</td><td>{{ga.ram.r1c2}}</td><td>Qwen 2.5 1.5B, Llama 3.2 3B</td></tr>
+      <tr><td>16 GB</td><td>{{ga.ram.r2c2}}</td><td>Llama 3.1 8B, Qwen 2.5 7B, Gemma 2 9B</td></tr>
+      <tr><td>32 GB</td><td>{{ga.ram.r3c2}}</td><td>Qwen 2.5 14B, Llama 3.3 70B (quantized)</td></tr>
+      <tr><td>64 GB+</td><td>{{ga.ram.r4c2}}</td><td>Qwen 2.5 32B, Mixtral 8x7B, Llama 3.3 70B</td></tr>
+    </tbody>
+  </table>
+  <p>{{ga.ram.rule}}</p>
+
+  <h2>{{ga.connect.title}}</h2>
+  <p>{{ga.connect.b1}}</p>
+  <p>{{ga.connect.b2}}</p>
+
+  <p class="guide-end"><a href="{{base}}#download" class="btn btn-primary btn-lg">{{dl.cta}}</a></p>
+</article>
+
+<!-- ══════════════ FOOTER ══════════════ -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <span class="brand-mark"><img src="{{base}}assets/app-logo.png" alt="Telebot AI logo"></span>
+      <span class="brand-name">Telebot AI</span>
+    </div>
+    <p class="footer-tag">{{footer.tag}}</p>
+    <div class="footer-links">
+      <a href="{{base}}#download">{{nav.download}}</a>
+      <a href="{{base}}changelog/">{{nav.changelog}}</a>
+      <a href="{{base}}guides/">{{nav.guides}}</a>
+      <a href="{{base}}docs/">{{nav.docs}}</a>
+      <a href="{{base}}#features">{{nav.features}}</a>
+      <a href="{{base}}#how">{{nav.how}}</a>
+      <a href="{{base}}#privacy">{{nav.privacy}}</a>
+      <a href="{{base}}#faq">{{nav.faq}}</a>
+      <a href="{{base}}#feedback">{{footer.feedback}}</a>
+    </div>
+    <div class="footer-bmc">
+      <a class="btn btn-coffee btn-sm" href="https://buymeacoffee.com/abeaverscart" target="_blank" rel="noopener">{{footer.bmc}}</a>
+    </div>
+    <p class="footer-more">{{footer.brand}} · <a href="https://abeaverscart.ca/" target="_blank" rel="noopener">{{footer.projects}}</a></p>
+    <p class="footer-copy">© <span id="year">2026</span> {{footer.copy}}</p>
+  </div>
+</footer>
+
+{{js-i18n}}
+<script src="{{base}}app.js?v=20"></script>
+</body>
+</html>

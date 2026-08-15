@@ -1,0 +1,2349 @@
+{
+ "languages": [
+  "en",
+  "zh",
+  "es",
+  "ja",
+  "de"
+ ],
+ "strings": {
+  "nav.features": {
+   "en": "Features",
+   "zh": "功能",
+   "es": "Funciones",
+   "ja": "機能",
+   "de": "Funktionen"
+  },
+  "nav.how": {
+   "en": "How it works",
+   "zh": "工作原理",
+   "es": "Cómo funciona",
+   "ja": "仕組み",
+   "de": "So funktioniert's"
+  },
+  "nav.privacy": {
+   "en": "Privacy",
+   "zh": "隐私",
+   "es": "Privacidad",
+   "ja": "プライバシー",
+   "de": "Datenschutz"
+  },
+  "nav.faq": {
+   "en": "FAQ",
+   "zh": "常见问题",
+   "es": "FAQ",
+   "ja": "FAQ",
+   "de": "FAQ"
+  },
+  "nav.guides": {
+   "en": "Guides",
+   "zh": "指南",
+   "es": "Guías",
+   "ja": "ガイド",
+   "de": "Guides"
+  },
+  "nav.docs": {
+   "en": "Docs",
+   "zh": "文档",
+   "es": "Docs",
+   "ja": "ドキュメント",
+   "de": "Doku"
+  },
+  "nav.changelog": {
+   "en": "Changelog",
+   "zh": "更新日志",
+   "es": "Novedades",
+   "ja": "更新履歴",
+   "de": "Changelog"
+  },
+  "nav.download": {
+   "en": "Download",
+   "zh": "下载",
+   "es": "Descargar",
+   "ja": "ダウンロード",
+   "de": "Download"
+  },
+  "nav.theme": {
+   "en": "Toggle dark mode",
+   "zh": "切换深色模式",
+   "es": "Cambiar a modo oscuro",
+   "ja": "ダークモードに切り替え",
+   "de": "Dunkelmodus umschalten"
+  },
+  "nav.language": {
+   "en": "Language",
+   "zh": "语言",
+   "es": "Idioma",
+   "ja": "言語",
+   "de": "Sprache"
+  },
+  "footer.tag": {
+   "en": "Bridge your Telegram bots to any AI — local or cloud.",
+   "zh": "把您的 Telegram 机器人连接到任意 AI —— 本地或云端。",
+   "es": "Conecta tus bots de Telegram a cualquier IA — local o en la nube.",
+   "ja": "Telegram ボットをあらゆる AI に接続 — ローカルでもクラウドでも。",
+   "de": "Verbinde deine Telegram-Bots mit jeder KI — lokal oder in der Cloud."
+  },
+  "footer.feedback": {
+   "en": "Send feedback",
+   "zh": "发送反馈",
+   "es": "Enviar comentarios",
+   "ja": "フィードバックを送信",
+   "de": "Feedback senden"
+  },
+  "footer.bmc": {
+   "en": "☕ Buy me a coffee",
+   "zh": "☕ 请我喝杯咖啡",
+   "es": "☕ Invítame a un café",
+   "ja": "☕ コーヒーを奢る",
+   "de": "☕ Spendier mir einen Kaffee"
+  },
+  "footer.brand": {
+   "en": "A Beaver's Cart",
+   "zh": "A Beaver's Cart",
+   "es": "A Beaver's Cart",
+   "ja": "A Beaver's Cart",
+   "de": "A Beaver's Cart"
+  },
+  "footer.projects": {
+   "en": "check out our other projects →",
+   "zh": "看看我们的其他项目 →",
+   "es": "mira nuestros otros proyectos →",
+   "ja": "他のプロジェクトもチェック →",
+   "de": "schau dir unsere anderen Projekte an →"
+  },
+  "footer.copy": {
+   "en": "Telebot AI · Made for the Mac · Your data stays yours.",
+   "zh": "Telebot AI · 为 Mac 打造 · 您的数据始终属于您。",
+   "es": "Telebot AI · Hecho para el Mac · Tus datos son tuyos.",
+   "ja": "Telebot AI · Mac のために作られました · データはあなたのもの。",
+   "de": "Telebot AI · Für den Mac gemacht · Deine Daten gehören dir."
+  },
+  "meta.title": {
+   "en": "Telebot AI — Private Telegram AI Assistant for macOS",
+   "zh": "Telebot AI —— 适用于 macOS 的私人 Telegram AI 助手",
+   "es": "Telebot AI — Asistente de IA privado para Telegram en macOS",
+   "ja": "Telebot AI — macOS 向けプライベート Telegram AI アシスタント",
+   "de": "Telebot AI — Privater Telegram-KI-Assistent für macOS"
+  },
+  "meta.description": {
+   "en": "Telebot AI bridges your Telegram bots to any LLM — local models on your Mac or cloud AI from OpenAI, Anthropic, Groq and more. Free, private, local-first. Download the macOS app.",
+   "zh": "Telebot AI 将您的 Telegram 机器人连接到任意大语言模型 —— Mac 上的本地模型，或 OpenAI、Anthropic、Groq 等云端 AI。免费、私密、本地优先。下载 macOS 应用。",
+   "es": "Telebot AI conecta tus bots de Telegram a cualquier LLM — modelos locales en tu Mac o IA en la nube de OpenAI, Anthropic, Groq y más. Gratis, privado y local-first. Descarga la app para macOS.",
+   "ja": "Telebot AI は Telegram ボットをあらゆる LLM に接続します — Mac 上のローカルモデル、または OpenAI、Anthropic、Groq などのクラウド AI。無料・プライベート・ローカルファースト。macOS アプリをダウンロード。",
+   "de": "Telebot AI verbindet deine Telegram-Bots mit jedem LLM — lokale Modelle auf deinem Mac oder Cloud-KI von OpenAI, Anthropic, Groq und mehr. Kostenlos, privat, lokal-first. Lade die macOS-App herunter."
+  },
+  "og.description": {
+   "en": "Bridge your Telegram bots to any LLM — local models on your Mac or cloud AI from OpenAI, Anthropic, Groq and more. Free, local-first, entirely yours.",
+   "zh": "将您的 Telegram 机器人连接到任意大语言模型 —— Mac 上的本地模型，或 OpenAI、Anthropic、Groq 等云端 AI。免费、本地优先、完全属于您。",
+   "es": "Conecta tus bots de Telegram a cualquier LLM — modelos locales en tu Mac o IA en la nube de OpenAI, Anthropic, Groq y más. Gratis, local-first, totalmente tuyo.",
+   "ja": "Telegram ボットをあらゆる LLM に接続 — Mac 上のローカルモデル、または OpenAI、Anthropic、Groq などのクラウド AI。無料・ローカルファースト・すべてあなたのもの。",
+   "de": "Verbinde deine Telegram-Bots mit jedem LLM — lokale Modelle auf deinem Mac oder Cloud-KI von OpenAI, Anthropic, Groq und mehr. Kostenlos, lokal-first, ganz deins."
+  },
+  "og.image.alt": {
+   "en": "Telebot AI — bridge your Telegram bots to any LLM, local or cloud",
+   "zh": "Telebot AI —— 将您的 Telegram 机器人连接到任意大语言模型，本地或云端",
+   "es": "Telebot AI — conecta tus bots de Telegram a cualquier LLM, local o en la nube",
+   "ja": "Telebot AI — Telegram ボットをあらゆる LLM に接続、ローカルでもクラウドでも",
+   "de": "Telebot AI — verbinde deine Telegram-Bots mit jedem LLM, lokal oder in der Cloud"
+  },
+  "twitter.description": {
+   "en": "Bridge your Telegram bots to any LLM — local models on your Mac or cloud AI. Free, private, local-first.",
+   "zh": "将您的 Telegram 机器人连接到任意大语言模型 —— Mac 上的本地模型或云端 AI。免费、私密、本地优先。",
+   "es": "Conecta tus bots de Telegram a cualquier LLM — modelos locales en tu Mac o IA en la nube. Gratis, privado y local-first.",
+   "ja": "Telegram ボットをあらゆる LLM に接続 — Mac 上のローカルモデルまたはクラウド AI。無料・プライベート・ローカルファースト。",
+   "de": "Verbinde deine Telegram-Bots mit jedem LLM — lokale Modelle auf deinem Mac oder Cloud-KI. Kostenlos, privat, lokal-first."
+  },
+  "hero.eyebrow": {
+   "en": "⌘ Free · Runs entirely on your Mac",
+   "zh": "⌘ 免费 · 完全在您的 Mac 上运行",
+   "es": "⌘ Gratis · Funciona por completo en tu Mac",
+   "ja": "⌘ 無料 · すべて Mac 上で完結",
+   "de": "⌘ Kostenlos · Läuft komplett auf deinem Mac"
+  },
+  "hero.title": {
+   "en": "Your own AI,<br>living <span class=\"grad\">in your chat</span>",
+   "zh": "属于您自己的 AI，<br>就住在<span class=\"grad\">您的聊天里</span>",
+   "es": "Tu propia IA,<br>viviendo <span class=\"grad\">en tu chat</span>",
+   "ja": "あなただけの AI が、<br><span class=\"grad\">チャットの中</span>で暮らす",
+   "de": "Deine eigene KI,<br>die <span class=\"grad\">in deinem Chat</span> lebt"
+  },
+  "hero.sub": {
+   "en": "Telebot AI bridges your Telegram bots to any LLM — local models running on your Mac, or cloud AI from OpenAI, Anthropic, Groq and more. One bridge, every chat, entirely yours.",
+   "zh": "Telebot AI 将您的 Telegram 机器人连接到任意大语言模型 —— 本地模型在您的 Mac 上运行，或使用 OpenAI、Anthropic、Groq 等云端 AI。一座桥梁，连接每一个聊天，完全属于您。",
+   "es": "Telebot AI conecta tus bots de Telegram a cualquier LLM — modelos locales que corren en tu Mac, o IA en la nube de OpenAI, Anthropic, Groq y más. Un puente, todos tus chats, totalmente tuyo.",
+   "ja": "Telebot AI は Telegram ボットをあらゆる LLM に接続します — Mac で動くローカルモデル、または OpenAI、Anthropic、Groq などのクラウド AI。1つの橋で、すべてのチャットが、すべてあなたのものに。",
+   "de": "Telebot AI verbindet deine Telegram-Bots mit jedem LLM — lokale Modelle, die auf deinem Mac laufen, oder Cloud-KI von OpenAI, Anthropic, Groq und mehr. Eine Brücke, jeder Chat, ganz deins."
+  },
+  "hero.download": {
+   "en": "Download for macOS",
+   "zh": "下载 macOS 版",
+   "es": "Descargar para macOS",
+   "ja": "macOS 版をダウンロード",
+   "de": "Für macOS herunterladen"
+  },
+  "hero.see": {
+   "en": "See what it does",
+   "zh": "看看它能做什么",
+   "es": "Ver qué hace",
+   "ja": "できることを見る",
+   "de": "Was es kann"
+  },
+  "hero.req": {
+   "en": "requirements",
+   "zh": "系统要求",
+   "es": "requisitos",
+   "ja": "システム要件",
+   "de": "Systemanforderungen"
+  },
+  "mockup.msg1": {
+   "en": "remind me to water the plants at 6pm 🌱",
+   "zh": "下午 6 点提醒我给植物浇水 🌱",
+   "es": "recuérdame regar las plantas a las 6pm 🌱",
+   "ja": "午後6時に植物の水やりをリマインドして 🌱",
+   "de": "erinnere mich um 18 Uhr daran, die Pflanzen zu gießen 🌱"
+  },
+  "mockup.msg2": {
+   "en": "Done — watering plants 🌱 at 18:00. I'll ping you when it's time.",
+   "zh": "好的 —— 已设置 🌱 18:00 给植物浇水，到时间我会提醒您。",
+   "es": "Listo — regar las plantas 🌱 a las 18:00. Te aviso cuando llegue la hora.",
+   "ja": "了解しました — 🌱 18:00 に植物の水やりを設定しました。時間になったらお知らせします。",
+   "de": "Erledigt — Pflanzen gießen 🌱 um 18:00. Ich melde mich, wenn es so weit ist."
+  },
+  "mockup.rc.title": {
+   "en": "Water the plants",
+   "zh": "给植物浇水",
+   "es": "Regar las plantas",
+   "ja": "植物の水やり",
+   "de": "Pflanzen gießen"
+  },
+  "mockup.rc.time": {
+   "en": "today · 18:00",
+   "zh": "今天 · 18:00",
+   "es": "hoy · 18:00",
+   "ja": "今日 · 18:00",
+   "de": "heute · 18:00"
+  },
+  "mockup.dice": {
+   "en": "You rolled a <strong>3</strong> 🎲",
+   "zh": "您掷出了 <strong>3</strong> 🎲",
+   "es": "Sacaste un <strong>3</strong> 🎲",
+   "ja": "<strong>3</strong> が出ました 🎲",
+   "de": "Du hast eine <strong>3</strong> gewürfelt 🎲"
+  },
+  "mockup.msg4": {
+   "en": "Would an M5 Mac beat an RTX 4090 for local AI?",
+   "zh": "M5 Mac 跑本地 AI 能打过 RTX 4090 吗？",
+   "es": "¿Un Mac M5 le gana a una RTX 4090 en IA local?",
+   "ja": "M5 Mac はローカル AI で RTX 4090 に勝てる？",
+   "de": "Schlägt ein M5-Mac eine RTX 4090 bei lokaler KI?"
+  },
+  "mockup.msg5": {
+   "en": "Short version: depends on the job —",
+   "zh": "简短回答：取决于任务 ——",
+   "es": "Respuesta corta: depende del trabajo —",
+   "ja": "短く答えると：作業次第 —",
+   "de": "Kurzfassung: kommt auf die Aufgabe an —"
+  },
+  "mockup.cmp.call": {
+   "en": "Call",
+   "zh": "结论",
+   "es": "Veredicto",
+   "ja": "結論",
+   "de": "Fazit"
+  },
+  "mockup.cmp.m5": {
+   "en": "128GB unified memory — fits models a 4090 can't even load",
+   "zh": "128GB 统一内存 —— 能装下 4090 根本加载不了的模型",
+   "es": "128GB de memoria unificada — carga modelos que la 4090 ni siquiera puede abrir",
+   "ja": "128GB のユニファイドメモリ — 4090 では読み込めないモデルも搭載可能",
+   "de": "128 GB Unified Memory — lädt Modelle, die eine 4090 nicht mal öffnen kann"
+  },
+  "mockup.cmp.rtx": {
+   "en": "faster tokens, but capped at 24GB VRAM",
+   "zh": "生成速度更快，但显存上限 24GB",
+   "es": "más tokens por segundo, pero limitada a 24GB de VRAM",
+   "ja": "トークン生成は速いが、VRAM は 24GB まで",
+   "de": "schnellere Tokens, aber bei 24 GB VRAM Schluss"
+  },
+  "mockup.cmp.verdict": {
+   "en": "M5 wins for big models &amp; memory — 4090 for pure speed",
+   "zh": "大模型与内存方面 M5 胜出 —— 纯速度选 4090",
+   "es": "M5 gana en modelos grandes y memoria — la 4090 en velocidad pura",
+   "ja": "大規模モデルとメモリなら M5 — 純粋な速度なら 4090",
+   "de": "M5 gewinnt bei großen Modellen & Speicher — 4090 bei reiner Geschwindigkeit"
+  },
+  "jsonld.offer": {
+   "en": "Free to download and use. Bring your own model provider (local or cloud).",
+   "zh": "免费下载和使用。自带模型服务商（本地或云端）。",
+   "es": "Gratis de descargar y usar. Trae tu propio proveedor de modelos (local o en la nube).",
+   "ja": "無料でダウンロード・利用可能。モデルプロバイダー（ローカルまたはクラウド）はご自身で用意。",
+   "de": "Kostenlos herunterzuladen und zu nutzen. Bring deinen eigenen Modellanbieter mit (lokal oder Cloud)."
+  },
+  "mockup.justnow": {
+   "en": "just now",
+   "zh": "刚刚",
+   "es": "ahora mismo",
+   "ja": "たった今",
+   "de": "gerade eben"
+  },
+  "strip.label": {
+   "en": "Bring your own brain — local models or any cloud AI",
+   "zh": "自带大脑 —— 本地模型或任意云端 AI",
+   "es": "Trae tu propio cerebro — modelos locales o cualquier IA en la nube",
+   "ja": "頭脳はお好みで — ローカルモデルでもあらゆるクラウド AI でも",
+   "de": "Bring dein eigenes Gehirn mit — lokale Modelle oder jede Cloud-KI"
+  },
+  "features.title": {
+   "en": "Everything your assistant<br>should just do.",
+   "zh": "您的助手应该<br>什么都会。",
+   "es": "Todo lo que tu asistente<br>debería hacer solo.",
+   "ja": "アシスタントなら、<br>これくらいは当然。",
+   "de": "Alles, was dein Assistent<br>einfach können sollte."
+  },
+  "f1.title": {
+   "en": "30+ tools, model-driven",
+   "zh": "30+ 模型驱动工具",
+   "es": "30+ herramientas, dirigidas por el modelo",
+   "ja": "30+ のモデル駆動ツール",
+   "de": "30+ Tools, modellgesteuert"
+  },
+  "f1.body": {
+   "en": "Reminders, weather, stocks, crypto, polls, dice, expenses, habits, bookmarks, RSS feeds, translation, currency, PDFs &amp; receipt scanning, memory, digests and briefings — the model picks the tool, no commands to memorize.",
+   "zh": "提醒、天气、股票、加密货币、投票、骰子、记账、习惯、书签、RSS 订阅、翻译、货币、PDF 与收据扫描、记忆、摘要与简报 —— 由模型挑选工具，无需记忆任何命令。",
+   "es": "Recordatorios, clima, acciones, cripto, encuestas, dados, gastos, hábitos, marcadores, fuentes RSS, traducción, divisas, escaneo de PDF y recibos, memoria, resúmenes e informes — el modelo elige la herramienta, sin comandos que memorizar.",
+   "ja": "リマインダー、天気、株、暗号資産、投票、ダイス、家計簿、習慣、ブックマーク、RSS、翻訳、通貨、PDF・レシートのスキャン、メモリー、ダイジェスト、ブリーフィング — ツールはモデルが選ぶので、コマンドを覚える必要はありません。",
+   "de": "Erinnerungen, Wetter, Aktien, Crypto, Umfragen, Würfel, Ausgaben, Gewohnheiten, Lesezeichen, RSS-Feeds, Übersetzung, Währungen, PDF- & Belegscan, Gedächtnis, Digests und Briefings — das Modell wählt das Tool, keine Befehle zum Auswendiglernen."
+  },
+  "f2.title": {
+   "en": "Local or cloud",
+   "zh": "本地或云端",
+   "es": "Local o en la nube",
+   "ja": "ローカルでもクラウドでも",
+   "de": "Lokal oder Cloud"
+  },
+  "f2.body": {
+   "en": "Run fully offline with mlx-serve or Ollama on your own Mac — or plug in any cloud AI: OpenAI, Anthropic, Groq, OpenRouter. Stack several as automatic fallbacks so the bot keeps talking even if one goes down.",
+   "zh": "用您 Mac 上的 mlx-serve 或 Ollama 完全离线运行 —— 或接入任意云端 AI：OpenAI、Anthropic、Groq、OpenRouter。可以叠加多个作为自动备用，即使一个服务宕机，机器人也能继续对话。",
+   "es": "Funciona 100% offline con mlx-serve u Ollama en tu propio Mac — o conecta cualquier IA en la nube: OpenAI, Anthropic, Groq, OpenRouter. Apila varias como respaldo automático para que el bot siga hablando aunque una falle.",
+   "ja": "自分の Mac の mlx-serve や Ollama で完全オフライン運用 — または OpenAI、Anthropic、Groq、OpenRouter などあらゆるクラウド AI を接続。複数を自動フォールバックとして重ねれば、1つが落ちてもボットは話し続けます。",
+   "de": "Komplett offline mit mlx-serve oder Ollama auf deinem eigenen Mac — oder schließe jede Cloud-KI an: OpenAI, Anthropic, Groq, OpenRouter. Staple mehrere als automatische Fallbacks, damit der Bot weiterredet, auch wenn einer ausfällt."
+  },
+  "f3.title": {
+   "en": "Telegram-native",
+   "zh": "Telegram 原生体验",
+   "es": "Nativo de Telegram",
+   "ja": "Telegram ネイティブ",
+   "de": "Telegram-nativ"
+  },
+  "f3.body": {
+   "en": "Streaming replies, typing dots, animated dice, native polls, voice notes in and out. Feels like chatting with a friend — not a dashboard.",
+   "zh": "流式回复、正在输入提示、动画骰子、原生投票、语音消息收发。就像和朋友聊天 —— 而不是操作面板。",
+   "es": "Respuestas en streaming, indicador de escritura, dados animados, encuestas nativas y notas de voz de ida y vuelta. Se siente como chatear con un amigo — no como un panel de control.",
+   "ja": "ストリーミング返信、入力中インジケーター、アニメーションダイス、ネイティブ投票、音声メモの送受信。ダッシュボードではなく、友達とチャットしている感覚。",
+   "de": "Streaming-Antworten, Tipp-Punkte, animierte Würfel, native Umfragen, Sprachnachrichten rein und raus. Fühlt sich an wie Chatten mit einem Freund — nicht wie ein Dashboard."
+  },
+  "f4.title": {
+   "en": "Local-first privacy",
+   "zh": "本地优先的隐私",
+   "es": "Privacidad local-first",
+   "ja": "ローカルファーストのプライバシー",
+   "de": "Lokal-first Datenschutz"
+  },
+  "f4.body": {
+   "en": "Conversation history, memory and skills live in <code class=\"mono\">~/.mlx-serve</code> on your Mac. Nothing leaves your machine unless you point it at a remote model.",
+   "zh": "对话记录、记忆和技能都存放在您 Mac 上的 <code class=\"mono\">~/.mlx-serve</code> 中。除非您指定远程模型，否则任何数据都不会离开您的电脑。",
+   "es": "El historial, la memoria y las habilidades viven en <code class=\"mono\">~/.mlx-serve</code> en tu Mac. Nada sale de tu máquina a menos que tú lo apuntes a un modelo remoto.",
+   "ja": "会話履歴・メモリー・スキルはすべて Mac 上の <code class=\"mono\">~/.mlx-serve</code> に保存。リモートモデルを指定しない限り、データがマシンの外に出ることはありません。",
+   "de": "Verlauf, Gedächtnis und Fähigkeiten leben in <code class=\"mono\">~/.mlx-serve</code> auf deinem Mac. Nichts verlässt deinen Rechner, außer du zeigst auf ein Remote-Modell."
+  },
+  "f5.title": {
+   "en": "Keyless data sources",
+   "zh": "无需密钥的数据源",
+   "es": "Fuentes de datos sin claves",
+   "ja": "キー不要のデータソース",
+   "de": "Datenquellen ohne Schlüssel"
+  },
+  "f5.body": {
+   "en": "Weather &amp; air quality, currency rates (ECB), Wikipedia, SEC filings, RSS — all fetched with zero API keys. No sign-ups, no rate-limit dashboards.",
+   "zh": "天气与空气质量、货币汇率（ECB）、Wikipedia、SEC 文件、RSS —— 全部零 API 密钥获取。无需注册，没有限流面板。",
+   "es": "Clima y calidad del aire, divisas (BCE), Wikipedia, documentos SEC, RSS — todo sin claves de API. Sin registros, sin paneles de límites.",
+   "ja": "天気と大気質、為替レート（ECB）、Wikipedia、SEC 提出書類、RSS — すべて API キーなしで取得。登録もレート制限ダッシュボードも不要です。",
+   "de": "Wetter & Luftqualität, Wechselkurse (EZB), Wikipedia, SEC-Einreichungen, RSS — alles ohne API-Keys. Keine Anmeldungen, keine Rate-Limit-Dashboards."
+  },
+  "f6.title": {
+   "en": "Multi-bot mode",
+   "zh": "多机器人模式",
+   "es": "Modo multi-bot",
+   "ja": "マルチボットモード",
+   "de": "Multi-Bot-Modus"
+  },
+  "f6.body": {
+   "en": "One token per bot. Run several assistants with different models, personalities and skills — side by side, from a single Mac.",
+   "zh": "每个机器人一个令牌。在一台 Mac 上并排运行多个拥有不同模型、个性和技能的助手。",
+   "es": "Un token por bot. Ejecuta varios asistentes con distintos modelos, personalidades y habilidades — lado a lado, desde un solo Mac.",
+   "ja": "ボット1つにつきトークン1つ。異なるモデル・性格・スキルを持つ複数のアシスタントを、1台の Mac で並行稼働できます。",
+   "de": "Ein Token pro Bot. Betreibe mehrere Assistenten mit unterschiedlichen Modellen, Persönlichkeiten und Fähigkeiten — nebeneinander, von einem einzigen Mac."
+  },
+  "f7.title": {
+   "en": "Agentic extras",
+   "zh": "智能代理扩展",
+   "es": "Extras de agente",
+   "ja": "エージェント機能",
+   "de": "Agenten-Extras"
+  },
+  "f7.body": {
+   "en": "Price alerts, nightly auto-memory with pruning, weekly reviews and a morning briefing at 08:00. Your assistant keeps working while you sleep.",
+   "zh": "价格提醒、带修剪的夜间自动记忆、每周回顾和早上 08:00 的晨间简报。您睡觉时，助手也在工作。",
+   "es": "Alertas de precio, memoria automática nocturna con poda, revisiones semanales y un resumen matutino a las 08:00. Tu asistente sigue trabajando mientras duermes.",
+   "ja": "価格アラート、整理つき夜間自動メモリー、週次レビュー、朝 08:00 のモーニングブリーフィング。あなたが眠っている間もアシスタントは働き続けます。",
+   "de": "Preisalarme, nächtliches Auto-Gedächtnis mit Bereinigung, Wochenrückblicke und ein Morgen-Briefing um 08:00. Dein Assistent arbeitet weiter, während du schläfst."
+  },
+  "f8.title": {
+   "en": "Menu bar control",
+   "zh": "菜单栏控制",
+   "es": "Control desde la barra de menús",
+   "ja": "メニューバーで操作",
+   "de": "Steuerung per Menüleiste"
+  },
+  "f8.body": {
+   "en": "Start, stop, restart, open settings or tail the logs — all from the menu bar. The bot runs as a LaunchAgent, always on, out of your way.",
+   "zh": "启动、停止、重启、打开设置或查看日志 —— 全部在菜单栏完成。机器人以 LaunchAgent 方式运行，常驻后台，不打扰您。",
+   "es": "Iniciar, detener, reiniciar, abrir ajustes o ver los registros — todo desde la barra de menús. El bot corre como LaunchAgent, siempre activo y fuera de tu camino.",
+   "ja": "起動・停止・再起動・設定を開く・ログを追う — すべてメニューバーから。ボットは LaunchAgent として常時稼働し、邪魔になりません。",
+   "de": "Starten, stoppen, neu starten, Einstellungen öffnen oder Logs ansehen — alles aus der Menüleiste. Der Bot läuft als LaunchAgent, immer an, nie im Weg."
+  },
+  "how.eyebrow": {
+   "en": "Getting started",
+   "zh": "快速上手",
+   "es": "Primeros pasos",
+   "ja": "はじめに",
+   "de": "Erste Schritte"
+  },
+  "how.title": {
+   "en": "Up and running in two minutes.",
+   "zh": "两分钟即可开始使用。",
+   "es": "En marcha en dos minutos.",
+   "ja": "2分でセットアップ完了。",
+   "de": "In zwei Minuten einsatzbereit."
+  },
+  "s1.title": {
+   "en": "Download the .dmg",
+   "zh": "下载 .dmg",
+   "es": "Descarga el .dmg",
+   "ja": ".dmg をダウンロード",
+   "de": "Lade die .dmg herunter"
+  },
+  "s1.body": {
+   "en": "Open it and drag <strong>Telebot AI</strong> into Applications. The build isn't notarized yet, so if macOS shows a warning, right-click (Control-click) the app and choose <em>Open</em> — once, and it launches normally from then on.",
+   "zh": "打开并拖动 <strong>Telebot AI</strong> 到「应用程序」文件夹。由于构建尚未公证，如果 macOS 弹出警告，请右键（Control-点击）应用并选择<em>打开</em> —— 只需一次，之后即可正常启动。",
+   "es": "Ábrelo y arrastra <strong>Telebot AI</strong> a Aplicaciones. El build no está notarizado todavía, así que si macOS muestra un aviso, haz clic derecho (Control-clic) en la app y elige <em>Abrir</em> — una vez, y desde entonces se abre con normalidad.",
+   "ja": "開いて <strong>Telebot AI</strong> をアプリケーションフォルダへドラッグ。まだ公証されていないため、macOS に警告が出たらアプリを右クリック（Control クリック）して<em>開く</em>を選択 — 1回だけで、以後は通常どおり起動します。",
+   "de": "Öffne sie und ziehe <strong>Telebot AI</strong> in den Programme-Ordner. Der Build ist noch nicht notarisiert; wenn macOS eine Warnung zeigt, klicke mit rechts (Control-Klick) auf die App und wähle <em>Öffnen</em> — einmal, danach startet sie normal."
+  },
+  "s2.title": {
+   "en": "Create your bot",
+   "zh": "创建您的机器人",
+   "es": "Crea tu bot",
+   "ja": "ボットを作成",
+   "de": "Erstelle deinen Bot"
+  },
+  "s2.body": {
+   "en": "Message <code class=\"mono\">@BotFather</code> on Telegram, get a token, and paste it into the settings window. One token per bot — run as many as you like.",
+   "zh": "在 Telegram 上给 <code class=\"mono\">@BotFather</code> 发消息，获取令牌并粘贴到设置窗口。每个机器人一个令牌 —— 想运行多少都可以。",
+   "es": "Envía un mensaje a <code class=\"mono\">@BotFather</code> en Telegram, consigue un token y pégalo en la ventana de ajustes. Un token por bot — ejecuta los que quieras.",
+   "ja": "Telegram で <code class=\"mono\">@BotFather</code> にメッセージを送り、トークンを取得して設定ウィンドウに貼り付けます。ボット1つにつきトークン1つ — 好きなだけ作れます。",
+   "de": "Schreibe <code class=\"mono\">@BotFather</code> auf Telegram, hol dir einen Token und füge ihn ins Einstellungsfenster ein. Ein Token pro Bot — so viele, wie du willst."
+  },
+  "s3.title": {
+   "en": "Connect a brain",
+   "zh": "连接大脑",
+   "es": "Conecta un cerebro",
+   "ja": "頭脳を接続",
+   "de": "Verbinde ein Gehirn"
+  },
+  "s3.body": {
+   "en": "Point it at mlx-serve, Ollama, LM Studio — or any API provider. Add fallbacks and the bot keeps talking even if one model goes down. New to local models?",
+   "zh": "指向 mlx-serve、Ollama、LM Studio —— 或任意 API 服务商。添加备用服务后，即使某个模型宕机，机器人也能继续对话。本地模型新手？",
+   "es": "Apunta a mlx-serve, Ollama, LM Studio — o a cualquier proveedor de API. Añade respaldos y el bot seguirá hablando aunque un modelo falle. ¿Nuevo con los modelos locales?",
+   "ja": "mlx-serve、Ollama、LM Studio — または任意の API プロバイダーを指定。フォールバックを追加すれば、1つのモデルが落ちてもボットは話し続けます。ローカルモデルは初めて？",
+   "de": "Zeig auf mlx-serve, Ollama, LM Studio — oder jeden API-Anbieter. Füge Fallbacks hinzu und der Bot redet weiter, auch wenn ein Modell ausfällt. Neu bei lokalen Modellen?"
+  },
+  "s3.read": {
+   "en": "Read the guide",
+   "zh": "阅读指南",
+   "es": "Lee la guía",
+   "ja": "ガイドを読む",
+   "de": "Lies den Guide"
+  },
+  "privacy.title": {
+   "en": "Your conversations never<br>leave your Mac.",
+   "zh": "您的对话永远不会<br>离开您的 Mac。",
+   "es": "Tus conversaciones nunca<br>salen de tu Mac.",
+   "ja": "会話が Mac の外に<br>出ることはありません。",
+   "de": "Deine Gespräche verlassen<br>nie deinen Mac."
+  },
+  "privacy.sub": {
+   "en": "No cloud account. No telemetry. No training on your chats. Every message, memory and skill lives in one folder you own.",
+   "zh": "没有云账户。没有遥测。不会用您的聊天记录做训练。每条消息、记忆和技能都存放在您拥有的一整个文件夹里。",
+   "es": "Sin cuenta en la nube. Sin telemetría. Sin entrenar con tus chats. Cada mensaje, recuerdo y habilidad vive en una carpeta que es tuya.",
+   "ja": "クラウドアカウントなし。テレメトリーなし。チャットでの学習なし。すべてのメッセージ・メモリー・スキルは、あなたが所有する1つのフォルダに保存されます。",
+   "de": "Kein Cloud-Konto. Keine Telemetrie. Kein Training mit deinen Chats. Jede Nachricht, jede Erinnerung und jede Fähigkeit lebt in einem Ordner, der dir gehört."
+  },
+  "privacy.pathlabel": {
+   "en": "everything lives in",
+   "zh": "所有数据存放在",
+   "es": "todo vive en",
+   "ja": "すべてはここに保存",
+   "de": "alles lebt in"
+  },
+  "req.eyebrow": {
+   "en": "Requirements",
+   "zh": "系统要求",
+   "es": "Requisitos",
+   "ja": "システム要件",
+   "de": "Systemanforderungen"
+  },
+  "req.title": {
+   "en": "Built for the Mac.",
+   "zh": "为 Mac 而生。",
+   "es": "Hecho para el Mac.",
+   "ja": "Mac のために作られた。",
+   "de": "Für den Mac gebaut."
+  },
+  "req.hw.title": {
+   "en": "Hardware &amp; OS",
+   "zh": "硬件与系统",
+   "es": "Hardware y sistema",
+   "ja": "ハードウェアと OS",
+   "de": "Hardware & OS"
+  },
+  "req.hw.l1": {
+   "en": "macOS 13 (Ventura) or later",
+   "zh": "macOS 13（Ventura）或更高版本",
+   "es": "macOS 13 (Ventura) o posterior",
+   "ja": "macOS 13（Ventura）以降",
+   "de": "macOS 13 (Ventura) oder neuer"
+  },
+  "req.hw.l2": {
+   "en": "Apple Silicon — M1 or newer",
+   "zh": "Apple Silicon —— M1 或更新",
+   "es": "Apple Silicon — M1 o más nuevo",
+   "ja": "Apple Silicon — M1 以降",
+   "de": "Apple Silicon — M1 oder neuer"
+  },
+  "req.hw.l3": {
+   "en": "Local models like RAM: the bigger the better",
+   "zh": "本地模型吃内存：越大越好",
+   "es": "A los modelos locales les gusta la RAM: cuanta más, mejor",
+   "ja": "ローカルモデルはメモリが命：多いほど良い",
+   "de": "Lokale Modelle lieben RAM: je mehr, desto besser"
+  },
+  "req.hw.l4": {
+   "en": "No GPU needed — MLX uses the Neural Engine",
+   "zh": "无需 GPU —— MLX 使用神经网络引擎",
+   "es": "No hace falta GPU — MLX usa el Neural Engine",
+   "ja": "GPU 不要 — MLX は Neural Engine を使用",
+   "de": "Keine GPU nötig — MLX nutzt die Neural Engine"
+  },
+  "req.sw.title": {
+   "en": "Software",
+   "zh": "软件",
+   "es": "Software",
+   "ja": "ソフトウェア",
+   "de": "Software"
+  },
+  "req.sw.l1": {
+   "en": "A Telegram account &amp; bot token from <code class=\"mono\">@BotFather</code>",
+   "zh": "一个 Telegram 账户和来自 <code class=\"mono\">@BotFather</code> 的机器人令牌",
+   "es": "Una cuenta de Telegram y un token de bot de <code class=\"mono\">@BotFather</code>",
+   "ja": "Telegram アカウントと <code class=\"mono\">@BotFather</code> のボットトークン",
+   "de": "Ein Telegram-Konto & Bot-Token von <code class=\"mono\">@BotFather</code>"
+  },
+  "req.sw.l2": {
+   "en": "Any OpenAI-compatible backend — local or cloud",
+   "zh": "任意 OpenAI 兼容后端 —— 本地或云端",
+   "es": "Cualquier backend compatible con OpenAI — local o en la nube",
+   "ja": "OpenAI 互換のバックエンド — ローカルでもクラウドでも",
+   "de": "Jedes OpenAI-kompatible Backend — lokal oder Cloud"
+  },
+  "req.sw.l3": {
+   "en": "Optional: mlx-serve, Ollama or LM Studio for fully offline AI",
+   "zh": "可选：mlx-serve、Ollama 或 LM Studio 实现完全离线 AI",
+   "es": "Opcional: mlx-serve, Ollama o LM Studio para IA 100% offline",
+   "ja": "任意：完全オフライン AI 用の mlx-serve、Ollama、LM Studio",
+   "de": "Optional: mlx-serve, Ollama oder LM Studio für komplett offline KI"
+  },
+  "req.note": {
+   "en": "Note: current builds are unsigned — on first launch use right-click → Open, or remove the quarantine flag with <code class=\"mono\">xattr -dr com.apple.quarantine /Applications/Telebot\\ AI.app</code>. Signed &amp; notarized builds are on the way.",
+   "zh": "注意：当前构建未签名 —— 首次启动时请右键 → 打开，或使用 <code class=\"mono\">xattr -dr com.apple.quarantine /Applications/Telebot\\ AI.app</code> 移除隔离标记。签名与公证版本即将推出。",
+   "es": "Nota: los builds actuales no están firmados — en el primer inicio usa clic derecho → Abrir, o quita la cuarentena con <code class=\"mono\">xattr -dr com.apple.quarantine /Applications/Telebot\\ AI.app</code>. Los builds firmados y notarizados están en camino.",
+   "ja": "注：現在のビルドは署名なし — 初回起動時は右クリック → 開く、または <code class=\"mono\">xattr -dr com.apple.quarantine /Applications/Telebot\\ AI.app</code> で検疫属性を削除してください。署名・公証済みビルドは準備中です。",
+   "de": "Hinweis: Aktuelle Builds sind unsigniert — beim ersten Start Rechtsklick → Öffnen, oder entferne das Quarantäne-Flag mit <code class=\"mono\">xattr -dr com.apple.quarantine /Applications/Telebot\\ AI.app</code>. Signierte & notarisierte Builds sind unterwegs."
+  },
+  "faq.title": {
+   "en": "Answers before you ask.",
+   "zh": "您想问的，先给您答案。",
+   "es": "Respuestas antes de que preguntes.",
+   "ja": "聞く前に、答えがあります。",
+   "de": "Antworten, bevor du fragst."
+  },
+  "faq.q1.q": {
+   "en": "Do I need an API key or subscription?",
+   "zh": "需要 API 密钥或订阅吗？",
+   "es": "¿Necesito una clave de API o suscripción?",
+   "ja": "API キーやサブスクリプションは必要ですか？",
+   "de": "Brauche ich einen API-Schlüssel oder ein Abo?"
+  },
+  "faq.q1.a": {
+   "en": "No. Run a local model (mlx-serve, Ollama, LM Studio) and everything is free. Data sources — weather, currency, Wikipedia, SEC filings — need no keys. Cloud APIs (OpenAI, Anthropic, Groq, OpenRouter…) are optional and bring-your-own.",
+   "zh": "不需要。运行本地模型（mlx-serve、Ollama、LM Studio）就完全免费。数据源 —— 天气、货币、Wikipedia、SEC 文件 —— 都不需要密钥。云端 API（OpenAI、Anthropic、Groq、OpenRouter…）是可选的，自带密钥即可。",
+   "es": "No. Ejecuta un modelo local (mlx-serve, Ollama, LM Studio) y todo es gratis. Las fuentes de datos — clima, divisas, Wikipedia, documentos SEC — no necesitan claves. Las APIs en la nube (OpenAI, Anthropic, Groq, OpenRouter…) son opcionales y con tus propias claves.",
+   "ja": "いいえ。ローカルモデル（mlx-serve、Ollama、LM Studio）を動かせばすべて無料です。データソース — 天気・為替・Wikipedia・SEC 提出書類 — もキー不要。クラウド API（OpenAI、Anthropic、Groq、OpenRouter…）は任意で、ご自身のキーを使用します。",
+   "de": "Nein. Betreibe ein lokales Modell (mlx-serve, Ollama, LM Studio) und alles ist kostenlos. Datenquellen — Wetter, Währungen, Wikipedia, SEC-Einreichungen — brauchen keine Keys. Cloud-APIs (OpenAI, Anthropic, Groq, OpenRouter…) sind optional und Bring-your-own."
+  },
+  "faq.q2.q": {
+   "en": "Which models can I use?",
+   "zh": "可以使用哪些模型？",
+   "es": "¿Qué modelos puedo usar?",
+   "ja": "どんなモデルが使えますか？",
+   "de": "Welche Modelle kann ich nutzen?"
+  },
+  "faq.q2.a": {
+   "en": "Anything that speaks OpenAI-compatible HTTP — from tiny local models on your Mac to frontier cloud models like OpenAI and Anthropic Claude. The settings app lets you add fallback providers, so the bot keeps answering even when one is down.",
+   "zh": "任何支持 OpenAI 兼容 HTTP 的模型 —— 从您 Mac 上的小型本地模型，到 OpenAI、Anthropic Claude 等前沿云端模型。设置应用支持添加备用服务商，即使一个宕机，机器人也能继续回答。",
+   "es": "Cualquier cosa que hable HTTP compatible con OpenAI — desde pequeños modelos locales en tu Mac hasta modelos de frontera como OpenAI y Anthropic Claude. La app de ajustes te deja añadir proveedores de respaldo, así el bot sigue respondiendo aunque uno falle.",
+   "ja": "OpenAI 互換の HTTP を話せるものであれば何でも — Mac 上の小さなローカルモデルから、OpenAI や Anthropic Claude などの最前線クラウドモデルまで。設定アプリでフォールバックプロバイダーを追加できるので、1つが落ちてもボットは答え続けます。",
+   "de": "Alles, was OpenAI-kompatibles HTTP spricht — von winzigen lokalen Modellen auf deinem Mac bis zu Spitzenmodellen wie OpenAI und Anthropic Claude. Die Einstellungen-App lässt dich Fallback-Anbieter hinzufügen, damit der Bot weiter antwortet, auch wenn einer ausfällt."
+  },
+  "faq.q3.q": {
+   "en": "Does my data leave my Mac?",
+   "zh": "我的数据会离开 Mac 吗？",
+   "es": "¿Mis datos salen de mi Mac?",
+   "ja": "データは Mac の外に出ますか？",
+   "de": "Verlassen meine Daten meinen Mac?"
+  },
+  "faq.q3.a": {
+   "en": "Your chat history, memories and skills stay in <code class=\"mono\">~/.mlx-serve</code>. The only outbound traffic is the Telegram API itself, whatever model server you choose to point the bot at, and anonymous usage stats.",
+   "zh": "您的聊天记录、记忆和技能都保存在 <code class=\"mono\">~/.mlx-serve</code>。唯一的对外流量是 Telegram API 本身、您指定的模型服务器，以及匿名使用统计。",
+   "es": "Tu historial, tus recuerdos y tus habilidades se quedan en <code class=\"mono\">~/.mlx-serve</code>. El único tráfico de salida es la API de Telegram, el servidor de modelos que elijas, y estadísticas de uso anónimas.",
+   "ja": "チャット履歴・メモリー・スキルは <code class=\"mono\">~/.mlx-serve</code> に残ります。外部への通信は Telegram API 本体と、選択したモデルサーバー、匿名の利用統計のみです。",
+   "de": "Dein Chatverlauf, deine Erinnerungen und Fähigkeiten bleiben in <code class=\"mono\">~/.mlx-serve</code>. Der einzige ausgehende Traffic ist die Telegram-API selbst, der von dir gewählte Modellserver und anonyme Nutzungsstatistiken."
+  },
+  "faq.q4.q": {
+   "en": "Do I need a powerful Mac?",
+   "zh": "需要一台性能强劲的 Mac 吗？",
+   "es": "¿Necesito un Mac potente?",
+   "ja": "高性能な Mac が必要ですか？",
+   "de": "Brauche ich einen starken Mac?"
+  },
+  "faq.q4.a": {
+   "en": "The menu bar app itself is tiny. Local models scale with your RAM — a 16&nbsp;GB M-series Mac runs small models comfortably. No Mac? Point the bot at any cloud API instead.",
+   "zh": "菜单栏应用本身非常轻量。本地模型随内存扩展 —— 16&nbsp;GB 内存的 M 系列 Mac 就能流畅运行小型模型。没有 Mac？把机器人指向任意云端 API 即可。",
+   "es": "La app de la barra de menús es diminuta. Los modelos locales escalan con tu RAM — un Mac M-series de 16&nbsp;GB corre modelos pequeños sin problema. ¿No tienes Mac? Apunta el bot a cualquier API en la nube.",
+   "ja": "メニューバーアプリ自体は非常に軽量です。ローカルモデルは RAM に比例します — 16&nbsp;GB の M シリーズ Mac で小規模モデルは余裕で動作。Mac がない？任意のクラウド API にボットを向ければ OK です。",
+   "de": "Die Menüleisten-App selbst ist winzig. Lokale Modelle skalieren mit deinem RAM — ein M-Series-Mac mit 16&nbsp;GB läuft kleine Modelle problemlos. Kein Mac? Zeig den Bot stattdessen auf eine beliebige Cloud-API."
+  },
+  "faq.q5.q": {
+   "en": "Does it work on Intel Macs?",
+   "zh": "支持 Intel Mac 吗？",
+   "es": "¿Funciona en Macs Intel?",
+   "ja": "Intel Mac で動きますか？",
+   "de": "Funktioniert es auf Intel-Macs?"
+  },
+  "faq.q5.a": {
+   "en": "Not yet — the current build is Apple Silicon only (M1 or newer). The unified-memory architecture is what lets it run big local models; an Intel build is on the roadmap.",
+   "zh": "暂时不支持 —— 当前构建仅支持 Apple Silicon（M1 或更新）。统一内存架构正是它能运行大型本地模型的原因；Intel 版已在路线图上。",
+   "es": "Todavía no — el build actual es solo Apple Silicon (M1 o más nuevo). La arquitectura de memoria unificada es lo que le permite correr modelos grandes; un build para Intel está en el roadmap.",
+   "ja": "まだです — 現在のビルドは Apple Silicon（M1 以降）のみ。ユニファイドメモリのアーキテクチャこそが大規模モデルを動かせる理由であり、Intel 版はロードマップに載っています。",
+   "de": "Noch nicht — der aktuelle Build ist nur für Apple Silicon (M1 oder neuer). Genau die Unified-Memory-Architektur ermöglicht große lokale Modelle; ein Intel-Build ist auf der Roadmap."
+  },
+  "faq.q6.q": {
+   "en": "Can I run multiple bots?",
+   "zh": "可以运行多个机器人吗？",
+   "es": "¿Puedo ejecutar varios bots?",
+   "ja": "複数のボットを動かせますか？",
+   "de": "Kann ich mehrere Bots betreiben?"
+  },
+  "faq.q6.a": {
+   "en": "Yes. Create a bot per token with @BotFather, add them all in settings, and give each one its own model, personality file and skills.",
+   "zh": "可以。用 @BotFather 为每个令牌创建一个机器人，全部添加到设置中，为每个机器人配置独立的模型、个性文件和技能。",
+   "es": "Sí. Crea un bot por token con @BotFather, añádelos todos en los ajustes, y dale a cada uno su propio modelo, archivo de personalidad y habilidades.",
+   "ja": "はい。@BotFather でトークンごとにボットを作成し、設定にすべて追加して、それぞれにモデル・性格ファイル・スキルを割り当てられます。",
+   "de": "Ja. Erstelle mit @BotFather einen Bot pro Token, füge alle in den Einstellungen hinzu und gib jedem sein eigenes Modell, seine Persönlichkeitsdatei und Fähigkeiten."
+  },
+  "faq.q7.q": {
+   "en": "How do I update the app?",
+   "zh": "如何更新应用？",
+   "es": "¿Cómo actualizo la app?",
+   "ja": "アプリはどうやって更新しますか？",
+   "de": "Wie aktualisiere ich die App?"
+  },
+  "faq.q7.a": {
+   "en": "The app checks for new versions automatically — the menu bar item and the Updates page in settings will tell you when a new build is out and link straight to the download. Or grab the latest .dmg from this page and drag it over the old app in Applications. Your settings, bots and memories live outside the app, so they carry over untouched.",
+   "zh": "应用会自动检查新版本 —— 菜单栏和设置中的「更新」页面会提示新版本并直接链接到下载。或者从本页下载最新的 .dmg，拖到「应用程序」覆盖旧版本。您的设置、机器人和记忆都保存在应用之外，更新后原样保留。",
+   "es": "La app comprueba versiones nuevas automáticamente — el elemento de la barra de menús y la página Actualizaciones de los ajustes te avisarán cuando haya un build nuevo y enlazarán directo a la descarga. O descarga el .dmg más reciente desde esta página y arrástralo sobre la app antigua en Aplicaciones. Tus ajustes, bots y recuerdos viven fuera de la app, así que se conservan intactos.",
+   "ja": "アプリは自動で新バージョンをチェックします — メニューバーの項目と設定の「アップデート」ページが新しいビルドをお知らせし、ダウンロードへ直リンクします。または、このページから最新の .dmg を入手して、アプリケーションフォルダの旧アプリにドラッグ。設定・ボット・メモリーはアプリの外にあるので、そのまま引き継がれます。",
+   "de": "Die App prüft automatisch auf neue Versionen — der Menüleisten-Eintrag und die Updates-Seite in den Einstellungen sagen dir, wenn ein neuer Build da ist, und verlinken direkt zum Download. Oder hol dir die neueste .dmg von dieser Seite und zieh sie in Programme über die alte App. Deine Einstellungen, Bots und Erinnerungen leben außerhalb der App und bleiben unangetastet."
+  },
+  "faq.q8.q": {
+   "en": "Why does macOS warn about the app?",
+   "zh": "为什么 macOS 会警告此应用？",
+   "es": "¿Por qué macOS avisa sobre la app?",
+   "ja": "なぜ macOS がこのアプリを警告するのですか？",
+   "de": "Warum warnt macOS vor der App?"
+  },
+  "faq.q8.a": {
+   "en": "Because the build isn't notarized by Apple yet — that costs money and requires a paid developer account. The warning is expected: right-click (Control-click) the app in Applications, choose <em>Open</em>, then <em>Open</em> again. One time, and it runs normally from then on.",
+   "zh": "因为构建尚未通过 Apple 公证 —— 这需要付费开发者账户。警告是正常的：右键（Control-点击）「应用程序」中的应用，选择<em>打开</em>，再选一次<em>打开</em>。只需一次，之后即可正常使用。",
+   "es": "Porque el build no está notarizado por Apple todavía — eso cuesta dinero y requiere una cuenta de desarrollador de pago. El aviso es normal: haz clic derecho (Control-clic) en la app en Aplicaciones, elige <em>Abrir</em>, y luego <em>Abrir</em> otra vez. Una sola vez, y desde entonces funciona con normalidad.",
+   "ja": "まだ Apple の公証を受けていないためです — 公証には有料の開発者アカウントが必要です。警告は正常な動作：アプリケーションフォルダのアプリを右クリック（Control クリック）して<em>開く</em>を選び、もう一度<em>開く</em>。1回だけで、以後は通常どおり動きます。",
+   "de": "Weil der Build noch nicht von Apple notarisiert ist — das kostet Geld und erfordert ein bezahltes Developer-Konto. Die Warnung ist normal: Rechtsklick (Control-Klick) auf die App in Programme, <em>Öffnen</em> wählen, dann nochmal <em>Öffnen</em>. Einmal, danach läuft sie normal."
+  },
+  "faq.q9.q": {
+   "en": "Is it really free?",
+   "zh": "真的免费吗？",
+   "es": "¿De verdad es gratis?",
+   "ja": "本当に無料ですか？",
+   "de": "Ist es wirklich kostenlos?"
+  },
+  "faq.q9.a": {
+   "en": "Yes — free to download and use. No subscriptions, no accounts. You only pay for the model provider you choose, if any.",
+   "zh": "是的 —— 免费下载、免费使用。没有订阅，没有账户。您只需要为自己选择的模型服务商付费（如果有的话）。",
+   "es": "Sí — gratis de descargar y usar. Sin suscripciones, sin cuentas. Solo pagas por el proveedor de modelos que elijas, si eliges alguno.",
+   "ja": "はい — ダウンロードも利用も無料。サブスクリプションもアカウントもありません。支払うのは、選択したモデルプロバイダーの費用だけです（利用する場合）。",
+   "de": "Ja — kostenlos zum Herunterladen und Nutzen. Keine Abos, keine Konten. Du zahlst nur für den Modellanbieter, den du wählst — falls du einen wählst."
+  },
+  "dl.title": {
+   "en": "Give your Mac a brain.<br>Put it in your pocket.",
+   "zh": "给您的 Mac 装上大脑。<br>放进您的口袋。",
+   "es": "Dale un cerebro a tu Mac.<br>Llévalo en el bolsillo.",
+   "ja": "Mac に頭脳を。<br>ポケットにも。",
+   "de": "Gib deinem Mac ein Gehirn.<br>Steck es in die Tasche."
+  },
+  "dl.sub": {
+   "en": "Download the .dmg, drag it to Applications, and say hi to your new assistant.",
+   "zh": "下载 .dmg，拖入「应用程序」，跟您的新助手打个招呼吧。",
+   "es": "Descarga el .dmg, arrástralo a Aplicaciones y saluda a tu nuevo asistente.",
+   "ja": ".dmg をダウンロードしてアプリケーションフォルダへドラッグ。新しいアシスタントに挨拶しましょう。",
+   "de": "Lade die .dmg herunter, zieh sie in Programme und sag hallo zu deinem neuen Assistenten."
+  },
+  "dl.cta": {
+   "en": "Download Telebot AI",
+   "zh": "下载 Telebot AI",
+   "es": "Descargar Telebot AI",
+   "ja": "Telebot AI をダウンロード",
+   "de": "Telebot AI herunterladen"
+  },
+  "dl.sha.title": {
+   "en": "SHA-256 checksum (click to copy)",
+   "zh": "SHA-256 校验和（点击复制）",
+   "es": "Checksum SHA-256 (clic para copiar)",
+   "ja": "SHA-256 チェックサム（クリックでコピー）",
+   "de": "SHA-256-Prüfsumme (zum Kopieren klicken)"
+  },
+  "fb.eyebrow": {
+   "en": "Feedback",
+   "zh": "反馈",
+   "es": "Comentarios",
+   "ja": "フィードバック",
+   "de": "Feedback"
+  },
+  "fb.title": {
+   "en": "Tell us what you think.",
+   "zh": "告诉我们您的想法。",
+   "es": "Cuéntanos qué piensas.",
+   "ja": "あなたの意見を聞かせてください。",
+   "de": "Sag uns, was du denkst."
+  },
+  "fb.pitch.title": {
+   "en": "We read everything.",
+   "zh": "我们每一条都会读。",
+   "es": "Leemos todo.",
+   "ja": "すべて読んでいます。",
+   "de": "Wir lesen alles."
+  },
+  "fb.pitch.body": {
+   "en": "Feature ideas, bugs, questions, a feature you wish existed — every message lands directly in the developer's Telegram and gets a real answer.",
+   "zh": "功能建议、缺陷、疑问、您希望存在的功能 —— 每条消息都会直接送达开发者的 Telegram 并得到真实回复。",
+   "es": "Ideas de funciones, bugs, preguntas, una función que ojalá existiera — cada mensaje llega directo al Telegram del desarrollador y recibe una respuesta real.",
+   "ja": "機能のアイデア、バグ、質問、あったらいいなと思う機能 — すべてのメッセージは開発者の Telegram に直接届き、実際に回答が返ってきます。",
+   "de": "Feature-Ideen, Bugs, Fragen, ein Feature, das du dir wünschst — jede Nachricht landet direkt im Telegram des Entwicklers und bekommt eine echte Antwort."
+  },
+  "fb.pitch.l1": {
+   "en": "No account needed",
+   "zh": "无需账户",
+   "es": "No hace falta cuenta",
+   "ja": "アカウント不要",
+   "de": "Kein Konto nötig"
+  },
+  "fb.pitch.l2": {
+   "en": "No spam — ever",
+   "zh": "绝无垃圾邮件",
+   "es": "Cero spam — siempre",
+   "ja": "スパムは絶対に送りません",
+   "de": "Nie Spam — versprochen"
+  },
+  "fb.name": {
+   "en": "Your name",
+   "zh": "您的姓名",
+   "es": "Tu nombre",
+   "ja": "お名前",
+   "de": "Dein Name"
+  },
+  "fb.opt": {
+   "en": "(optional)",
+   "zh": "（可选）",
+   "es": "(opcional)",
+   "ja": "（任意）",
+   "de": "(optional)"
+  },
+  "fb.email": {
+   "en": "Email",
+   "zh": "邮箱",
+   "es": "Email",
+   "ja": "メールアドレス",
+   "de": "E-Mail"
+  },
+  "fb.msg": {
+   "en": "Message",
+   "zh": "消息",
+   "es": "Mensaje",
+   "ja": "メッセージ",
+   "de": "Nachricht"
+  },
+  "fb.name.ph": {
+   "en": "Jane Doe",
+   "zh": "张三",
+   "es": "Ana García",
+   "ja": "山田 太郎",
+   "de": "Max Mustermann"
+  },
+  "fb.email.ph": {
+   "en": "jane@example.com",
+   "zh": "jane@example.com",
+   "es": "ana@ejemplo.com",
+   "ja": "taro@example.com",
+   "de": "max@beispiel.de"
+  },
+  "fb.msg.ph": {
+   "en": "Feature ideas, bugs, questions — we read everything.",
+   "zh": "功能建议、缺陷、疑问 —— 我们每一条都会读。",
+   "es": "Ideas de funciones, bugs, preguntas — leemos todo.",
+   "ja": "機能のアイデア、バグ、質問 — すべて読んでいます。",
+   "de": "Feature-Ideen, Bugs, Fragen — wir lesen alles."
+  },
+  "fb.note": {
+   "en": "Feedback goes straight to the developer's Telegram and is only used to respond. Never share passwords or API keys here.",
+   "zh": "反馈会直接发送到开发者的 Telegram，仅用于回复。请勿在此处分享密码或 API 密钥。",
+   "es": "Los comentarios llegan directos al Telegram del desarrollador y solo se usan para responder. Nunca compartas contraseñas ni claves de API aquí.",
+   "ja": "フィードバックは開発者の Telegram に直接送信され、返信にのみ使用されます。ここでパスワードや API キーを共有しないでください。",
+   "de": "Feedback geht direkt an das Telegram des Entwicklers und wird nur zum Antworten genutzt. Teile hier niemals Passwörter oder API-Keys."
+  },
+  "fb.err_short": {
+   "en": "Please write at least a sentence.",
+   "zh": "请至少写一句话。",
+   "es": "Escribe al menos una frase.",
+   "ja": "少なくとも1文書いてください。",
+   "de": "Schreib bitte mindestens einen Satz."
+  },
+  "fb.sending": {
+   "en": "Sending…",
+   "zh": "发送中…",
+   "es": "Enviando…",
+   "ja": "送信中…",
+   "de": "Wird gesendet…"
+  },
+  "fb.ok": {
+   "en": "Thanks — your message is on its way ✓",
+   "zh": "谢谢 —— 您的消息已发送 ✓",
+   "es": "Gracias — tu mensaje va en camino ✓",
+   "ja": "ありがとうございます — メッセージを送信しました ✓",
+   "de": "Danke — deine Nachricht ist unterwegs ✓"
+  },
+  "fb.err_server": {
+   "en": "Something went wrong — please try again.",
+   "zh": "出错了 —— 请重试。",
+   "es": "Algo salió mal — inténtalo de nuevo.",
+   "ja": "エラーが発生しました — もう一度お試しください。",
+   "de": "Etwas ist schiefgelaufen — bitte erneut versuchen."
+  },
+  "fb.err_network": {
+   "en": "Network error — please try again.",
+   "zh": "网络错误 —— 请重试。",
+   "es": "Error de red — inténtalo de nuevo.",
+   "ja": "ネットワークエラー — もう一度お試しください。",
+   "de": "Netzwerkfehler — bitte erneut versuchen."
+  },
+  "dl.copied": {
+   "en": "copied ✓",
+   "zh": "已复制 ✓",
+   "es": "copiado ✓",
+   "ja": "コピーしました ✓",
+   "de": "kopiert ✓"
+  },
+  "g.meta.title": {
+   "en": "Guides — Telebot AI",
+   "zh": "指南 —— Telebot AI",
+   "es": "Guías — Telebot AI",
+   "ja": "ガイド — Telebot AI",
+   "de": "Guides — Telebot AI"
+  },
+  "g.meta.description": {
+   "en": "Practical guides from Telebot AI: how to run local AI models on your Mac and put them to work in Telegram.",
+   "zh": "来自 Telebot AI 的实用指南：如何在 Mac 上运行本地 AI 模型并让它们在 Telegram 中工作。",
+   "es": "Guías prácticas de Telebot AI: cómo ejecutar modelos de IA locales en tu Mac y ponerlos a trabajar en Telegram.",
+   "ja": "Telebot AI の実践ガイド：Mac でローカル AI モデルを実行し、Telegram で活用する方法。",
+   "de": "Praktische Guides von Telebot AI: So betreibst du lokale KI-Modelle auf deinem Mac und setzt sie in Telegram ein."
+  },
+  "g.og.description": {
+   "en": "Practical guides: run local AI on your Mac and connect it to Telegram.",
+   "zh": "实用指南：在 Mac 上运行本地 AI 并连接到 Telegram。",
+   "es": "Guías prácticas: ejecuta IA local en tu Mac y conéctala a Telegram.",
+   "ja": "実践ガイド：Mac でローカル AI を実行して Telegram に接続。",
+   "de": "Praktische Guides: lokale KI auf dem Mac betreiben und mit Telegram verbinden."
+  },
+  "g.eyebrow": {
+   "en": "📖 Guides",
+   "zh": "📖 指南",
+   "es": "📖 Guías",
+   "ja": "📖 ガイド",
+   "de": "📖 Guides"
+  },
+  "g.intro": {
+   "en": "Practical walkthroughs for running your own AI.",
+   "zh": "运行您自己的 AI 的实用演练。",
+   "es": "Tutoriales prácticos para ejecutar tu propia IA.",
+   "ja": "自分だけの AI を動かすための実践チュートリアル。",
+   "de": "Praktische Anleitungen für deine eigene KI."
+  },
+  "g1.read": {
+   "en": "6 min read",
+   "zh": "阅读时长 6 分钟",
+   "es": "6 min de lectura",
+   "ja": "読了目安 6 分",
+   "de": "6 Min. Lesezeit"
+  },
+  "g1.summary": {
+   "en": "mlx-serve, Ollama &amp; LM Studio — what each one is, how much RAM your models need, and how to connect it all to Telegram.",
+   "zh": "mlx-serve、Ollama 与 LM Studio —— 它们各是什么、您的模型需要多少内存，以及如何全部接入 Telegram。",
+   "es": "mlx-serve, Ollama y LM Studio — qué es cada uno, cuánta RAM necesitan tus modelos y cómo conectarlo todo a Telegram.",
+   "ja": "mlx-serve、Ollama、LM Studio — それぞれの特徴、モデルに必要なメモリ量、そしてすべてを Telegram に接続する方法。",
+   "de": "mlx-serve, Ollama & LM Studio — was jedes ist, wie viel RAM deine Modelle brauchen und wie du alles mit Telegram verbindest."
+  },
+  "g1.cta": {
+   "en": "Read the guide →",
+   "zh": "阅读指南 →",
+   "es": "Leer la guía →",
+   "ja": "ガイドを読む →",
+   "de": "Guide lesen →"
+  },
+  "ga.meta.title": {
+   "en": "Run Local AI on Your Mac — mlx-serve, Ollama &amp; LM Studio | Telebot AI",
+   "zh": "在 Mac 上运行本地 AI —— mlx-serve、Ollama 与 LM Studio | Telebot AI",
+   "es": "Ejecuta IA local en tu Mac — mlx-serve, Ollama y LM Studio | Telebot AI",
+   "ja": "Mac でローカル AI を実行 — mlx-serve、Ollama、LM Studio | Telebot AI",
+   "de": "Lokale KI auf deinem Mac — mlx-serve, Ollama & LM Studio | Telebot AI"
+  },
+  "ga.meta.description": {
+   "en": "How to run local AI models on your Mac with mlx-serve, Ollama or LM Studio — what you need, how much RAM each model takes, and how to connect it to Telegram.",
+   "zh": "如何使用 mlx-serve、Ollama 或 LM Studio 在 Mac 上运行本地 AI 模型 —— 您需要什么、每个模型占用多少内存，以及如何连接到 Telegram。",
+   "es": "Cómo ejecutar modelos de IA locales en tu Mac con mlx-serve, Ollama o LM Studio — qué necesitas, cuánta RAM usa cada modelo y cómo conectarlo a Telegram.",
+   "ja": "mlx-serve、Ollama、LM Studio で Mac にローカル AI モデルを実行する方法 — 必要なもの、モデルごとのメモリ使用量、Telegram への接続方法。",
+   "de": "So betreibst du lokale KI-Modelle auf deinem Mac mit mlx-serve, Ollama oder LM Studio — was du brauchst, wie viel RAM jedes Modell frisst und wie du es mit Telegram verbindest."
+  },
+  "ga.og.description": {
+   "en": "A practical guide to running local AI models on your Mac: mlx-serve, Ollama, LM Studio — RAM requirements, model picks, and connecting it to Telegram.",
+   "zh": "在 Mac 上运行本地 AI 模型的实用指南：mlx-serve、Ollama、LM Studio —— 内存需求、模型选择，以及连接到 Telegram。",
+   "es": "Una guía práctica para ejecutar modelos de IA locales en tu Mac: mlx-serve, Ollama, LM Studio — requisitos de RAM, modelos recomendados y conexión a Telegram.",
+   "ja": "Mac でローカル AI モデルを実行する実践ガイド：mlx-serve、Ollama、LM Studio — メモリ要件、モデルの選び方、Telegram への接続。",
+   "de": "Ein praktischer Guide zum Betrieb lokaler KI-Modelle auf deinem Mac: mlx-serve, Ollama, LM Studio — RAM-Anforderungen, Modellauswahl und die Verbindung mit Telegram."
+  },
+  "ga.eyebrow": {
+   "en": "Guide · 6 min read",
+   "zh": "指南 · 阅读时长 6 分钟",
+   "es": "Guía · 6 min de lectura",
+   "ja": "ガイド · 読了目安 6 分",
+   "de": "Guide · 6 Min. Lesezeit"
+  },
+  "ga.title": {
+   "en": "Running local AI on your Mac",
+   "zh": "在 Mac 上运行本地 AI",
+   "es": "Ejecutando IA local en tu Mac",
+   "ja": "Mac でローカル AI を実行する",
+   "de": "Lokale KI auf deinem Mac betreiben"
+  },
+  "ga.lede": {
+   "en": "Your Mac already has everything needed to run a serious language model — no cloud, no API keys, no monthly bill. This guide covers the three easiest ways to do it, how much RAM you actually need, and how to put the model to work in Telegram.",
+   "zh": "您的 Mac 已经具备运行严肃语言模型所需的一切 —— 无需云端、无需 API 密钥、没有月费。本指南介绍三种最简单的运行方式、您实际需要多少内存，以及如何把模型接入 Telegram。",
+   "es": "Tu Mac ya tiene todo lo necesario para ejecutar un modelo de lenguaje serio — sin nube, sin claves de API, sin factura mensual. Esta guía cubre las tres formas más fáciles de hacerlo, cuánta RAM necesitas de verdad y cómo poner el modelo a trabajar en Telegram.",
+   "ja": "本格的な言語モデルを実行するために必要なものは、すでに Mac に揃っています — クラウドも API キーも月額料金も不要。このガイドでは、最も簡単な3つの方法、実際に必要なメモリ量、そしてモデルを Telegram で活用する方法を説明します。",
+   "de": "Dein Mac hat bereits alles, was ein ernsthaftes Sprachmodell braucht — keine Cloud, keine API-Keys, keine Monatsrechnung. Dieser Guide behandelt die drei einfachsten Wege, wie viel RAM du wirklich brauchst und wie du das Modell in Telegram einsetzt."
+  },
+  "ga.why.title": {
+   "en": "Why run models locally?",
+   "zh": "为什么要在本地运行模型？",
+   "es": "¿Por qué ejecutar modelos en local?",
+   "ja": "なぜローカルで実行するのか？",
+   "de": "Warum Modelle lokal betreiben?"
+  },
+  "ga.why.lead": {
+   "en": "Three reasons, in order of how often people actually care:",
+   "zh": "三个理由，按人们实际在意的程度排序：",
+   "es": "Tres razones, en orden de lo que más le importa a la gente:",
+   "ja": "3つの理由を、人々が実際に気にする順で：",
+   "de": "Drei Gründe, in der Reihenfolge, wie sehr sie die Leute wirklich interessieren:"
+  },
+  "ga.why.l1": {
+   "en": "<strong>Privacy.</strong> Your prompts and chat history never leave the machine.",
+   "zh": "<strong>隐私。</strong>您的提示词和聊天记录永远不会离开这台机器。",
+   "es": "<strong>Privacidad.</strong> Tus prompts y tu historial nunca salen de la máquina.",
+   "ja": "<strong>プライバシー。</strong>プロンプトとチャット履歴がマシンの外に出ません。",
+   "de": "<strong>Datenschutz.</strong> Deine Prompts und dein Chatverlauf verlassen nie den Rechner."
+  },
+  "ga.why.l2": {
+   "en": "<strong>It's free.</strong> No per-token pricing, no subscriptions — just electricity.",
+   "zh": "<strong>免费。</strong>没有按 token 计费，没有订阅 —— 只需电费。",
+   "es": "<strong>Es gratis.</strong> Sin precio por token, sin suscripciones — solo electricidad.",
+   "ja": "<strong>無料。</strong>トークン課金もサブスクリプションもなし — 電気代だけ。",
+   "de": "<strong>Es ist kostenlos.</strong> Keine Token-Preise, keine Abos — nur Strom."
+  },
+  "ga.why.l3": {
+   "en": "<strong>It works offline.</strong> No internet, no problem. Airplane mode included.",
+   "zh": "<strong>离线可用。</strong>没有网络也没问题。飞行模式也照常。",
+   "es": "<strong>Funciona offline.</strong> Sin internet, sin problema. Modo avión incluido.",
+   "ja": "<strong>オフラインで動作。</strong>ネットがなくても問題なし。機内モードもOK。",
+   "de": "<strong>Es funktioniert offline.</strong> Kein Internet, kein Problem. Flugmodus inklusive."
+  },
+  "ga.why.tradeoff": {
+   "en": "The trade-off is hardware: bigger models need more RAM and run slower than a top-tier cloud API. For most everyday assistant work — reminders, summaries, drafting, answering questions — a well-chosen local model is genuinely good enough.",
+   "zh": "代价是硬件：更大的模型需要更多内存，运行速度也慢于顶级云端 API。对于大多数日常助手工作 —— 提醒、摘要、起草、回答问题 —— 一个精心挑选的本地模型完全够用。",
+   "es": "La contra es el hardware: los modelos grandes necesitan más RAM y van más lentos que una API en la nube de primer nivel. Para la mayoría del trabajo cotidiano de un asistente — recordatorios, resúmenes, redacción, responder preguntas — un modelo local bien elegido es de sobra suficiente.",
+   "ja": "代償はハードウェア：大きなモデルほど多くのメモリが必要で、最上位クラウド API より遅くなります。日常的なアシスタント作業 — リマインダー、要約、下書き、質問への回答 — のほとんどでは、よく選んだローカルモデルで十分すぎるほどです。",
+   "de": "Der Preis ist Hardware: Größere Modelle brauchen mehr RAM und sind langsamer als eine Top-Cloud-API. Für die meisten alltäglichen Assistenten-Aufgaben — Erinnerungen, Zusammenfassungen, Entwürfe, Fragen beantworten — ist ein gut gewähltes lokales Modell wirklich gut genug."
+  },
+  "ga.ways.title": {
+   "en": "The three ways to run models",
+   "zh": "运行模型的三种方式",
+   "es": "Las tres formas de ejecutar modelos",
+   "ja": "モデルを実行する3つの方法",
+   "de": "Die drei Wege, Modelle zu betreiben"
+  },
+  "ga.mlx.title": {
+   "en": "mlx-serve — fastest on Apple Silicon",
+   "zh": "mlx-serve —— Apple Silicon 上最快",
+   "es": "mlx-serve — lo más rápido en Apple Silicon",
+   "ja": "mlx-serve — Apple Silicon で最速",
+   "de": "mlx-serve — am schnellsten auf Apple Silicon"
+  },
+  "ga.mlx.body": {
+   "en": "Apple's <a href=\"https://github.com/ml-explore/mlx\" rel=\"noopener\">MLX</a> framework is built specifically for Apple Silicon's unified memory, and mlx-serve is the easiest way to get an OpenAI-compatible server from it. It's the default brain for <a href=\"{{base}}\">Telebot AI</a> — start it, point the bot at <code class=\"mono\">http://localhost:11234</code>, done.",
+   "zh": "Apple 的 <a href=\"https://github.com/ml-explore/mlx\" rel=\"noopener\">MLX</a> 框架专为 Apple Silicon 的统一内存而构建，mlx-serve 是其中最轻松的 OpenAI 兼容服务器方案。它是 <a href=\"{{base}}\">Telebot AI</a> 的默认大脑 —— 启动它，把机器人指向 <code class=\"mono\">http://localhost:11234</code>，搞定。",
+   "es": "El framework <a href=\"https://github.com/ml-explore/mlx\" rel=\"noopener\">MLX</a> de Apple está construido específicamente para la memoria unificada de Apple Silicon, y mlx-serve es la forma más fácil de montar un servidor compatible con OpenAI. Es el cerebro por defecto de <a href=\"{{base}}\">Telebot AI</a> — inícialo, apunta el bot a <code class=\"mono\">http://localhost:11234</code>, listo.",
+   "ja": "Apple の <a href=\"https://github.com/ml-explore/mlx\" rel=\"noopener\">MLX</a> フレームワークは Apple Silicon のユニファイドメモリ専用に作られており、mlx-serve は OpenAI 互換サーバーを立てる最も簡単な方法です。<a href=\"{{base}}\">Telebot AI</a> のデフォルトの頭脳でもあります — 起動して、ボットを <code class=\"mono\">http://localhost:11234</code> に向けるだけ。",
+   "de": "Apples <a href=\"https://github.com/ml-explore/mlx\" rel=\"noopener\">MLX</a>-Framework ist speziell für den Unified Memory von Apple Silicon gebaut, und mlx-serve ist der einfachste Weg zu einem OpenAI-kompatiblen Server. Es ist das Standard-Gehirn von <a href=\"{{base}}\">Telebot AI</a> — starten, Bot auf <code class=\"mono\">http://localhost:11234</code> zeigen, fertig."
+  },
+  "ga.ollama.title": {
+   "en": "Ollama — one command, huge model library",
+   "zh": "Ollama —— 一条命令，海量模型库",
+   "es": "Ollama — un comando, biblioteca de modelos enorme",
+   "ja": "Ollama — 1コマンド、巨大なモデルライブラリ",
+   "de": "Ollama — ein Befehl, riesige Modellbibliothek"
+  },
+  "ga.ollama.body": {
+   "en": "Ollama is the most popular local runtime for good reason: install once, then pull any model from a large library with a single command. It also speaks the OpenAI-compatible API out of the box.",
+   "zh": "Ollama 是最受欢迎的本地运行时，原因很简单：安装一次，然后一条命令即可从庞大的模型库中拉取任意模型。它也开箱即用地支持 OpenAI 兼容 API。",
+   "es": "Ollama es el runtime local más popular por una buena razón: instálalo una vez y baja cualquier modelo de una biblioteca enorme con un solo comando. También habla la API compatible con OpenAI de serie.",
+   "ja": "Ollama が最も人気のローカルランタイムなのには理由があります：一度インストールすれば、大規模なライブラリから任意のモデルを1コマンドで取得できます。OpenAI 互換 API も標準で話せます。",
+   "de": "Ollama ist aus gutem Grund der beliebteste lokale Runtime: einmal installieren, dann mit einem einzigen Befehl jedes Modell aus einer großen Bibliothek ziehen. Es spricht auch out-of-the-box die OpenAI-kompatible API."
+  },
+  "ga.lm.title": {
+   "en": "LM Studio — point and click",
+   "zh": "LM Studio —— 点点鼠标就行",
+   "es": "LM Studio — apunta y haz clic",
+   "ja": "LM Studio — クリックするだけ",
+   "de": "LM Studio — klicken und loslegen"
+  },
+  "ga.lm.body": {
+   "en": "If you prefer a GUI, LM Studio wraps everything in a clean app: browse models, download, chat, and run a local API server — all without touching a terminal.",
+   "zh": "如果您更喜欢图形界面，LM Studio 把所有东西都装进一个干净的应用：浏览模型、下载、聊天、运行本地 API 服务器 —— 全程无需碰终端。",
+   "es": "Si prefieres una interfaz gráfica, LM Studio lo envuelve todo en una app limpia: explora modelos, descarga, chatea y ejecuta un servidor de API local — todo sin tocar la terminal.",
+   "ja": "GUI がお好みなら、LM Studio はすべてをクリーンなアプリにまとめています：モデルの閲覧、ダウンロード、チャット、ローカル API サーバーの実行 — ターミナルに触れる必要は一切ありません。",
+   "de": "Wenn du eine GUI bevorzugst, verpackt LM Studio alles in eine saubere App: Modelle durchstöbern, herunterladen, chatten und einen lokalen API-Server laufen lassen — ganz ohne Terminal."
+  },
+  "ga.ram.title": {
+   "en": "How much RAM do you need?",
+   "zh": "需要多少内存？",
+   "es": "¿Cuánta RAM necesitas?",
+   "ja": "メモリはどれくらい必要？",
+   "de": "Wie viel RAM brauchst du?"
+  },
+  "ga.ram.body": {
+   "en": "Model size is the honest answer — a 7-billion-parameter model needs roughly 5–7&nbsp;GB of memory at typical quantization, plus room for the system. Rough guide for M-series Macs:",
+   "zh": "诚实的答案是看模型大小 —— 一个 70 亿参数的模型在典型量化下大约需要 5–7&nbsp;GB 内存，还要给系统留出空间。M 系列 Mac 的粗略参考：",
+   "es": "La respuesta honesta es el tamaño del modelo — un modelo de 7 mil millones de parámetros necesita unos 5–7&nbsp;GB de memoria con cuantización típica, más espacio para el sistema. Guía aproximada para Macs M-series:",
+   "ja": "正直な答えはモデルサイズ次第 — 70億パラメータのモデルは、一般的な量子化でおよそ 5–7&nbsp;GB のメモリに加えてシステム分が必要です。M シリーズ Mac のおおよその目安：",
+   "de": "Die ehrliche Antwort ist die Modellgröße — ein Modell mit 7 Milliarden Parametern braucht bei typischer Quantisierung grob 5–7&nbsp;GB Speicher, plus Platz fürs System. Grobe Orientierung für M-Series-Macs:"
+  },
+  "ga.ram.h1": {
+   "en": "RAM",
+   "zh": "内存",
+   "es": "RAM",
+   "ja": "メモリ",
+   "de": "RAM"
+  },
+  "ga.ram.h2": {
+   "en": "Comfortable model size",
+   "zh": "适合的模型大小",
+   "es": "Tamaño de modelo cómodo",
+   "ja": "快適なモデルサイズ",
+   "de": "Bequeme Modellgröße"
+  },
+  "ga.ram.h3": {
+   "en": "Good picks",
+   "zh": "推荐选择",
+   "es": "Buenas opciones",
+   "ja": "おすすめ",
+   "de": "Gute Wahl"
+  },
+  "ga.ram.r1c2": {
+   "en": "1–3B parameters",
+   "zh": "1–3B 参数",
+   "es": "1–3B parámetros",
+   "ja": "1–3B パラメータ",
+   "de": "1–3B Parameter"
+  },
+  "ga.ram.r2c2": {
+   "en": "7–8B parameters",
+   "zh": "7–8B 参数",
+   "es": "7–8B parámetros",
+   "ja": "7–8B パラメータ",
+   "de": "7–8B Parameter"
+  },
+  "ga.ram.r3c2": {
+   "en": "13–14B parameters",
+   "zh": "13–14B 参数",
+   "es": "13–14B parámetros",
+   "ja": "13–14B パラメータ",
+   "de": "13–14B Parameter"
+  },
+  "ga.ram.r4c2": {
+   "en": "30B+ parameters",
+   "zh": "30B+ 参数",
+   "es": "30B+ parámetros",
+   "ja": "30B+ パラメータ",
+   "de": "30B+ Parameter"
+  },
+  "ga.ram.rule": {
+   "en": "Rule of thumb: pick the biggest model that fits in half your RAM — that leaves the rest for the operating system, your browser, and the bot itself.",
+   "zh": "经验法则：选择能装进一半内存的最大模型 —— 剩下的一半留给操作系统、浏览器和机器人本身。",
+   "es": "Regla práctica: elige el modelo más grande que quepa en la mitad de tu RAM — el resto queda para el sistema operativo, tu navegador y el propio bot.",
+   "ja": "経験則：RAM の半分に収まる最大のモデルを選びましょう — 残りは OS、ブラウザ、そしてボット自身のために。",
+   "de": "Faustregel: Nimm das größte Modell, das in die Hälfte deines RAM passt — den Rest brauchen Betriebssystem, Browser und der Bot selbst."
+  },
+  "ga.connect.title": {
+   "en": "Connecting it to Telegram",
+   "zh": "连接到 Telegram",
+   "es": "Conectándolo a Telegram",
+   "ja": "Telegram に接続する",
+   "de": "Mit Telegram verbinden"
+  },
+  "ga.connect.b1": {
+   "en": "Once a local server is running, any OpenAI-compatible client can use it. <a href=\"{{base}}\">Telebot AI</a> is a macOS menu bar app that bridges your Telegram bots to exactly that server — or to any cloud API — with automatic fallbacks, memory, and 30+ tools like reminders, weather and stocks.",
+   "zh": "本地服务器运行后，任何 OpenAI 兼容客户端都可以使用它。<a href=\"{{base}}\">Telebot AI</a> 是一款 macOS 菜单栏应用，把您的 Telegram 机器人连接到这台服务器 —— 或任意云端 API —— 支持自动备用、记忆，以及提醒、天气、股票等 30+ 工具。",
+   "es": "Una vez que el servidor local está corriendo, cualquier cliente compatible con OpenAI puede usarlo. <a href=\"{{base}}\">Telebot AI</a> es una app de barra de menús para macOS que conecta tus bots de Telegram exactamente a ese servidor — o a cualquier API en la nube — con respaldos automáticos, memoria y más de 30 herramientas como recordatorios, clima y acciones.",
+   "ja": "ローカルサーバーが動き出せば、OpenAI 互換クライアントなら何でも使えます。<a href=\"{{base}}\">Telebot AI</a> は、Telegram ボットをまさにそのサーバー — または任意のクラウド API — に接続する macOS メニューバーアプリです。自動フォールバック、メモリー、リマインダー・天気・株などの 30+ ツール付き。",
+   "de": "Sobald ein lokaler Server läuft, kann ihn jeder OpenAI-kompatible Client nutzen. <a href=\"{{base}}\">Telebot AI</a> ist eine macOS-Menüleisten-App, die deine Telegram-Bots genau mit diesem Server verbindet — oder mit jeder Cloud-API — inklusive automatischer Fallbacks, Gedächtnis und über 30 Tools wie Erinnerungen, Wetter und Aktien."
+  },
+  "ga.connect.b2": {
+   "en": "Getting started takes about two minutes: <a href=\"{{base}}#download\">download the app</a>, paste your <span class=\"mono\">@BotFather</span> token, and point it at <code class=\"mono\">localhost</code>. Everything — history, memories, skills — stays in <code class=\"mono\">~/.mlx-serve</code> on your Mac.",
+   "zh": "开始使用大约需要两分钟：<a href=\"{{base}}#download\">下载应用</a>，粘贴您的 <span class=\"mono\">@BotFather</span> 令牌，指向 <code class=\"mono\">localhost</code>。所有内容 —— 历史记录、记忆、技能 —— 都保存在您 Mac 上的 <code class=\"mono\">~/.mlx-serve</code>。",
+   "es": "Empezar toma unos dos minutos: <a href=\"{{base}}#download\">descarga la app</a>, pega tu token de <span class=\"mono\">@BotFather</span> y apunta a <code class=\"mono\">localhost</code>. Todo — historial, recuerdos, habilidades — se queda en <code class=\"mono\">~/.mlx-serve</code> en tu Mac.",
+   "ja": "セットアップは約2分：<a href=\"{{base}}#download\">アプリをダウンロード</a>して <span class=\"mono\">@BotFather</span> のトークンを貼り付け、<code class=\"mono\">localhost</code> を指定するだけ。履歴・メモリー・スキルはすべて Mac 上の <code class=\"mono\">~/.mlx-serve</code> に残ります。",
+   "de": "Der Start dauert etwa zwei Minuten: <a href=\"{{base}}#download\">App herunterladen</a>, dein <span class=\"mono\">@BotFather</span>-Token einfügen und auf <code class=\"mono\">localhost</code> zeigen. Alles — Verlauf, Erinnerungen, Fähigkeiten — bleibt in <code class=\"mono\">~/.mlx-serve</code> auf deinem Mac."
+  },
+  "d.meta.title": {
+   "en": "Documentation — Telebot AI",
+   "zh": "文档 —— Telebot AI",
+   "es": "Documentación — Telebot AI",
+   "ja": "ドキュメント — Telebot AI",
+   "de": "Dokumentation — Telebot AI"
+  },
+  "d.meta.description": {
+   "en": "Telebot AI documentation: quick start, the menu bar app, every setting explained (Model, Telegram, App, Skills, Registry, Updates), skills &amp; features, data &amp; privacy, and troubleshooting.",
+   "zh": "Telebot AI 文档：快速上手、菜单栏应用、每个设置的说明（模型、Telegram、应用、技能与功能、技能库、更新）、技能与功能、数据与隐私，以及故障排查。",
+   "es": "Documentación de Telebot AI: inicio rápido, la app de la barra de menús, cada ajuste explicado (Modelo, Telegram, App, Habilidades, Registro, Actualizaciones), habilidades y funciones, datos y privacidad, y solución de problemas.",
+   "ja": "Telebot AI ドキュメント：クイックスタート、メニューバーアプリ、全設定の解説（モデル、Telegram、アプリ、スキル、レジストリ、アップデート）、スキルと機能、データとプライバシー、トラブルシューティング。",
+   "de": "Telebot AI-Dokumentation: Schnellstart, die Menüleisten-App, jede Einstellung erklärt (Modell, Telegram, App, Fähigkeiten, Register, Updates), Fähigkeiten & Funktionen, Daten & Datenschutz und Fehlerbehebung."
+  },
+  "d.og.description": {
+   "en": "Every feature and setting of Telebot AI, explained: quick start, settings reference, skills, privacy and troubleshooting.",
+   "zh": "Telebot AI 的每个功能与设置详解：快速上手、设置参考、技能、隐私和故障排查。",
+   "es": "Cada función y ajuste de Telebot AI, explicado: inicio rápido, referencia de ajustes, habilidades, privacidad y solución de problemas.",
+   "ja": "Telebot AI の全機能・全設定を解説：クイックスタート、設定リファレンス、スキル、プライバシー、トラブルシューティング。",
+   "de": "Jede Funktion und Einstellung von Telebot AI, erklärt: Schnellstart, Einstellungsreferenz, Fähigkeiten, Datenschutz und Fehlerbehebung."
+  },
+  "d.eyebrow": {
+   "en": "📚 Documentation",
+   "zh": "📚 文档",
+   "es": "📚 Documentación",
+   "ja": "📚 ドキュメント",
+   "de": "📚 Dokumentation"
+  },
+  "d.title": {
+   "en": "Every feature, every setting.",
+   "zh": "每个功能，每个设置。",
+   "es": "Cada función, cada ajuste.",
+   "ja": "すべての機能、すべての設定。",
+   "de": "Jede Funktion, jede Einstellung."
+  },
+  "d.lede": {
+   "en": "Everything the app does and every setting it has — written for the version you're running. From the menu bar to the skills registry, this is the whole manual.",
+   "zh": "应用能做的一切、它拥有的每一个设置 —— 针对您正在运行的版本编写。从菜单栏到技能库，这是完整的使用手册。",
+   "es": "Todo lo que hace la app y cada ajuste que tiene — escrito para la versión que estás ejecutando. De la barra de menús al registro de habilidades, este es el manual completo.",
+   "ja": "アプリができることと持っている設定のすべて — 実行中のバージョンに合わせて書かれています。メニューバーからスキルレジストリまで、完全なマニュアルです。",
+   "de": "Alles, was die App tut, und jede Einstellung, die sie hat — geschrieben für die Version, die du gerade verwendest. Von der Menüleiste bis zum Fähigkeiten-Register: das ist das komplette Handbuch."
+  },
+  "d.toc.title": {
+   "en": "On this page",
+   "zh": "本页内容",
+   "es": "En esta página",
+   "ja": "このページの内容",
+   "de": "Auf dieser Seite"
+  },
+  "d.toc.model": {
+   "en": "Model tab",
+   "zh": "模型标签页",
+   "es": "Pestaña Modelo",
+   "ja": "モデルタブ",
+   "de": "Modell-Tab"
+  },
+  "d.toc.telegram": {
+   "en": "Telegram tab",
+   "zh": "Telegram 标签页",
+   "es": "Pestaña Telegram",
+   "ja": "Telegram タブ",
+   "de": "Telegram-Tab"
+  },
+  "d.toc.app": {
+   "en": "App tab",
+   "zh": "应用标签页",
+   "es": "Pestaña App",
+   "ja": "アプリタブ",
+   "de": "App-Tab"
+  },
+  "d.qs.title": {
+   "en": "Quick start",
+   "zh": "快速上手",
+   "es": "Inicio rápido",
+   "ja": "クイックスタート",
+   "de": "Schnellstart"
+  },
+  "d.qs.l1": {
+   "en": "<strong>Install.</strong> Download the .dmg, drag <em>Telebot AI</em> into Applications. The build isn't notarized yet, so if macOS shows a warning, right-click (Control-click) the app and choose <em>Open</em> — once.",
+   "zh": "<strong>安装。</strong>下载 .dmg，把 <em>Telebot AI</em> 拖入「应用程序」。由于构建尚未公证，如果 macOS 弹出警告，请右键（Control-点击）应用并选择<em>打开</em> —— 一次即可。",
+   "es": "<strong>Instala.</strong> Descarga el .dmg y arrastra <em>Telebot AI</em> a Aplicaciones. El build no está notarizado todavía, así que si macOS muestra un aviso, haz clic derecho (Control-clic) en la app y elige <em>Abrir</em> — una vez.",
+   "ja": "<strong>インストール。</strong>.dmg をダウンロードし、<em>Telebot AI</em> をアプリケーションフォルダへドラッグ。まだ公証されていないため、macOS に警告が出たらアプリを右クリック（Control クリック）して<em>開く</em>を選択 — 1回だけです。",
+   "de": "<strong>Installieren.</strong> Lade die .dmg herunter und ziehe <em>Telebot AI</em> in Programme. Der Build ist noch nicht notarisiert; wenn macOS eine Warnung zeigt, klicke mit rechts (Control-Klick) auf die App und wähle <em>Öffnen</em> — einmal."
+  },
+  "d.qs.l2": {
+   "en": "<strong>Create a bot.</strong> Message <span class=\"mono\">@BotFather</span> on Telegram, run <span class=\"mono\">/newbot</span>, and copy the token. One token per bot — you can run several.",
+   "zh": "<strong>创建机器人。</strong>在 Telegram 上给 <span class=\"mono\">@BotFather</span> 发消息，运行 <span class=\"mono\">/newbot</span>，复制令牌。每个机器人一个令牌 —— 您可以运行多个。",
+   "es": "<strong>Crea un bot.</strong> Envía un mensaje a <span class=\"mono\">@BotFather</span> en Telegram, ejecuta <span class=\"mono\">/newbot</span> y copia el token. Un token por bot — puedes ejecutar varios.",
+   "ja": "<strong>ボットを作成。</strong>Telegram で <span class=\"mono\">@BotFather</span> にメッセージを送り、<span class=\"mono\">/newbot</span> を実行してトークンをコピー。ボット1つにつきトークン1つ — 複数実行できます。",
+   "de": "<strong>Einen Bot erstellen.</strong> Schreibe <span class=\"mono\">@BotFather</span> auf Telegram, führe <span class=\"mono\">/newbot</span> aus und kopiere den Token. Ein Token pro Bot — du kannst mehrere betreiben."
+  },
+  "d.qs.l3": {
+   "en": "<strong>Add the token.</strong> Open Telebot AI from the menu bar, open Settings, and paste the token into a bot's <em>Token</em> field. It's saved the moment you type — there's no Save button.",
+   "zh": "<strong>添加令牌。</strong>从菜单栏打开 Telebot AI，打开设置，把令牌粘贴到机器人页面的<em>令牌</em>字段。输入即保存 —— 没有保存按钮。",
+   "es": "<strong>Añade el token.</strong> Abre Telebot AI desde la barra de menús, abre Ajustes y pega el token en el campo <em>Token</em> del bot. Se guarda en cuanto escribes — no hay botón de guardar.",
+   "ja": "<strong>トークンを追加。</strong>メニューバーから Telebot AI を開き、設定を開いて、ボットの<em>トークン</em>フィールドに貼り付けます。入力した瞬間に保存されます — 保存ボタンはありません。",
+   "de": "<strong>Token hinzufügen.</strong> Öffne Telebot AI aus der Menüleiste, öffne die Einstellungen und füge den Token in das <em>Token</em>-Feld eines Bots ein. Er wird gespeichert, sobald du tippst — es gibt keinen Speichern-Button."
+  },
+  "d.qs.l4": {
+   "en": "<strong>Connect a brain.</strong> In the <em>Model</em> tab, set the server URL (<span class=\"mono\">http://localhost:11234</span> for mlx-serve, <span class=\"mono\">http://localhost:11434</span> for Ollama) and model name, or use any OpenAI-compatible cloud API. Hit <em>Test</em> to check the connection.",
+   "zh": "<strong>连接大脑。</strong>在<em>模型</em>标签页设置服务器 URL（mlx-serve 用 <span class=\"mono\">http://localhost:11234</span>，Ollama 用 <span class=\"mono\">http://localhost:11434</span>）和模型名称，或使用任意 OpenAI 兼容云端 API。点击<em>测试</em>检查连接。",
+   "es": "<strong>Conecta un cerebro.</strong> En la pestaña <em>Modelo</em>, configura la URL del servidor (<span class=\"mono\">http://localhost:11234</span> para mlx-serve, <span class=\"mono\">http://localhost:11434</span> para Ollama) y el nombre del modelo, o usa cualquier API en la nube compatible con OpenAI. Pulsa <em>Probar</em> para comprobar la conexión.",
+   "ja": "<strong>頭脳を接続。</strong><em>モデル</em>タブでサーバー URL（mlx-serve は <span class=\"mono\">http://localhost:11234</span>、Ollama は <span class=\"mono\">http://localhost:11434</span>）とモデル名を設定するか、任意の OpenAI 互換クラウド API を使用。<em>テスト</em>で接続を確認します。",
+   "de": "<strong>Ein Gehirn verbinden.</strong> Setze im <em>Modell</em>-Tab die Server-URL (<span class=\"mono\">http://localhost:11234</span> für mlx-serve, <span class=\"mono\">http://localhost:11434</span> für Ollama) und den Modellnamen, oder nutze eine beliebige OpenAI-kompatible Cloud-API. Drücke <em>Testen</em>, um die Verbindung zu prüfen."
+  },
+  "d.qs.l5": {
+   "en": "<strong>Start the bot.</strong> Back in the menu bar, choose <em>Start bot</em>. Message your bot on Telegram — it answers from that moment on.",
+   "zh": "<strong>启动机器人。</strong>回到菜单栏，选择<em>启动机器人</em>。在 Telegram 上给您的机器人发消息 —— 从那一刻起它就会回答。",
+   "es": "<strong>Inicia el bot.</strong> Vuelve a la barra de menús y elige <em>Iniciar bot</em>. Envía un mensaje a tu bot en Telegram — responde desde ese momento.",
+   "ja": "<strong>ボットを起動。</strong>メニューバーに戻って<em>ボットを起動</em>を選択。Telegram でボットにメッセージを送ると、その瞬間から応答します。",
+   "de": "<strong>Bot starten.</strong> Zurück in der Menüleiste wählst du <em>Bot starten</em>. Schreib deinem Bot auf Telegram — ab diesem Moment antwortet er."
+  },
+  "d.qs.guide": {
+   "en": "New to local models?",
+   "zh": "本地模型新手？",
+   "es": "¿Nuevo con los modelos locales?",
+   "ja": "ローカルモデルは初めて？",
+   "de": "Neu bei lokalen Modellen?"
+  },
+  "d.mb.title": {
+   "en": "The menu bar app",
+   "zh": "菜单栏应用",
+   "es": "La app de la barra de menús",
+   "ja": "メニューバーアプリ",
+   "de": "Die Menüleisten-App"
+  },
+  "d.mb.lead": {
+   "en": "Telebot AI lives in your menu bar (⌘ icon). The menu gives you:",
+   "zh": "Telebot AI 常驻您的菜单栏（⌘ 图标）。菜单提供：",
+   "es": "Telebot AI vive en tu barra de menús (icono ⌘). El menú te da:",
+   "ja": "Telebot AI はメニューバー（⌘ アイコン）に住んでいます。メニューでできること：",
+   "de": "Telebot AI lebt in deiner Menüleiste (⌘-Symbol). Das Menü bietet dir:"
+  },
+  "d.mb.l1": {
+   "en": "<strong>Start / Stop / Restart</strong> — per bot and all at once. Bots run as LaunchAgents: always on, out of your way.",
+   "zh": "<strong>启动 / 停止 / 重启</strong> —— 可按单个机器人或全部操作。机器人以 LaunchAgent 方式运行：常驻后台，不打扰您。",
+   "es": "<strong>Iniciar / Detener / Reiniciar</strong> — por bot o todos a la vez. Los bots corren como LaunchAgents: siempre activos, fuera de tu camino.",
+   "ja": "<strong>起動 / 停止 / 再起動</strong> — ボット単位でも一括でも。ボットは LaunchAgent として常時稼働し、邪魔になりません。",
+   "de": "<strong>Starten / Stoppen / Neu starten</strong> — pro Bot oder alle auf einmal. Bots laufen als LaunchAgents: immer an, nie im Weg."
+  },
+  "d.mb.l2": {
+   "en": "<strong>Open Settings</strong> — the settings window.",
+   "zh": "<strong>打开设置</strong> —— 设置窗口。",
+   "es": "<strong>Abrir Ajustes</strong> — la ventana de ajustes.",
+   "ja": "<strong>設定を開く</strong> — 設定ウィンドウ。",
+   "de": "<strong>Einstellungen öffnen</strong> — das Einstellungsfenster."
+  },
+  "d.mb.l3": {
+   "en": "<strong>Logs</strong> — tail the bot's log to see what it's doing or debug a problem.",
+   "zh": "<strong>日志</strong> —— 实时查看机器人日志，了解它在做什么或排查问题。",
+   "es": "<strong>Registros</strong> — sigue el registro del bot para ver qué está haciendo o depurar un problema.",
+   "ja": "<strong>ログ</strong> — ボットのログを追って、何をしているか確認したり問題をデバッグしたり。",
+   "de": "<strong>Logs</strong> — verfolge das Bot-Log, um zu sehen, was er tut, oder ein Problem zu debuggen."
+  },
+  "d.mb.l4": {
+   "en": "<strong>Quit</strong> — stops everything (and disables the LaunchAgents until you start again).",
+   "zh": "<strong>退出</strong> —— 停止一切（并禁用 LaunchAgent，直到您再次启动）。",
+   "es": "<strong>Salir</strong> — detiene todo (y desactiva los LaunchAgents hasta que inicies de nuevo).",
+   "ja": "<strong>終了</strong> — すべて停止（LaunchAgent も無効化。再度起動するまで）。",
+   "de": "<strong>Beenden</strong> — stoppt alles (und deaktiviert die LaunchAgents, bis du wieder startest)."
+  },
+  "d.st.title": {
+   "en": "Settings, explained",
+   "zh": "设置详解",
+   "es": "Ajustes, explicados",
+   "ja": "設定の解説",
+   "de": "Einstellungen, erklärt"
+  },
+  "d.st.lead": {
+   "en": "The settings window has a sidebar with two kinds of pages:",
+   "zh": "设置窗口的侧边栏包含两类页面：",
+   "es": "La ventana de ajustes tiene una barra lateral con dos tipos de páginas:",
+   "ja": "設定ウィンドウのサイドバーには2種類のページがあります：",
+   "de": "Das Einstellungsfenster hat eine Seitenleiste mit zwei Arten von Seiten:"
+  },
+  "d.st.l1": {
+   "en": "<strong>Defaults</strong> — <em>Model, Telegram, App, Skills &amp; Features, Skill Registry, About, Updates</em>. Values every bot inherits.",
+   "zh": "<strong>默认设置</strong> —— <em>模型、Telegram、应用、技能与功能、技能库、关于、更新</em>。所有机器人继承的值。",
+   "es": "<strong>Valores por defecto</strong> — <em>Modelo, Telegram, App, Habilidades y funciones, Registro de habilidades, Acerca de, Actualizaciones</em>. Los valores que hereda cada bot.",
+   "ja": "<strong>デフォルト</strong> — <em>モデル、Telegram、アプリ、スキルと機能、スキルレジストリ、このアプリについて、アップデート</em>。すべてのボットが継承する値。",
+   "de": "<strong>Standardwerte</strong> — <em>Modell, Telegram, App, Fähigkeiten & Funktionen, Fähigkeiten-Register, Über, Updates</em>. Werte, die jeder Bot erbt."
+  },
+  "d.st.l2": {
+   "en": "<strong>Bots</strong> — one page per bot. Every field shows what <em>this</em> bot actually uses: a value overrides the default, an empty field inherits it (the explainer under each row says so). That's why there are no \"Use global\" checkboxes — an empty field <em>is</em> \"use global\".",
+   "zh": "<strong>机器人</strong> —— 每个机器人一个页面。每个字段都会显示<em>该</em>机器人实际使用的值：有值则覆盖默认值，留空则继承（每行下方的说明会注明）。这就是为什么没有「使用全局」复选框 —— 留空<em>就是</em>「使用全局」。",
+   "es": "<strong>Bots</strong> — una página por bot. Cada campo muestra lo que <em>este</em> bot usa realmente: un valor anula el valor por defecto, un campo vacío lo hereda (el explicador bajo cada fila lo dice). Por eso no hay casillas \"Usar global\" — un campo vacío <em>es</em> \"usar global\".",
+   "ja": "<strong>ボット</strong> — ボットごとに1ページ。各フィールドは<em>その</em>ボットが実際に使う値を表示：値があればデフォルトを上書きし、空欄なら継承します（各行の下の説明に記載）。だから「グローバルを使用」チェックボックスは存在しません — 空欄<em>こそが</em>「グローバルを使用」です。",
+   "de": "<strong>Bots</strong> — eine Seite pro Bot. Jedes Feld zeigt, was <em>dieser</em> Bot tatsächlich nutzt: Ein Wert überschreibt den Standard, ein leeres Feld erbt ihn (der Erklärtext unter jeder Zeile sagt es). Deshalb gibt es keine \"Global verwenden\"-Checkboxen — ein leeres Feld <em>ist</em> \"global verwenden\"."
+  },
+  "d.st.config": {
+   "en": "Everything auto-saves as you type or toggle. Settings live in <span class=\"mono\">~/.mlx-serve/config.json</span>.",
+   "zh": "输入或切换时自动保存。设置存放在 <span class=\"mono\">~/.mlx-serve/config.json</span>。",
+   "es": "Todo se guarda solo mientras escribes o alternas. Los ajustes viven en <span class=\"mono\">~/.mlx-serve/config.json</span>.",
+   "ja": "入力や切り替えのたびに自動保存されます。設定は <span class=\"mono\">~/.mlx-serve/config.json</span> に保存。",
+   "de": "Alles wird automatisch gespeichert, während du tippst oder umschaltest. Die Einstellungen liegen in <span class=\"mono\">~/.mlx-serve/config.json</span>."
+  },
+  "d.model.title": {
+   "en": "Defaults → Model",
+   "zh": "默认设置 → 模型",
+   "es": "Valores por defecto → Modelo",
+   "ja": "デフォルト → モデル",
+   "de": "Standardwerte → Modell"
+  },
+  "d.tg.title": {
+   "en": "Defaults → Telegram",
+   "zh": "默认设置 → Telegram",
+   "es": "Valores por defecto → Telegram",
+   "ja": "デフォルト → Telegram",
+   "de": "Standardwerte → Telegram"
+  },
+  "d.bot.title": {
+   "en": "Per-bot pages",
+   "zh": "机器人页面",
+   "es": "Páginas por bot",
+   "ja": "ボットごとのページ",
+   "de": "Pro-Bot-Seiten"
+  },
+  "d.app.title": {
+   "en": "Defaults → App",
+   "zh": "默认设置 → 应用",
+   "es": "Valores por defecto → App",
+   "ja": "デフォルト → アプリ",
+   "de": "Standardwerte → App"
+  },
+  "d.th.setting": {
+   "en": "Setting",
+   "zh": "设置",
+   "es": "Ajuste",
+   "ja": "設定",
+   "de": "Einstellung"
+  },
+  "d.th.what": {
+   "en": "What it does",
+   "zh": "作用",
+   "es": "Qué hace",
+   "ja": "説明",
+   "de": "Was sie tut"
+  },
+  "d.model.r1.name": {
+   "en": "Server URL",
+   "zh": "服务器 URL",
+   "es": "URL del servidor",
+   "ja": "サーバー URL",
+   "de": "Server-URL"
+  },
+  "d.model.r1.body": {
+   "en": "The OpenAI-compatible endpoint. Local servers need no key.",
+   "zh": "OpenAI 兼容端点。本地服务器无需密钥。",
+   "es": "El endpoint compatible con OpenAI. Los servidores locales no necesitan clave.",
+   "ja": "OpenAI 互換エンドポイント。ローカルサーバーはキー不要です。",
+   "de": "Der OpenAI-kompatible Endpunkt. Lokale Server brauchen keinen Key."
+  },
+  "d.model.r2.name": {
+   "en": "API key",
+   "zh": "API 密钥",
+   "es": "Clave API",
+   "ja": "APIキー",
+   "de": "API-Schlüssel"
+  },
+  "d.model.r2.body": {
+   "en": "Empty for local servers (mlx-serve, Ollama, LM Studio). The eye button shows or hides it.",
+   "zh": "本地服务器（mlx-serve、Ollama、LM Studio）留空即可。眼睛按钮可显示或隐藏。",
+   "es": "Vacía para servidores locales (mlx-serve, Ollama, LM Studio). El botón del ojo la muestra u oculta.",
+   "ja": "ローカルサーバー（mlx-serve、Ollama、LM Studio）は空欄でOK。目のボタンで表示/非表示を切り替え。",
+   "de": "Für lokale Server leer lassen (mlx-serve, Ollama, LM Studio). Das Augen-Symbol zeigt oder verbirgt ihn."
+  },
+  "d.model.r3.name": {
+   "en": "Model name",
+   "zh": "模型名称",
+   "es": "Nombre del modelo",
+   "ja": "モデル名",
+   "de": "Modellname"
+  },
+  "d.model.r3.body": {
+   "en": "Which model on that server, e.g. <span class=\"mono\">deepseek-v4-flash-free</span>.",
+   "zh": "该服务器上的模型，例如 <span class=\"mono\">deepseek-v4-flash-free</span>。",
+   "es": "Qué modelo hay en ese servidor, p. ej. <span class=\"mono\">deepseek-v4-flash-free</span>.",
+   "ja": "そのサーバー上のモデル。例：<span class=\"mono\">deepseek-v4-flash-free</span>。",
+   "de": "Welches Modell auf diesem Server, z. B. <span class=\"mono\">deepseek-v4-flash-free</span>."
+  },
+  "d.model.r4.name": {
+   "en": "Test",
+   "zh": "测试",
+   "es": "Probar",
+   "ja": "テスト",
+   "de": "Testen"
+  },
+  "d.model.r4.body": {
+   "en": "Checks the connection with the current values — useful before saving anything.",
+   "zh": "用当前值检查连接 —— 保存前验证很有用。",
+   "es": "Comprueba la conexión con los valores actuales — útil antes de guardar nada.",
+   "ja": "現在の値で接続を確認 — 保存前に試すのに便利です。",
+   "de": "Prüft die Verbindung mit den aktuellen Werten — nützlich, bevor du etwas speicherst."
+  },
+  "d.model.r5.name": {
+   "en": "Backup models",
+   "zh": "备用模型",
+   "es": "Modelos de respaldo",
+   "ja": "バックアップモデル",
+   "de": "Backup-Modelle"
+  },
+  "d.model.r5.body": {
+   "en": "Tried in order when the primary fails or throttles. Each has its own nickname, URL, key and model, plus Test, reorder and remove. Add is disabled until the last row is complete.",
+   "zh": "主模型失败或限流时按顺序尝试。每个都有独立的昵称、URL、密钥和模型，以及测试、排序和删除。最后一行填完才能添加。",
+   "es": "Se prueban en orden cuando el principal falla o limita. Cada uno tiene su propio apodo, URL, clave y modelo, además de Probar, reordenar y eliminar. Añadir está desactivado hasta que la última fila esté completa.",
+   "ja": "プライマリが失敗・制限された場合に順に試行。それぞれにニックネーム、URL、キー、モデルに加え、テスト・並べ替え・削除が可能。最後の行が完成するまで追加はできません。",
+   "de": "Werden der Reihe nach versucht, wenn das primäre ausfällt oder drosselt. Jedes hat eigenen Spitznamen, URL, Key und Modell, plus Testen, Umsortieren und Entfernen. Hinzufügen ist gesperrt, bis die letzte Zeile vollständig ist."
+  },
+  "d.tg.r1.name": {
+   "en": "Allowed chat IDs",
+   "zh": "允许的聊天 ID",
+   "es": "IDs de chat permitidos",
+   "ja": "許可されたチャットID",
+   "de": "Erlaubte Chat-IDs"
+  },
+  "d.tg.r1.body": {
+   "en": "Comma-separated user/group IDs that may talk to the bot. Empty = anyone.",
+   "zh": "允许与机器人对话的用户/群组 ID（逗号分隔）。留空 = 任何人。",
+   "es": "IDs de usuario/grupo separados por comas que pueden hablar con el bot. Vacío = cualquiera.",
+   "ja": "ボットと話せるユーザー/グループ ID（カンマ区切り）。空欄 = すべて許可。",
+   "de": "Kommagetrennte Benutzer-/Gruppen-IDs, die mit dem Bot sprechen dürfen. Leer = jeder."
+  },
+  "d.tg.r2.name": {
+   "en": "Daily briefing time",
+   "zh": "每日简报时间",
+   "es": "Hora del resumen diario",
+   "ja": "デイリーブリーフィングの時刻",
+   "de": "Zeit des täglichen Briefings"
+  },
+  "d.tg.r2.body": {
+   "en": "When the bot sends its daily briefing — 24-hour hour/minute dropdowns (e.g. 08:00).",
+   "zh": "机器人发送每日简报的时间 —— 24 小时制小时/分钟下拉（例如 08:00）。",
+   "es": "Cuándo envía el bot su resumen diario — menús desplegables de hora/minuto en formato 24 h (p. ej. 08:00).",
+   "ja": "ボットがデイリーブリーフィングを送る時刻 — 24時間制の時/分ドロップダウン（例：08:00）。",
+   "de": "Wann der Bot sein tägliches Briefing sendet — 24-Stunden-Stunde/Minute-Dropdowns (z. B. 08:00)."
+  },
+  "d.tg.r3.name": {
+   "en": "Briefing prompt",
+   "zh": "简报提示词",
+   "es": "Indicación del resumen diario",
+   "ja": "デイリーブリーフィングの内容",
+   "de": "Briefing-Aufforderung"
+  },
+  "d.tg.r3.body": {
+   "en": "What the briefing should cover — e.g. \"weather, my reminders for today, and any price alerts\".",
+   "zh": "简报应涵盖的内容 —— 例如「天气、我今天的提醒，以及任何价格提醒」。",
+   "es": "Qué debe cubrir el resumen — p. ej. \"clima, mis recordatorios de hoy y cualquier alerta de precio\".",
+   "ja": "ブリーフィングが扱う内容 — 例：「天気、今日のリマインダー、価格アラート」。",
+   "de": "Was das Briefing abdecken soll — z. B. \"Wetter, meine heutigen Erinnerungen und alle Preisalarme\"."
+  },
+  "d.tg.r4.name": {
+   "en": "Max reply tokens",
+   "zh": "最大回复令牌数",
+   "es": "Máx. tokens de respuesta",
+   "ja": "最大返信トークン",
+   "de": "Max. Antwort-Tokens"
+  },
+  "d.tg.r4.body": {
+   "en": "Safety ceiling for replies; long answers split into multiple messages.",
+   "zh": "回复的安全上限；超长回答会自动拆成多条消息。",
+   "es": "Tope de seguridad para las respuestas; las respuestas largas se dividen en varios mensajes.",
+   "ja": "返信の安全上限。長い回答は複数メッセージに自動分割されます。",
+   "de": "Sicherheitsdeckel für Antworten; lange Antworten werden auf mehrere Nachrichten aufgeteilt."
+  },
+  "d.tg.r5.name": {
+   "en": "Context per chat",
+   "zh": "每聊天下文",
+   "es": "Contexto por chat",
+   "ja": "チャットあたりの文脈",
+   "de": "Kontext pro Chat"
+  },
+  "d.tg.r5.body": {
+   "en": "How many recent messages the bot holds per chat as context.",
+   "zh": "机器人每个聊天保留多少条最近消息作为上下文。",
+   "es": "Cuántos mensajes recientes guarda el bot por chat como contexto.",
+   "ja": "ボットがチャットごとに文脈として保持する直近メッセージ数。",
+   "de": "Wie viele letzte Nachrichten der Bot pro Chat als Kontext hält."
+  },
+  "d.tg.r6.name": {
+   "en": "Memories per user",
+   "zh": "每用户记忆数",
+   "es": "Recuerdos por usuario",
+   "ja": "ユーザーあたりの記憶数",
+   "de": "Erinnerungen pro Benutzer"
+  },
+  "d.tg.r6.body": {
+   "en": "Long-term memories recalled per user, per message the bot answers.",
+   "zh": "机器人每回答一条消息时为每个用户回忆的长期记忆条数。",
+   "es": "Recuerdos a largo plazo que el bot recupera por usuario, por cada mensaje que responde.",
+   "ja": "ボットが回答するメッセージごとに、ユーザーあたりで呼び出す長期記憶の数。",
+   "de": "Langzeiterinnerungen, die pro Benutzer und beantworteter Nachricht abgerufen werden."
+  },
+  "d.tg.r7.name": {
+   "en": "Memory database size (per user)",
+   "zh": "记忆库大小（每用户）",
+   "es": "Tamaño de la base de memoria (por usuario)",
+   "ja": "記憶データベースサイズ（ユーザーあたり）",
+   "de": "Gedächtnis-Datenbankgröße (pro Benutzer)"
+  },
+  "d.tg.r7.body": {
+   "en": "Max stored memories per user; the oldest are evicted beyond this.",
+   "zh": "每个用户最多存储的记忆条数；超出时淘汰最旧的。",
+   "es": "Máximo de recuerdos almacenados por usuario; los más antiguos se eliminan más allá de esto.",
+   "ja": "ユーザーごとの記憶の最大保存数。超過分は古いものから削除されます。",
+   "de": "Maximal gespeicherte Erinnerungen pro Benutzer; darüber hinaus werden die ältesten entfernt."
+  },
+  "d.tg.r8.name": {
+   "en": "Research report tokens",
+   "zh": "研究报告令牌数",
+   "es": "Tokens de informes de investigación",
+   "ja": "調査レポートのトークン",
+   "de": "Tokens für Recherche-Berichte"
+  },
+  "d.tg.r8.body": {
+   "en": "Budget for /research and /insiders reports.",
+   "zh": "「/research」与「/insiders」报告的预算。",
+   "es": "Presupuesto para los informes /research y /insiders.",
+   "ja": "/research と /insiders レポートの予算。",
+   "de": "Budget für /research- und /insiders-Berichte."
+  },
+  "d.tg.r9.name": {
+   "en": "API timeout (s)",
+   "zh": "API 超时（秒）",
+   "es": "Tiempo de espera de API (s)",
+   "ja": "API タイムアウト（秒）",
+   "de": "API-Timeout (s)"
+  },
+  "d.tg.r9.body": {
+   "en": "Seconds before a slow provider is abandoned — free-tier queues can stall for a minute+.",
+   "zh": "慢服务商被放弃前的等待秒数 —— 免费队列可能卡顿一分钟以上。",
+   "es": "Segundos antes de abandonar un proveedor lento — las colas gratuitas pueden tardar más de un minuto.",
+   "ja": "遅いプロバイダーを切り上げるまでの秒数 — 無料枠のキューは1分以上かかることもあります。",
+   "de": "Sekunden, bevor ein langsamer Anbieter aufgegeben wird — kostenlose Warteschlangen können über eine Minute dauern."
+  },
+  "d.tg.r10.name": {
+   "en": "Soul file",
+   "zh": "人格文件",
+   "es": "Archivo de personalidad",
+   "ja": "ソウルファイル",
+   "de": "Soul-Datei"
+  },
+  "d.tg.r10.body": {
+   "en": "The persona the bots run with. <span class=\"mono\">.md</span> files in this folder (<span class=\"mono\">soul*.md</span>, <span class=\"mono\">*persona*.md</span>) appear in every bot's Soul dropdown.",
+   "zh": "机器人使用的人格。此文件夹中的 <span class=\"mono\">.md</span> 文件（<span class=\"mono\">soul*.md</span>、<span class=\"mono\">*persona*.md</span>）会出现在每个机器人的「人格」下拉菜单中。",
+   "es": "La personalidad con la que corren los bots. Los archivos <span class=\"mono\">.md</span> de esta carpeta (<span class=\"mono\">soul*.md</span>, <span class=\"mono\">*persona*.md</span>) aparecen en el desplegable de Personalidad de cada bot.",
+   "ja": "ボットが使用するペルソナ。このフォルダの <span class=\"mono\">.md</span> ファイル（<span class=\"mono\">soul*.md</span>、<span class=\"mono\">*persona*.md</span>）が各ボットの「ペルソナ」ドロップダウンに表示されます。",
+   "de": "Die Persönlichkeit, mit der die Bots laufen. <span class=\"mono\">.md</span>-Dateien in diesem Ordner (<span class=\"mono\">soul*.md</span>, <span class=\"mono\">*persona*.md</span>) erscheinen im Persönlichkeits-Dropdown jedes Bots."
+  },
+  "d.tg.r11.name": {
+   "en": "Bot trigger words",
+   "zh": "机器人触发词",
+   "es": "Palabras de activación del bot",
+   "ja": "ボットのトリガーワード",
+   "de": "Bot-Triggerwörter"
+  },
+  "d.tg.r11.body": {
+   "en": "Comma-separated words that make the bot answer in groups (besides @mention, reply or command) — e.g. \"momo, jarvis, hey bot\".",
+   "zh": "让机器人在群组中回答的逗号分隔词（除 @提及、回复或命令外）—— 例如「momo、jarvis、hey bot」。",
+   "es": "Palabras separadas por comas que hacen que el bot responda en grupos (además de @mención, respuesta o comando) — p. ej. \"momo, jarvis, hey bot\".",
+   "ja": "グループでボットが応答するきっかけとなるカンマ区切りの言葉（@メンション・返信・コマンド以外）— 例：「momo、jarvis、hey bot」。",
+   "de": "Kommagetrennte Wörter, die den Bot in Gruppen antworten lassen (zusätzlich zu @Erwähnung, Antwort oder Befehl) — z. B. \"momo, jarvis, hey bot\"."
+  },
+  "d.tg.r12.name": {
+   "en": "Video/audio clip trigger words",
+   "zh": "视频/音频剪辑触发词",
+   "es": "Palabras de activación de clips de vídeo/audio",
+   "ja": "動画/音声クリップのトリガーワード",
+   "de": "Video-/Audio-Clip-Triggerwörter"
+  },
+  "d.tg.r12.body": {
+   "en": "Words that make the bot grab an attached video or audio as a clip — e.g. \"clip this, save this\".",
+   "zh": "让机器人把附带的视频或音频存为剪辑的词 —— 例如「clip this、save this」。",
+   "es": "Palabras que hacen que el bot capture un vídeo o audio adjunto como clip — p. ej. \"clip this, save this\".",
+   "ja": "添付の動画や音声をクリップとして保存するきっかけとなる言葉 — 例：「clip this、save this」。",
+   "de": "Wörter, die den Bot ein angehängtes Video oder Audio als Clip greifen lassen — z. B. \"clip this, save this\"."
+  },
+  "d.bot.lead": {
+   "en": "Each bot in the sidebar has its own page. Empty fields inherit the defaults; the explainer under each row states what it inherits.",
+   "zh": "侧边栏中的每个机器人都有自己的页面。留空的字段继承默认值；每行下方的说明会注明它继承了什么。",
+   "es": "Cada bot de la barra lateral tiene su propia página. Los campos vacíos heredan los valores por defecto; el explicador bajo cada fila indica qué hereda.",
+   "ja": "サイドバーの各ボットには専用ページがあります。空欄のフィールドはデフォルトを継承し、各行の下の説明が継承内容を示します。",
+   "de": "Jeder Bot in der Seitenleiste hat seine eigene Seite. Leere Felder erben die Standardwerte; der Erklärtext unter jeder Zeile sagt, was geerbt wird."
+  },
+  "d.bot.r1.name": {
+   "en": "Token",
+   "zh": "令牌",
+   "es": "Token",
+   "ja": "トークン",
+   "de": "Token"
+  },
+  "d.bot.r1.body": {
+   "en": "The bot's @BotFather token (eye button to reveal). Changing it renames the bot's sidebar entry.",
+   "zh": "机器人的 @BotFather 令牌（眼睛按钮可显示）。修改它会重命名侧边栏中的机器人条目。",
+   "es": "El token @BotFather del bot (botón de ojo para revelarlo). Cambiarlo renombra la entrada del bot en la barra lateral.",
+   "ja": "ボットの @BotFather トークン（目のボタンで表示）。変更するとサイドバーのボット名も変わります。",
+   "de": "Der @BotFather-Token des Bots (Augen-Symbol zum Anzeigen). Eine Änderung benennt den Seiteneintrag des Bots um."
+  },
+  "d.bot.r2.name": {
+   "en": "Nickname",
+   "zh": "昵称",
+   "es": "Apodo",
+   "ja": "ニックネーム",
+   "de": "Spitzname"
+  },
+  "d.bot.r2.body": {
+   "en": "Used in status, logs and the sidebar — e.g. \"Trading\".",
+   "zh": "用于状态、日志和侧边栏 —— 例如「交易」。",
+   "es": "Se usa en el estado, los registros y la barra lateral — p. ej. \"Trading\".",
+   "ja": "ステータス・ログ・サイドバーで使用 — 例：「Trading」。",
+   "de": "Wird in Status, Logs und Seitenleiste verwendet — z. B. \"Trading\"."
+  },
+  "d.bot.r3.name": {
+   "en": "Allowed chat IDs / Trigger words / Clip words",
+   "zh": "允许的聊天 ID / 触发词 / 剪辑词",
+   "es": "IDs de chat permitidos / Palabras de activación / Palabras de clip",
+   "ja": "許可されたチャットID / トリガーワード / クリップワード",
+   "de": "Erlaubte Chat-IDs / Triggerwörter / Clip-Wörter"
+  },
+  "d.bot.r3.body": {
+   "en": "This bot's overrides of the matching defaults.",
+   "zh": "该机器人对相应默认值的覆盖。",
+   "es": "Las anulaciones de este bot sobre los valores por defecto correspondientes.",
+   "ja": "対応するデフォルトに対する、このボットの上書き設定。",
+   "de": "Die Überschreibungen dieses Bots für die jeweiligen Standardwerte."
+  },
+  "d.bot.r4.name": {
+   "en": "Server URL, API key, Model",
+   "zh": "服务器 URL、API 密钥、模型",
+   "es": "URL del servidor, clave API, modelo",
+   "ja": "サーバー URL、APIキー、モデル",
+   "de": "Server-URL, API-Schlüssel, Modell"
+  },
+  "d.bot.r4.body": {
+   "en": "The dropdown offers the providers configured in Defaults → Model, plus any custom value. Own backup models can be added per bot.",
+   "zh": "下拉菜单提供「默认设置 → 模型」中配置的服务商，以及任意自定义值。也可以为每个机器人添加自己的备用模型。",
+   "es": "El desplegable ofrece los proveedores configurados en Valores por defecto → Modelo, además de cualquier valor personalizado. Se pueden añadir modelos de respaldo propios por bot.",
+   "ja": "ドロップダウンには「デフォルト → モデル」で設定したプロバイダーに加え、任意のカスタム値が表示されます。ボットごとに独自のバックアップモデルも追加可能。",
+   "de": "Das Dropdown bietet die unter Standardwerte → Modell konfigurierten Anbieter plus beliebige eigene Werte. Eigene Backup-Modelle können pro Bot hinzugefügt werden."
+  },
+  "d.bot.r5.name": {
+   "en": "Daily briefing time / Briefing prompt",
+   "zh": "每日简报时间 / 简报提示词",
+   "es": "Hora del resumen diario / Indicación del resumen",
+   "ja": "デイリーブリーフィングの時刻 / 内容",
+   "de": "Zeit des täglichen Briefings / Briefing-Aufforderung"
+  },
+  "d.bot.r5.body": {
+   "en": "Per-bot briefing with a \"Use global\" button that clears the override.",
+   "zh": "机器人专属简报，带有清除覆盖的「使用全局」按钮。",
+   "es": "Resumen propio del bot, con un botón \"Usar global\" que borra la anulación.",
+   "ja": "ボット専用ブリーフィング。「グローバルを使用」ボタンで上書きをクリアできます。",
+   "de": "Bot-eigenes Briefing mit einem \"Global verwenden\"-Button, der die Überschreibung löscht."
+  },
+  "d.bot.r6.name": {
+   "en": "Mode",
+   "zh": "模式",
+   "es": "Modo",
+   "ja": "モード",
+   "de": "Modus"
+  },
+  "d.bot.r6.body": {
+   "en": "Researcher, Assistant, Coder, Chef or None — empty uses the default mode.",
+   "zh": "研究员、助手、程序员、厨师或无 —— 留空使用默认模式。",
+   "es": "Investigador, Asistente, Programador, Chef o Ninguno — vacío usa el modo por defecto.",
+   "ja": "リサーチャー、アシスタント、コーダー、シェフ、またはなし — 空欄はデフォルトのモードを使用。",
+   "de": "Forscher, Assistent, Programmierer, Koch oder Keine — leer verwendet den Standardmodus."
+  },
+  "d.bot.r7.body": {
+   "en": "This bot's persona override, chosen from the soul/persona files found on disk.",
+   "zh": "该机器人的人格覆盖，从磁盘上找到的 soul/persona 文件中选择。",
+   "es": "La anulación de personalidad de este bot, elegida entre los archivos soul/persona encontrados en disco.",
+   "ja": "このボットのペルソナ上書き。ディスク上の soul/persona ファイルから選択します。",
+   "de": "Die Persönlichkeits-Überschreibung dieses Bots, gewählt aus den auf der Platte gefundenen Soul-/Persona-Dateien."
+  },
+  "d.bot.r8.body": {
+   "en": "Opens the per-bot skill sheet — disable skills for this bot on top of the defaults, or reset to default.",
+   "zh": "打开该机器人的技能面板 —— 在默认设置之上为此机器人禁用技能，或恢复默认。",
+   "es": "Abre la hoja de habilidades del bot — desactiva habilidades para este bot además de los valores por defecto, o restablece al valor por defecto.",
+   "ja": "ボット専用のスキルシートを開く — デフォルトに加えてこのボットのスキルを無効化、またはデフォルトに戻す。",
+   "de": "Öffnet das Fähigkeiten-Blatt des Bots — Fähigkeiten für diesen Bot zusätzlich zu den Standardwerten deaktivieren oder auf Standard zurücksetzen."
+  },
+  "d.app.r1.name": {
+   "en": "Show in Dock",
+   "zh": "在程序坞中显示",
+   "es": "Mostrar en el Dock",
+   "ja": "Dock に表示",
+   "de": "Im Dock anzeigen"
+  },
+  "d.app.r1.body": {
+   "en": "Whether the menu bar app also appears in the Dock.",
+   "zh": "菜单栏应用是否也出现在程序坞中。",
+   "es": "Si la app de la barra de menús aparece también en el Dock.",
+   "ja": "メニューバーアプリが Dock にも表示されるかどうか。",
+   "de": "Ob die Menüleisten-App auch im Dock erscheint."
+  },
+  "d.app.r2.name": {
+   "en": "Launch at Login",
+   "zh": "登录时启动",
+   "es": "Iniciar al iniciar sesión",
+   "ja": "ログイン時に起動",
+   "de": "Beim Anmelden starten"
+  },
+  "d.app.r2.body": {
+   "en": "Start Telebot AI when you log in.",
+   "zh": "登录时启动 Telebot AI。",
+   "es": "Inicia Telebot AI cuando inicias sesión.",
+   "ja": "ログイン時に Telebot AI を起動します。",
+   "de": "Telebot AI bei der Anmeldung starten."
+  },
+  "d.app.r3.name": {
+   "en": "Data directory",
+   "zh": "数据目录",
+   "es": "Carpeta de datos",
+   "ja": "データディレクトリ",
+   "de": "Datenordner"
+  },
+  "d.app.r3.body": {
+   "en": "Where config, memory, reminders and logs live (default <span class=\"mono\">~/.mlx-serve</span>).",
+   "zh": "配置、记忆、提醒和日志的存放位置（默认 <span class=\"mono\">~/.mlx-serve</span>）。",
+   "es": "Dónde viven la configuración, la memoria, los recordatorios y los registros (por defecto <span class=\"mono\">~/.mlx-serve</span>).",
+   "ja": "設定・メモリー・リマインダー・ログの保存先（デフォルト <span class=\"mono\">~/.mlx-serve</span>）。",
+   "de": "Wo Konfiguration, Gedächtnis, Erinnerungen und Logs leben (Standard: <span class=\"mono\">~/.mlx-serve</span>)."
+  },
+  "d.app.r4.name": {
+   "en": "Open log / Open data folder",
+   "zh": "打开日志 / 打开数据文件夹",
+   "es": "Abrir registro / Abrir carpeta de datos",
+   "ja": "ログを開く / データフォルダを開く",
+   "de": "Log öffnen / Datenordner öffnen"
+  },
+  "d.app.r4.body": {
+   "en": "Jump straight to the log file or data folder in Finder.",
+   "zh": "在访达中直接跳转到日志文件或数据文件夹。",
+   "es": "Salta directo al archivo de registro o a la carpeta de datos en Finder.",
+   "ja": "Finder でログファイルやデータフォルダに直接ジャンプ。",
+   "de": "Direkt zur Logdatei oder zum Datenordner im Finder springen."
+  },
+  "d.app.r5.name": {
+   "en": "Export settings",
+   "zh": "导出设置",
+   "es": "Exportar configuración",
+   "ja": "設定を書き出し",
+   "de": "Einstellungen exportieren"
+  },
+  "d.app.r5.body": {
+   "en": "Save the full config (including API keys) to a file — for backups or moving Macs.",
+   "zh": "将完整配置（包括 API 密钥）保存到文件 —— 用于备份或迁移 Mac。",
+   "es": "Guarda la configuración completa (incluidas las claves API) en un archivo — para copias de seguridad o cambiar de Mac.",
+   "ja": "完全な設定（API キー含む）をファイルに保存 — バックアップや Mac 移行用。",
+   "de": "Speichert die vollständige Konfiguration (inkl. API-Keys) in eine Datei — für Backups oder den Mac-Wechsel."
+  },
+  "d.app.r6.name": {
+   "en": "Import settings",
+   "zh": "导入设置",
+   "es": "Importar configuración",
+   "ja": "設定を読み込み",
+   "de": "Einstellungen importieren"
+  },
+  "d.app.r6.body": {
+   "en": "Load a config file and apply it immediately.",
+   "zh": "加载配置文件并立即应用。",
+   "es": "Carga un archivo de configuración y lo aplica de inmediato.",
+   "ja": "設定ファイルを読み込んで即座に適用。",
+   "de": "Lädt eine Konfigurationsdatei und wendet sie sofort an."
+  },
+  "d.sk.title": {
+   "en": "Skills &amp; Features",
+   "zh": "技能与功能",
+   "es": "Habilidades y funciones",
+   "ja": "スキルと機能",
+   "de": "Fähigkeiten & Funktionen"
+  },
+  "d.sk.lead": {
+   "en": "The bot's abilities are model-driven skills — plain instructions the model follows with its tools, so you can describe what you want in plain language instead of memorizing commands. Each group has a master toggle; individual skills can be switched on or off.",
+   "zh": "机器人的能力是模型驱动的技能 —— 模型配合工具遵循的简明指令，因此您可以用自然语言描述需求，而无需记忆命令。每个分组都有总开关；单个技能可单独开关。",
+   "es": "Las habilidades del bot son destrezas dirigidas por el modelo — instrucciones claras que el modelo sigue con sus herramientas, para que describas lo que quieres en lenguaje natural en lugar de memorizar comandos. Cada grupo tiene un interruptor maestro; las habilidades individuales se pueden activar o desactivar.",
+   "ja": "ボットの能力はモデル駆動のスキル — モデルがツールとともに従う簡潔な指示です。コマンドを覚える代わりに、自然な言葉でやりたいことを伝えられます。グループごとにマスタースイッチがあり、個別スキルのオン/オフも可能。",
+   "de": "Die Fähigkeiten des Bots sind modellgesteuerte Skills — klare Anweisungen, die das Modell mit seinen Tools befolgt, damit du in natürlicher Sprache beschreibst, was du willst, statt Befehle auswendig zu lernen. Jede Gruppe hat einen Master-Schalter; einzelne Fähigkeiten lassen sich an- und ausschalten."
+  },
+  "d.sk.h1": {
+   "en": "Group",
+   "zh": "分组",
+   "es": "Grupo",
+   "ja": "グループ",
+   "de": "Gruppe"
+  },
+  "d.sk.h2": {
+   "en": "Skills",
+   "zh": "技能",
+   "es": "Habilidades",
+   "ja": "スキル",
+   "de": "Fähigkeiten"
+  },
+  "d.sk.h3": {
+   "en": "Try saying",
+   "zh": "试试这样说",
+   "es": "Prueba a decir",
+   "ja": "こんなふうに話しかけて",
+   "de": "Sag zum Beispiel"
+  },
+  "d.sk.r1.group": {
+   "en": "Research",
+   "zh": "研究",
+   "es": "Investigación",
+   "ja": "リサーチ",
+   "de": "Recherche"
+  },
+  "d.sk.r1.try": {
+   "en": "\"research TSLA\", \"price of BTC\", \"insider trades for AAPL\", \"how much is 50 USD in CAD?\"",
+   "zh": "「研究 TSLA」、「BTC 价格」、「AAPL 内幕交易」、「50 美元等于多少加元？」",
+   "es": "\"investiga TSLA\", \"precio de BTC\", \"operaciones de iniciados de AAPL\", \"¿cuánto son 50 USD en CAD?\"",
+   "ja": "「TSLA を調査」、「BTC の価格」、「AAPL のインサイダー取引」、「50 USD は何 CAD？」",
+   "de": "\"recherchiere TSLA\", \"Preis von BTC\", \"Insider-Trades für AAPL\", \"wie viel sind 50 USD in CAD?\""
+  },
+  "d.sk.r2.group": {
+   "en": "Daily",
+   "zh": "日常",
+   "es": "Diario",
+   "ja": "デイリー",
+   "de": "Täglich"
+  },
+  "d.sk.r2.try": {
+   "en": "\"/briefing\", \"digest this chat\", \"remind me at 5pm\", \"mark today's habit done\", \"weekly review\", \"/pomodoro 25\", \"track 25 lunch\"",
+   "zh": "「/briefing」、「总结这个聊天」、「下午 5 点提醒我」、「今天习惯完成」、「每周回顾」、「/pomodoro 25」、「记一笔 25 元的午餐」",
+   "es": "\"/briefing\", \"resume este chat\", \"recuérdame a las 5pm\", \"marca el hábito de hoy\", \"revisión semanal\", \"/pomodoro 25\", \"apunta 25 de almuerzo\"",
+   "ja": "「/briefing」、「このチャットを要約」、「午後5時にリマインド」、「今日の習慣を完了」、「週次レビュー」、「/pomodoro 25」、「ランチ25円を記録」",
+   "de": "\"/briefing\", \"fasse diesen Chat zusammen\", \"erinnere mich um 17 Uhr\", \"heutige Gewohnheit erledigt\", \"wöchentlicher Rückblick\", \"/pomodoro 25\", \"25 Mittagessen notieren\""
+  },
+  "d.sk.r3.group": {
+   "en": "Media",
+   "zh": "媒体",
+   "es": "Multimedia",
+   "ja": "メディア",
+   "de": "Medien"
+  },
+  "d.sk.r3.try": {
+   "en": "\"analyze this video\", \"read this aloud\", \"translate this to Chinese\", \"what's new in my feeds?\"",
+   "zh": "「分析这个视频」、「朗读这段」、「翻译成中文」、「我的订阅里有什么新内容？」",
+   "es": "\"analiza este vídeo\", \"léelo en voz alta\", \"tradúcelo al español\", \"¿qué hay de nuevo en mis fuentes?\"",
+   "ja": "「この動画を分析」、「読み上げて」、「日本語に翻訳して」、「フィードに何か新しいことは？」",
+   "de": "\"analysiere dieses Video\", \"lies das laut vor\", \"übersetze das ins Deutsche\", \"was gibt's Neues in meinen Feeds?\""
+  },
+  "d.sk.r4.group": {
+   "en": "Tools",
+   "zh": "工具",
+   "es": "Herramientas",
+   "ja": "ツール",
+   "de": "Tools"
+  },
+  "d.sk.r4.try": {
+   "en": "\"what did we talk about yesterday?\"",
+   "zh": "「我们昨天聊了什么？」",
+   "es": "\"¿de qué hablamos ayer?\"",
+   "ja": "「昨日何を話したっけ？」",
+   "de": "\"worüber haben wir gestern gesprochen?\""
+  },
+  "d.sk.r5.group": {
+   "en": "From registry",
+   "zh": "来自技能库",
+   "es": "Del registro",
+   "ja": "レジストリから",
+   "de": "Aus dem Register"
+  },
+  "d.sk.r5.try": {
+   "en": "Skills you install from the registry",
+   "zh": "您从技能库安装的技能",
+   "es": "Habilidades que instalas desde el registro",
+   "ja": "レジストリからインストールしたスキル",
+   "de": "Fähigkeiten, die du aus dem Register installierst"
+  },
+  "d.reg.title": {
+   "en": "Skill Registry",
+   "zh": "技能库",
+   "es": "Registro de habilidades",
+   "ja": "スキルレジストリ",
+   "de": "Fähigkeiten-Register"
+  },
+  "d.reg.body": {
+   "en": "The registry tab lets you install ready-made skills from the public <a href=\"https://github.com/anthropics/skills\" rel=\"noopener\">anthropics/skills</a> catalog — PDF and document handling, spreadsheets, presentations, web-app testing, MCP server building, art and more. Load the catalog, pick a skill, and it appears in the Skills &amp; Features tab like any other.",
+   "zh": "技能库标签页让您从公开的 <a href=\"https://github.com/anthropics/skills\" rel=\"noopener\">anthropics/skills</a> 目录安装现成技能 —— PDF 与文档处理、电子表格、演示文稿、Web 应用测试、MCP 服务器搭建、艺术等。加载目录，挑选技能，它就会像其他技能一样出现在「技能与功能」标签页。",
+   "es": "La pestaña Registro te deja instalar habilidades listas del catálogo público <a href=\"https://github.com/anthropics/skills\" rel=\"noopener\">anthropics/skills</a> — manejo de PDF y documentos, hojas de cálculo, presentaciones, pruebas de apps web, construcción de servidores MCP, arte y más. Carga el catálogo, elige una habilidad y aparece en la pestaña Habilidades y funciones como cualquier otra.",
+   "ja": "レジストリタブでは、公開 <a href=\"https://github.com/anthropics/skills\" rel=\"noopener\">anthropics/skills</a> カタログから既製のスキルをインストールできます — PDF・文書処理、スプレッドシート、プレゼンテーション、Web アプリテスト、MCP サーバー構築、アートなど。カタログを読み込み、スキルを選ぶと、他のスキルと同じように「スキルと機能」タブに表示されます。",
+   "de": "Der Register-Tab lässt dich fertige Fähigkeiten aus dem öffentlichen <a href=\"https://github.com/anthropics/skills\" rel=\"noopener\">anthropics/skills</a>-Katalog installieren — PDF- und Dokumentbearbeitung, Tabellenkalkulationen, Präsentationen, Web-App-Tests, MCP-Server-Bau, Kunst und mehr. Lade den Katalog, wähle eine Fähigkeit, und sie erscheint wie jede andere im Tab Fähigkeiten & Funktionen."
+  },
+  "d.up.title": {
+   "en": "Updates",
+   "zh": "更新",
+   "es": "Actualizaciones",
+   "ja": "アップデート",
+   "de": "Updates"
+  },
+  "d.up.body": {
+   "en": "The Updates tab checks the landing site's manifest against your installed version and shows the latest release with a download link. Checks are quiet — offline or unreachable just means \"up to date\". To update: download the new .dmg and drag it over the old app in Applications. Settings, bots and memories live outside the app, so they carry over untouched.",
+   "zh": "「更新」标签页会将落地页的清单与您安装的版本对比，显示最新版本并提供下载链接。检查是静默的 —— 离线或无法访问只会显示「已是最新版本」。更新方式：下载新的 .dmg 并拖到「应用程序」覆盖旧应用。设置、机器人和记忆都保存在应用之外，更新后原样保留。",
+   "es": "La pestaña Actualizaciones compara el manifiesto del sitio con tu versión instalada y muestra la última versión con un enlace de descarga. Las comprobaciones son silenciosas — offline o inalcanzable solo significa \"estás al día\". Para actualizar: descarga el nuevo .dmg y arrástralo sobre la app antigua en Aplicaciones. Los ajustes, los bots y los recuerdos viven fuera de la app, así que se conservan intactos.",
+   "ja": "アップデートタブは、ランディングサイトのマニフェストをインストール済みバージョンと照合し、最新リリースをダウンロードリンク付きで表示します。チェックは静かです — オフラインや到達不能でも「最新です」と表示されるだけ。更新方法：新しい .dmg をダウンロードしてアプリケーションフォルダの旧アプリにドラッグ。設定・ボット・メモリーはアプリの外にあるので、そのまま引き継がれます。",
+   "de": "Der Updates-Tab vergleicht das Manifest der Landingpage mit deiner installierten Version und zeigt die neueste Version mit Download-Link. Die Prüfung ist leise — offline oder unerreichbar bedeutet einfach \"auf dem neuesten Stand\". Zum Aktualisieren: die neue .dmg herunterladen und in Programme über die alte App ziehen. Einstellungen, Bots und Erinnerungen leben außerhalb der App und bleiben unangetastet."
+  },
+  "d.pv.title": {
+   "en": "Data &amp; privacy",
+   "zh": "数据与隐私",
+   "es": "Datos y privacidad",
+   "ja": "データとプライバシー",
+   "de": "Daten & Datenschutz"
+  },
+  "d.pv.l1": {
+   "en": "<strong>Where things live:</strong> config, chat memory, reminders, skills and logs all stay in your data directory (default <span class=\"mono\">~/.mlx-serve</span>).",
+   "zh": "<strong>数据存放位置：</strong>配置、聊天记忆、提醒、技能和日志都保存在您的数据目录中（默认 <span class=\"mono\">~/.mlx-serve</span>）。",
+   "es": "<strong>Dónde viven las cosas:</strong> configuración, memoria de chat, recordatorios, habilidades y registros se quedan en tu carpeta de datos (por defecto <span class=\"mono\">~/.mlx-serve</span>).",
+   "ja": "<strong>データの保存先：</strong>設定、チャットメモリー、リマインダー、スキル、ログはすべてデータディレクトリ（デフォルト <span class=\"mono\">~/.mlx-serve</span>）に保存されます。",
+   "de": "<strong>Wo die Dinge liegen:</strong> Konfiguration, Chat-Gedächtnis, Erinnerungen, Fähigkeiten und Logs bleiben alle in deinem Datenordner (Standard: <span class=\"mono\">~/.mlx-serve</span>)."
+  },
+  "d.pv.l2": {
+   "en": "<strong>What leaves your Mac:</strong> the Telegram API itself, whatever model server you point the bot at, and anonymous usage stats (app launches and menu actions). No chat content, no tokens, no personal data.",
+   "zh": "<strong>离开您 Mac 的数据：</strong>Telegram API 本身、您指定的模型服务器，以及匿名使用统计（应用启动和菜单操作）。不含任何聊天内容、令牌或个人数据。",
+   "es": "<strong>Qué sale de tu Mac:</strong> la propia API de Telegram, el servidor de modelos al que apuntes el bot, y estadísticas de uso anónimas (aperturas de la app y acciones de menú). Sin contenido de chat, sin tokens, sin datos personales.",
+   "ja": "<strong>Mac の外に出るもの：</strong>Telegram API 自体、ボットの接続先モデルサーバー、匿名利用統計（アプリ起動とメニュー操作）。チャット内容・トークン・個人データは含まれません。",
+   "de": "<strong>Was deinen Mac verlässt:</strong> die Telegram-API selbst, der Modellserver, auf den du den Bot zeigst, und anonyme Nutzungsstatistiken (App-Starts und Menüaktionen). Kein Chat-Inhalt, keine Tokens, keine persönlichen Daten."
+  },
+  "d.ts.title": {
+   "en": "Troubleshooting",
+   "zh": "故障排查",
+   "es": "Solución de problemas",
+   "ja": "トラブルシューティング",
+   "de": "Fehlerbehebung"
+  },
+  "d.ts.l1": {
+   "en": "<strong>\"Apple cannot check it for malicious software\"</strong> — expected: right-click (Control-click) the app in Applications → <em>Open</em> → <em>Open</em> again. One time, then it runs normally.",
+   "zh": "<strong>「Apple 无法检查它是否存在恶意软件」</strong> —— 正常现象：右键（Control-点击）「应用程序」中的应用 → <em>打开</em> → 再<em>打开</em>一次。只需一次，之后即可正常运行。",
+   "es": "<strong>\"Apple no puede comprobar si contiene software malicioso\"</strong> — es normal: haz clic derecho (Control-clic) en la app en Aplicaciones → <em>Abrir</em> → <em>Abrir</em> otra vez. Una vez, y luego funciona con normalidad.",
+   "ja": "<strong>「Apple はこの App に悪質なソフトウェアが含まれていないか確認できません」</strong> — 正常です：アプリケーションフォルダのアプリを右クリック（Control クリック）→ <em>開く</em> → もう一度<em>開く</em>。1回だけで、以後は通常どおり動きます。",
+   "de": "<strong>\"Apple kann nicht prüfen, ob die App schädliche Software enthält\"</strong> — normal: Rechtsklick (Control-Klick) auf die App in Programme → <em>Öffnen</em> → nochmal <em>Öffnen</em>. Einmal, dann läuft sie normal."
+  },
+  "d.ts.l2": {
+   "en": "<strong>The bot doesn't answer.</strong> Open Settings → the bot's page: is the token right? Then Defaults → Model → <em>Test</em> the provider. Then check the log (menu bar → Logs, or App tab → Open log).",
+   "zh": "<strong>机器人不回答。</strong>打开设置 → 该机器人的页面：令牌正确吗？然后「默认设置 → 模型」→ <em>测试</em>服务商。最后查看日志（菜单栏 → 日志，或应用标签页 → 打开日志）。",
+   "es": "<strong>El bot no responde.</strong> Abre Ajustes → la página del bot: ¿está bien el token? Luego Valores por defecto → Modelo → <em>Probar</em> el proveedor. Después revisa el registro (barra de menús → Registros, o pestaña App → Abrir registro).",
+   "ja": "<strong>ボットが応答しない。</strong>設定 → ボットのページを開く：トークンは正しい？次に「デフォルト → モデル」でプロバイダーを<em>テスト</em>。その後ログを確認（メニューバー → ログ、またはアプリタブ → ログを開く）。",
+   "de": "<strong>Der Bot antwortet nicht.</strong> Öffne Einstellungen → die Seite des Bots: stimmt der Token? Dann Standardwerte → Modell → <em>Testen</em> des Anbieters. Danach im Log nachsehen (Menüleiste → Logs oder App-Tab → Log öffnen)."
+  },
+  "d.ts.l3": {
+   "en": "<strong>Replies are slow or the bot goes quiet.</strong> Free-tier providers can stall for a minute+ — raise the API timeout, and add backup models so the bot falls over when the primary throttles.",
+   "zh": "<strong>回复很慢或机器人沉默。</strong>免费服务商可能卡顿一分钟以上 —— 调高 API 超时，并添加备用模型，主服务限流时机器人可自动切换。",
+   "es": "<strong>Las respuestas son lentas o el bot se calla.</strong> Los proveedores gratuitos pueden tardar más de un minuto — sube el tiempo de espera de API y añade modelos de respaldo para que el bot cambie cuando el principal limite.",
+   "ja": "<strong>返信が遅い、またはボットが黙る。</strong>無料枠プロバイダーは1分以上かかることがあります — API タイムアウトを延ばし、バックアップモデルを追加すれば、プライマリが制限されたときに切り替わります。",
+   "de": "<strong>Antworten sind langsam oder der Bot schweigt.</strong> Kostenlose Anbieter können über eine Minute brauchen — erhöhe das API-Timeout und füge Backup-Modelle hinzu, damit der Bot umschaltet, wenn das primäre drosselt."
+  },
+  "d.ts.l4": {
+   "en": "<strong>Local server not responding.</strong> Make sure the server is actually running (mlx-serve, Ollama…) before testing in the Model tab.",
+   "zh": "<strong>本地服务器无响应。</strong>先在「模型」标签页测试前确认服务器确实在运行（mlx-serve、Ollama…）。",
+   "es": "<strong>El servidor local no responde.</strong> Asegúrate de que el servidor está realmente en marcha (mlx-serve, Ollama…) antes de probar en la pestaña Modelo.",
+   "ja": "<strong>ローカルサーバーが応答しない。</strong>モデルタブでテストする前に、サーバー（mlx-serve、Ollama…）が実際に起動しているか確認してください。",
+   "de": "<strong>Lokaler Server antwortet nicht.</strong> Stelle sicher, dass der Server wirklich läuft (mlx-serve, Ollama…), bevor du im Modell-Tab testest."
+  },
+  "d.ts.l5": {
+   "en": "<strong>Updates say \"up to date\" oddly.</strong> The check is silent by design — if the manifest is unreachable it reports up to date.",
+   "zh": "<strong>更新显示「已是最新版本」很反常。</strong>检查是刻意静默的 —— 如果清单无法访问，它就会显示已是最新版本。",
+   "es": "<strong>Actualizaciones dice \"estás al día\" de forma rara.</strong> La comprobación es silenciosa a propósito — si el manifiesto no es alcanzable, informa de que estás al día.",
+   "ja": "<strong>「最新です」の表示が変。</strong>チェックは意図的に静かです — マニフェストに到達できない場合は最新と報告されます。",
+   "de": "<strong>Updates sagen seltsam \"auf dem neuesten Stand\".</strong> Die Prüfung ist absichtlich leise — wenn das Manifest nicht erreichbar ist, meldet sie neuesten Stand."
+  },
+  "d.ts.l6": {
+   "en": "<strong>Something else?</strong>",
+   "zh": "<strong>其他问题？</strong>",
+   "es": "<strong>¿Algo más?</strong>",
+   "ja": "<strong>その他の問題？</strong>",
+   "de": "<strong>Etwas anderes?</strong>"
+  },
+  "d.end.like": {
+   "en": "Liking it?",
+   "zh": "喜欢它？",
+   "es": "¿Te gusta?",
+   "ja": "気に入りましたか？",
+   "de": "Gefällt's dir?"
+  },
+  "c.meta.title": {
+   "en": "Changelog — Telebot AI",
+   "zh": "更新日志 —— Telebot AI",
+   "es": "Novedades — Telebot AI",
+   "ja": "更新履歴 — Telebot AI",
+   "de": "Changelog — Telebot AI"
+  },
+  "c.meta.description": {
+   "en": "What's new in Telebot AI — every release, one place. Latest: v1.0.2, seven languages and one-click in-app updates.",
+   "zh": "Telebot AI 的新内容 —— 所有版本，一页看全。最新：v1.0.2，七种语言与一键应用内更新。",
+   "es": "Qué hay de nuevo en Telebot AI — todas las versiones, en un solo lugar. Última: v1.0.2, siete idiomas y actualizaciones en un clic dentro de la app.",
+   "ja": "Telebot AI の新着情報 — すべてのリリースを1箇所に。最新：v1.0.2、7言語対応とアプリ内ワンクリック更新。",
+   "de": "Was gibt's Neues bei Telebot AI — alle Versionen an einem Ort. Aktuell: v1.0.2, sieben Sprachen und In-App-Updates mit einem Klick."
+  },
+  "c.og.description": {
+   "en": "Every release of Telebot AI, in one place. Latest: v1.0.2 — seven languages, auto-update, What's New sheet.",
+   "zh": "Telebot AI 的每次发布，一页看全。最新：v1.0.2 —— 七种语言、自动更新、更新后「新内容」弹窗。",
+   "es": "Cada versión de Telebot AI, en un solo lugar. Última: v1.0.2 — siete idiomas, actualización automática, hoja de novedades.",
+   "ja": "Telebot AI のすべてのリリースを1箇所に。最新：v1.0.2 — 7言語、自動更新、更新後の「新着情報」シート。",
+   "de": "Jede Version von Telebot AI an einem Ort. Aktuell: v1.0.2 — sieben Sprachen, Auto-Update, Neuerungen-Blatt."
+  },
+  "c.twitter.description": {
+   "en": "Every release of Telebot AI, in one place. Latest: v1.0.2.",
+   "zh": "Telebot AI 的每次发布，一页看全。最新：v1.0.2。",
+   "es": "Cada versión de Telebot AI, en un solo lugar. Última: v1.0.2.",
+   "ja": "Telebot AI のすべてのリリースを1箇所に。最新：v1.0.2。",
+   "de": "Jede Version von Telebot AI an einem Ort. Aktuell: v1.0.2."
+  },
+  "c.eyebrow": {
+   "en": "📜 What's new",
+   "zh": "📜 新内容",
+   "es": "📜 Novedades",
+   "ja": "📜 新着情報",
+   "de": "📜 Neuerungen"
+  },
+  "c.intro": {
+   "en": "Every release of Telebot AI, in one place.",
+   "zh": "Telebot AI 的每次发布，一页看全。",
+   "es": "Cada versión de Telebot AI, en un solo lugar.",
+   "ja": "Telebot AI のすべてのリリースを1箇所に。",
+   "de": "Jede Version von Telebot AI an einem Ort."
+  },
+  "c.latest": {
+   "en": "Latest",
+   "zh": "最新",
+   "es": "Última",
+   "ja": "最新",
+   "de": "Aktuell"
+  },
+  "c1.date": {
+   "en": "Aug 14, 2026",
+   "zh": "2026年8月14日",
+   "es": "14 ago 2026",
+   "ja": "2026年8月14日",
+   "de": "14. Aug 2026"
+  },
+  "c1.summary": {
+   "en": "Seven languages, one-click in-app updates, and a “What’s new” sheet after every update.",
+   "zh": "七种语言、一键应用内更新，以及每次更新后的「新内容」弹窗。",
+   "es": "Siete idiomas, actualizaciones en un clic dentro de la app y una hoja de novedades tras cada actualización.",
+   "ja": "7言語対応、アプリ内ワンクリック更新、そして更新のたびに表示される「新着情報」シート。",
+   "de": "Sieben Sprachen, In-App-Updates mit einem Klick und ein Neuerungen-Blatt nach jedem Update."
+  },
+  "c1.l1": {
+   "en": "<strong>7 languages</strong> — English, 中文, Español, 日本語, Deutsch, Français and Português. The sidebar picker switches everything live: pages, skill cards, the menu bar app and release notes. More languages are a content-add away.",
+   "zh": "<strong>7 种语言</strong> —— 英语、中文、Español、日本語、Deutsch、Français 和 Português。侧边栏的语言选择器可即时切换所有界面：页面、技能卡片、菜单栏应用和发布说明。添加更多语言只需补充内容。",
+   "es": "<strong>7 idiomas</strong> — inglés, 中文, Español, 日本語, Deutsch, Français y Português. El selector de idioma de la barra lateral lo cambia todo al instante: páginas, tarjetas de habilidades, la app de la barra de menús y las notas de versión. Más idiomas están a un añadido de contenido.",
+   "ja": "<strong>7言語</strong> — 英語、中文、Español、日本語、Deutsch、Français、Português。サイドバーの言語セレクターで、ページ、スキルカード、メニューバーアプリ、リリースノートまで瞬時に切り替わります。言語の追加はコンテンツの追加だけで済みます。",
+   "de": "<strong>7 Sprachen</strong> — Englisch, 中文, Español, 日本語, Deutsch, Français und Português. Der Sprachwähler in der Seitenleiste schaltet alles live um: Seiten, Fähigkeiten-Karten, die Menüleisten-App und Versionshinweise. Weitere Sprachen sind eine Content-Ergänzung entfernt."
+  },
+  "c1.l2": {
+   "en": "<strong>Auto-update inside the app</strong> — when a new version is available, the Updates page shows <strong>Update Now</strong>: it downloads, verifies the DMG, quits, swaps both apps atomically and relaunches you on the new version. No browser, no drag-and-drop.",
+   "zh": "<strong>应用内自动更新</strong> —— 有新版本时，「更新」页面会显示<strong>立即更新</strong>：下载、校验 DMG、退出、原子化替换两个应用并自动重启到新版本。无需浏览器，无需拖拽。",
+   "es": "<strong>Actualización automática dentro de la app</strong> — cuando hay una versión nueva, la página Actualizaciones muestra <strong>Actualizar ahora</strong>: descarga, verifica el DMG, cierra, reemplaza ambas apps atómicamente y te relanza en la nueva versión. Sin navegador, sin arrastrar y soltar.",
+   "ja": "<strong>アプリ内自動更新</strong> — 新しいバージョンがあると、アップデートページに<strong>今すぐ更新</strong>が表示：ダウンロード、DMG の検証、終了、両アプリのアトミックな置き換え、新バージョンでの自動再起動まで一気に。ブラウザもドラッグ＆ドロップも不要です。",
+   "de": "<strong>In-App-Auto-Update</strong> — wenn eine neue Version verfügbar ist, zeigt die Updates-Seite <strong>Jetzt aktualisieren</strong>: herunterladen, DMG verifizieren, beenden, beide Apps atomar austauschen und automatisch in der neuen Version neu starten. Kein Browser, kein Drag-and-Drop."
+  },
+  "c1.l3": {
+   "en": "<strong>“What’s new” sheet after every update</strong> — the app reopens with the release notes for the version you just installed, in your language. One-time per update.",
+   "zh": "<strong>每次更新后的「新内容」弹窗</strong> —— 应用重新打开时会显示您刚安装版本的发布说明，使用您的语言。每次更新仅一次。",
+   "es": "<strong>Hoja de novedades tras cada actualización</strong> — la app se reabre con las notas de la versión que acabas de instalar, en tu idioma. Una vez por actualización.",
+   "ja": "<strong>更新のたびに「新着情報」シート</strong> — アプリが再起動すると、インストールしたバージョンのリリースノートがあなたの言語で表示されます。更新ごとに1回だけ。",
+   "de": "<strong>Neuerungen-Blatt nach jedem Update</strong> — die App öffnet sich wieder mit den Versionshinweisen der gerade installierten Version, in deiner Sprache. Einmal pro Update."
+  },
+  "c1.l4": {
+   "en": "<strong>Every surface speaks your language</strong> — sidebar, bot pages, defaults, skill cards, popups, the menu bar app and the skills sheet.",
+   "zh": "<strong>每个界面都使用您的语言</strong> —— 侧边栏、机器人页面、默认设置、技能卡片、弹窗、菜单栏应用和技能面板。",
+   "es": "<strong>Cada superficie habla tu idioma</strong> — barra lateral, páginas de bots, valores por defecto, tarjetas de habilidades, ventanas emergentes, la app de la barra de menús y la hoja de habilidades.",
+   "ja": "<strong>すべての画面があなたの言語に</strong> — サイドバー、ボットページ、デフォルト、スキルカード、ポップアップ、メニューバーアプリ、スキルシート。",
+   "de": "<strong>Jede Oberfläche spricht deine Sprache</strong> — Seitenleiste, Bot-Seiten, Standardwerte, Fähigkeiten-Karten, Popups, die Menüleisten-App und das Fähigkeiten-Blatt."
+  },
+  "c1.l5": {
+   "en": "Per-model usage — the Model page shows how many requests and tokens each model served; each bot page shows its own request/token stats.",
+   "zh": "按模型统计用量 —— 「模型」页面显示每个模型服务的请求数和令牌数；每个机器人页面显示自己的请求/令牌统计。",
+   "es": "Uso por modelo — la página Modelo muestra cuántas peticiones y tokens sirvió cada modelo; cada página de bot muestra sus propias estadísticas de peticiones/tokens.",
+   "ja": "モデルごとの使用量 — モデルページで各モデルが処理したリクエスト数とトークン数を確認；各ボットページでも独自のリクエスト/トークン統計を表示。",
+   "de": "Nutzung pro Modell — die Modell-Seite zeigt, wie viele Anfragen und Tokens jedes Modell bedient hat; jede Bot-Seite zeigt ihre eigene Anfrage-/Token-Statistik."
+  },
+  "c2.date": {
+   "en": "Aug 13, 2026",
+   "zh": "2026年8月13日",
+   "es": "13 ago 2026",
+   "ja": "2026年8月13日",
+   "de": "13. Aug 2026"
+  },
+  "c2.summary": {
+   "en": "Friendlier errors, clearer update feedback, and an auto-check toggle.",
+   "zh": "更友好的错误提示、更清晰的更新反馈，以及自动检查开关。",
+   "es": "Errores más amigables, retroalimentación de actualización más clara y un interruptor de comprobación automática.",
+   "ja": "より親切なエラー、より明確な更新フィードバック、自動チェックのトグル。",
+   "de": "Freundlichere Fehler, klareres Update-Feedback und ein Auto-Check-Schalter."
+  },
+  "c2.l1": {
+   "en": "If the app ever fails to start, you now get a <strong>\"Telebot AI couldn't start\"</strong> dialog with <strong>Visit website to report</strong> (opens the feedback form), <strong>Copy error</strong> and Quit — no more cryptic crash dialogs.",
+   "zh": "如果应用启动失败，您现在会看到<strong>「Telebot AI 无法启动」</strong>对话框，包含<strong>访问网站报告</strong>（打开反馈表单）、<strong>复制错误</strong>和退出 —— 不再有难以理解的崩溃对话框。",
+   "es": "Si la app falla al arrancar, ahora ves un diálogo <strong>\"Telebot AI no pudo iniciarse\"</strong> con <strong>Visitar el sitio para informar</strong> (abre el formulario de comentarios), <strong>Copiar error</strong> y Salir — nada de diálogos de cierre crípticos.",
+   "ja": "アプリの起動に失敗すると、<strong>「Telebot AI を起動できませんでした」</strong>ダイアログが表示されるように — <strong>ウェブサイトで報告</strong>（フィードバックフォームを開く）、<strong>エラーをコピー</strong>、終了。難解なクラッシュダイアログはもうありません。",
+   "de": "Wenn die App nicht starten kann, bekommst du jetzt einen <strong>\"Telebot AI konnte nicht gestartet werden\"</strong>-Dialog mit <strong>Website besuchen zum Melden</strong> (öffnet das Feedback-Formular), <strong>Fehler kopieren</strong> und Beenden — keine kryptischen Crash-Dialoge mehr."
+  },
+  "c2.l2": {
+   "en": "<strong>Check for Updates</strong> now shows real feedback: the menu item flips to <strong>✓ Up to date</strong>, and the Updates page shows the result in <strong>green</strong> (orange while checking, with a Download link when a new version is out). The checking state is held long enough to actually see.",
+   "zh": "<strong>检查更新</strong>现在有真实反馈：菜单项切换为<strong>✓ 已是最新版本</strong>，「更新」页面以<strong>绿色</strong>显示结果（检查中为橙色，有新版本时显示下载链接）。检查状态会保持足够长的时间，确保您能看到。",
+   "es": "<strong>Buscar actualizaciones</strong> ahora da retroalimentación real: el elemento del menú cambia a <strong>✓ Al día</strong>, y la página Actualizaciones muestra el resultado en <strong>verde</strong> (naranja mientras comprueba, con un enlace de descarga cuando hay versión nueva). El estado de comprobación se mantiene el tiempo suficiente para verlo.",
+   "ja": "<strong>アップデートを確認</strong>に実フィードバックが付きました：メニュー項目が<strong>✓ 最新です</strong>に切り替わり、アップデートページは<strong>緑</strong>で結果を表示（確認中はオレンジ、新バージョンがあればダウンロードリンク）。確認状態はちゃんと目で見えるだけの時間保持されます。",
+   "de": "<strong>Nach Updates suchen</strong> zeigt jetzt echtes Feedback: Der Menüpunkt wechselt auf <strong>✓ Auf dem neuesten Stand</strong>, und die Updates-Seite zeigt das Ergebnis in <strong>Grün</strong> (Orange während der Prüfung, mit Download-Link bei neuer Version). Der Prüfzustand bleibt lange genug sichtbar."
+  },
+  "c2.l3": {
+   "en": "New <strong>Check automatically</strong> setting on the Updates page — turn the launch + 24-hour update checks on or off (default on).",
+   "zh": "「更新」页面新增<strong>自动检查</strong>设置 —— 可开启或关闭启动时与每 24 小时的更新检查（默认开启）。",
+   "es": "Nuevo ajuste <strong>Comprobar automáticamente</strong> en la página Actualizaciones — activa o desactiva las comprobaciones al iniciar y cada 24 horas (por defecto activadas).",
+   "ja": "アップデートページに新しい<strong>自動的に確認</strong>設定 — 起動時と24時間ごとの更新チェックをオン/オフ（デフォルトはオン）。",
+   "de": "Neue Einstellung <strong>Automatisch prüfen</strong> auf der Updates-Seite — schaltet die Update-Prüfung beim Start und alle 24 Stunden an oder aus (Standard: an)."
+  },
+  "c2.l4": {
+   "en": "Updates page tidied up — installed version, status and the check/download buttons now sit together in one clean row instead of divider-separated clutter.",
+   "zh": "「更新」页面整理一新 —— 已安装版本、状态和检查/下载按钮现在整齐地排成一行，不再有分隔线割裂的杂乱布局。",
+   "es": "Página Actualizaciones ordenada — versión instalada, estado y botones de comprobación/descarga ahora están en una sola fila limpia en lugar del desorden separado por divisores.",
+   "ja": "アップデートページを整理 — インストール済みバージョン、ステータス、確認/ダウンロードボタンが区切り線だらけの乱雑なレイアウトから、1つのクリーンな行に。",
+   "de": "Updates-Seite aufgeräumt — installierte Version, Status und Prüf-/Download-Buttons sitzen jetzt in einer sauberen Zeile statt in durch Trennlinien zerklüftetem Durcheinander."
+  },
+  "c3.date": {
+   "en": "Aug 12, 2026",
+   "zh": "2026年8月12日",
+   "es": "12 ago 2026",
+   "ja": "2026年8月12日",
+   "de": "12. Aug 2026"
+  },
+  "c3.summary": {
+   "en": "The first public release — the bridge between your Telegram bots and any LLM, local or cloud.",
+   "zh": "首次公开发布 —— 连接您的 Telegram 机器人与任意 LLM 的桥梁，本地或云端。",
+   "es": "La primera versión pública — el puente entre tus bots de Telegram y cualquier LLM, local o en la nube.",
+   "ja": "初の公開リリース — Telegram ボットとあらゆる LLM を結ぶ橋、ローカルでもクラウドでも。",
+   "de": "Das erste öffentliche Release — die Brücke zwischen deinen Telegram-Bots und jedem LLM, lokal oder Cloud."
+  },
+  "c3.l1": {
+   "en": "Menu bar app — start and stop your bots, open settings and quit, all from the menu bar.",
+   "zh": "菜单栏应用 —— 启动和停止机器人、打开设置、退出，全部在菜单栏完成。",
+   "es": "App de la barra de menús — inicia y detiene tus bots, abre ajustes y sale, todo desde la barra de menús.",
+   "ja": "メニューバーアプリ — ボットの起動・停止、設定を開く、終了まで、すべてメニューバーから。",
+   "de": "Menüleisten-App — Bots starten und stoppen, Einstellungen öffnen und beenden, alles aus der Menüleiste."
+  },
+  "c3.l2": {
+   "en": "Multiple bots — one per token, each with its own model, personality and skills.",
+   "zh": "多机器人 —— 每个令牌一个，各自拥有独立的模型、个性和技能。",
+   "es": "Varios bots — uno por token, cada uno con su propio modelo, personalidad y habilidades.",
+   "ja": "マルチボット — トークンごとに1つ、それぞれ独自のモデル・性格・スキル。",
+   "de": "Mehrere Bots — einer pro Token, jeder mit eigenem Modell, Persönlichkeit und Fähigkeiten."
+  },
+  "c3.l3": {
+   "en": "Bring your own brain — mlx-serve, Ollama, LM Studio, vLLM, OpenAI, Anthropic, Groq, OpenRouter — with automatic fallbacks when a provider goes down.",
+   "zh": "自带大脑 —— mlx-serve、Ollama、LM Studio、vLLM、OpenAI、Anthropic、Groq、OpenRouter —— 服务商宕机时自动切换备用。",
+   "es": "Trae tu propio cerebro — mlx-serve, Ollama, LM Studio, vLLM, OpenAI, Anthropic, Groq, OpenRouter — con respaldos automáticos cuando un proveedor falla.",
+   "ja": "頭脳はお好みで — mlx-serve、Ollama、LM Studio、vLLM、OpenAI、Anthropic、Groq、OpenRouter — プロバイダーが落ちたら自動フォールバック。",
+   "de": "Bring dein eigenes Gehirn mit — mlx-serve, Ollama, LM Studio, vLLM, OpenAI, Anthropic, Groq, OpenRouter — mit automatischen Fallbacks, wenn ein Anbieter ausfällt."
+  },
+  "c3.l4": {
+   "en": "30+ model-driven tools — reminders, weather, stocks, crypto, polls, dice, expenses, habits, bookmarks, RSS feeds, translation, currency, PDF &amp; receipt scanning, memory, digests and briefings.",
+   "zh": "30+ 模型驱动工具 —— 提醒、天气、股票、加密货币、投票、骰子、记账、习惯、书签、RSS 订阅、翻译、货币、PDF 与收据扫描、记忆、摘要与简报。",
+   "es": "Más de 30 herramientas dirigidas por el modelo — recordatorios, clima, acciones, cripto, encuestas, dados, gastos, hábitos, marcadores, fuentes RSS, traducción, divisas, escaneo de PDF y recibos, memoria, resúmenes e informes.",
+   "ja": "30+ のモデル駆動ツール — リマインダー、天気、株、暗号資産、投票、ダイス、家計簿、習慣、ブックマーク、RSS、翻訳、通貨、PDF・レシートのスキャン、メモリー、ダイジェスト、ブリーフィング。",
+   "de": "Über 30 modellgesteuerte Tools — Erinnerungen, Wetter, Aktien, Crypto, Umfragen, Würfel, Ausgaben, Gewohnheiten, Lesezeichen, RSS-Feeds, Übersetzung, Währungen, PDF- & Belegscan, Gedächtnis, Digests und Briefings."
+  },
+  "c3.l5": {
+   "en": "Keyless data sources — weather, currency, Wikipedia, SEC filings — no API keys required.",
+   "zh": "无需密钥的数据源 —— 天气、货币、Wikipedia、SEC 文件 —— 不需要 API 密钥。",
+   "es": "Fuentes de datos sin claves — clima, divisas, Wikipedia, documentos SEC — sin claves de API.",
+   "ja": "キー不要のデータソース — 天気、為替、Wikipedia、SEC 提出書類 — API キー一切不要。",
+   "de": "Datenquellen ohne Schlüssel — Wetter, Währungen, Wikipedia, SEC-Einreichungen — keine API-Keys nötig."
+  },
+  "c3.l6": {
+   "en": "Telegram-native — streaming replies, typing dots, animated dice, native polls, voice notes in and out.",
+   "zh": "Telegram 原生体验 —— 流式回复、正在输入提示、动画骰子、原生投票、语音消息收发。",
+   "es": "Nativo de Telegram — respuestas en streaming, indicador de escritura, dados animados, encuestas nativas, notas de voz de ida y vuelta.",
+   "ja": "Telegram ネイティブ — ストリーミング返信、入力中インジケーター、アニメーションダイス、ネイティブ投票、音声メモの送受信。",
+   "de": "Telegram-nativ — Streaming-Antworten, Tipp-Punkte, animierte Würfel, native Umfragen, Sprachnachrichten rein und raus."
+  },
+  "c3.l7": {
+   "en": "Local-first privacy — chat history, memories and skills live in <span class=\"mono\">~/.mlx-serve</span> on your Mac.",
+   "zh": "本地优先的隐私 —— 聊天记录、记忆和技能都保存在您 Mac 上的 <span class=\"mono\">~/.mlx-serve</span>。",
+   "es": "Privacidad local-first — el historial de chat, los recuerdos y las habilidades viven en <span class=\"mono\">~/.mlx-serve</span> en tu Mac.",
+   "ja": "ローカルファーストのプライバシー — チャット履歴・メモリー・スキルは Mac 上の <span class=\"mono\">~/.mlx-serve</span> に保存。",
+   "de": "Lokal-first Datenschutz — Chatverlauf, Erinnerungen und Fähigkeiten leben in <span class=\"mono\">~/.mlx-serve</span> auf deinem Mac."
+  },
+  "c.foot": {
+   "en": "Something missing or broken?",
+   "zh": "有缺失或问题？",
+   "es": "¿Algo falta o está roto?",
+   "ja": "何か足りない、または壊れていますか？",
+   "de": "Etwas fehlt oder ist kaputt?"
+  },
+  "e.title": {
+   "en": "Page not found — Telebot AI",
+   "zh": "页面未找到 —— Telebot AI",
+   "es": "Página no encontrada — Telebot AI",
+   "ja": "ページが見つかりません — Telebot AI",
+   "de": "Seite nicht gefunden — Telebot AI"
+  },
+  "e.heading": {
+   "en": "This page wandered off.",
+   "zh": "这个页面走丢了。",
+   "es": "Esta página se perdió.",
+   "ja": "このページはどこかへ行ってしまいました。",
+   "de": "Diese Seite hat sich verlaufen."
+  },
+  "e.body": {
+   "en": "The link may be old, or the page never existed. Either way — the download still works.",
+   "zh": "链接可能已过期，或者页面从未存在。无论如何 —— 下载仍然可用。",
+   "es": "El enlace puede ser viejo, o la página nunca existió. De cualquier forma — la descarga sigue funcionando.",
+   "ja": "リンクが古いか、ページが存在しなかった可能性があります。どちらにせよ — ダウンロードは引き続き使えます。",
+   "de": "Der Link ist vielleicht alt, oder die Seite hat nie existiert. Wie auch immer — der Download funktioniert weiter."
+  },
+  "e.back": {
+   "en": "Back to home",
+   "zh": "返回首页",
+   "es": "Volver al inicio",
+   "ja": "ホームに戻る",
+   "de": "Zurück zur Startseite"
+  },
+  "d.qs.guide_tail": {
+   "en": "it covers mlx-serve, Ollama and LM Studio, and how much RAM each model needs.",
+   "zh": "它涵盖 mlx-serve、Ollama 和 LM Studio，以及每个模型需要多少内存。",
+   "es": "cubre mlx-serve, Ollama y LM Studio, y cuánta RAM necesita cada modelo.",
+   "ja": "mlx-serve、Ollama、LM Studio の解説と、モデルごとに必要なメモリ量が載っています。",
+   "de": "er behandelt mlx-serve, Ollama und LM Studio und wie viel RAM jedes Modell braucht."
+  },
+  "d.ts.l6_tail": {
+   "en": "every message lands in the developer's Telegram and gets a real answer.",
+   "zh": "每条消息都会送达开发者的 Telegram 并得到真实回复。",
+   "es": "cada mensaje llega al Telegram del desarrollador y recibe una respuesta real.",
+   "ja": "すべてのメッセージは開発者の Telegram に届き、実際に回答が返ってきます。",
+   "de": "jede Nachricht landet im Telegram des Entwicklers und bekommt eine echte Antwort."
+  },
+  "ga.og.title": {
+   "en": "Run Local AI on Your Mac — mlx-serve, Ollama &amp; LM Studio",
+   "zh": "在 Mac 上运行本地 AI —— mlx-serve、Ollama 与 LM Studio",
+   "es": "Ejecuta IA local en tu Mac — mlx-serve, Ollama y LM Studio",
+   "ja": "Mac でローカル AI を実行 — mlx-serve、Ollama、LM Studio",
+   "de": "Lokale KI auf deinem Mac — mlx-serve, Ollama & LM Studio"
+  },
+  "ga.twitter.description": {
+   "en": "A practical guide to running local AI models on your Mac, and connecting them to Telegram.",
+   "zh": "在 Mac 上运行本地 AI 模型的实用指南，并连接到 Telegram。",
+   "es": "Una guía práctica para ejecutar modelos de IA locales en tu Mac y conectarlos a Telegram.",
+   "ja": "Mac でローカル AI モデルを実行し、Telegram に接続するための実践ガイド。",
+   "de": "Ein praktischer Guide zum Betrieb lokaler KI-Modelle auf deinem Mac — und zur Verbindung mit Telegram."
+  },
+  "c1.l6": {
+   "en": "Menu bar app is now accessory-only — one clean “Telebot AI” icon in the Dock and Cmd-Tab (the settings app), no duplicates.",
+   "zh": "菜单栏应用现在仅作为辅助 —— 程序坞和 Cmd-Tab 中只有一个干净的「Telebot AI」图标（设置应用），不再重复。",
+   "es": "La app de la barra de menús ahora es solo accesoria — un único icono limpio de \"Telebot AI\" en el Dock y Cmd-Tab (la app de ajustes), sin duplicados.",
+   "ja": "メニューバーアプリはアクセサリのみに — Dock と Cmd-Tab にクリーンな「Telebot AI」アイコンが1つ（設定アプリ）、重複なし。",
+   "de": "Die Menüleisten-App ist jetzt nur noch Zubehör — ein sauberes \"Telebot AI\"-Symbol im Dock und Cmd-Tab (die Einstellungen-App), keine Duplikate."
+  },
+  "c1.l7": {
+   "en": "Clicking the Dock or Cmd-Tab icon re-creates the settings window if it was closed.",
+   "zh": "点击程序坞或 Cmd-Tab 图标会在设置窗口被关闭时重新创建它。",
+   "es": "Hacer clic en el icono del Dock o Cmd-Tab recrea la ventana de ajustes si estaba cerrada.",
+   "ja": "Dock や Cmd-Tab のアイコンをクリックすると、閉じていた設定ウィンドウが再作成されます。",
+   "de": "Ein Klick auf das Dock- oder Cmd-Tab-Symbol erstellt das Einstellungsfenster neu, wenn es geschlossen war."
+  },
+  "c3.l8": {
+   "en": "macOS 13+, Apple Silicon. Unsigned build — right-click → Open on first launch.",
+   "zh": "macOS 13+，Apple Silicon。未签名构建 —— 首次启动请右键 → 打开。",
+   "es": "macOS 13+, Apple Silicon. Build sin firmar — clic derecho → Abrir en el primer inicio.",
+   "ja": "macOS 13+、Apple Silicon。未署名ビルド — 初回起動は右クリック → 開く。",
+   "de": "macOS 13+, Apple Silicon. Unsignierter Build — beim ersten Start Rechtsklick → Öffnen."
+  },
+  "d.twitter.description": {
+   "en": "Every feature and setting of Telebot AI, explained.",
+   "zh": "Telebot AI 的每个功能与设置详解。",
+   "es": "Cada función y ajuste de Telebot AI, explicado.",
+   "ja": "Telebot AI の全機能・全設定を解説。",
+   "de": "Jede Funktion und Einstellung von Telebot AI, erklärt."
+  },
+  "d.end.bmc": {
+   "en": "Buy me a coffee ☕",
+   "zh": "请我喝杯咖啡 ☕",
+   "es": "Invítame a un café ☕",
+   "ja": "コーヒーを奢る ☕",
+   "de": "Spendier mir einen Kaffee ☕"
+  },
+  "mockup.dice_aria": {
+   "en": "Rolled a 3",
+   "zh": "掷出了 3",
+   "es": "Sacaste un 3",
+   "ja": "3 が出ました",
+   "de": "Du hast eine 3 gewürfelt"
+  }
+ }
+}

@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="{{htmllang}}" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{d.meta.title}}</title>
+  <meta name="description" content="{{d.meta.description}}">
+  <link rel="canonical" href="{{canonical}}">
+  {{hreflang}}
+  <meta property="og:title" content="{{d.meta.title}}">
+  <meta property="og:description" content="{{d.og.description}}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{canonical}}">
+  <meta property="og:site_name" content="Telebot AI">
+  <meta property="og:locale" content="{{oglocale}}">
+  <meta property="og:image" content="https://telebot.abeaverscart.ca/assets/og-image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{d.meta.title}}">
+  <meta name="twitter:description" content="{{d.twitter.description}}">
+  <meta name="twitter:image" content="https://telebot.abeaverscart.ca/assets/og-image.png">
+  <meta name="theme-color" content="#f5f5f7">
+  <link rel="icon" href="{{base}}assets/favicon.png">
+  <link rel="apple-touch-icon" href="{{base}}assets/apple-touch-icon.png">
+  <link rel="manifest" href="{{base}}assets/site.webmanifest">
+  <link rel="stylesheet" href="{{base}}style.css?v=26">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": {{json:d.meta.title}},
+    "description": {{json:d.og.description}},
+    "url": "{{canonical}}",
+    "isPartOf": { "@type": "WebSite", "name": "Telebot AI", "url": "{{rootcanonical}}" }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Telebot AI", "item": "{{rootcanonical}}" },
+      { "@type": "ListItem", "position": 2, "name": {{json:nav.docs}}, "item": "{{canonical}}" }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+<nav id="nav">
+  <div class="nav-inner">
+    <a class="brand" href="{{base}}">
+      <span class="brand-mark"><img src="{{base}}assets/app-logo.png" alt="Telebot AI logo"></span>
+      <span class="brand-name">Telebot AI</span>
+    </a>
+    <div class="nav-links">
+      <a href="{{base}}#features">{{nav.features}}</a>
+      <a href="{{base}}#how">{{nav.how}}</a>
+      <a href="{{base}}#privacy">{{nav.privacy}}</a>
+      <a href="{{base}}#faq">{{nav.faq}}</a>
+      <a href="{{base}}guides/">{{nav.guides}}</a>
+      <a href="{{base}}docs/" aria-current="page">{{nav.docs}}</a>
+      <a href="{{base}}changelog/">{{nav.changelog}}</a>
+    </div>
+    <div class="nav-actions">
+      {{langswitcher}}
+      <button id="theme-toggle" class="theme-toggle" aria-label="{{nav.theme}}" title="{{nav.theme}}">
+        <svg class="icon-sun" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.4M12 19.1v2.4M2.5 12h2.4M19.1 12h2.4M5.3 5.3l1.7 1.7M17 17l1.7 1.7M18.7 5.3L17 7M7 17l-1.7 1.7"/></svg>
+        <svg class="icon-moon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11z"/></svg>
+      </button>
+      <a class="btn btn-primary btn-sm" href="{{base}}#download">{{nav.download}}</a>
+    </div>
+  </div>
+</nav>
+
+<article class="section guide docs" id="top">
+  <p class="eyebrow mono">{{d.eyebrow}}</p>
+  <h1>{{d.title}}</h1>
+  <p class="guide-lede">{{d.lede}}</p>
+
+  <div class="docs-toc">
+    <p class="docs-toc-title mono">{{d.toc.title}}</p>
+    <a href="#quickstart">{{d.qs.title}}</a>
+    <a href="#menubar">{{d.mb.title}}</a>
+    <a href="#settings">{{d.st.title}}</a>
+    <a href="#model-tab">{{d.toc.model}}</a>
+    <a href="#telegram-tab">{{d.toc.telegram}}</a>
+    <a href="#bot-pages">{{d.bot.title}}</a>
+    <a href="#app-tab">{{d.toc.app}}</a>
+    <a href="#skills">{{d.sk.title}}</a>
+    <a href="#registry">{{d.reg.title}}</a>
+    <a href="#updates">{{d.up.title}}</a>
+    <a href="#privacy">{{d.pv.title}}</a>
+    <a href="#troubleshooting">{{d.ts.title}}</a>
+  </div>
+
+  <h2 id="quickstart">{{d.qs.title}}</h2>
+  <ol class="docs-ol">
+    <li>{{d.qs.l1}}</li>
+    <li>{{d.qs.l2}}</li>
+    <li>{{d.qs.l3}}</li>
+    <li>{{d.qs.l4}}</li>
+    <li>{{d.qs.l5}}</li>
+  </ol>
+  <p>{{d.qs.guide}} <a href="{{base}}guides/run-local-ai-models-on-mac/">{{s3.read}}</a> — {{d.qs.guide_tail}}</p>
+
+  <h2 id="menubar">{{d.mb.title}}</h2>
+  <p>{{d.mb.lead}}</p>
+  <ul>
+    <li>{{d.mb.l1}}</li>
+    <li>{{d.mb.l2}}</li>
+    <li>{{d.mb.l3}}</li>
+    <li>{{d.mb.l4}}</li>
+  </ul>
+
+  <h2 id="settings">{{d.st.title}}</h2>
+  <p>{{d.st.lead}}</p>
+  <ul>
+    <li>{{d.st.l1}}</li>
+    <li>{{d.st.l2}}</li>
+  </ul>
+  <p>{{d.st.config}}</p>
+
+  <h3 id="model-tab">{{d.model.title}}</h3>
+  <table class="guide-table">
+    <thead><tr><th>{{d.th.setting}}</th><th>{{d.th.what}}</th></tr></thead>
+    <tbody>
+      <tr><td>{{d.model.r1.name}}</td><td>{{d.model.r1.body}}</td></tr>
+      <tr><td>{{d.model.r2.name}}</td><td>{{d.model.r2.body}}</td></tr>
+      <tr><td>{{d.model.r3.name}}</td><td>{{d.model.r3.body}}</td></tr>
+      <tr><td>{{d.model.r4.name}}</td><td>{{d.model.r4.body}}</td></tr>
+      <tr><td>{{d.model.r5.name}}</td><td>{{d.model.r5.body}}</td></tr>
+    </tbody>
+  </table>
+
+  <h3 id="telegram-tab">{{d.tg.title}}</h3>
+  <table class="guide-table">
+    <thead><tr><th>{{d.th.setting}}</th><th>{{d.th.what}}</th></tr></thead>
+    <tbody>
+      <tr><td>{{d.tg.r1.name}}</td><td>{{d.tg.r1.body}}</td></tr>
+      <tr><td>{{d.tg.r2.name}}</td><td>{{d.tg.r2.body}}</td></tr>
+      <tr><td>{{d.tg.r3.name}}</td><td>{{d.tg.r3.body}}</td></tr>
+      <tr><td>{{d.tg.r4.name}}</td><td>{{d.tg.r4.body}}</td></tr>
+      <tr><td>{{d.tg.r5.name}}</td><td>{{d.tg.r5.body}}</td></tr>
+      <tr><td>{{d.tg.r6.name}}</td><td>{{d.tg.r6.body}}</td></tr>
+      <tr><td>{{d.tg.r7.name}}</td><td>{{d.tg.r7.body}}</td></tr>
+      <tr><td>{{d.tg.r8.name}}</td><td>{{d.tg.r8.body}}</td></tr>
+      <tr><td>{{d.tg.r9.name}}</td><td>{{d.tg.r9.body}}</td></tr>
+      <tr><td>{{d.tg.r10.name}}</td><td>{{d.tg.r10.body}}</td></tr>
+      <tr><td>{{d.tg.r11.name}}</td><td>{{d.tg.r11.body}}</td></tr>
+      <tr><td>{{d.tg.r12.name}}</td><td>{{d.tg.r12.body}}</td></tr>
+    </tbody>
+  </table>
+
+  <h3 id="bot-pages">{{d.bot.title}}</h3>
+  <p>{{d.bot.lead}}</p>
+  <table class="guide-table">
+    <thead><tr><th>{{d.th.setting}}</th><th>{{d.th.what}}</th></tr></thead>
+    <tbody>
+      <tr><td>{{d.bot.r1.name}}</td><td>{{d.bot.r1.body}}</td></tr>
+      <tr><td>{{d.bot.r2.name}}</td><td>{{d.bot.r2.body}}</td></tr>
+      <tr><td>{{d.bot.r3.name}}</td><td>{{d.bot.r3.body}}</td></tr>
+      <tr><td>{{d.bot.r4.name}}</td><td>{{d.bot.r4.body}}</td></tr>
+      <tr><td>{{d.bot.r5.name}}</td><td>{{d.bot.r5.body}}</td></tr>
+      <tr><td>{{d.bot.r6.name}}</td><td>{{d.bot.r6.body}}</td></tr>
+      <tr><td>{{d.tg.r10.name}}</td><td>{{d.bot.r7.body}}</td></tr>
+      <tr><td>{{d.sk.h2}}</td><td>{{d.bot.r8.body}}</td></tr>
+    </tbody>
+  </table>
+
+  <h3 id="app-tab">{{d.app.title}}</h3>
+  <table class="guide-table">
+    <thead><tr><th>{{d.th.setting}}</th><th>{{d.th.what}}</th></tr></thead>
+    <tbody>
+      <tr><td>{{d.app.r1.name}}</td><td>{{d.app.r1.body}}</td></tr>
+      <tr><td>{{d.app.r2.name}}</td><td>{{d.app.r2.body}}</td></tr>
+      <tr><td>{{d.app.r3.name}}</td><td>{{d.app.r3.body}}</td></tr>
+      <tr><td>{{d.app.r4.name}}</td><td>{{d.app.r4.body}}</td></tr>
+      <tr><td>{{d.app.r5.name}}</td><td>{{d.app.r5.body}}</td></tr>
+      <tr><td>{{d.app.r6.name}}</td><td>{{d.app.r6.body}}</td></tr>
+    </tbody>
+  </table>
+
+  <h2 id="skills">{{d.sk.title}}</h2>
+  <p>{{d.sk.lead}}</p>
+  <table class="guide-table">
+    <thead><tr><th>{{d.sk.h1}}</th><th>{{d.sk.h2}}</th><th>{{d.sk.h3}}</th></tr></thead>
+    <tbody>
+      <tr><td>{{d.sk.r1.group}}</td><td>stock-research, stocks-crypto, insider-trading, currency</td><td>{{d.sk.r1.try}}</td></tr>
+      <tr><td>{{d.sk.r2.group}}</td><td>briefing, digest, reminders, habits, review, pomodoro, bookmarks, expenses</td><td>{{d.sk.r2.try}}</td></tr>
+      <tr><td>{{d.sk.r3.group}}</td><td>media, voice, translation, feeds</td><td>{{d.sk.r3.try}}</td></tr>
+      <tr><td>{{d.sk.r4.group}}</td><td>memory</td><td>{{d.sk.r4.try}}</td></tr>
+      <tr><td>{{d.sk.r5.group}}</td><td>{{d.sk.r5.try}}</td><td>—</td></tr>
+    </tbody>
+  </table>
+
+  <h2 id="registry">{{d.reg.title}}</h2>
+  <p>{{d.reg.body}}</p>
+
+  <h2 id="updates">{{d.up.title}}</h2>
+  <p>{{d.up.body}}</p>
+
+  <h2 id="privacy">{{d.pv.title}}</h2>
+  <ul>
+    <li>{{d.pv.l1}}</li>
+    <li>{{d.pv.l2}}</li>
+  </ul>
+
+  <h2 id="troubleshooting">{{d.ts.title}}</h2>
+  <ul>
+    <li>{{d.ts.l1}}</li>
+    <li>{{d.ts.l2}}</li>
+    <li>{{d.ts.l3}}</li>
+    <li>{{d.ts.l4}}</li>
+    <li>{{d.ts.l5}}</li>
+    <li>{{d.ts.l6}} <a href="{{base}}#feedback">{{footer.feedback}}</a> — {{d.ts.l6_tail}}</li>
+  </ul>
+
+  <p class="guide-end">
+    <a href="{{base}}#download" class="btn btn-primary btn-lg">{{dl.cta}}</a>
+    <span class="docs-support">· {{d.end.like}} <a href="https://buymeacoffee.com/abeaverscart" target="_blank" rel="noopener">{{d.end.bmc}}</a></span>
+  </p>
+</article>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <span class="brand-mark"><img src="{{base}}assets/app-logo.png" alt="Telebot AI logo"></span>
+      <span class="brand-name">Telebot AI</span>
+    </div>
+    <p class="footer-tag">{{footer.tag}}</p>
+    <div class="footer-links">
+      <a href="{{base}}#download">{{nav.download}}</a>
+      <a href="{{base}}changelog/">{{nav.changelog}}</a>
+      <a href="{{base}}guides/">{{nav.guides}}</a>
+      <a href="{{base}}docs/">{{nav.docs}}</a>
+      <a href="{{base}}#features">{{nav.features}}</a>
+      <a href="{{base}}#how">{{nav.how}}</a>
+      <a href="{{base}}#privacy">{{nav.privacy}}</a>
+      <a href="{{base}}#faq">{{nav.faq}}</a>
+      <a href="{{base}}#feedback">{{footer.feedback}}</a>
+    </div>
+    <div class="footer-bmc">
+      <a class="btn btn-coffee btn-sm" href="https://buymeacoffee.com/abeaverscart" target="_blank" rel="noopener">{{footer.bmc}}</a>
+    </div>
+    <p class="footer-more">{{footer.brand}} · <a href="https://abeaverscart.ca/" target="_blank" rel="noopener">{{footer.projects}}</a></p>
+    <p class="footer-copy">© <span id="year">2026</span> {{footer.copy}}</p>
+  </div>
+</footer>
+
+{{js-i18n}}
+<script src="{{base}}app.js?v=20"></script>
+</body>
+</html>

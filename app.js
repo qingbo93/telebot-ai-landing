@@ -2,6 +2,11 @@
 (function () {
   'use strict';
 
+  /* localized runtime strings — injected per page by scripts/build.mjs;
+     English fallbacks keep this file working standalone */
+  const I18N = window.I18N || {};
+  const t = (k, fb) => (I18N[k] !== undefined && I18N[k] !== '') ? I18N[k] : fb;
+
   /* mark JS availability — CSS hides .reveal content only when JS is on */
   document.documentElement.classList.add('js');
 
@@ -47,7 +52,7 @@
       e.preventDefault();
       navigator.clipboard.writeText(checksumLink.getAttribute('data-sha')).then(() => {
         const orig = checksumLink.textContent;
-        checksumLink.textContent = 'copied ✓';
+        checksumLink.textContent = t('dl.copied', 'copied ✓');
         setTimeout(() => { checksumLink.textContent = orig; }, 1600);
       }).catch(() => {});
     });
@@ -63,13 +68,13 @@
       e.preventDefault();
       const message = document.getElementById('f-message').value.trim();
       if (message.length < 5) {
-        status.textContent = 'Please write at least a sentence.';
+        status.textContent = t('fb.err_short', 'Please write at least a sentence.');
         status.className = 'f-status err';
         return;
       }
       status.textContent = '';
       submit.disabled = true;
-      submit.textContent = 'Sending…';
+      submit.textContent = t('fb.sending', 'Sending…');
       fetch(ENDPOINT, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -83,21 +88,21 @@
         .then((r) => r.json().catch(() => ({ ok: false })).then((d) => ({ r, d })))
         .then(({ r, d }) => {
           if (r.ok && d.ok) {
-            status.textContent = 'Thanks — your message is on its way ✓';
+            status.textContent = t('fb.ok', 'Thanks — your message is on its way ✓');
             status.className = 'f-status ok';
             form.reset();
           } else {
-            status.textContent = (d && d.error) || 'Something went wrong — please try again.';
+            status.textContent = (d && d.error) || t('fb.err_server', 'Something went wrong — please try again.');
             status.className = 'f-status err';
           }
         })
         .catch(() => {
-          status.textContent = 'Network error — please try again.';
+          status.textContent = t('fb.err_network', 'Network error — please try again.');
           status.className = 'f-status err';
         })
         .finally(() => {
           submit.disabled = false;
-          submit.textContent = 'Send feedback';
+          submit.textContent = t('footer.feedback', 'Send feedback');
         });
     });
   }
