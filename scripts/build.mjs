@@ -47,7 +47,7 @@ const SITEMAP = {
 };
 
 // files copied verbatim into dist/ (machine contracts + infra stay untouched)
-const COPY_FILES = ['latest.json', 'robots.txt', '_headers', '_redirects', 'e5ac2fe2c8c162e377e03cec22ad41fa.txt'];
+const COPY_FILES = ['latest.json', 'robots.txt', '_headers', '_redirects', 'e5ac2fe2c8c162e377e03cec22ad41fa.txt', 'style.css', 'app.js'];
 const COPY_DIRS = ['assets', 'downloads'];
 
 function die(msg) { console.error(`build: ✗ ${msg}`); process.exit(1); }
@@ -181,5 +181,11 @@ const sitemap =
   urlBlocks.join('\n') + '\n</urlset>\n';
 fs.writeFileSync(path.join(OUT, 'sitemap.xml'), sitemap);
 console.log(`  dist/sitemap.xml (${Object.keys(SITEMAP).length * LANGS.length} URLs)`);
+
+// 5. asset gate — every asset referenced by templates must exist in dist/
+const REQUIRED = ['style.css', 'app.js', 'assets/app-logo.png', 'assets/favicon.png'];
+for (const f of REQUIRED) {
+  if (!fs.existsSync(path.join(OUT, f))) die(`missing required asset in dist/: ${f}`);
+}
 
 console.log(`build: OK — ${LANGS.length} language(s) → dist/`);
