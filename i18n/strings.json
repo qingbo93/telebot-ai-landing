@@ -531,6 +531,24 @@
    "fr": "Démarrer, arrêter, redémarrer, ouvrir les réglages ou consulter les journaux — tout depuis la barre de menus. Le bot tourne comme LaunchAgent, toujours actif, jamais dans vos jambes.",
    "pt": "Iniciar, parar, reiniciar, abrir definições ou ver os registos — tudo a partir da barra de menus. O bot corre como LaunchAgent, sempre ativo, fora do seu caminho."
   },
+  "f9.title": {
+   "en": "7 languages",
+   "zh": "7 种语言",
+   "es": "7 idiomas",
+   "ja": "7言語",
+   "de": "7 Sprachen",
+   "fr": "7 langues",
+   "pt": "7 idiomas"
+  },
+  "f9.body": {
+   "en": "The app, its settings, and this website. Switch from the menu bar, the settings window, or the language menu on any page.",
+   "zh": "应用、设置与本网站。可从菜单栏、设置窗口或任意页面上的语言菜单切换。",
+   "es": "La app, sus ajustes y este sitio web. Cambia desde la barra de menús, la ventana de ajustes o el menú de idioma de cualquier página.",
+   "ja": "アプリ、設定、そしてこのウェブサイト。メニューバー、設定ウィンドウ、またはどのページの言語メニューからでも切り替えられます。",
+   "de": "Die App, ihre Einstellungen und diese Website. Umschalten über die Menüleiste, das Einstellungsfenster oder das Sprachmenü auf jeder Seite.",
+   "fr": "L'app, ses réglages et ce site web. Changez de langue depuis la barre de menus, la fenêtre des réglages ou le menu de langue de n'importe quelle page.",
+   "pt": "A app, as suas definições e este site. Mude a partir da barra de menus, da janela de definições ou do menu de idioma de qualquer página."
+  },
   "how.eyebrow": {
    "en": "Getting started",
    "zh": "快速上手",

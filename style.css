@@ -580,6 +580,7 @@ h1 .grad {
 }
 .bento-cell:hover { box-shadow: var(--shadow-elevated); transform: translateY(-3px); }
 .cell-big { grid-column: span 2; }
+.cell-full { grid-column: 1 / -1; }
 .cell-icon {
   width: 42px; height: 42px;
   border-radius: 12px;
