@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.4.dmg",
-  "notes": "Chat history search, an auto-detect language option, and a fully localized skill library.",
-  "published": "2026-08-16",
-  "notes_zh": "聊天记录搜索、自动检测语言选项，以及完全本地化的技能库。"
+  "version": "1.0.5",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.5.dmg",
+  "notes": "Editable bot fields, cleaner field descriptions, and a public free tier with daily limits.",
+  "published": "2026-08-17",
+  "notes_zh": "修复机器人字段编辑与说明文字，并带来带每日额度的公共免费模式。"
 }

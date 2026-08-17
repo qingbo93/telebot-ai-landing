@@ -6552,7 +6552,7 @@
    "vi": "Tung được 3",
    "uk": "Викинуто 3"
   },
-  "c4.date": {
+  "c5.date": {
    "en": "Aug 12, 2026",
    "zh": "2026年8月12日",
    "es": "12 ago 2026",
@@ -6573,7 +6573,7 @@
    "vi": "12 tháng 8, 2026",
    "uk": "12 серпня 2026"
   },
-  "c4.summary": {
+  "c5.summary": {
    "en": "The first public release — the bridge between your Telegram bots and any LLM, local or cloud.",
    "zh": "首次公开发布 —— 连接您的 Telegram 机器人与任意 LLM 的桥梁，本地或云端。",
    "es": "La primera versión pública — el puente entre tus bots de Telegram y cualquier LLM, local o en la nube.",
@@ -6594,7 +6594,7 @@
    "vi": "Bản phát hành công khai đầu tiên — cầu nối giữa bot Telegram của bạn và mọi LLM, cục bộ hoặc đám mây.",
    "uk": "Перший публічний випуск — міст між вашими Telegram-ботами та будь-якою LLM, локальною або хмарною."
   },
-  "c4.l1": {
+  "c5.l1": {
    "en": "Menu bar app — start and stop your bots, open settings and quit, all from the menu bar.",
    "zh": "菜单栏应用 —— 启动和停止机器人、打开设置、退出，全部在菜单栏完成。",
    "es": "App de la barra de menús — inicia y detiene tus bots, abre ajustes y sale, todo desde la barra de menús.",
@@ -6615,7 +6615,7 @@
    "vi": "Ứng dụng thanh menu — bắt đầu và dừng bot, mở cài đặt và thoát, tất cả từ thanh menu.",
    "uk": "Застосунок у рядку меню — запускайте та зупиняйте ботів, відкривайте налаштування й виходьте, усе з рядка меню."
   },
-  "c4.l2": {
+  "c5.l2": {
    "en": "Multiple bots — one per token, each with its own model, personality and skills.",
    "zh": "多机器人 —— 每个令牌一个，各自拥有独立的模型、个性和技能。",
    "es": "Varios bots — uno por token, cada uno con su propio modelo, personalidad y habilidades.",
@@ -6636,7 +6636,7 @@
    "vi": "Nhiều bot — một bot cho mỗi token, mỗi bot có mô hình, cá tính và kỹ năng riêng.",
    "uk": "Кілька ботів — по одному на токен, кожен із власною моделлю, персоною та навичками."
   },
-  "c4.l3": {
+  "c5.l3": {
    "en": "Bring your own brain — mlx-serve, Ollama, LM Studio, vLLM, OpenAI, Anthropic, Groq, OpenRouter — with automatic fallbacks when a provider goes down.",
    "zh": "自带大脑 —— mlx-serve、Ollama、LM Studio、vLLM、OpenAI、Anthropic、Groq、OpenRouter —— 服务商宕机时自动切换备用。",
    "es": "Trae tu propio cerebro — mlx-serve, Ollama, LM Studio, vLLM, OpenAI, Anthropic, Groq, OpenRouter — con respaldos automáticos cuando un proveedor falla.",
@@ -6657,7 +6657,7 @@
    "vi": "Tự chọn bộ não — mlx-serve, Ollama, LM Studio, vLLM, OpenAI, Anthropic, Groq, OpenRouter — với dự phòng tự động khi một nhà cung cấp gặp sự cố.",
    "uk": "Свій мозок — mlx-serve, Ollama, LM Studio, vLLM, OpenAI, Anthropic, Groq, OpenRouter — з автоматичними резервами, коли провайдер виходить із ладу."
   },
-  "c4.l4": {
+  "c5.l4": {
    "en": "30+ model-driven tools — reminders, weather, stocks, crypto, polls, dice, expenses, habits, bookmarks, RSS feeds, translation, currency, PDF &amp; receipt scanning, memory, digests and briefings.",
    "zh": "30+ 模型驱动工具 —— 提醒、天气、股票、加密货币、投票、骰子、记账、习惯、书签、RSS 订阅、翻译、货币、PDF 与收据扫描、记忆、摘要与简报。",
    "es": "Más de 30 herramientas dirigidas por el modelo — recordatorios, clima, acciones, cripto, encuestas, dados, gastos, hábitos, marcadores, fuentes RSS, traducción, divisas, escaneo de PDF y recibos, memoria, resúmenes e informes.",
@@ -6678,7 +6678,7 @@
    "vi": "30+ công cụ do mô hình điều khiển — lời nhắc, thời tiết, chứng khoán, tiền điện tử, bình chọn, xúc xắc, chi tiêu, thói quen, dấu trang, nguồn RSS, dịch thuật, tỷ giá, quét PDF &amp; hóa đơn, ký ức, tóm tắt và điểm tin.",
    "uk": "30+ керованих моделлю інструментів — нагадування, погода, акції, крипто, опитування, кубики, витрати, звички, закладки, RSS-стрічки, переклад, валюта, PDF &amp; сканування чеків, пам'ять, дайджести та брифінги."
   },
-  "c4.l5": {
+  "c5.l5": {
    "en": "Keyless data sources — weather, currency, Wikipedia, SEC filings — no API keys required.",
    "zh": "无需密钥的数据源 —— 天气、货币、Wikipedia、SEC 文件 —— 不需要 API 密钥。",
    "es": "Fuentes de datos sin claves — clima, divisas, Wikipedia, documentos SEC — sin claves de API.",
@@ -6699,7 +6699,7 @@
    "vi": "Nguồn dữ liệu không cần khóa — thời tiết, tỷ giá, Wikipedia, hồ sơ SEC — không cần khóa API.",
    "uk": "Джерела даних без ключів — погода, валюта, Вікіпедія, звіти SEC — без жодних ключів API."
   },
-  "c4.l6": {
+  "c5.l6": {
    "en": "Telegram-native — streaming replies, typing dots, animated dice, native polls, voice notes in and out.",
    "zh": "Telegram 原生体验 —— 流式回复、正在输入提示、动画骰子、原生投票、语音消息收发。",
    "es": "Nativo de Telegram — respuestas en streaming, indicador de escritura, dados animados, encuestas nativas, notas de voz de ida y vuelta.",
@@ -6720,7 +6720,7 @@
    "vi": "Thuần Telegram — trả lời trực tiếp, dấu ba chấm đang gõ, xúc xắc động, bình chọn gốc, ghi âm thoại gửi và nhận.",
    "uk": "Рідний для Telegram — потокові відповіді, індикатори набору, анімовані кубики, рідні опитування, голосові повідомлення в обидва боки."
   },
-  "c4.l7": {
+  "c5.l7": {
    "en": "Local-first privacy — chat history, memories and skills live in <span class=\"mono\">~/.mlx-serve</span> on your Mac.",
    "zh": "本地优先的隐私 —— 聊天记录、记忆和技能都保存在您 Mac 上的 <span class=\"mono\">~/.mlx-serve</span>。",
    "es": "Privacidad local-first — el historial de chat, los recuerdos y las habilidades viven en <span class=\"mono\">~/.mlx-serve</span> en tu Mac.",
@@ -6741,7 +6741,7 @@
    "vi": "Quyền riêng tư ưu tiên cục bộ — lịch sử trò chuyện, ký ức và kỹ năng nằm trong <span class=\"mono\">~/.mlx-serve</span> trên Mac của bạn.",
    "uk": "Конфіденційність із локальним пріоритетом — історія чатів, спогади та навички зберігаються у <span class=\"mono\">~/.mlx-serve</span> на вашому Mac."
   },
-  "c4.l8": {
+  "c5.l8": {
    "en": "macOS 13+, Apple Silicon. Unsigned build — right-click → Open on first launch.",
    "zh": "macOS 13+，Apple Silicon。未签名构建 —— 首次启动请右键 → 打开。",
    "es": "macOS 13+, Apple Silicon. Build sin firmar — clic derecho → Abrir en el primer inicio.",
@@ -6762,7 +6762,7 @@
    "vi": "macOS 13+, Apple Silicon. Bản build chưa ký — chuột phải → Open ở lần khởi chạy đầu.",
    "uk": "macOS 13+, Apple Silicon. Непідписана збірка — права кнопка → «Відкрити» під час першого запуску."
   },
-  "c3.date": {
+  "c4.date": {
    "en": "Aug 13, 2026",
    "zh": "2026年8月13日",
    "es": "13 ago 2026",
@@ -6783,7 +6783,7 @@
    "vi": "13 tháng 8, 2026",
    "uk": "13 серпня 2026"
   },
-  "c3.summary": {
+  "c4.summary": {
    "en": "Friendlier errors, clearer update feedback, and an auto-check toggle.",
    "zh": "更友好的错误提示、更清晰的更新反馈，以及自动检查开关。",
    "es": "Errores más amigables, retroalimentación de actualización más clara y un interruptor de comprobación automática.",
@@ -6804,7 +6804,7 @@
    "vi": "Thông báo lỗi thân thiện hơn, phản hồi cập nhật rõ ràng hơn, và công tắc tự động kiểm tra.",
    "uk": "Зрозуміліші помилки, чіткіший зворотний зв'язок про оновлення та перемикач автоперевірки."
   },
-  "c3.l1": {
+  "c4.l1": {
    "en": "If the app ever fails to start, you now get a <strong>\"Telebot AI couldn't start\"</strong> dialog with <strong>Visit website to report</strong> (opens the feedback form), <strong>Copy error</strong> and Quit — no more cryptic crash dialogs.",
    "zh": "如果应用启动失败，您现在会看到<strong>「Telebot AI 无法启动」</strong>对话框，包含<strong>访问网站报告</strong>（打开反馈表单）、<strong>复制错误</strong>和退出 —— 不再有难以理解的崩溃对话框。",
    "es": "Si la app falla al arrancar, ahora ves un diálogo <strong>\"Telebot AI no pudo iniciarse\"</strong> con <strong>Visitar el sitio para informar</strong> (abre el formulario de comentarios), <strong>Copiar error</strong> y Salir — nada de diálogos de cierre crípticos.",
@@ -6825,7 +6825,7 @@
    "vi": "Nếu ứng dụng không khởi động được, giờ bạn sẽ thấy hộp thoại <strong>\"Telebot AI không khởi động được\"</strong> với <strong>Truy cập trang web để báo lỗi</strong> (mở biểu mẫu phản hồi), <strong>Sao chép lỗi</strong> và Thoát — không còn hộp thoại lỗi khó hiểu.",
    "uk": "Якщо застосунок не запускається, тепер ви бачите діалог <strong>«Telebot AI couldn't start»</strong> із кнопками <strong>Visit website to report</strong> (відкриває форму відгуку), <strong>Copy error</strong> та «Вийти» — більше жодних загадкових діалогів збою."
   },
-  "c3.l2": {
+  "c4.l2": {
    "en": "<strong>Check for Updates</strong> now shows real feedback: the menu item flips to <strong>✓ Up to date</strong>, and the Updates page shows the result in <strong>green</strong> (orange while checking, with a Download link when a new version is out). The checking state is held long enough to actually see.",
    "zh": "<strong>检查更新</strong>现在有真实反馈：菜单项切换为<strong>✓ 已是最新版本</strong>，「更新」页面以<strong>绿色</strong>显示结果（检查中为橙色，有新版本时显示下载链接）。检查状态会保持足够长的时间，确保您能看到。",
    "es": "<strong>Buscar actualizaciones</strong> ahora da retroalimentación real: el elemento del menú cambia a <strong>✓ Al día</strong>, y la página Actualizaciones muestra el resultado en <strong>verde</strong> (naranja mientras comprueba, con un enlace de descarga cuando hay versión nueva). El estado de comprobación se mantiene el tiempo suficiente para verlo.",
@@ -6846,7 +6846,7 @@
    "vi": "<strong>Kiểm tra cập nhật</strong> giờ hiển thị phản hồi thật: mục trình đơn chuyển sang <strong>✓ Đã có phiên bản mới nhất</strong>, và trang Cập nhật hiển thị kết quả bằng <strong>màu xanh lá</strong> (màu cam khi đang kiểm tra, kèm liên kết Tải xuống khi có phiên bản mới). Trạng thái đang kiểm tra được giữ đủ lâu để bạn thực sự thấy.",
    "uk": "<strong>«Перевірити оновлення»</strong> тепер показує реальний результат: пункт меню змінюється на <strong>✓ Актуальна версія</strong>, а сторінка «Оновлення» показує результат <strong>зеленим</strong> (помаранчевим під час перевірки, з посиланням на завантаження, коли виходить нова версія). Стан перевірки тримається досить довго, щоб його можна було побачити."
   },
-  "c3.l3": {
+  "c4.l3": {
    "en": "New <strong>Check automatically</strong> setting on the Updates page — turn the launch + 24-hour update checks on or off (default on).",
    "zh": "「更新」页面新增<strong>自动检查</strong>设置 —— 可开启或关闭启动时与每 24 小时的更新检查（默认开启）。",
    "es": "Nuevo ajuste <strong>Comprobar automáticamente</strong> en la página Actualizaciones — activa o desactiva las comprobaciones al iniciar y cada 24 horas (por defecto activadas).",
@@ -6867,7 +6867,7 @@
    "vi": "Cài đặt mới <strong>Tự động kiểm tra</strong> trên trang Cập nhật — bật hoặc tắt việc kiểm tra cập nhật khi khởi động + mỗi 24 giờ (mặc định bật).",
    "uk": "Нове налаштування <strong>«Перевіряти автоматично»</strong> на сторінці «Оновлення» — вмикайте або вимикайте перевірки оновлень під час запуску та кожні 24 години (за замовчуванням увімкнено)."
   },
-  "c3.l4": {
+  "c4.l4": {
    "en": "Updates page tidied up — installed version, status and the check/download buttons now sit together in one clean row instead of divider-separated clutter.",
    "zh": "「更新」页面整理一新 —— 已安装版本、状态和检查/下载按钮现在整齐地排成一行，不再有分隔线割裂的杂乱布局。",
    "es": "Página Actualizaciones ordenada — versión instalada, estado y botones de comprobación/descarga ahora están en una sola fila limpia en lugar del desorden separado por divisores.",
@@ -6888,7 +6888,7 @@
    "vi": "Trang Cập nhật được dọn gọn — phiên bản đã cài, trạng thái và các nút kiểm tra/tải xuống giờ nằm chung một hàng gọn gàng thay vì rải rác ngăn cách bởi đường kẻ.",
    "uk": "Сторінку «Оновлення» впорядковано — встановлена версія, статус і кнопки перевірки/завантаження тепер стоять разом в одному чистому рядку замість розділеного роздільниками безладу."
   },
-  "c2.date": {
+  "c3.date": {
    "en": "Aug 14, 2026",
    "zh": "2026年8月14日",
    "es": "14 ago 2026",
@@ -6909,7 +6909,7 @@
    "vi": "14 tháng 8, 2026",
    "uk": "14 серпня 2026"
   },
-  "c2.summary": {
+  "c3.summary": {
    "en": "Seven languages, one-click in-app updates, and a “What’s new” sheet after every update.",
    "zh": "七种语言、一键应用内更新，以及每次更新后的「新内容」弹窗。",
    "es": "Siete idiomas, actualizaciones en un clic dentro de la app y una hoja de novedades tras cada actualización.",
@@ -6930,7 +6930,7 @@
    "vi": "Bảy ngôn ngữ, cập nhật trong ứng dụng một cú bấm, và bảng “Có gì mới” sau mỗi lần cập nhật.",
    "uk": "Сім мов, оновлення в один клік у застосунку та вікно «Що нового» після кожного оновлення."
   },
-  "c2.l1": {
+  "c3.l1": {
    "en": "<strong>7 languages</strong> — English, 中文, Español, 日本語, Deutsch, Français and Português. The sidebar picker switches everything live: pages, skill cards, the menu bar app and release notes. More languages are a content-add away.",
    "zh": "<strong>7 种语言</strong> —— 英语、中文、Español、日本語、Deutsch、Français 和 Português。侧边栏的语言选择器可即时切换所有界面：页面、技能卡片、菜单栏应用和发布说明。添加更多语言只需补充内容。",
    "es": "<strong>7 idiomas</strong> — inglés, 中文, Español, 日本語, Deutsch, Français y Português. El selector de idioma de la barra lateral lo cambia todo al instante: páginas, tarjetas de habilidades, la app de la barra de menús y las notas de versión. Más idiomas están a un añadido de contenido.",
@@ -6951,7 +6951,7 @@
    "vi": "<strong>7 ngôn ngữ</strong> — English, 中文, Español, 日本語, Deutsch, Français và Português. Bộ chọn trong thanh bên chuyển đổi mọi thứ tức thì: trang, thẻ kỹ năng, ứng dụng thanh menu và ghi chú phát hành. Các ngôn ngữ khác chỉ cần thêm nội dung là xong.",
    "uk": "<strong>7 мов</strong> — англійська, 中文, Español, 日本語, Deutsch, Français та Português. Селектор на бічній панелі перемикає все наживо: сторінки, картки навичок, застосунок у рядку меню та примітки до випусків. Більше мов — лише питання додавання контенту."
   },
-  "c2.l2": {
+  "c3.l2": {
    "en": "<strong>Auto-update inside the app</strong> — when a new version is available, the Updates page shows <strong>Update Now</strong>: it downloads, verifies the DMG, quits, swaps both apps atomically and relaunches you on the new version. No browser, no drag-and-drop.",
    "zh": "<strong>应用内自动更新</strong> —— 有新版本时，「更新」页面会显示<strong>立即更新</strong>：下载、校验 DMG、退出、原子化替换两个应用并自动重启到新版本。无需浏览器，无需拖拽。",
    "es": "<strong>Actualización automática dentro de la app</strong> — cuando hay una versión nueva, la página Actualizaciones muestra <strong>Actualizar ahora</strong>: descarga, verifica el DMG, cierra, reemplaza ambas apps atómicamente y te relanza en la nueva versión. Sin navegador, sin arrastrar y soltar.",
@@ -6972,7 +6972,7 @@
    "vi": "<strong>Tự động cập nhật trong ứng dụng</strong> — khi có phiên bản mới, trang Cập nhật hiển thị <strong>Cập nhật ngay</strong>: ứng dụng tải xuống, xác minh DMG, thoát, hoán đổi cả hai ứng dụng một cách nguyên tử và khởi động lại bạn trên phiên bản mới. Không cần trình duyệt, không cần kéo thả.",
    "uk": "<strong>Автооновлення в застосунку</strong> — коли з'являється нова версія, сторінка «Оновлення» показує <strong>Оновити зараз</strong>: застосунок завантажує та перевіряє DMG, завершує роботу, атомарно замінює обидва застосунки та перезапускається на новій версії. Жодного браузера, жодного перетягування."
   },
-  "c2.l3": {
+  "c3.l3": {
    "en": "<strong>“What’s new” sheet after every update</strong> — the app reopens with the release notes for the version you just installed, in your language. One-time per update.",
    "zh": "<strong>每次更新后的「新内容」弹窗</strong> —— 应用重新打开时会显示您刚安装版本的发布说明，使用您的语言。每次更新仅一次。",
    "es": "<strong>Hoja de novedades tras cada actualización</strong> — la app se reabre con las notas de la versión que acabas de instalar, en tu idioma. Una vez por actualización.",
@@ -6993,7 +6993,7 @@
    "vi": "<strong>Bảng “Có gì mới” sau mỗi lần cập nhật</strong> — ứng dụng mở lại kèm ghi chú phát hành của phiên bản bạn vừa cài, bằng ngôn ngữ của bạn. Một lần cho mỗi bản cập nhật.",
    "uk": "<strong>Вікно «Що нового» після кожного оновлення</strong> — застосунок відкривається з примітками до випуску щойно встановленої версії вашою мовою. Один раз на оновлення."
   },
-  "c2.l4": {
+  "c3.l4": {
    "en": "<strong>Every surface speaks your language</strong> — sidebar, bot pages, defaults, skill cards, popups, the menu bar app and the skills sheet.",
    "zh": "<strong>每个界面都使用您的语言</strong> —— 侧边栏、机器人页面、默认设置、技能卡片、弹窗、菜单栏应用和技能面板。",
    "es": "<strong>Cada superficie habla tu idioma</strong> — barra lateral, páginas de bots, valores por defecto, tarjetas de habilidades, ventanas emergentes, la app de la barra de menús y la hoja de habilidades.",
@@ -7014,7 +7014,7 @@
    "vi": "<strong>Mọi bề mặt đều nói ngôn ngữ của bạn</strong> — thanh bên, trang bot, mặc định, thẻ kỹ năng, cửa sổ bật lên, ứng dụng thanh menu và bảng kỹ năng.",
    "uk": "<strong>Кожна поверхня розмовляє вашою мовою</strong> — бічна панель, сторінки ботів, замовчування, картки навичок, спливаючі вікна, застосунок у рядку меню та аркуш навичок."
   },
-  "c2.l5": {
+  "c3.l5": {
    "en": "Per-model usage — the Model page shows how many requests and tokens each model served; each bot page shows its own request/token stats.",
    "zh": "按模型统计用量 —— 「模型」页面显示每个模型服务的请求数和令牌数；每个机器人页面显示自己的请求/令牌统计。",
    "es": "Uso por modelo — la página Modelo muestra cuántas peticiones y tokens sirvió cada modelo; cada página de bot muestra sus propias estadísticas de peticiones/tokens.",
@@ -7035,7 +7035,7 @@
    "vi": "Sử dụng theo mô hình — trang Mô hình hiển thị mỗi mô hình đã phục vụ bao nhiêu yêu cầu và token; mỗi trang bot hiển thị thống kê yêu cầu/token riêng.",
    "uk": "Використання за моделями — сторінка «Модель» показує, скільки запитів і токенів обслужила кожна модель; сторінка кожного бота показує власну статистику запитів/токенів."
   },
-  "c2.l6": {
+  "c3.l6": {
    "en": "Menu bar app is now accessory-only — one clean “Telebot AI” icon in the Dock and Cmd-Tab (the settings app), no duplicates.",
    "zh": "菜单栏应用现在仅作为辅助 —— 程序坞和 Cmd-Tab 中只有一个干净的「Telebot AI」图标（设置应用），不再重复。",
    "es": "La app de la barra de menús ahora es solo accesoria — un único icono limpio de \"Telebot AI\" en el Dock y Cmd-Tab (la app de ajustes), sin duplicados.",
@@ -7056,7 +7056,7 @@
    "vi": "Ứng dụng thanh menu giờ chỉ là phụ kiện — một biểu tượng “Telebot AI” gọn gàng trong Dock và Cmd-Tab (ứng dụng cài đặt), không trùng lặp.",
    "uk": "Застосунок у рядку меню тепер лише допоміжний — один чистий значок «Telebot AI» у Dock і Cmd-Tab (застосунок налаштувань), жодних дублікатів."
   },
-  "c2.l7": {
+  "c3.l7": {
    "en": "Clicking the Dock or Cmd-Tab icon re-creates the settings window if it was closed.",
    "zh": "点击程序坞或 Cmd-Tab 图标会在设置窗口被关闭时重新创建它。",
    "es": "Hacer clic en el icono del Dock o Cmd-Tab recrea la ventana de ajustes si estaba cerrada.",
@@ -7077,7 +7077,7 @@
    "vi": "Bấm vào biểu tượng trong Dock hoặc Cmd-Tab sẽ tạo lại cửa sổ cài đặt nếu nó đã bị đóng.",
    "uk": "Натискання на значок у Dock або Cmd-Tab заново відкриває вікно налаштувань, якщо його було закрито."
   },
-  "c1.date": {
+  "c2.date": {
    "en": "Aug 15, 2026",
    "zh": "2026年8月15日",
    "es": "15 ago 2026",
@@ -7098,7 +7098,7 @@
    "vi": "15 tháng 8, 2026",
    "uk": "15 серпня 2026"
   },
-  "c1.summary": {
+  "c2.summary": {
    "en": "Nineteen languages, a per-user daily report, and briefing as a skill toggle.",
    "zh": "十九种语言、按用户独立设置的每日报告，以及作为技能开关的简报。",
    "es": "Diecinueve idiomas, un informe diario por usuario y el briefing como interruptor de habilidad.",
@@ -7119,7 +7119,7 @@
    "vi": "Mười chín ngôn ngữ, báo cáo hằng ngày theo từng người dùng và briefing trở thành công tắc kỹ năng.",
    "uk": "Дев'ятнадцять мов, щоденний звіт для кожного користувача та брифінг як перемикач навички."
   },
-  "c1.l1": {
+  "c2.l1": {
    "en": "<strong>19 languages</strong> — English, 中文, Español, 日本語, Deutsch, Français, Português, 한국어, Italiano, Русский, العربية, हिन्दी, Bahasa Indonesia, Türkçe, Nederlands, Polski, Tiếng Việt, ไทย and Українська. The picker shows every language in its own script with the English name beside it — you can always find yours.",
    "zh": "<strong>19 种语言</strong> —— 英语、中文、Español、日本語、Deutsch、Français、Português、한국어、Italiano、Русский、العربية、हिन्दी、Bahasa Indonesia、Türkçe、Nederlands、Polski、Tiếng Việt、ไทย 和 Українська。语言选择器以每种语言自身的文字显示，旁边附英文名称 —— 您总能找到自己的语言。",
    "es": "<strong>19 idiomas</strong> — inglés, 中文, Español, 日本語, Deutsch, Français, Português, 한국어, Italiano, Русский, العربية, हिन्दी, Bahasa Indonesia, Türkçe, Nederlands, Polski, Tiếng Việt, ไทย y Українська. El selector muestra cada idioma en su propia escritura, con el nombre en inglés al lado — siempre puedes encontrar el tuyo.",
@@ -7140,7 +7140,7 @@
    "vi": "<strong>19 ngôn ngữ</strong> — tiếng Anh, 中文, Español, 日本語, Deutsch, Français, Português, 한국어, Italiano, Русский, العربية, हिन्दी, Bahasa Indonesia, Türkçe, Nederlands, Polski, Tiếng Việt, ไทย và Українська. Bộ chọn hiển thị từng ngôn ngữ bằng chính chữ viết của nó, kèm tên tiếng Anh bên cạnh — bạn luôn tìm thấy ngôn ngữ của mình.",
    "uk": "<strong>19 мов</strong> — англійська, 中文, Español, 日本語, Deutsch, Français, Português, 한국어, Italiano, Русский, العربية, हिन्दी, Bahasa Indonesia, Türkçe, Nederlands, Polski, Tiếng Việt, ไทย та Українська. Селектор показує кожну мову її власним письмом, поруч — англійська назва, тож ви завжди знайдете свою."
   },
-  "c1.l2": {
+  "c2.l2": {
    "en": "<strong>Per-user daily report</strong> — <code class=\"mono\">/daily on</code> turns on a report with your own time, your own crypto coins and your own prompt; every user's preferences are stored separately.",
    "zh": "<strong>按用户独立设置的每日报告</strong> —— <code class=\"mono\">/daily on</code> 开启属于您自己的报告：自己的时间、自己的加密货币、自己的提示词；每位用户的偏好都分开保存。",
    "es": "<strong>Informe diario por usuario</strong> — <code class=\"mono\">/daily on</code> activa un informe con tu propia hora, tus propias criptomonedas y tu propio prompt; las preferencias de cada usuario se guardan por separado.",
@@ -7161,7 +7161,7 @@
    "vi": "<strong>Báo cáo hằng ngày theo từng người dùng</strong> — <code class=\"mono\">/daily on</code> bật báo cáo với giờ riêng, coin crypto riêng và prompt riêng của bạn; tùy chọn của mỗi người dùng được lưu riêng.",
    "uk": "<strong>Щоденний звіт для кожного користувача</strong> — <code class=\"mono\">/daily on</code> вмикає звіт із вашим часом, вашими криптовалютами та вашим промптом; налаштування кожного користувача зберігаються окремо."
   },
-  "c1.l3": {
+  "c2.l3": {
    "en": "<strong>Briefing is now a skill</strong> — the briefing skill toggle is the one master switch: skill off means no scheduled reports, no <code class=\"mono\">/briefing</code> and no model composition.",
    "zh": "<strong>简报现在是技能</strong> —— 简报技能开关就是唯一的总开关：关闭技能 = 没有定时报告、没有 <code class=\"mono\">/briefing</code>、没有模型合成。",
    "es": "<strong>El briefing ahora es una habilidad</strong> — el interruptor de la habilidad de briefing es el único interruptor maestro: habilidad apagada significa sin informes programados, sin <code class=\"mono\">/briefing</code> y sin composición de modelos.",
@@ -7182,7 +7182,7 @@
    "vi": "<strong>Briefing giờ là một kỹ năng</strong> — công tắc kỹ năng briefing là công tắc chính duy nhất: tắt kỹ năng = không có báo cáo theo lịch, không có <code class=\"mono\">/briefing</code> và không có tổng hợp mô hình.",
    "uk": "<strong>Брифінг тепер навичка</strong> — перемикач навички брифінгу — єдиний головний перемикач: навичка вимкнена = немає запланованих звітів, немає <code class=\"mono\">/briefing</code> і немає композиції моделей."
   },
-  "c1.l4": {
+  "c2.l4": {
    "en": "<strong>Simpler settings</strong> — the briefing time, prompt and crypto rows are gone; the “Chats & briefing” section is now simply Chats.",
    "zh": "<strong>更简洁的设置</strong> —— 简报的时间、提示词和加密货币设置行已移除；「聊天与简报」板块现在就叫「聊天」。",
    "es": "<strong>Ajustes más simples</strong> — desaparecen las filas de hora, prompt y cripto del briefing; la sección «Chats y briefing» ahora es simplemente Chats.",
@@ -7203,7 +7203,7 @@
    "vi": "<strong>Cài đặt đơn giản hơn</strong> — các dòng giờ, prompt và crypto của briefing đã bị bỏ; mục “Trò chuyện và briefing” giờ chỉ còn là Trò chuyện.",
    "uk": "<strong>Простіші налаштування</strong> — рядки часу, промпту та крипто для брифінгу прибрано; розділ «Чати та брифінг» тепер просто «Чати»."
   },
-  "c1.l5": {
+  "c2.l5": {
    "en": "Quitting the menu bar app now closes the settings window too.",
    "zh": "退出菜单栏应用时，现在也会一并关闭设置窗口。",
    "es": "Salir de la app de la barra de menús ahora cierra también la ventana de ajustes.",
@@ -7224,7 +7224,7 @@
    "vi": "Thoát khỏi ứng dụng thanh menu giờ cũng đóng luôn cửa sổ cài đặt.",
    "uk": "Вихід із застосунку в рядку меню тепер закриває й вікно налаштувань."
   },
-  "c0.date": {
+  "c1.date": {
    "en": "Aug 16, 2026",
    "zh": "2026年8月16日",
    "es": "16 ago 2026",
@@ -7245,7 +7245,7 @@
    "th": "16 สิงหาคม 2026",
    "uk": "16 серпня 2026"
   },
-  "c0.summary": {
+  "c1.summary": {
    "en": "Chat history search, an auto-detect language option, and a fully localized skill library.",
    "zh": "聊天记录搜索、自动检测语言选项，以及完全本地化的技能库。",
    "es": "Búsqueda en el historial de chat, una opción de idioma con detección automática y una biblioteca de habilidades totalmente localizada",
@@ -7266,7 +7266,7 @@
    "th": "ค้นหาประวัติการแชท ตัวเลือกตรวจจับภาษาอัตโนมัติ และคลังสกิลที่แปลครบทุกภาษา",
    "uk": "Пошук по історії чатів, опція автоматичного визначення мови та повністю локалізована бібліотека навичок."
   },
-  "c0.l1": {
+  "c1.l1": {
    "en": "<strong>Chat history search</strong> — ask \"what did we say about X?\" and momo finds it in past conversations",
    "zh": "<strong>聊天记录搜索</strong> —— 问「关于 X 我们说过什么？」，momo 就能在过去的对话中找到它。",
    "es": "<strong>Búsqueda en el historial de chat</strong> — pregunta \"¿qué dijimos sobre X?\" y momo lo encuentra en conversaciones pasadas.",
@@ -7287,7 +7287,7 @@
    "th": "<strong>ค้นหาประวัติการแชท</strong> — ถามว่า “เราคุยอะไรเกี่ยวกับ X ไว้บ้าง?” แล้ว momo จะค้นหาให้เจอในบทสนทนาที่ผ่านมา",
    "uk": "<strong>Пошук по історії чатів</strong> — запитайте «що ми говорили про X?», і momo знайде це в попередніх розмовах"
   },
-  "c0.l2": {
+  "c1.l2": {
    "en": "<strong>Auto-detect language</strong> — the app can follow your Mac's language automatically, or pick any of 19",
    "zh": "<strong>自动检测语言</strong> —— 应用可自动跟随您 Mac 的语言，也可从 19 种语言中任选其一。",
    "es": "<strong>Detección automática de idioma</strong> — la app puede seguir el idioma de tu Mac automáticamente, o elegir cualquiera de los 19.",
@@ -7308,7 +7308,7 @@
    "th": "<strong>ตรวจจับภาษาอัตโนมัติ</strong> — แอปใช้ภาษาของ Mac ของคุณโดยอัตโนมัติ หรือเลือกได้จาก 19 ภาษา",
    "uk": "<strong>Автовизначення мови</strong> — застосунок може автоматично слідувати за мовою вашого Mac, або ви можете обрати будь-яку з 19 мов"
   },
-  "c0.l3": {
+  "c1.l3": {
    "en": "<strong>All 21 skill cards in 19 languages</strong> — every skill's name, description and group",
    "zh": "<strong>全部 21 张技能卡片均支持 19 种语言</strong> —— 每项技能的名称、描述和分组。",
    "es": "<strong>Las 21 tarjetas de habilidades en 19 idiomas</strong> — el nombre, la descripción y el grupo de cada habilidad.",
@@ -7329,7 +7329,7 @@
    "th": "<strong>การ์ดสกิลทั้ง 21 ใบใน 19 ภาษา</strong> — ชื่อ คำอธิบาย และกลุ่มของทุกสกิล",
    "uk": "<strong>Усі 21 картка навичок 19 мовами</strong> — назва, опис і група кожної навички"
   },
-  "c0.l4": {
+  "c1.l4": {
    "en": "<strong>Clearer skill groups</strong> — Finance, Reports, Productivity, Media, Memory and Fun",
    "zh": "<strong>更清晰的技能分组</strong> —— Finance、Reports、Productivity、Media、Memory 和 Fun。",
    "es": "<strong>Grupos de habilidades más claros</strong> — Finance, Reports, Productivity, Media, Memory y Fun.",
@@ -7350,7 +7350,7 @@
    "th": "<strong>กลุ่มสกิลที่ชัดเจนขึ้น</strong> — Finance, Reports, Productivity, Media, Memory และ Fun",
    "uk": "<strong>Зрозуміліші групи навичок</strong> — Finance, Reports, Productivity, Media, Memory та Fun"
   },
-  "c0.l5": {
+  "c1.l5": {
    "en": "<strong>Auto-memory is now a real toggle</strong> — switch it in Skills & Features",
    "zh": "<strong>自动记忆现在是真正的开关</strong> —— 您可以在 Skills & Features 中切换。",
    "es": "<strong>La memoria automática ahora es un interruptor real</strong> — actívalo en Skills & Features.",
@@ -7371,7 +7371,7 @@
    "th": "<strong>ความทรงจำอัตโนมัติกลายเป็นสวิตช์จริงแล้ว</strong> — เปิดปิดได้ใน “สกิล & ฟีเจอร์”",
    "uk": "<strong>Автопам'ять тепер справжній перемикач</strong> — увімкніть його в «Навички & функції»"
   },
-  "c0.l6": {
+  "c1.l6": {
    "en": "<strong>Language setting stays put</strong> — fixed a bug that could silently reset it to English",
    "zh": "<strong>语言设置保持不变</strong> —— 修复了一个可能悄悄将其重置为 English 的问题。",
    "es": "<strong>El ajuste de idioma se mantiene</strong> — corregido un error que podía restablecerlo silenciosamente a English.",
@@ -7391,6 +7391,153 @@
    "vi": "<strong>Cài đặt ngôn ngữ được giữ nguyên</strong> — đã sửa một lỗi có thể âm thầm đặt lại về English",
    "th": "<strong>การตั้งค่าภาษาคงเดิม</strong> — แก้ไขบั๊กที่อาจรีเซ็ตกลับเป็น English อย่างเงียบๆ",
    "uk": "<strong>Налаштування мови більше не скидається</strong> — виправлено помилку, яка могла мовчки повертати мову на English"
+  },
+  "c0.date": {
+   "en": "Aug 17, 2026",
+   "zh": "2026年8月17日",
+   "es": "17 ago 2026",
+   "ja": "2026年8月17日",
+   "de": "17. Aug 2026",
+   "fr": "17 août 2026",
+   "pt": "17 de agosto de 2026",
+   "ko": "2026년 8월 17일",
+   "it": "17 agosto 2026",
+   "ru": "17 августа 2026 г.",
+   "ar": "17 أغسطس 2026",
+   "hi": "17 अगस्त 2026",
+   "id": "17 Agustus 2026",
+   "tr": "17 Ağustos 2026",
+   "nl": "17 aug. 2026",
+   "pl": "17 sierpnia 2026",
+   "vi": "17 tháng 8 năm 2026",
+   "th": "17 ส.ค. 2026",
+   "uk": "17 серпня 2026"
+  },
+  "c0.summary": {
+   "en": "Editable bot fields, cleaner field descriptions, and a public free tier with daily limits.",
+   "zh": "修复机器人字段编辑与说明文字，并带来带每日额度的公共免费模式。",
+   "es": "Campos de bot editables, descripciones de campos más claras y un nivel gratuito público con límites diarios.",
+   "ja": "ボットフィールドの編集、より読みやすいフィールド説明、そしてデイリー制限付きの無料パブリックプラン。",
+   "de": "Bearbeitbare Bot-Felder, klarere Feldbeschreibungen und ein öffentlicher Gratis-Tarif mit Tageslimits.",
+   "fr": "Champs de bot modifiables, descriptions de champs plus claires et un niveau gratuit public avec limites quotidiennes.",
+   "pt": "Campos de bot editáveis, descrições de campos mais claras e um nível gratuito público com limites diários.",
+   "ko": "편집 가능한 봇 필드, 깔끔한 필드 설명, 일일 한도가 있는 공개 무료 요금제.",
+   "it": "Campi dei bot modificabili, descrizioni dei campi più chiare e un piano gratuito pubblico con limiti giornalieri.",
+   "ru": "Редактируемые поля ботов, более понятные описания полей и публичный бесплатный тариф с дневными лимитами.",
+   "ar": "حقول بوت قابلة للتعديل، أوصاف حقول أوضح، وخطة مجانية عامة بحدود يومية.",
+   "hi": "संपादन योग्य बॉट फ़ील्ड, साफ़ फ़ील्ड विवरण, और दैनिक सीमा वाला एक सार्वजनिक निःशुल्क स्तर।",
+   "id": "Kolom bot yang dapat diedit, deskripsi kolom yang lebih bersih, dan tier gratis publik dengan batas harian.",
+   "tr": "Düzenlenebilir bot alanları, daha temiz alan açıklamaları ve günlük limitli herkese açık ücretsiz bir katman.",
+   "nl": "Bewerkbare botvelden, duidelijkere veldbeschrijvingen en een openbaar gratis niveau met dagelijkse limieten.",
+   "pl": "Edytowalne pola bota, czytelniejsze opisy pól i publiczny darmowy poziom z dziennymi limitami.",
+   "vi": "Các trường của bot có thể chỉnh sửa, mô tả trường rõ ràng hơn và có chế độ miễn phí công khai với hạn mức hằng ngày.",
+   "th": "ฟิลด์ของบอทแก้ไขได้ คำอธิบายฟิลด์ชัดเจนขึ้น และโหมดสาธารณะแบบฟรีที่มีขีดจำกัดรายวัน",
+   "uk": "Редагування полів бота, зрозуміліші описи полів і публічний безкоштовний рівень із добовими лімітами."
+  },
+  "c0.l1": {
+   "en": "Bot fields (nickname, chat IDs, and more) are editable again.",
+   "zh": "设置中的机器人字段（昵称、聊天 ID 等）恢复可编辑。",
+   "es": "Los campos del bot (apodo, IDs de chat y más) vuelven a ser editables.",
+   "ja": "ボットのフィールド（ニックネーム、チャット ID など）が再び編集できるようになりました。",
+   "de": "Die Bot-Felder (Spitzname, Chat-IDs und mehr) sind wieder editierbar.",
+   "fr": "Les champs du bot (surnom, ID de chat et plus) sont de nouveau modifiables.",
+   "pt": "Os campos do bot (alcunha, IDs de chat e mais) voltaram a ser editáveis.",
+   "ko": "설정의 봇 필드(닉네임, 채팅 ID 등)를 다시 편집할 수 있습니다.",
+   "it": "I campi del bot (soprannome, ID chat e altro) sono di nuovo modificabili.",
+   "ru": "Поля ботов (псевдоним, ID чатов и другие) снова можно редактировать.",
+   "ar": "أصبحت حقول البوت (اللقب، معرّفات الدردشة وغيرها) قابلة للتعديل من جديد.",
+   "hi": "बॉट फ़ील्ड (उपनाम, चैट ID आदि) फिर से संपादित किए जा सकते हैं।",
+   "id": "Kolom bot (nama panggilan, ID chat, dan lainnya) dapat diedit kembali.",
+   "tr": "Bot alanları (takma ad, sohbet ID'leri ve daha fazlası) yeniden düzenlenebiliyor.",
+   "nl": "Botvelden (bijnaam, chat-ID's en meer) zijn weer bewerkbaar.",
+   "pl": "Pola bota (pseudonim, ID czatów i inne) znów można edytować.",
+   "vi": "Các trường của bot (biệt danh, ID cuộc trò chuyện, v.v.) lại có thể chỉnh sửa được.",
+   "th": "ฟิลด์ของบอท (ชื่อเล่น ID แชท และอื่นๆ) แก้ไขได้อีกครั้ง",
+   "uk": "Поля бота (псевдонім, ID чатів тощо) знову можна редагувати."
+  },
+  "c0.l2": {
+   "en": "Field descriptions are clean and readable in all 19 languages.",
+   "zh": "字段说明文字在全部 19 种语言中清晰可读。",
+   "es": "Las descripciones de los campos son claras y legibles en los 19 idiomas.",
+   "ja": "フィールドの説明文は、全 19 言語でクリーンで読みやすくなりました。",
+   "de": "Die Feldbeschreibungen sind in allen 19 Sprachen klar und gut lesbar.",
+   "fr": "Les descriptions des champs sont claires et lisibles dans les 19 langues.",
+   "pt": "As descrições dos campos são claras e legíveis em todos os 19 idiomas.",
+   "ko": "필드 설명이 19개 언어 모두에서 깔끔하고 읽기 쉽습니다.",
+   "it": "Le descrizioni dei campi sono chiare e leggibili in tutte le 19 lingue.",
+   "ru": "Описания полей стали чистыми и читабельными на всех 19 языках.",
+   "ar": "أصبحت أوصاف الحقول واضحة وسهلة القراءة في جميع اللغات الـ19.",
+   "hi": "फ़ील्ड विवरण सभी 19 भाषाओं में साफ़ और आसानी से पढ़ने लायक हैं।",
+   "id": "Deskripsi kolom kini bersih dan mudah dibaca dalam 19 bahasa.",
+   "tr": "Alan açıklamaları 19 dilin tamamında temiz ve okunaklı.",
+   "nl": "Veldbeschrijvingen zijn helder en leesbaar in alle 19 talen.",
+   "pl": "Opisy pól są przejrzyste i czytelne we wszystkich 19 językach.",
+   "vi": "Mô tả trường rõ ràng và dễ đọc trong tất cả 19 ngôn ngữ.",
+   "th": "คำอธิบายฟิลด์ชัดเจนและอ่านง่ายในทั้ง 19 ภาษา",
+   "uk": "Описи полів зрозумілі та читабельні всіма 19 мовами."
+  },
+  "c0.l3": {
+   "en": "Public mode opens your bot to everyone with a free daily allowance.",
+   "zh": "公共模式向所有人开放你的机器人，附带每日免费额度。",
+   "es": "El modo público abre tu bot a todos con una asignación gratuita diaria.",
+   "ja": "パブリックモードでボットを誰にでも公開でき、毎日の無料枠が付いてきます。",
+   "de": "Der öffentliche Modus öffnet deinen Bot für alle, mit einem kostenlosen Tageskontingent.",
+   "fr": "Le mode public ouvre votre bot à tous, avec une allocation gratuite quotidienne.",
+   "pt": "O modo público abre o seu bot a todos, com uma franquia gratuita diária.",
+   "ko": "공개 모드가 일일 무료 허용량과 함께 봇을 모든 사람에게 공개합니다.",
+   "it": "La modalità pubblica apre il tuo bot a tutti, con una quota gratuita giornaliera.",
+   "ru": "Публичный режим открывает вашего бота для всех с бесплатной дневной квотой.",
+   "ar": "يفتح الوضع العام بوتك للجميع مع حصة مجانية يومية.",
+   "hi": "सार्वजनिक मोड आपके बॉट को दैनिक निःशुल्क कोटा के साथ सभी के लिए खोलता है।",
+   "id": "Mode publik membuka bot Anda untuk semua orang dengan jatah gratis harian.",
+   "tr": "Herkese açık mod, botunu günlük ücretsiz bir kota ile herkesin kullanımına açıyor.",
+   "nl": "Openbare modus opent je bot voor iedereen, met een gratis dagelijks quotum.",
+   "pl": "Tryb publiczny udostępnia Twojego bota wszystkim, z darmowym dziennym przydziałem.",
+   "vi": "Chế độ công khai mở bot của bạn cho tất cả mọi người, kèm theo hạn mức miễn phí hằng ngày.",
+   "th": "โหมดสาธารณะเปิดบอทของคุณให้ทุกคนใช้ พร้อมโควตาฟรีรายวัน",
+   "uk": "Публічний режим відкриває вашого бота для всіх із безкоштовною добовою нормою."
+  },
+  "c0.l4": {
+   "en": "Burst and daily limits keep public usage fair.",
+   "zh": "突发与每日限额让公共使用保持公平。",
+   "es": "Los límites de ráfaga y diarios mantienen el uso público justo.",
+   "ja": "バースト制限とデイリー制限で、パブリック利用の公平さを維持します。",
+   "de": "Burst- und Tageslimits halten die öffentliche Nutzung fair.",
+   "fr": "Les limites de rafale et quotidiennes garantissent un usage public équitable.",
+   "pt": "Os limites de rajada e diários mantêm a utilização pública justa.",
+   "ko": "버스트 한도와 일일 한도 덕분에 공개 사용이 공정하게 유지됩니다.",
+   "it": "I limiti burst e giornalieri mantengono equo l'uso pubblico.",
+   "ru": "Пиковые и дневные лимиты делают публичное использование честным.",
+   "ar": "حدود الاندفاع والحدود اليومية تُبقي الاستخدام العام عادلاً.",
+   "hi": "बर्स्ट और दैनिक सीमाएँ सार्वजनिक उपयोग को उचित बनाए रखती हैं।",
+   "id": "Batas burst dan harian menjaga penggunaan publik tetap adil.",
+   "tr": "Burst ve günlük limitler herkese açık kullanımı adil tutuyor.",
+   "nl": "Burst- en dagelijkse limieten houden openbaar gebruik eerlijk.",
+   "pl": "Limity serii i limity dzienne zapewniają uczciwość publicznego korzystania.",
+   "vi": "Giới hạn tức thời và hạn mức hằng ngày giữ cho việc sử dụng công khai được công bằng.",
+   "th": "ขีดจำกัดการส่งต่อเนื่องและขีดจำกัดรายวันช่วยให้การใช้งานสาธารณะเป็นธรรม",
+   "uk": "Ліміт сплесків і добові ліміти забезпечують чесне публічне використання."
+  },
+  "c0.l5": {
+   "en": "Quotas and analytics run entirely on your Mac.",
+   "zh": "额度统计与分析完全在你的 Mac 上运行。",
+   "es": "Las cuotas y los análisis se ejecutan por completo en tu Mac.",
+   "ja": "クォータと分析はすべてあなたの Mac 上で実行されます。",
+   "de": "Kontingente und Analysen laufen komplett auf deinem Mac.",
+   "fr": "Les quotas et les analyses tournent entièrement sur votre Mac.",
+   "pt": "As quotas e as análises são executadas inteiramente no seu Mac.",
+   "ko": "할당량과 분석이 전적으로 Mac에서 실행됩니다.",
+   "it": "Quote e analisi girano interamente sul tuo Mac.",
+   "ru": "Квоты и аналитика работают полностью на вашем Mac.",
+   "ar": "تعمل الحصص والتحليلات بالكامل على جهاز Mac الخاص بك.",
+   "hi": "कोटा और एनालिटिक्स पूरी तरह आपके Mac पर चलते हैं।",
+   "id": "Kuota dan analitik berjalan sepenuhnya di Mac Anda.",
+   "tr": "Kotalar ve analizler tamamen senin Mac'inde çalışıyor.",
+   "nl": "Quota en statistieken draaien volledig op je Mac.",
+   "pl": "Przydziały i statystyki działają w całości na Twoim Macu.",
+   "vi": "Hạn mức và số liệu phân tích chạy hoàn toàn trên Mac của bạn.",
+   "th": "โควตาและสถิติทำงานบน Mac ของคุณทั้งหมด",
+   "uk": "Ліміти та статистика повністю працюють на вашому Mac."
   }
  }
 }
