@@ -46,7 +46,7 @@ a single site-level 404 regardless of path).
    download path; release assets 404 on this GitHub account, so don't rely on them)
 3. Update version / size / SHA-256 in `templates/index.html`:
    - `#download-btn` href → `downloads/Telebot-AI-<version>.dmg`
-   - `#meta-version`, `#meta-size`, and `#meta-checksum[data-sha]`
+   - `#meta-size`, and `#meta-checksum[data-sha]`
 4. Update `latest.json` (the app's update-check contract — keep it byte-stable;
    the build copies it verbatim). `notes_<lang>` per language.
 5. Add a changelog entry in `templates/changelog/index.html` + `i18n/strings.json`.
