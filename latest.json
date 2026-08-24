@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.5.dmg",
-  "notes": "Editable bot fields, cleaner field descriptions, and a public free tier with daily limits.",
-  "published": "2026-08-17",
-  "notes_zh": "修复机器人字段编辑与说明文字，并带来带每日额度的公共免费模式。"
+  "version": "1.0.6",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.6.dmg",
+  "notes": "A 'Show in Dock' option for the settings window, safer settings edits, and stronger privacy for free-tier users.",
+  "published": "2026-08-24",
+  "notes_zh": "设置窗口新增“在程序坞中显示”选项，设置编辑更安全，免费用户隐私更强。"
 }
