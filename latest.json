@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.6.dmg",
-  "notes": "A 'Show in Dock' option for the settings window, safer settings edits, and stronger privacy for free-tier users.",
-  "published": "2026-08-24",
-  "notes_zh": "设置窗口新增“在程序坞中显示”选项，设置编辑更安全，免费用户隐私更强。"
+  "version": "1.0.7",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.7.dmg",
+  "notes": "The downloaded app can finally start its bot on a fresh Mac — plus settings import now reports real errors instead of failing silently.",
+  "published": "2026-10-09",
+  "notes_zh": "下载版应用终于能在新的 Mac 上启动机器人了；此外，导入设置不再静默失败，会报告真实错误。"
 }
