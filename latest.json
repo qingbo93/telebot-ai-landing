@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.9.dmg",
-  "notes": "Fixes the in-app update falsely reporting the download as corrupt on Macs coming from 1.0.7. No other changes.",
+  "version": "1.0.10",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.10.dmg",
+  "notes": "Fresh installs now ship with the full skill library (the bot installs 21 skills on first run; your edits and bot-authored skills are never overwritten). The Self-extension skill installs itself everywhere with localized cards in all 19 languages. After an in-app update, settings now open on the Updates page showing the new version.",
   "published": "2026-10-09",
-  "notes_zh": "修复了来自 1.0.7 的 Mac 在应用内更新时被误报「下载文件可能已损坏」的问题。无其他改动。"
+  "notes_zh": "全新安装现在自带完整技能库（机器人首次运行安装 21 项技能；你的修改与机器人自创技能绝不会被覆盖）。「自我扩展」技能在每台机器自动安装，卡片支持 19 种语言。应用内更新后，设置将直接打开「更新」页面显示新版本。"
 }
