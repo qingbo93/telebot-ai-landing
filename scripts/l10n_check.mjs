@@ -49,10 +49,11 @@ for (const [k, v] of Object.entries(table)) {
   }
 }
 
-// 3. unique en values
+// 3. unique en values — except release dates: two versions can ship the
+// same day (1.0.7 + 1.0.8 both published Oct 9, 2026)
 const ens = {};
 for (const [k, v] of Object.entries(table)) {
-  if (!v.en) continue;
+  if (!v.en || k.endsWith('.date')) continue;
   (ens[v.en] ||= []).push(k);
 }
 for (const [en, ks] of Object.entries(ens)) {
