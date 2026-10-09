@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.8.dmg",
-  "notes": "The bot can now teach itself new skills: ask for something recurring and it writes, schedules, tests and shows the result. The installer is now a single app — just drag Telebot AI to Applications.",
+  "version": "1.0.9",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.9.dmg",
+  "notes": "Fixes the in-app update falsely reporting the download as corrupt on Macs coming from 1.0.7. No other changes.",
   "published": "2026-10-09",
-  "notes_zh": "机器人现在能自己学会新技能：向它提出重复性的需求，它会自行编写、排程、测试并展示结果。安装程序现在只含一个应用——把 Telebot AI 拖到「应用程序」即可。"
+  "notes_zh": "修复了来自 1.0.7 的 Mac 在应用内更新时被误报「下载文件可能已损坏」的问题。无其他改动。"
 }
