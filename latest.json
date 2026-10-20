@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.11.dmg",
-  "notes": "The in-app update now restarts the bot after swapping the apps, so the skill library installed by 1.0.10 actually loads and the Skills tab fills up — no manual restart needed. The Skills tab also re-scans automatically right after an update.",
-  "published": "2026-10-09",
-  "notes_zh": "应用内更新现在会在换装应用后重启机器人，1.0.10 安装的技能库会真正加载、技能页自动填满，无需手动重启。更新完成后技能页还会自动重新扫描。"
+  "version": "1.0.12",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.12.dmg",
+  "notes": "Fixed: when all providers are down while the local model is starting up, the bot now waits for the model to load and answers instead of failing the message — and the “Launch at Login” toggle now really applies in both directions.",
+  "published": "2026-10-19",
+  "notes_zh": "修复：当所有提供方不可用且本地模型正在启动时，机器人会等待模型加载完成后再回答，不再让消息失败——并且“开机自动启动”开关现在双向真正生效。"
 }
