@@ -1,7 +1,7 @@
 {
-  "version": "1.0.15",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.15.dmg",
-  "notes": "Fixed: stock quotes now actually work on every Mac. Ticker lookups, price alerts and price checks were silently broken on installed Macs (a library only the dev machine had) — quotes are now built in with two free sources and automatic failover, and Canadian listings show real CAD prices.",
+  "version": "1.0.16",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.16.dmg",
+  "notes": "A dependency audit: features that secretly needed extra software now work out of the box. Reminders understand real English times (“tomorrow at 9am”, “friday 5pm”, “in two hours”) with no extra libraries; voice notes and spoken replies use what your Mac already has (local model server for transcription, macOS's own voice for replies); QR codes, big-letter ASCII art, link summaries and PDF attachments are all built in — no setup, no keys, no surprises.",
   "published": "2026-10-25",
-  "notes_zh": "修复：股票行情现在在每一台 Mac 上都能用了。行情查询、价格提醒此前在安装的 Mac 上悄悄失灵（只有开发机装了某个库）——如今行情全部内置，两个免费数据源自动切换，加拿大股票显示真实加元价格。"
+  "notes_zh": "一次依赖体检：那些暗地里需要额外软件的功能，现在开箱即用。提醒功能直接理解真实英语时间（“明天上午9点”“周五下午5点”“两小时后”），不再依赖额外库；语音转文字用本机模型服务器，语音回复用 macOS 自带嗓音；二维码、大字 ASCII、链接摘要、PDF 附件解析全部内置——无需配置、无需密钥。"
 }
