@@ -1,7 +1,7 @@
 {
-  "version": "1.0.16",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.16.dmg",
-  "notes": "A dependency audit: features that secretly needed extra software now work out of the box. Reminders understand real English times (“tomorrow at 9am”, “friday 5pm”, “in two hours”) with no extra libraries; voice notes and spoken replies use what your Mac already has (local model server for transcription, macOS's own voice for replies); QR codes, big-letter ASCII art, link summaries and PDF attachments are all built in — no setup, no keys, no surprises.",
+  "version": "1.0.17",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.17.dmg",
+  "notes": "Ask for a voice note in plain words: say \\u201creply with a voice note: \\u2026\\u201d or \\u201csay that out loud\\u201d and momo sends a real audio bubble \\u2014 using the Mac's own voice when cloud text-to-speech isn't set up. The /voice on toggle still speaks every answer automatically.",
   "published": "2026-10-25",
-  "notes_zh": "一次依赖体检：那些暗地里需要额外软件的功能，现在开箱即用。提醒功能直接理解真实英语时间（“明天上午9点”“周五下午5点”“两小时后”），不再依赖额外库；语音转文字用本机模型服务器，语音回复用 macOS 自带嗓音；二维码、大字 ASCII、链接摘要、PDF 附件解析全部内置——无需配置、无需密钥。"
+  "notes_zh": "一句话就能要一条语音：说\\u201c用语音回复：……\\u201d或\\u201c大声读出来\\u201d，momo 就会发出真正的语音气泡——没配置云端语音时用 Mac 自带的嗓音。/voice on 开关依然会自动把每条回答读出来。"
 }
