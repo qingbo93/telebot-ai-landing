@@ -1,7 +1,7 @@
 {
-  "version": "1.0.14",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.14.dmg",
-  "notes": "Fixed: when a model provider renames models or changes its API, fallbacks now heal or explain themselves — real reasons, not generic warnings. One-stray-token replies are never sent (the next provider answers instead), and price/news questions always run a real lookup first.",
-  "published": "2026-10-24",
-  "notes_zh": "修复：模型服务改名或改接口时，备用线路会自动修复或说明真正原因，不再只给笼统警告。只有一个字的“假回复”不会再发给你（自动换下一个模型回答），价格与新闻类问题一定先做真实查询。"
+  "version": "1.0.15",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.15.dmg",
+  "notes": "Fixed: stock quotes now actually work on every Mac. Ticker lookups, price alerts and price checks were silently broken on installed Macs (a library only the dev machine had) — quotes are now built in with two free sources and automatic failover, and Canadian listings show real CAD prices.",
+  "published": "2026-10-25",
+  "notes_zh": "修复：股票行情现在在每一台 Mac 上都能用了。行情查询、价格提醒此前在安装的 Mac 上悄悄失灵（只有开发机装了某个库）——如今行情全部内置，两个免费数据源自动切换，加拿大股票显示真实加元价格。"
 }
