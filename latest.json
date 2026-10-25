@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.12.dmg",
-  "notes": "Fixed: when all providers are down while the local model is starting up, the bot now waits for the model to load and answers instead of failing the message — and the “Launch at Login” toggle now really applies in both directions.",
-  "published": "2026-10-19",
-  "notes_zh": "修复：当所有提供方不可用且本地模型正在启动时，机器人会等待模型加载完成后再回答，不再让消息失败——并且“开机自动启动”开关现在双向真正生效。"
+  "version": "1.0.13",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.13.dmg",
+  "notes": "Fixed: web search now works on every Mac — search, page reading and news questions are built in (with automatic fallbacks), no setup. Crypto quotes also gained backup price sources.",
+  "published": "2026-10-24",
+  "notes_zh": "修复：网络搜索现在在所有 Mac 上都能用——搜索、网页阅读、新闻问答全部内置（自动切换备用来源），无需配置。加密货币行情也新增了备用价格源。"
 }
