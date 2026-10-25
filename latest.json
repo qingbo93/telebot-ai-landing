@@ -1,7 +1,7 @@
 {
-  "version": "1.0.13",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.13.dmg",
-  "notes": "Fixed: web search now works on every Mac — search, page reading and news questions are built in (with automatic fallbacks), no setup. Crypto quotes also gained backup price sources.",
+  "version": "1.0.14",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.14.dmg",
+  "notes": "Fixed: when a model provider renames models or changes its API, fallbacks now heal or explain themselves — real reasons, not generic warnings. One-stray-token replies are never sent (the next provider answers instead), and price/news questions always run a real lookup first.",
   "published": "2026-10-24",
-  "notes_zh": "修复：网络搜索现在在所有 Mac 上都能用——搜索、网页阅读、新闻问答全部内置（自动切换备用来源），无需配置。加密货币行情也新增了备用价格源。"
+  "notes_zh": "修复：模型服务改名或改接口时，备用线路会自动修复或说明真正原因，不再只给笼统警告。只有一个字的“假回复”不会再发给你（自动换下一个模型回答），价格与新闻类问题一定先做真实查询。"
 }
