@@ -6678,7 +6678,7 @@
       "vi": "Tung được 3",
       "uk": "Викинуто 3"
     },
-    "c15.date": {
+    "c16.date": {
       "en": "Aug 12, 2026",
       "zh": "2026年8月12日",
       "es": "12 ago 2026",
@@ -6699,7 +6699,7 @@
       "vi": "12 tháng 8, 2026",
       "uk": "12 серпня 2026"
     },
-    "c15.summary": {
+    "c16.summary": {
       "en": "The first public release — the bridge between your Telegram bots and any LLM, local or cloud.",
       "zh": "首次公开发布 —— 连接您的 Telegram 机器人与任意 LLM 的桥梁，本地或云端。",
       "es": "La primera versión pública — el puente entre tus bots de Telegram y cualquier LLM, local o en la nube.",
@@ -6720,7 +6720,7 @@
       "vi": "Bản phát hành công khai đầu tiên — cầu nối giữa bot Telegram của bạn và mọi LLM, cục bộ hoặc đám mây.",
       "uk": "Перший публічний випуск — міст між вашими Telegram-ботами та будь-якою LLM, локальною або хмарною."
     },
-    "c15.l1": {
+    "c16.l1": {
       "en": "Menu bar app — start and stop your bots, open settings and quit, all from the menu bar.",
       "zh": "菜单栏应用 —— 启动和停止机器人、打开设置、退出，全部在菜单栏完成。",
       "es": "App de la barra de menús — inicia y detiene tus bots, abre ajustes y sale, todo desde la barra de menús.",
@@ -6741,7 +6741,7 @@
       "vi": "Ứng dụng thanh menu — bắt đầu và dừng bot, mở cài đặt và thoát, tất cả từ thanh menu.",
       "uk": "Застосунок у рядку меню — запускайте та зупиняйте ботів, відкривайте налаштування й виходьте, усе з рядка меню."
     },
-    "c15.l2": {
+    "c16.l2": {
       "en": "Multiple bots — one per token, each with its own model, personality and skills.",
       "zh": "多机器人 —— 每个令牌一个，各自拥有独立的模型、个性和技能。",
       "es": "Varios bots — uno por token, cada uno con su propio modelo, personalidad y habilidades.",
@@ -6762,7 +6762,7 @@
       "vi": "Nhiều bot — một bot cho mỗi token, mỗi bot có mô hình, cá tính và kỹ năng riêng.",
       "uk": "Кілька ботів — по одному на токен, кожен із власною моделлю, персоною та навичками."
     },
-    "c15.l3": {
+    "c16.l3": {
       "en": "Bring your own brain — mlx-serve, Ollama, LM Studio, vLLM, OpenAI, Anthropic, Groq, OpenRouter — with automatic fallbacks when a provider goes down.",
       "zh": "自带大脑 —— mlx-serve、Ollama、LM Studio、vLLM、OpenAI、Anthropic、Groq、OpenRouter —— 服务商宕机时自动切换备用。",
       "es": "Trae tu propio cerebro — mlx-serve, Ollama, LM Studio, vLLM, OpenAI, Anthropic, Groq, OpenRouter — con respaldos automáticos cuando un proveedor falla.",
@@ -6783,7 +6783,7 @@
       "vi": "Tự chọn bộ não — mlx-serve, Ollama, LM Studio, vLLM, OpenAI, Anthropic, Groq, OpenRouter — với dự phòng tự động khi một nhà cung cấp gặp sự cố.",
       "uk": "Свій мозок — mlx-serve, Ollama, LM Studio, vLLM, OpenAI, Anthropic, Groq, OpenRouter — з автоматичними резервами, коли провайдер виходить із ладу."
     },
-    "c15.l4": {
+    "c16.l4": {
       "en": "30+ model-driven tools — reminders, weather, stocks, crypto, polls, dice, expenses, habits, bookmarks, RSS feeds, translation, currency, PDF &amp; receipt scanning, memory, digests and briefings.",
       "zh": "30+ 模型驱动工具 —— 提醒、天气、股票、加密货币、投票、骰子、记账、习惯、书签、RSS 订阅、翻译、货币、PDF 与收据扫描、记忆、摘要与简报。",
       "es": "Más de 30 herramientas dirigidas por el modelo — recordatorios, clima, acciones, cripto, encuestas, dados, gastos, hábitos, marcadores, fuentes RSS, traducción, divisas, escaneo de PDF y recibos, memoria, resúmenes e informes.",
@@ -6804,7 +6804,7 @@
       "vi": "30+ công cụ do mô hình điều khiển — lời nhắc, thời tiết, chứng khoán, tiền điện tử, bình chọn, xúc xắc, chi tiêu, thói quen, dấu trang, nguồn RSS, dịch thuật, tỷ giá, quét PDF &amp; hóa đơn, ký ức, tóm tắt và điểm tin.",
       "uk": "30+ керованих моделлю інструментів — нагадування, погода, акції, крипто, опитування, кубики, витрати, звички, закладки, RSS-стрічки, переклад, валюта, PDF &amp; сканування чеків, пам'ять, дайджести та брифінги."
     },
-    "c15.l5": {
+    "c16.l5": {
       "en": "Keyless data sources — weather, currency, Wikipedia, SEC filings — no API keys required.",
       "zh": "无需密钥的数据源 —— 天气、货币、Wikipedia、SEC 文件 —— 不需要 API 密钥。",
       "es": "Fuentes de datos sin claves — clima, divisas, Wikipedia, documentos SEC — sin claves de API.",
@@ -6825,7 +6825,7 @@
       "vi": "Nguồn dữ liệu không cần khóa — thời tiết, tỷ giá, Wikipedia, hồ sơ SEC — không cần khóa API.",
       "uk": "Джерела даних без ключів — погода, валюта, Вікіпедія, звіти SEC — без жодних ключів API."
     },
-    "c15.l6": {
+    "c16.l6": {
       "en": "Telegram-native — streaming replies, typing dots, animated dice, native polls, voice notes in and out.",
       "zh": "Telegram 原生体验 —— 流式回复、正在输入提示、动画骰子、原生投票、语音消息收发。",
       "es": "Nativo de Telegram — respuestas en streaming, indicador de escritura, dados animados, encuestas nativas, notas de voz de ida y vuelta.",
@@ -6846,7 +6846,7 @@
       "vi": "Thuần Telegram — trả lời trực tiếp, dấu ba chấm đang gõ, xúc xắc động, bình chọn gốc, ghi âm thoại gửi và nhận.",
       "uk": "Рідний для Telegram — потокові відповіді, індикатори набору, анімовані кубики, рідні опитування, голосові повідомлення в обидва боки."
     },
-    "c15.l7": {
+    "c16.l7": {
       "en": "Local-first privacy — chat history, memories and skills live in <span class=\"mono\">~/.mlx-serve</span> on your Mac.",
       "zh": "本地优先的隐私 —— 聊天记录、记忆和技能都保存在您 Mac 上的 <span class=\"mono\">~/.mlx-serve</span>。",
       "es": "Privacidad local-first — el historial de chat, los recuerdos y las habilidades viven en <span class=\"mono\">~/.mlx-serve</span> en tu Mac.",
@@ -6867,7 +6867,7 @@
       "vi": "Quyền riêng tư ưu tiên cục bộ — lịch sử trò chuyện, ký ức và kỹ năng nằm trong <span class=\"mono\">~/.mlx-serve</span> trên Mac của bạn.",
       "uk": "Конфіденційність із локальним пріоритетом — історія чатів, спогади та навички зберігаються у <span class=\"mono\">~/.mlx-serve</span> на вашому Mac."
     },
-    "c15.l8": {
+    "c16.l8": {
       "en": "macOS 13+, Apple Silicon. Unsigned build — right-click → Open on first launch.",
       "zh": "macOS 13+，Apple Silicon。未签名构建 —— 首次启动请右键 → 打开。",
       "es": "macOS 13+, Apple Silicon. Build sin firmar — clic derecho → Abrir en el primer inicio.",
@@ -6888,7 +6888,7 @@
       "vi": "macOS 13+, Apple Silicon. Bản build chưa ký — chuột phải → Open ở lần khởi chạy đầu.",
       "uk": "macOS 13+, Apple Silicon. Непідписана збірка — права кнопка → «Відкрити» під час першого запуску."
     },
-    "c14.date": {
+    "c15.date": {
       "en": "Aug 13, 2026",
       "zh": "2026年8月13日",
       "es": "13 ago 2026",
@@ -6909,7 +6909,7 @@
       "vi": "13 tháng 8, 2026",
       "uk": "13 серпня 2026"
     },
-    "c14.summary": {
+    "c15.summary": {
       "en": "Friendlier errors, clearer update feedback, and an auto-check toggle.",
       "zh": "更友好的错误提示、更清晰的更新反馈，以及自动检查开关。",
       "es": "Errores más amigables, retroalimentación de actualización más clara y un interruptor de comprobación automática.",
@@ -6930,7 +6930,7 @@
       "vi": "Thông báo lỗi thân thiện hơn, phản hồi cập nhật rõ ràng hơn, và công tắc tự động kiểm tra.",
       "uk": "Зрозуміліші помилки, чіткіший зворотний зв'язок про оновлення та перемикач автоперевірки."
     },
-    "c14.l1": {
+    "c15.l1": {
       "en": "If the app ever fails to start, you now get a <strong>\"Telebot AI couldn't start\"</strong> dialog with <strong>Visit website to report</strong> (opens the feedback form), <strong>Copy error</strong> and Quit — no more cryptic crash dialogs.",
       "zh": "如果应用启动失败，您现在会看到<strong>「Telebot AI 无法启动」</strong>对话框，包含<strong>访问网站报告</strong>（打开反馈表单）、<strong>复制错误</strong>和退出 —— 不再有难以理解的崩溃对话框。",
       "es": "Si la app falla al arrancar, ahora ves un diálogo <strong>\"Telebot AI no pudo iniciarse\"</strong> con <strong>Visitar el sitio para informar</strong> (abre el formulario de comentarios), <strong>Copiar error</strong> y Salir — nada de diálogos de cierre crípticos.",
@@ -6951,7 +6951,7 @@
       "vi": "Nếu ứng dụng không khởi động được, giờ bạn sẽ thấy hộp thoại <strong>\"Telebot AI không khởi động được\"</strong> với <strong>Truy cập trang web để báo lỗi</strong> (mở biểu mẫu phản hồi), <strong>Sao chép lỗi</strong> và Thoát — không còn hộp thoại lỗi khó hiểu.",
       "uk": "Якщо застосунок не запускається, тепер ви бачите діалог <strong>«Telebot AI couldn't start»</strong> із кнопками <strong>Visit website to report</strong> (відкриває форму відгуку), <strong>Copy error</strong> та «Вийти» — більше жодних загадкових діалогів збою."
     },
-    "c14.l2": {
+    "c15.l2": {
       "en": "<strong>Check for Updates</strong> now shows real feedback: the menu item flips to <strong>✓ Up to date</strong>, and the Updates page shows the result in <strong>green</strong> (orange while checking, with a Download link when a new version is out). The checking state is held long enough to actually see.",
       "zh": "<strong>检查更新</strong>现在有真实反馈：菜单项切换为<strong>✓ 已是最新版本</strong>，「更新」页面以<strong>绿色</strong>显示结果（检查中为橙色，有新版本时显示下载链接）。检查状态会保持足够长的时间，确保您能看到。",
       "es": "<strong>Buscar actualizaciones</strong> ahora da retroalimentación real: el elemento del menú cambia a <strong>✓ Al día</strong>, y la página Actualizaciones muestra el resultado en <strong>verde</strong> (naranja mientras comprueba, con un enlace de descarga cuando hay versión nueva). El estado de comprobación se mantiene el tiempo suficiente para verlo.",
@@ -6972,7 +6972,7 @@
       "vi": "<strong>Kiểm tra cập nhật</strong> giờ hiển thị phản hồi thật: mục trình đơn chuyển sang <strong>✓ Đã có phiên bản mới nhất</strong>, và trang Cập nhật hiển thị kết quả bằng <strong>màu xanh lá</strong> (màu cam khi đang kiểm tra, kèm liên kết Tải xuống khi có phiên bản mới). Trạng thái đang kiểm tra được giữ đủ lâu để bạn thực sự thấy.",
       "uk": "<strong>«Перевірити оновлення»</strong> тепер показує реальний результат: пункт меню змінюється на <strong>✓ Актуальна версія</strong>, а сторінка «Оновлення» показує результат <strong>зеленим</strong> (помаранчевим під час перевірки, з посиланням на завантаження, коли виходить нова версія). Стан перевірки тримається досить довго, щоб його можна було побачити."
     },
-    "c14.l3": {
+    "c15.l3": {
       "en": "New <strong>Check automatically</strong> setting on the Updates page — turn the launch + 24-hour update checks on or off (default on).",
       "zh": "「更新」页面新增<strong>自动检查</strong>设置 —— 可开启或关闭启动时与每 24 小时的更新检查（默认开启）。",
       "es": "Nuevo ajuste <strong>Comprobar automáticamente</strong> en la página Actualizaciones — activa o desactiva las comprobaciones al iniciar y cada 24 horas (por defecto activadas).",
@@ -6993,7 +6993,7 @@
       "vi": "Cài đặt mới <strong>Tự động kiểm tra</strong> trên trang Cập nhật — bật hoặc tắt việc kiểm tra cập nhật khi khởi động + mỗi 24 giờ (mặc định bật).",
       "uk": "Нове налаштування <strong>«Перевіряти автоматично»</strong> на сторінці «Оновлення» — вмикайте або вимикайте перевірки оновлень під час запуску та кожні 24 години (за замовчуванням увімкнено)."
     },
-    "c14.l4": {
+    "c15.l4": {
       "en": "Updates page tidied up — installed version, status and the check/download buttons now sit together in one clean row instead of divider-separated clutter.",
       "zh": "「更新」页面整理一新 —— 已安装版本、状态和检查/下载按钮现在整齐地排成一行，不再有分隔线割裂的杂乱布局。",
       "es": "Página Actualizaciones ordenada — versión instalada, estado y botones de comprobación/descarga ahora están en una sola fila limpia en lugar del desorden separado por divisores.",
@@ -7014,7 +7014,7 @@
       "vi": "Trang Cập nhật được dọn gọn — phiên bản đã cài, trạng thái và các nút kiểm tra/tải xuống giờ nằm chung một hàng gọn gàng thay vì rải rác ngăn cách bởi đường kẻ.",
       "uk": "Сторінку «Оновлення» впорядковано — встановлена версія, статус і кнопки перевірки/завантаження тепер стоять разом в одному чистому рядку замість розділеного роздільниками безладу."
     },
-    "c13.date": {
+    "c14.date": {
       "en": "Aug 14, 2026",
       "zh": "2026年8月14日",
       "es": "14 ago 2026",
@@ -7035,7 +7035,7 @@
       "vi": "14 tháng 8, 2026",
       "uk": "14 серпня 2026"
     },
-    "c13.summary": {
+    "c14.summary": {
       "en": "Seven languages, one-click in-app updates, and a “What’s new” sheet after every update.",
       "zh": "七种语言、一键应用内更新，以及每次更新后的「新内容」弹窗。",
       "es": "Siete idiomas, actualizaciones en un clic dentro de la app y una hoja de novedades tras cada actualización.",
@@ -7056,7 +7056,7 @@
       "vi": "Bảy ngôn ngữ, cập nhật trong ứng dụng một cú bấm, và bảng “Có gì mới” sau mỗi lần cập nhật.",
       "uk": "Сім мов, оновлення в один клік у застосунку та вікно «Що нового» після кожного оновлення."
     },
-    "c13.l1": {
+    "c14.l1": {
       "en": "<strong>7 languages</strong> — English, 中文, Español, 日本語, Deutsch, Français and Português. The sidebar picker switches everything live: pages, skill cards, the menu bar app and release notes. More languages are a content-add away.",
       "zh": "<strong>7 种语言</strong> —— 英语、中文、Español、日本語、Deutsch、Français 和 Português。侧边栏的语言选择器可即时切换所有界面：页面、技能卡片、菜单栏应用和发布说明。添加更多语言只需补充内容。",
       "es": "<strong>7 idiomas</strong> — inglés, 中文, Español, 日本語, Deutsch, Français y Português. El selector de idioma de la barra lateral lo cambia todo al instante: páginas, tarjetas de habilidades, la app de la barra de menús y las notas de versión. Más idiomas están a un añadido de contenido.",
@@ -7077,7 +7077,7 @@
       "vi": "<strong>7 ngôn ngữ</strong> — English, 中文, Español, 日本語, Deutsch, Français và Português. Bộ chọn trong thanh bên chuyển đổi mọi thứ tức thì: trang, thẻ kỹ năng, ứng dụng thanh menu và ghi chú phát hành. Các ngôn ngữ khác chỉ cần thêm nội dung là xong.",
       "uk": "<strong>7 мов</strong> — англійська, 中文, Español, 日本語, Deutsch, Français та Português. Селектор на бічній панелі перемикає все наживо: сторінки, картки навичок, застосунок у рядку меню та примітки до випусків. Більше мов — лише питання додавання контенту."
     },
-    "c13.l2": {
+    "c14.l2": {
       "en": "<strong>Auto-update inside the app</strong> — when a new version is available, the Updates page shows <strong>Update Now</strong>: it downloads, verifies the DMG, quits, swaps both apps atomically and relaunches you on the new version. No browser, no drag-and-drop.",
       "zh": "<strong>应用内自动更新</strong> —— 有新版本时，「更新」页面会显示<strong>立即更新</strong>：下载、校验 DMG、退出、原子化替换两个应用并自动重启到新版本。无需浏览器，无需拖拽。",
       "es": "<strong>Actualización automática dentro de la app</strong> — cuando hay una versión nueva, la página Actualizaciones muestra <strong>Actualizar ahora</strong>: descarga, verifica el DMG, cierra, reemplaza ambas apps atómicamente y te relanza en la nueva versión. Sin navegador, sin arrastrar y soltar.",
@@ -7098,7 +7098,7 @@
       "vi": "<strong>Tự động cập nhật trong ứng dụng</strong> — khi có phiên bản mới, trang Cập nhật hiển thị <strong>Cập nhật ngay</strong>: ứng dụng tải xuống, xác minh DMG, thoát, hoán đổi cả hai ứng dụng một cách nguyên tử và khởi động lại bạn trên phiên bản mới. Không cần trình duyệt, không cần kéo thả.",
       "uk": "<strong>Автооновлення в застосунку</strong> — коли з'являється нова версія, сторінка «Оновлення» показує <strong>Оновити зараз</strong>: застосунок завантажує та перевіряє DMG, завершує роботу, атомарно замінює обидва застосунки та перезапускається на новій версії. Жодного браузера, жодного перетягування."
     },
-    "c13.l3": {
+    "c14.l3": {
       "en": "<strong>“What’s new” sheet after every update</strong> — the app reopens with the release notes for the version you just installed, in your language. One-time per update.",
       "zh": "<strong>每次更新后的「新内容」弹窗</strong> —— 应用重新打开时会显示您刚安装版本的发布说明，使用您的语言。每次更新仅一次。",
       "es": "<strong>Hoja de novedades tras cada actualización</strong> — la app se reabre con las notas de la versión que acabas de instalar, en tu idioma. Una vez por actualización.",
@@ -7119,7 +7119,7 @@
       "vi": "<strong>Bảng “Có gì mới” sau mỗi lần cập nhật</strong> — ứng dụng mở lại kèm ghi chú phát hành của phiên bản bạn vừa cài, bằng ngôn ngữ của bạn. Một lần cho mỗi bản cập nhật.",
       "uk": "<strong>Вікно «Що нового» після кожного оновлення</strong> — застосунок відкривається з примітками до випуску щойно встановленої версії вашою мовою. Один раз на оновлення."
     },
-    "c13.l4": {
+    "c14.l4": {
       "en": "<strong>Every surface speaks your language</strong> — sidebar, bot pages, defaults, skill cards, popups, the menu bar app and the skills sheet.",
       "zh": "<strong>每个界面都使用您的语言</strong> —— 侧边栏、机器人页面、默认设置、技能卡片、弹窗、菜单栏应用和技能面板。",
       "es": "<strong>Cada superficie habla tu idioma</strong> — barra lateral, páginas de bots, valores por defecto, tarjetas de habilidades, ventanas emergentes, la app de la barra de menús y la hoja de habilidades.",
@@ -7140,7 +7140,7 @@
       "vi": "<strong>Mọi bề mặt đều nói ngôn ngữ của bạn</strong> — thanh bên, trang bot, mặc định, thẻ kỹ năng, cửa sổ bật lên, ứng dụng thanh menu và bảng kỹ năng.",
       "uk": "<strong>Кожна поверхня розмовляє вашою мовою</strong> — бічна панель, сторінки ботів, замовчування, картки навичок, спливаючі вікна, застосунок у рядку меню та аркуш навичок."
     },
-    "c13.l5": {
+    "c14.l5": {
       "en": "Per-model usage — the Model page shows how many requests and tokens each model served; each bot page shows its own request/token stats.",
       "zh": "按模型统计用量 —— 「模型」页面显示每个模型服务的请求数和令牌数；每个机器人页面显示自己的请求/令牌统计。",
       "es": "Uso por modelo — la página Modelo muestra cuántas peticiones y tokens sirvió cada modelo; cada página de bot muestra sus propias estadísticas de peticiones/tokens.",
@@ -7161,7 +7161,7 @@
       "vi": "Sử dụng theo mô hình — trang Mô hình hiển thị mỗi mô hình đã phục vụ bao nhiêu yêu cầu và token; mỗi trang bot hiển thị thống kê yêu cầu/token riêng.",
       "uk": "Використання за моделями — сторінка «Модель» показує, скільки запитів і токенів обслужила кожна модель; сторінка кожного бота показує власну статистику запитів/токенів."
     },
-    "c13.l6": {
+    "c14.l6": {
       "en": "Menu bar app is now accessory-only — one clean “Telebot AI” icon in the Dock and Cmd-Tab (the settings app), no duplicates.",
       "zh": "菜单栏应用现在仅作为辅助 —— 程序坞和 Cmd-Tab 中只有一个干净的「Telebot AI」图标（设置应用），不再重复。",
       "es": "La app de la barra de menús ahora es solo accesoria — un único icono limpio de \"Telebot AI\" en el Dock y Cmd-Tab (la app de ajustes), sin duplicados.",
@@ -7182,7 +7182,7 @@
       "vi": "Ứng dụng thanh menu giờ chỉ là phụ kiện — một biểu tượng “Telebot AI” gọn gàng trong Dock và Cmd-Tab (ứng dụng cài đặt), không trùng lặp.",
       "uk": "Застосунок у рядку меню тепер лише допоміжний — один чистий значок «Telebot AI» у Dock і Cmd-Tab (застосунок налаштувань), жодних дублікатів."
     },
-    "c13.l7": {
+    "c14.l7": {
       "en": "Clicking the Dock or Cmd-Tab icon re-creates the settings window if it was closed.",
       "zh": "点击程序坞或 Cmd-Tab 图标会在设置窗口被关闭时重新创建它。",
       "es": "Hacer clic en el icono del Dock o Cmd-Tab recrea la ventana de ajustes si estaba cerrada.",
@@ -7203,7 +7203,7 @@
       "vi": "Bấm vào biểu tượng trong Dock hoặc Cmd-Tab sẽ tạo lại cửa sổ cài đặt nếu nó đã bị đóng.",
       "uk": "Натискання на значок у Dock або Cmd-Tab заново відкриває вікно налаштувань, якщо його було закрито."
     },
-    "c12.date": {
+    "c13.date": {
       "en": "Aug 15, 2026",
       "zh": "2026年8月15日",
       "es": "15 ago 2026",
@@ -7224,7 +7224,7 @@
       "vi": "15 tháng 8, 2026",
       "uk": "15 серпня 2026"
     },
-    "c12.summary": {
+    "c13.summary": {
       "en": "Nineteen languages, a per-user daily report, and briefing as a skill toggle.",
       "zh": "十九种语言、按用户独立设置的每日报告，以及作为技能开关的简报。",
       "es": "Diecinueve idiomas, un informe diario por usuario y el briefing como interruptor de habilidad.",
@@ -7245,7 +7245,7 @@
       "vi": "Mười chín ngôn ngữ, báo cáo hằng ngày theo từng người dùng và briefing trở thành công tắc kỹ năng.",
       "uk": "Дев'ятнадцять мов, щоденний звіт для кожного користувача та брифінг як перемикач навички."
     },
-    "c12.l1": {
+    "c13.l1": {
       "en": "<strong>19 languages</strong> — English, 中文, Español, 日本語, Deutsch, Français, Português, 한국어, Italiano, Русский, العربية, हिन्दी, Bahasa Indonesia, Türkçe, Nederlands, Polski, Tiếng Việt, ไทย and Українська. The picker shows every language in its own script with the English name beside it — you can always find yours.",
       "zh": "<strong>19 种语言</strong> —— 英语、中文、Español、日本語、Deutsch、Français、Português、한국어、Italiano、Русский、العربية、हिन्दी、Bahasa Indonesia、Türkçe、Nederlands、Polski、Tiếng Việt、ไทย 和 Українська。语言选择器以每种语言自身的文字显示，旁边附英文名称 —— 您总能找到自己的语言。",
       "es": "<strong>19 idiomas</strong> — inglés, 中文, Español, 日本語, Deutsch, Français, Português, 한국어, Italiano, Русский, العربية, हिन्दी, Bahasa Indonesia, Türkçe, Nederlands, Polski, Tiếng Việt, ไทย y Українська. El selector muestra cada idioma en su propia escritura, con el nombre en inglés al lado — siempre puedes encontrar el tuyo.",
@@ -7266,7 +7266,7 @@
       "vi": "<strong>19 ngôn ngữ</strong> — tiếng Anh, 中文, Español, 日本語, Deutsch, Français, Português, 한국어, Italiano, Русский, العربية, हिन्दी, Bahasa Indonesia, Türkçe, Nederlands, Polski, Tiếng Việt, ไทย và Українська. Bộ chọn hiển thị từng ngôn ngữ bằng chính chữ viết của nó, kèm tên tiếng Anh bên cạnh — bạn luôn tìm thấy ngôn ngữ của mình.",
       "uk": "<strong>19 мов</strong> — англійська, 中文, Español, 日本語, Deutsch, Français, Português, 한국어, Italiano, Русский, العربية, हिन्दी, Bahasa Indonesia, Türkçe, Nederlands, Polski, Tiếng Việt, ไทย та Українська. Селектор показує кожну мову її власним письмом, поруч — англійська назва, тож ви завжди знайдете свою."
     },
-    "c12.l2": {
+    "c13.l2": {
       "en": "<strong>Per-user daily report</strong> — <code class=\"mono\">/daily on</code> turns on a report with your own time, your own crypto coins and your own prompt; every user's preferences are stored separately.",
       "zh": "<strong>按用户独立设置的每日报告</strong> —— <code class=\"mono\">/daily on</code> 开启属于您自己的报告：自己的时间、自己的加密货币、自己的提示词；每位用户的偏好都分开保存。",
       "es": "<strong>Informe diario por usuario</strong> — <code class=\"mono\">/daily on</code> activa un informe con tu propia hora, tus propias criptomonedas y tu propio prompt; las preferencias de cada usuario se guardan por separado.",
@@ -7287,7 +7287,7 @@
       "vi": "<strong>Báo cáo hằng ngày theo từng người dùng</strong> — <code class=\"mono\">/daily on</code> bật báo cáo với giờ riêng, coin crypto riêng và prompt riêng của bạn; tùy chọn của mỗi người dùng được lưu riêng.",
       "uk": "<strong>Щоденний звіт для кожного користувача</strong> — <code class=\"mono\">/daily on</code> вмикає звіт із вашим часом, вашими криптовалютами та вашим промптом; налаштування кожного користувача зберігаються окремо."
     },
-    "c12.l3": {
+    "c13.l3": {
       "en": "<strong>Briefing is now a skill</strong> — the briefing skill toggle is the one master switch: skill off means no scheduled reports, no <code class=\"mono\">/briefing</code> and no model composition.",
       "zh": "<strong>简报现在是技能</strong> —— 简报技能开关就是唯一的总开关：关闭技能 = 没有定时报告、没有 <code class=\"mono\">/briefing</code>、没有模型合成。",
       "es": "<strong>El briefing ahora es una habilidad</strong> — el interruptor de la habilidad de briefing es el único interruptor maestro: habilidad apagada significa sin informes programados, sin <code class=\"mono\">/briefing</code> y sin composición de modelos.",
@@ -7308,7 +7308,7 @@
       "vi": "<strong>Briefing giờ là một kỹ năng</strong> — công tắc kỹ năng briefing là công tắc chính duy nhất: tắt kỹ năng = không có báo cáo theo lịch, không có <code class=\"mono\">/briefing</code> và không có tổng hợp mô hình.",
       "uk": "<strong>Брифінг тепер навичка</strong> — перемикач навички брифінгу — єдиний головний перемикач: навичка вимкнена = немає запланованих звітів, немає <code class=\"mono\">/briefing</code> і немає композиції моделей."
     },
-    "c12.l4": {
+    "c13.l4": {
       "en": "<strong>Simpler settings</strong> — the briefing time, prompt and crypto rows are gone; the “Chats & briefing” section is now simply Chats.",
       "zh": "<strong>更简洁的设置</strong> —— 简报的时间、提示词和加密货币设置行已移除；「聊天与简报」板块现在就叫「聊天」。",
       "es": "<strong>Ajustes más simples</strong> — desaparecen las filas de hora, prompt y cripto del briefing; la sección «Chats y briefing» ahora es simplemente Chats.",
@@ -7329,7 +7329,7 @@
       "vi": "<strong>Cài đặt đơn giản hơn</strong> — các dòng giờ, prompt và crypto của briefing đã bị bỏ; mục “Trò chuyện và briefing” giờ chỉ còn là Trò chuyện.",
       "uk": "<strong>Простіші налаштування</strong> — рядки часу, промпту та крипто для брифінгу прибрано; розділ «Чати та брифінг» тепер просто «Чати»."
     },
-    "c12.l5": {
+    "c13.l5": {
       "en": "Quitting the menu bar app now closes the settings window too.",
       "zh": "退出菜单栏应用时，现在也会一并关闭设置窗口。",
       "es": "Salir de la app de la barra de menús ahora cierra también la ventana de ajustes.",
@@ -7350,7 +7350,7 @@
       "vi": "Thoát khỏi ứng dụng thanh menu giờ cũng đóng luôn cửa sổ cài đặt.",
       "uk": "Вихід із застосунку в рядку меню тепер закриває й вікно налаштувань."
     },
-    "c11.date": {
+    "c12.date": {
       "en": "Aug 16, 2026",
       "zh": "2026年8月16日",
       "es": "16 ago 2026",
@@ -7371,7 +7371,7 @@
       "th": "16 สิงหาคม 2026",
       "uk": "16 серпня 2026"
     },
-    "c11.summary": {
+    "c12.summary": {
       "en": "Chat history search, an auto-detect language option, and a fully localized skill library.",
       "zh": "聊天记录搜索、自动检测语言选项，以及完全本地化的技能库。",
       "es": "Búsqueda en el historial de chat, una opción de idioma con detección automática y una biblioteca de habilidades totalmente localizada",
@@ -7392,7 +7392,7 @@
       "th": "ค้นหาประวัติการแชท ตัวเลือกตรวจจับภาษาอัตโนมัติ และคลังสกิลที่แปลครบทุกภาษา",
       "uk": "Пошук по історії чатів, опція автоматичного визначення мови та повністю локалізована бібліотека навичок."
     },
-    "c11.l1": {
+    "c12.l1": {
       "en": "<strong>Chat history search</strong> — ask \"what did we say about X?\" and momo finds it in past conversations",
       "zh": "<strong>聊天记录搜索</strong> —— 问「关于 X 我们说过什么？」，momo 就能在过去的对话中找到它。",
       "es": "<strong>Búsqueda en el historial de chat</strong> — pregunta \"¿qué dijimos sobre X?\" y momo lo encuentra en conversaciones pasadas.",
@@ -7413,7 +7413,7 @@
       "th": "<strong>ค้นหาประวัติการแชท</strong> — ถามว่า “เราคุยอะไรเกี่ยวกับ X ไว้บ้าง?” แล้ว momo จะค้นหาให้เจอในบทสนทนาที่ผ่านมา",
       "uk": "<strong>Пошук по історії чатів</strong> — запитайте «що ми говорили про X?», і momo знайде це в попередніх розмовах"
     },
-    "c11.l2": {
+    "c12.l2": {
       "en": "<strong>Auto-detect language</strong> — the app can follow your Mac's language automatically, or pick any of 19",
       "zh": "<strong>自动检测语言</strong> —— 应用可自动跟随您 Mac 的语言，也可从 19 种语言中任选其一。",
       "es": "<strong>Detección automática de idioma</strong> — la app puede seguir el idioma de tu Mac automáticamente, o elegir cualquiera de los 19.",
@@ -7434,7 +7434,7 @@
       "th": "<strong>ตรวจจับภาษาอัตโนมัติ</strong> — แอปใช้ภาษาของ Mac ของคุณโดยอัตโนมัติ หรือเลือกได้จาก 19 ภาษา",
       "uk": "<strong>Автовизначення мови</strong> — застосунок може автоматично слідувати за мовою вашого Mac, або ви можете обрати будь-яку з 19 мов"
     },
-    "c11.l3": {
+    "c12.l3": {
       "en": "<strong>All 21 skill cards in 19 languages</strong> — every skill's name, description and group",
       "zh": "<strong>全部 21 张技能卡片均支持 19 种语言</strong> —— 每项技能的名称、描述和分组。",
       "es": "<strong>Las 21 tarjetas de habilidades en 19 idiomas</strong> — el nombre, la descripción y el grupo de cada habilidad.",
@@ -7455,7 +7455,7 @@
       "th": "<strong>การ์ดสกิลทั้ง 21 ใบใน 19 ภาษา</strong> — ชื่อ คำอธิบาย และกลุ่มของทุกสกิล",
       "uk": "<strong>Усі 21 картка навичок 19 мовами</strong> — назва, опис і група кожної навички"
     },
-    "c11.l4": {
+    "c12.l4": {
       "en": "<strong>Clearer skill groups</strong> — Finance, Reports, Productivity, Media, Memory and Fun",
       "zh": "<strong>更清晰的技能分组</strong> —— Finance、Reports、Productivity、Media、Memory 和 Fun。",
       "es": "<strong>Grupos de habilidades más claros</strong> — Finance, Reports, Productivity, Media, Memory y Fun.",
@@ -7476,7 +7476,7 @@
       "th": "<strong>กลุ่มสกิลที่ชัดเจนขึ้น</strong> — Finance, Reports, Productivity, Media, Memory และ Fun",
       "uk": "<strong>Зрозуміліші групи навичок</strong> — Finance, Reports, Productivity, Media, Memory та Fun"
     },
-    "c11.l5": {
+    "c12.l5": {
       "en": "<strong>Auto-memory is now a real toggle</strong> — switch it in Skills & Features",
       "zh": "<strong>自动记忆现在是真正的开关</strong> —— 您可以在 Skills & Features 中切换。",
       "es": "<strong>La memoria automática ahora es un interruptor real</strong> — actívalo en Skills & Features.",
@@ -7497,7 +7497,7 @@
       "th": "<strong>ความทรงจำอัตโนมัติกลายเป็นสวิตช์จริงแล้ว</strong> — เปิดปิดได้ใน “สกิล & ฟีเจอร์”",
       "uk": "<strong>Автопам'ять тепер справжній перемикач</strong> — увімкніть його в «Навички & функції»"
     },
-    "c11.l6": {
+    "c12.l6": {
       "en": "<strong>Language setting stays put</strong> — fixed a bug that could silently reset it to English",
       "zh": "<strong>语言设置保持不变</strong> —— 修复了一个可能悄悄将其重置为 English 的问题。",
       "es": "<strong>El ajuste de idioma se mantiene</strong> — corregido un error que podía restablecerlo silenciosamente a English.",
@@ -7518,7 +7518,7 @@
       "th": "<strong>การตั้งค่าภาษาคงเดิม</strong> — แก้ไขบั๊กที่อาจรีเซ็ตกลับเป็น English อย่างเงียบๆ",
       "uk": "<strong>Налаштування мови більше не скидається</strong> — виправлено помилку, яка могла мовчки повертати мову на English"
     },
-    "c10.date": {
+    "c11.date": {
       "en": "Aug 17, 2026",
       "zh": "2026年8月17日",
       "es": "17 ago 2026",
@@ -7539,7 +7539,7 @@
       "th": "17 ส.ค. 2026",
       "uk": "17 серпня 2026"
     },
-    "c10.summary": {
+    "c11.summary": {
       "en": "Editable bot fields, cleaner field descriptions, and a public free tier with daily limits.",
       "zh": "修复机器人字段编辑与说明文字，并带来带每日额度的公共免费模式。",
       "es": "Campos de bot editables, descripciones de campos más claras y un nivel gratuito público con límites diarios.",
@@ -7560,7 +7560,7 @@
       "th": "ฟิลด์ของบอทแก้ไขได้ คำอธิบายฟิลด์ชัดเจนขึ้น และโหมดสาธารณะแบบฟรีที่มีขีดจำกัดรายวัน",
       "uk": "Редагування полів бота, зрозуміліші описи полів і публічний безкоштовний рівень із добовими лімітами."
     },
-    "c10.l1": {
+    "c11.l1": {
       "en": "Bot fields (nickname, chat IDs, and more) are editable again.",
       "zh": "设置中的机器人字段（昵称、聊天 ID 等）恢复可编辑。",
       "es": "Los campos del bot (apodo, IDs de chat y más) vuelven a ser editables.",
@@ -7581,7 +7581,7 @@
       "th": "ฟิลด์ของบอท (ชื่อเล่น ID แชท และอื่นๆ) แก้ไขได้อีกครั้ง",
       "uk": "Поля бота (псевдонім, ID чатів тощо) знову можна редагувати."
     },
-    "c10.l2": {
+    "c11.l2": {
       "en": "Field descriptions are clean and readable in all 19 languages.",
       "zh": "字段说明文字在全部 19 种语言中清晰可读。",
       "es": "Las descripciones de los campos son claras y legibles en los 19 idiomas.",
@@ -7602,7 +7602,7 @@
       "th": "คำอธิบายฟิลด์ชัดเจนและอ่านง่ายในทั้ง 19 ภาษา",
       "uk": "Описи полів зрозумілі та читабельні всіма 19 мовами."
     },
-    "c10.l3": {
+    "c11.l3": {
       "en": "Public mode opens your bot to everyone with a free daily allowance.",
       "zh": "公共模式向所有人开放你的机器人，附带每日免费额度。",
       "es": "El modo público abre tu bot a todos con una asignación gratuita diaria.",
@@ -7623,7 +7623,7 @@
       "th": "โหมดสาธารณะเปิดบอทของคุณให้ทุกคนใช้ พร้อมโควตาฟรีรายวัน",
       "uk": "Публічний режим відкриває вашого бота для всіх із безкоштовною добовою нормою."
     },
-    "c10.l4": {
+    "c11.l4": {
       "en": "Burst and daily limits keep public usage fair.",
       "zh": "突发与每日限额让公共使用保持公平。",
       "es": "Los límites de ráfaga y diarios mantienen el uso público justo.",
@@ -7644,7 +7644,7 @@
       "th": "ขีดจำกัดการส่งต่อเนื่องและขีดจำกัดรายวันช่วยให้การใช้งานสาธารณะเป็นธรรม",
       "uk": "Ліміт сплесків і добові ліміти забезпечують чесне публічне використання."
     },
-    "c10.l5": {
+    "c11.l5": {
       "en": "Quotas and analytics run entirely on your Mac.",
       "zh": "额度统计与分析完全在你的 Mac 上运行。",
       "es": "Las cuotas y los análisis se ejecutan por completo en tu Mac.",
@@ -7665,7 +7665,7 @@
       "th": "โควตาและสถิติทำงานบน Mac ของคุณทั้งหมด",
       "uk": "Ліміти та статистика повністю працюють на вашому Mac."
     },
-    "c9.date": {
+    "c10.date": {
       "en": "Aug 24, 2026",
       "zh": "2026年8月24日",
       "es": "24 ago 2026",
@@ -7686,7 +7686,7 @@
       "th": "24 ส.ค. 2026",
       "uk": "24 серпня 2026"
     },
-    "c9.summary": {
+    "c10.summary": {
       "en": "Dock icon control, safer settings edits, and stronger privacy for free-tier users.",
       "zh": "程序坞图标开关、更安全的设置保存，以及更强的免费用户隐私保护。",
       "es": "Control del icono del Dock, edición más segura de los ajustes y más privacidad para los usuarios gratuitos.",
@@ -7707,7 +7707,7 @@
       "th": "ควบคุมไอคอน Dock ปลอดภัยยิ่งขึ้น และความเป็นส่วนตัวที่แข็งแกร่งขึ้นสำหรับผู้ใช้ฟรี",
       "uk": "Керування значком у Dock, безпечніше збереження налаштувань і міцніша приватність для безкоштовних користувачів."
     },
-    "c9.l1": {
+    "c10.l1": {
       "en": "The settings window has a Dock icon toggle: hide the icon and the window stays put — the menu bar item always brings it back.",
       "zh": "设置窗口新增程序坞图标开关：隐藏图标后窗口保持不变，菜单栏随时可将其召回。",
       "es": "La ventana de ajustes tiene ahora un interruptor para el icono del Dock: oculta el icono y la ventana se queda donde está; el elemento del menú siempre la devuelve.",
@@ -7728,7 +7728,7 @@
       "th": "หน้าต่างการตั้งค่าเพิ่มสวิตช์สำหรับไอคอน Dock: ซ่อนไอคอนแล้วหน้าต่างยังคงอยู่ที่เดิม — รายการในแถบเมนูนำกลับมาได้เสมอ",
       "uk": "У вікні налаштувань з'явився перемикач значка в Dock: приховайте значок — вікно залишиться на місці, а пункт у рядку меню завжди поверне його."
     },
-    "c9.l2": {
+    "c10.l2": {
       "en": "Settings… in the menu bar reliably reopens the settings window in every state, even when the Dock icon is hidden.",
       "zh": "菜单栏中的“设置…”在任何状态下都能可靠地重新打开设置窗口，即使程序坞图标已隐藏。",
       "es": "«Ajustes…» en la barra de menús reabre de forma fiable la ventana de ajustes en cualquier estado, incluso con el icono del Dock oculto.",
@@ -7749,7 +7749,7 @@
       "th": "'การตั้งค่า…' ในแถบเมนูเปิดหน้าต่างการตั้งค่าได้อย่างน่าเชื่อถือในทุกสถานะ แม้ซ่อนไอคอน Dock ไว้",
       "uk": "«Налаштування…» у рядку меню надійно відкриває вікно налаштувань у будь-якому стані, навіть коли значок у Dock приховано."
     },
-    "c9.l3": {
+    "c10.l3": {
       "en": "Safer saving: an edit that would silently drop one of your bot tokens is now blocked with a clear message.",
       "zh": "保存更安全：会悄悄丢失机器人令牌的编辑将被阻止，并显示明确提示。",
       "es": "Guardado más seguro: una edición que borraría silenciosamente uno de tus tokens de bot se bloquea con un mensaje claro.",
@@ -7770,7 +7770,7 @@
       "th": "การบันทึกปลอดภัยขึ้น: การแก้ไขที่จะทำให้โทเค็นบอทหายไปอย่างเงียบ ๆ จะถูกบล็อกพร้อมข้อความที่ชัดเจน",
       "uk": "Безпечніше збереження: зміна, яка мовчки видалила б один із токенів бота, блокується зі зрозумілим повідомленням."
     },
-    "c9.l4": {
+    "c10.l4": {
       "en": "Free-tier users can no longer see which AI model is running the bot.",
       "zh": "免费用户无法再看到机器人使用的是哪款 AI 模型。",
       "es": "Los usuarios gratuitos ya no pueden ver qué modelo de IA ejecuta el bot.",
@@ -7791,7 +7791,7 @@
       "th": "ผู้ใช้ฟรีไม่สามารถเห็นได้อีกว่า bot ใช้โมเดล AI ตัวใด",
       "uk": "Безкоштовні користувачі більше не бачать, яка ШІ-модель обслуговує бота."
     },
-    "c8.date": {
+    "c9.date": {
       "en": "Oct 9, 2026",
       "zh": "2026年10月9日",
       "es": "9 de octubre de 2026",
@@ -7812,7 +7812,7 @@
       "th": "9 ต.ค. 2026",
       "uk": "9 жовтня 2026 р."
     },
-    "c8.summary": {
+    "c9.summary": {
       "en": "Telebot AI now runs on every Mac: the bundled app can finally start its bot.",
       "zh": "Telebot AI 现在能在任何 Mac 上运行：打包应用终于能启动机器人了。",
       "es": "Telebot AI ya funciona en cualquier Mac: la aplicación por fin puede iniciar su bot.",
@@ -7833,7 +7833,7 @@
       "th": "Telebot AI ทำงานบน Mac ทุกเครื่องแล้ว: แอปที่ติดตั้งมาเริ่มบอทได้สำเร็จเสียที",
       "uk": "Telebot AI тепер працює на кожному Mac: додаток нарешті може запустити свого бота."
     },
-    "c8.l1": {
+    "c9.l1": {
       "en": "Start server now works in the downloaded app on a fresh Mac: the bot launches as a background LaunchAgent instead of silently failing.",
       "zh": "“启动服务器”现在在下载版应用和新 Mac 上都能用了：机器人以后台 LaunchAgent 方式启动，不再悄无声息地失败。",
       "es": "«Iniciar servidor» ya funciona en la app descargada y en un Mac nuevo: el bot se inicia como un LaunchAgent en segundo plano en lugar de fallar silenciosamente.",
@@ -7854,7 +7854,7 @@
       "th": "\"เริ่มเซิร์ฟเวอร์\" ใช้งานได้ในแอปที่ดาวน์โหลดบน Mac เครื่องใหม่แล้ว: บอทเริ่มเป็น LaunchAgent เบื้องหลังแทนที่จะเงียบหาย",
       "uk": "«Запустити сервер» нарешті працює в завантаженому додатку на новому Mac: бот стартує як фоновий LaunchAgent, а не завершується без жодної помилки."
     },
-    "c8.l2": {
+    "c9.l2": {
       "en": "Settings import creates the data folder when needed and reports the real error if anything goes wrong — no more silent no-ops.",
       "zh": "导入设置会在需要时自动创建数据文件夹；若真出问题会明确报错——不再“点了没反应”。",
       "es": "La importación de ajustes crea la carpeta de datos si falta y muestra el error real si algo falla: ya no hay acciones fantasma.",
@@ -7875,7 +7875,7 @@
       "th": "การนำเข้าการตั้งค่าจะสร้างโฟลเดอร์ข้อมูลเมื่อจำเป็นและแสดงข้อผิดพลาดจริงหากมีอะไรผิดพลาด — ไม่มีการเงียบหายอีกแล้ว",
       "uk": "Імпорт налаштувань за потреби створює теку даних і показує справжню помилку у разі збою — більше ніякого тихого імітування роботи."
     },
-    "c8.l3": {
+    "c9.l3": {
       "en": "The bot's components are bundled with the app, so no extra Python install is required.",
       "zh": "机器人的全部组件已随应用打包，无需再额外安装 Python。",
       "es": "Todos los componentes del bot van incluidos en la app: ya no hace falta instalar Python aparte.",
@@ -7896,7 +7896,7 @@
       "th": "ส่วนประกอบทั้งหมดของบอทมาพร้อมแอปแล้ว — ไม่ต้องติดตั้ง Python แยกอีก",
       "uk": "Усі компоненти бота вже входять у склад додатка — окремий Python більше не потрібен."
     },
-    "c8.l4": {
+    "c9.l4": {
       "en": "After an import, Telebot AI checks your server's model list and warns (without blocking) if the chosen model isn't served.",
       "zh": "导入后，Telebot AI 会核对服务器的模型列表；若所选模型不在其中，会给出提醒但不拦截。",
       "es": "Tras importar, Telebot AI revisa la lista de modelos del servidor y avisa (sin bloquear) si el modelo elegido no está disponible.",
@@ -7916,6 +7916,153 @@
       "vi": "Sau khi nhập, Telebot AI kiểm tra danh sách mô hình của máy chủ và cảnh báo (không chặn) nếu mô hình đã chọn không có.",
       "th": "หลังนำเข้า Telebot AI จะตรวจรายการโมเดลของเซิร์ฟเวอร์และเตือน (ไม่บล็อก) หากไม่มีโมเดลที่เลือก",
       "uk": "Після імпорту Telebot AI звіряється зі списком моделей сервера й попереджає (не блокуючи), якщо вибраної моделі немає."
+    },
+    "c8.date": {
+      "en": "Oct 9, 2026",
+      "zh": "2026年10月9日",
+      "es": "9 de octubre de 2026",
+      "ja": "2026年10月9日",
+      "de": "9. Oktober 2026",
+      "fr": "9 octobre 2026",
+      "pt": "9 de outubro de 2026",
+      "ko": "2026년 10월 9일",
+      "it": "9 ottobre 2026",
+      "ru": "9 октября 2026 г.",
+      "ar": "9 أكتوبر 2026",
+      "hi": "9 अक्टूबर 2026",
+      "id": "9 Oktober 2026",
+      "tr": "9 Ekim 2026",
+      "nl": "9 oktober 2026",
+      "pl": "9 października 2026 r.",
+      "vi": "9 tháng 10 năm 2026",
+      "th": "9 ตุลาคม 2026",
+      "uk": "9 жовтня 2026 р."
+    },
+    "c8.summary": {
+      "en": "The bot can now teach itself new skills — and one app in the installer.",
+      "zh": "机器人现在能自己学会新技能——安装程序只含一个应用。",
+      "es": "El bot ahora puede aprender habilidades nuevas por sí solo — y una sola app en el instalador.",
+      "ja": "ボットが自分で新しいスキルを覚えられるように——インストーラーは1つのアプリに。",
+      "de": "Der Bot kann sich jetzt selbst neue Skills beibringen — und ein App-Ordner im Installer.",
+      "fr": "Le bot peut désormais apprendre de nouvelles compétences tout seul — et une seule app dans l'installateur.",
+      "pt": "O bot agora pode aprender novas habilidades sozinho — e um só app no instalador.",
+      "ko": "봇이 이제 스스로 새 스킬을 배울 수 있습니다 — 설치 프로그램은 하나의 앱으로.",
+      "it": "Il bot ora può imparare da solo nuove abilità — e una sola app nell'installer.",
+      "ru": "Бот теперь может сам осваивать новые навыки — и одно приложение в установщике.",
+      "ar": "يمكن للروبوت الآن تعلّم مهارات جديدة بنفسه — وتطبيق واحد فقط في برنامج التثبيت.",
+      "hi": "बॉट अब खुद नए स्किल सीख सकता है — और इंस्टॉलर में केवल एक ऐप।",
+      "id": "Bot kini bisa mempelajari keterampilan baru sendiri — dan satu app di installer.",
+      "tr": "Bot artık kendi yeni becerilerini öğrenebilir — ve kurulumda tek uygulama.",
+      "nl": "De bot kan nu zelf nieuwe vaardigheden leren — en één app in het installatieprogramma.",
+      "pl": "Bot może teraz sam uczyć się nowych umiejętności — i jedna aplikacja w instalatorze.",
+      "vi": "Bot bây giờ có thể tự học kỹ năng mới — và chỉ một ứng dụng trong trình cài đặt.",
+      "th": "บอทสามารถเรียนรู้ทักษะใหม่ได้ด้วยตัวเองแล้ว — และมีแอปเดียวในโปรแกรมติดตั้ง",
+      "uk": "Бот тепер може сам опановувати нові навички — і один застосунок у встановлювачі."
+    },
+    "c8.l1": {
+      "en": "Self-extension: if the bot can’t do something you ask for, it can write itself a skill for it, schedule it (daily or weekly), test it, and show you the result. New skills appear in the Skills & Features tab immediately.",
+      "zh": "自我扩展：如果机器人做不到你要求的某件事，它可以为自己写一个技能，设定排程（每天或每周）、测试它，然后把结果展示给你。新技能会立即出现在「技能与功能」标签中。",
+      "es": "Autoextensión: si el bot no puede hacer algo que le pides, puede escribirse una habilidad, programarla (diaria o semanal), probarla y mostrarte el resultado. Las habilidades nuevas aparecen al instante en la pestaña Habilidades y funciones.",
+      "ja": "自己拡張：ボットにできないことを頼むと、ボットは自分用のスキルを書き、定期実行（毎日または毎週）をスケジュールし、テストして、結果を見せてくれます。新しいスキルは「スキルと機能」タブにすぐ表示されます。",
+      "de": "Selbsterweiterung: Wenn der Bot etwas nicht kann, das du von ihm willst, schreibt er sich einfach selbst einen Skill, plant ihn ein (täglich oder wöchentlich), testet ihn und zeigt dir das Ergebnis. Neue Skills erscheinen sofort im Tab „Skills & Funktionen“.",
+      "fr": "Auto-extension : si le bot ne peut pas faire ce que vous demandez, il peut écrire lui-même une compétence, la planifier (quotidienne ou hebdomadaire), la tester et vous montrer le résultat. Les nouvelles compétences apparaissent immédiatement dans l'onglet Compétences et fonctionnalités.",
+      "pt": "Autoextensão: se o bot não consegue fazer algo que você pede, ele pode escrever uma habilidade para si, agendá-la (diária ou semanal), testá-la e mostrar o resultado. Novas habilidades aparecem na hora na aba Habilidades e recursos.",
+      "ko": "자기 확장: 봇이 요청을 처리할 수 없으면 스스로 스킬을 작성하고, 주기(매일 또는 매주)를 지정하고, 테스트한 뒤 결과를 보여줍니다. 새 스킬은 '스킬 및 기능' 탭에 즉시 나타납니다.",
+      "it": "Auto-estensione: se il bot non può fare qualcosa che gli chiedi, può scrivere un'abilità per sé, programmarla (giornaliera o settimanale), testarla e mostrarti il risultato. Le nuove abilità appaiono subito nella scheda Abilità e funzionalità.",
+      "ru": "Саморасширение: если бот не умеет того, о чём вы просите, он может написать для себя навык, настроить расписание (ежедневно или еженедельно), протестировать его и показать результат. Новые навыки сразу появляются во вкладке «Навыки и функции».",
+      "ar": "التمديد الذاتي: إذا عجز الروبوت عن تنفيذ ما تطلبه، يمكنه أن يكتب لنفسه مهارة جديدة ويبرمجها (يومية أو أسبوعية) ويختبرها ثم يعرض عليك النتيجة. تظهر المهارات الجديدة فورًا في تبويب «المهارات والميزات».",
+      "hi": "सेल्फ-एक्सटेंशन: अगर बॉट आपका अनुरोध नहीं कर सकता, तो वह अपने लिए स्किल लिख सकता है, उसे शेड्यूल (दैनिक या साप्ताहिक) कर सकता है, परीक्षण कर सकता है और आपको नतीजा दिखा सकता है। नए स्किल तुरंत 'स्किल और फीचर्स' टैब में दिखते हैं।",
+      "id": "Perluasan diri: jika bot tidak bisa melakukan yang Anda minta, ia bisa menulis keterampilan untuk dirinya sendiri, menjadwalkannya (harian atau mingguan), mengujinya, dan menampilkan hasilnya. Keterampilan baru langsung muncul di tab Keterampilan & Fitur.",
+      "tr": "Kendini genişletme: bot istediğiniz şeyi yapamıyorsa kendine bir beceri yazabilir, bunu zamanlayabilir (günlük veya haftalık), test edebilir ve size sonucu gösterebilir. Yeni beceriler, Beceriler ve Özellikler sekmesinde hemen görünür.",
+      "nl": "Zelfuitbreiding: als de bot iets niet kan wat je vraagt, kan hij zelf een vaardigheid schrijven, een tijdschema instellen (dagelijks of wekelijks), testen en het resultaat laten zien. Nieuwe vaardigheden verschijnen direct op het tabblad Vaardigheden en functies.",
+      "pl": "Samo-rozszerzanie: jeśli bot nie potrafi czegoś, o co prosisz, może sam napisać umiejętność, zaplanować ją (codziennie lub co tydzień), przetestować i pokazać wynik. Nowe umiejętności pojawiają się od razu w karcie Umiejętności i funkcje.",
+      "vi": "Tự mở rộng: nếu bot không làm được điều bạn yêu cầu, nó có thể tự viết một kỹ năng, lên lịch chạy (hàng ngày hoặc hàng tuần), kiểm thử và cho bạn xem kết quả. Kỹ năng mới xuất hiện ngay trong tab Kỹ năng & Tính năng.",
+      "th": "การขยายตัวเอง: หากบอททำสิ่งที่คุณขอไม่ได้ มันจะเขียนทักษะให้ตัวเอง ตั้งเวลาได้ (รายวันหรือรายสัปดาห์) ทดสอบ และแสดงผลลัพธ์ให้คุณเห็น ทักษะใหม่จะปรากฏทันทีในแท็บ ทักษะและฟีเจอร์",
+      "uk": "Саморозширення: якщо бот не вміє того, про що ви просите, він може написати навичку для себе, розписати її (щодня або щотижня), протестувати й показати результат. Нові навички відразу з'являються на вкладці Навички та функції."
+    },
+    "c8.l2": {
+      "en": "Bot-authored skills are yours to manage: toggle or remove them in the app; the bot can never overwrite the built-in ones.",
+      "zh": "机器人自己编写的技能由你管理：可以在应用里开关或移除；机器人永远无法覆盖内置技能。",
+      "es": "Las habilidades escritas por el bot son tuyas: actívalas o elimínalas en la app; el bot nunca puede sobrescribir las integradas.",
+      "ja": "ボットが書いたスキルはあなたのもの：アプリでON/OFFや削除が可能。ボットは内蔵スキルを上書きできません。",
+      "de": "Vom Bot geschriebene Skills gehören dir: im App aktivier- oder löschbar; der Bot überschreibt niemals die integrierten Skills.",
+      "fr": "Les compétences écrites par le bot vous appartiennent : activez-les ou retirez-les dans l'app ; le bot ne peut jamais écraser celles intégrées.",
+      "pt": "As habilidades escritas pelo bot são suas: ative ou remova no app; o bot nunca sobrescreve as embutidas.",
+      "ko": "봇이 만든 스킬은 사용자의 것입니다: 앱에서 켜거나 제거할 수 있고, 봇은 내장 스킬을 절대 덮어쓸 수 없습니다.",
+      "it": "Le abilità scritte dal bot sono tue: attivale o rimuovile nell'app; il bot non può mai sovrascrivere quelle integrate.",
+      "ru": "Навыки, написанные ботом, принадлежат вам: их можно включить или удалить в приложении; бот никогда не перезапишет встроенные.",
+      "ar": "المهارات التي يكتبها الروبوت ملك لك: يمكنك تفعيلها أو إزالتها من التطبيق، ولن يستطيع أبدًا استبدال المهارات المدمجة.",
+      "hi": "बॉट द्वारा लिखे स्किल आपके हैं: ऐप में इन्हें चालू/बंद या हटाएं; बॉट अंतर्निहित स्किल को कभी ओवरराइट नहीं कर सकता।",
+      "id": "Keterampilan tulisan bot adalah milik Anda: aktifkan atau hapus di app; bot tidak bisa menimpa yang bawaan.",
+      "tr": "Botun yazdığı beceriler size ait: uygulamada açıp kapatabilir veya kaldırabilirsiniz; bot yerleşik olanları asla üzerine yazamaz.",
+      "nl": "Door de bot geschreven vaardigheden zijn van jou: schakel of verwijder ze in de app; de bot kan de ingebouwde nooit overschrijven.",
+      "pl": "Umiejętności napisane przez bota są twoje: możesz je włączać lub usuwać w aplikacji; bot nigdy nie nadpisze wbudowanych.",
+      "vi": "Các kỹ năng do bot viết thuộc về bạn: bạn có thể bật/tắt hoặc xóa trong ứng dụng; bot không bao giờ ghi đè được các kỹ năng tích hợp sẵn.",
+      "th": "ทักษะที่บอทเขียนเป็นของคุณ: เปิดหรือปิด และลบได้ในแอป บอทจะไม่มีวันเขียนทับทักษะที่มีอยู่เดิม",
+      "uk": "Навички, написані ботом, належать вам: увімкніть або вилучіть їх у застосунку; бот ніколи не перезапише вбудовані."
+    },
+    "c8.l3": {
+      "en": "When the local model server is asleep, the bot now wakes it and tells you it’s starting up, instead of showing a false ‘all providers failed’ error.",
+      "zh": "当本地模型服务器处于睡眠状态时，机器人现在会唤醒它并告诉你正在启动，而不是显示虚假的「所有提供方均失败」错误。",
+      "es": "Cuando el servidor del modelo local está dormido, el bot lo despierta y te avisa de que se está iniciando, en lugar de mostrar un falso error de «todos los proveedores fallaron».",
+      "ja": "ローカルモデルサーバーが眠っているとき、ボットが起動させて「起動中」と教えてくれるようになり、「すべてのプロバイダーが失敗した」という誤ったエラーは出なくなりました。",
+      "de": "Wenn der lokale Modellserver schläft, weckt der Bot ihn jetzt und sagt dir, dass er startet – statt einer falschen „Alle Anbieter fehlgeschlagen“-Meldung.",
+      "fr": "Quand le serveur local du modèle est endormi, le bot le réveille maintenant et vous indique qu'il démarre, au lieu d'afficher une fausse erreur « tous les fournisseurs ont échoué ».",
+      "pt": "Quando o servidor do modelo local está dormindo, o bot agora o acorda e avisa que está iniciando, em vez de mostrar um falso erro de «todos os provedores falharam».",
+      "ko": "로컬 모델 서버가 절전 상태일 때 봇이 깨우고 '시작 중'이라고 알려주며, '모든 제공자 실패'라는 잘못된 오류는 더 이상 표시되지 않습니다.",
+      "it": "Quando il server del modello locale è addormentato, il bot ora lo sveglia e ti dice che si sta avviando, invece di mostrare un falso errore «tutti i provider non funzionanti».",
+      "ru": "Когда локальный сервер модели спит, бот теперь будит его и сообщает, что запускается, вместо ложной ошибки «все провайдеры не работают».",
+      "ar": "عندما يكون خادم النموذج المحلي نائمًا، يوقظه الروبوت الآن ويخبرك أنه قيد التشغيل، بدلًا من إظهار خطأ مضلل يفيد بفشل جميع المزودين.",
+      "hi": "जब लोकल मॉडल सर्वर सो रहा हो, बॉट अब उसे जगाता है और बताता है कि वह शुरू हो रहा है, बजाय झूठी 'सभी प्रोवाइडर विफल' त्रुटि दिखाए।",
+      "id": "Ketika server model lokal sedang tidur, bot kini membangunkannya dan memberi tahu bahwa ia sedang memulai, alih-alih menampilkan error palsu bahwa 'semua penyedia gagal'.",
+      "tr": "Yerel model sunucusu uyuduğunda bot artık onu uyandırıyor ve başladığını söylüyor; 'tüm sağlayıcılar başarısız' gibi yanlış bir hata göstermek yerine.",
+      "nl": "Als de lokale modelserver slaapt, wekt de bot hem nu en laat hij weten dat hij start, in plaats van een onterechte foutmelding dat alle providers zijn mislukt.",
+      "pl": "Kiedy serwer lokalnego modelu śpi, bot teraz go budzi i mówi, że się uruchamia, zamiast pokazywać fałszywy błąd „wszyscy dostawcy zawiedli”.",
+      "vi": "Khi máy chủ mô hình cục bộ đang ngủ, bot giờ sẽ đánh thức nó và cho bạn biết đang khởi động, thay vì hiện thông báo sai rằng 'tất cả nhà cung cấp đều thất bại'.",
+      "th": "เมื่อเซิร์ฟเวอร์โมเดลในตัวเครื่องหลับอยู่ บอทจะปลุกขึ้นมาและบอกคุณว่ากำลังเริ่มทำงาน แทนที่จะแสดงข้อความผิดพลาดลวงว่า 'ผู้ให้บริการทั้งหมดล้มเหลว'",
+      "uk": "Коли локальний сервер моделі спить, бот тепер розбуджує його та повідомляє, що запускається, замість хибної помилки «усі провайдери не працюють»."
+    },
+    "c8.l4": {
+      "en": "The installer now contains one app: just drag “Telebot AI” to Applications — settings travel inside it.",
+      "zh": "安装程序现在只包含一个应用：只需把「Telebot AI」拖到「应用程序」即可——设置应用已包含在其中。",
+      "es": "El instalador ahora contiene una sola app: solo arrastra «Telebot AI» a Aplicaciones; los ajustes viajan dentro.",
+      "ja": "インストーラーに含まれるアプリは1つだけ：「Telebot AI」をアプリケーションにドラッグするだけ——設定は中に入っています。",
+      "de": "Der Installer enthält jetzt nur noch eine App: „Telebot AI“ einfach in Programme ziehen — die Einstellungen reisen mit.",
+      "fr": "L'installateur ne contient plus qu'une seule app : faites glisser « Telebot AI » vers Applications ; les réglages voyagent à l'intérieur.",
+      "pt": "O instalador agora contém um único app: arraste «Telebot AI» para Aplicativos; as configurações vão dentro.",
+      "ko": "설치 프로그램에는 이제 하나의 앱만 들어 있습니다: 'Telebot AI'를 '응용 프로그램'에 끌어다 놓으면 끝 — 설정은 그 안에 있습니다.",
+      "it": "L'installer ora contiene una sola app: trascina «Telebot AI» in Applicazioni; le impostazioni viaggiano all'interno.",
+      "ru": "Установщик теперь содержит одно приложение: просто перетащите «Telebot AI» в «Программы» — настройки внутри.",
+      "ar": "يضم برنامج التثبيت الآن تطبيقًا واحدًا فقط: اسحب «Telebot AI» إلى مجلد التطبيقات، وستجد الإعدادات بداخله.",
+      "hi": "इंस्टॉलर में अब केवल एक ऐप है: 'Telebot AI' को Applications में खींचें — सेटिंग्स उसके अंदर ही आती हैं।",
+      "id": "Installer kini hanya berisi satu app: seret 'Telebot AI' ke Applications — pengaturan ikut di dalamnya.",
+      "tr": "Kurulum artık tek uygulama içeriyor: 'Telebot AI'ı Uygulamalar'a sürükleyin — ayarlar onun içinde gelir.",
+      "nl": "Het installatieprogramma bevat nu slechts één app: sleep 'Telebot AI' naar Programma's — de instellingen zitten erin.",
+      "pl": "Instalator zawiera teraz tylko jedną aplikację: przeciągnij „Telebot AI” do Aplikacji — ustawienia znajdują się wewnątrz.",
+      "vi": "Trình cài đặt giờ chỉ chứa một ứng dụng: chỉ cần kéo 'Telebot AI' vào thư mục Applications — phần cài đặt nằm bên trong.",
+      "th": "โปรแกรมติดตั้งตอนนี้มีแอปเดียวเท่านั้น: ลาก 'Telebot AI' ไปที่ Applications ได้เลย — หน้าต่างการตั้งค่าอยู่ในนั้นเอง",
+      "uk": "Встановлювач тепер містить лише один застосунок: перетягніть «Telebot AI» у Програми — налаштування йдуть усередині."
+    },
+    "c8.l5": {
+      "en": "Start in Settings repairs a broken launch setup by itself, and the in-app update now relaunches the menu bar app afterwards.",
+      "zh": "设置中的「启动」现在会自行修复损坏的启动配置，应用内更新完成后还会重新启动菜单栏应用。",
+      "es": "Iniciar en Ajustes repara por sí solo una configuración de arranque dañada, y la actualización dentro de la app relanza la app de la barra de menú después.",
+      "ja": "設定画面の「開始」は壊れた起動設定を自分で修復し、アプリ内アップデート後はメニューバーアプリも再起動します。",
+      "de": "„Starten“ in den Einstellungen repariert eine defekte Start-Konfiguration nun selbst, und das In-App-Update startet die Menüleiste-App danach neu.",
+      "fr": "« Démarrer » dans les Réglages répare tout seul une configuration de lancement cassée, et la mise à jour intégrée relance l'app de la barre des menus après.",
+      "pt": "Iniciar em Configurações repara sozinho uma configuração de inicialização quebrada, e a atualização no app relança o app da barra de menus depois.",
+      "ko": "설정에서 '시작'이 깨진 실행 설정을 스스로 복구하며, 앱 내 업데이트 후 메뉴 막대 앱도 다시 실행합니다.",
+      "it": "Avvia nelle Impostazioni ripara da solo una configurazione di avvio danneggiata, e l'aggiornamento in-app riavvia l'app della barra dei menu dopo.",
+      "ru": "«Запуск» в настройках сам чинит повреждённую конфигурацию запуска, а обновление в приложении после установки перезапускает приложение в строке меню.",
+      "ar": "أصبح زر «ابدأ» في الإعدادات يصلح إعدادات التشغيل المعطلة بنفسه، وأصبح التحديث داخل التطبيق يعيد تشغيل تطبيق شريط القوائم بعد الانتهاء.",
+      "hi": "सेटिंग्स में 'स्टार्ट' टूटी लॉन्च सेटिंग को खुद ठीक कर देता है, और इन-ऐप अपडेट के बाद मेनू बार ऐप फिर से चलता है।",
+      "id": "Mulai di Pengaturan memperbaiki pengaturan startup yang rusak sendiri, dan pembaruan dalam app meluncurkan ulang app bilah menu setelahnya.",
+      "tr": "Ayarlar'daki Başlat, bozuk başlangıç ayarını kendi onarır ve uygulama içi güncelleme sonrası menü çubuğu uygulamasını yeniden başlatır.",
+      "nl": "Starten in Instellingen repareert zelf een kapotte opstartconfiguratie, en de in-app-update herstart na afloop de menubalk-app.",
+      "pl": "Start w Ustawieniach sam naprawia uszkodzoną konfigurację startową, a aktualizacja w aplikacji po instalacji ponownie uruchamia aplikację paska menu.",
+      "vi": "Nút Start trong Cài đặt tự sửa cấu hình khởi động bị hỏng, và bản cập nhật trong ứng dụng sẽ khởi động lại ứng dụng trên thanh menu sau khi cập nhật.",
+      "th": "ปุ่ม Start ในการตั้งค่าจะซ่อมการตั้งค่าการเปิดใช้ที่เสียได้เอง และการอัปเดตในแอปจะเปิดแอปบนแถบบาร์เมนูใหม่ให้อัตโนมัติหลังอัปเดต",
+      "uk": "Кнопка «Запуск» у Налаштуваннях самостійно відновлює пошкоджену конфігурацію запуску, а оновлення в застосунку після встановлення перезапускає застосунок у меню."
     },
     "c7.date": {
       "en": "Oct 9, 2026",
@@ -7939,130 +8086,88 @@
       "uk": "9 жовтня 2026 р."
     },
     "c7.summary": {
-      "en": "The bot can now teach itself new skills — and one app in the installer.",
-      "zh": "机器人现在能自己学会新技能——安装程序只含一个应用。",
-      "es": "El bot ahora puede aprender habilidades nuevas por sí solo — y una sola app en el instalador.",
-      "ja": "ボットが自分で新しいスキルを覚えられるように——インストーラーは1つのアプリに。",
-      "de": "Der Bot kann sich jetzt selbst neue Skills beibringen — und ein App-Ordner im Installer.",
-      "fr": "Le bot peut désormais apprendre de nouvelles compétences tout seul — et une seule app dans l'installateur.",
-      "pt": "O bot agora pode aprender novas habilidades sozinho — e um só app no instalador.",
-      "ko": "봇이 이제 스스로 새 스킬을 배울 수 있습니다 — 설치 프로그램은 하나의 앱으로.",
-      "it": "Il bot ora può imparare da solo nuove abilità — e una sola app nell'installer.",
-      "ru": "Бот теперь может сам осваивать новые навыки — и одно приложение в установщике.",
-      "ar": "يمكن للروبوت الآن تعلّم مهارات جديدة بنفسه — وتطبيق واحد فقط في برنامج التثبيت.",
-      "hi": "बॉट अब खुद नए स्किल सीख सकता है — और इंस्टॉलर में केवल एक ऐप।",
-      "id": "Bot kini bisa mempelajari keterampilan baru sendiri — dan satu app di installer.",
-      "tr": "Bot artık kendi yeni becerilerini öğrenebilir — ve kurulumda tek uygulama.",
-      "nl": "De bot kan nu zelf nieuwe vaardigheden leren — en één app in het installatieprogramma.",
-      "pl": "Bot może teraz sam uczyć się nowych umiejętności — i jedna aplikacja w instalatorze.",
-      "vi": "Bot bây giờ có thể tự học kỹ năng mới — và chỉ một ứng dụng trong trình cài đặt.",
-      "th": "บอทสามารถเรียนรู้ทักษะใหม่ได้ด้วยตัวเองแล้ว — และมีแอปเดียวในโปรแกรมติดตั้ง",
-      "uk": "Бот тепер може сам опановувати нові навички — і один застосунок у встановлювачі."
+      "en": "Fixed: the in-app update could report a good download as “corrupt”.",
+      "zh": "修复：应用内更新可能把正常下载误报为「已损坏」。",
+      "es": "Corregido: la actualización dentro de la app podía marcar una descarga válida como «dañada».",
+      "ja": "修正：アプリ内アップデートで正常なダウンロードが「破損している」と表示される場合がありました。",
+      "de": "Behoben: Das In-App-Update konnte einen einwandfreien Download als „beschädigt“ melden.",
+      "fr": "Corrigé : la mise à jour intégrée pouvait signaler un téléchargement valide comme « corrompu ».",
+      "pt": "Corrigido: a atualização no app podia marcar um download válido como «corrompido».",
+      "ko": "수정: 앱 내 업데이트가 정상 다운로드를 '손상됨'으로 표시할 수 있었습니다.",
+      "it": "Corretto: l'aggiornamento in-app poteva segnalare un download integro come «corrotto».",
+      "ru": "Исправлено: обновление в приложении могло помечать корректную загрузку как «повреждённую».",
+      "ar": "إصلاح: كان التحديث داخل التطبيق قد يسمّي تنزيلًا سليمًا بأنه «تالف».",
+      "hi": "ठीक किया: इन-ऐप अपडेट सही डाउनलोड को भी «भ्रष्ट» बता सकता था।",
+      "id": "Diperbaiki: pembaruan dalam app bisa menandai unduhan yang utuh sebagai «rusak».",
+      "tr": "Düzeltildi: uygulama içi güncelleme sağlam bir indirmeyi «bozuk» olarak işaretleyebiliyordu.",
+      "nl": "Opgelost: de in-app-update kon een geldige download als «beschadigd» markeren.",
+      "pl": "Naprawione: aktualizacja w aplikacji mogła oznaczać poprawne pobranie jako „uszkodzone”.",
+      "vi": "Đã sửa: bản cập nhật trong ứng dụng có thể báo một tệp tải xuống hợp lệ là «bị hỏng».",
+      "th": "แก้ไขแล้ว: การอัปเดตในแอปอาจแจ้งว่าการดาวน์โหลดที่ครบถ้วนสมบูรณ์นั้น «เสียหาย»",
+      "uk": "Виправлено: оновлення в застосунку могло позначити коректне завантаження як «пошкоджене»."
     },
     "c7.l1": {
-      "en": "Self-extension: if the bot can’t do something you ask for, it can write itself a skill for it, schedule it (daily or weekly), test it, and show you the result. New skills appear in the Skills & Features tab immediately.",
-      "zh": "自我扩展：如果机器人做不到你要求的某件事，它可以为自己写一个技能，设定排程（每天或每周）、测试它，然后把结果展示给你。新技能会立即出现在「技能与功能」标签中。",
-      "es": "Autoextensión: si el bot no puede hacer algo que le pides, puede escribirse una habilidad, programarla (diaria o semanal), probarla y mostrarte el resultado. Las habilidades nuevas aparecen al instante en la pestaña Habilidades y funciones.",
-      "ja": "自己拡張：ボットにできないことを頼むと、ボットは自分用のスキルを書き、定期実行（毎日または毎週）をスケジュールし、テストして、結果を見せてくれます。新しいスキルは「スキルと機能」タブにすぐ表示されます。",
-      "de": "Selbsterweiterung: Wenn der Bot etwas nicht kann, das du von ihm willst, schreibt er sich einfach selbst einen Skill, plant ihn ein (täglich oder wöchentlich), testet ihn und zeigt dir das Ergebnis. Neue Skills erscheinen sofort im Tab „Skills & Funktionen“.",
-      "fr": "Auto-extension : si le bot ne peut pas faire ce que vous demandez, il peut écrire lui-même une compétence, la planifier (quotidienne ou hebdomadaire), la tester et vous montrer le résultat. Les nouvelles compétences apparaissent immédiatement dans l'onglet Compétences et fonctionnalités.",
-      "pt": "Autoextensão: se o bot não consegue fazer algo que você pede, ele pode escrever uma habilidade para si, agendá-la (diária ou semanal), testá-la e mostrar o resultado. Novas habilidades aparecem na hora na aba Habilidades e recursos.",
-      "ko": "자기 확장: 봇이 요청을 처리할 수 없으면 스스로 스킬을 작성하고, 주기(매일 또는 매주)를 지정하고, 테스트한 뒤 결과를 보여줍니다. 새 스킬은 '스킬 및 기능' 탭에 즉시 나타납니다.",
-      "it": "Auto-estensione: se il bot non può fare qualcosa che gli chiedi, può scrivere un'abilità per sé, programmarla (giornaliera o settimanale), testarla e mostrarti il risultato. Le nuove abilità appaiono subito nella scheda Abilità e funzionalità.",
-      "ru": "Саморасширение: если бот не умеет того, о чём вы просите, он может написать для себя навык, настроить расписание (ежедневно или еженедельно), протестировать его и показать результат. Новые навыки сразу появляются во вкладке «Навыки и функции».",
-      "ar": "التمديد الذاتي: إذا عجز الروبوت عن تنفيذ ما تطلبه، يمكنه أن يكتب لنفسه مهارة جديدة ويبرمجها (يومية أو أسبوعية) ويختبرها ثم يعرض عليك النتيجة. تظهر المهارات الجديدة فورًا في تبويب «المهارات والميزات».",
-      "hi": "सेल्फ-एक्सटेंशन: अगर बॉट आपका अनुरोध नहीं कर सकता, तो वह अपने लिए स्किल लिख सकता है, उसे शेड्यूल (दैनिक या साप्ताहिक) कर सकता है, परीक्षण कर सकता है और आपको नतीजा दिखा सकता है। नए स्किल तुरंत 'स्किल और फीचर्स' टैब में दिखते हैं।",
-      "id": "Perluasan diri: jika bot tidak bisa melakukan yang Anda minta, ia bisa menulis keterampilan untuk dirinya sendiri, menjadwalkannya (harian atau mingguan), mengujinya, dan menampilkan hasilnya. Keterampilan baru langsung muncul di tab Keterampilan & Fitur.",
-      "tr": "Kendini genişletme: bot istediğiniz şeyi yapamıyorsa kendine bir beceri yazabilir, bunu zamanlayabilir (günlük veya haftalık), test edebilir ve size sonucu gösterebilir. Yeni beceriler, Beceriler ve Özellikler sekmesinde hemen görünür.",
-      "nl": "Zelfuitbreiding: als de bot iets niet kan wat je vraagt, kan hij zelf een vaardigheid schrijven, een tijdschema instellen (dagelijks of wekelijks), testen en het resultaat laten zien. Nieuwe vaardigheden verschijnen direct op het tabblad Vaardigheden en functies.",
-      "pl": "Samo-rozszerzanie: jeśli bot nie potrafi czegoś, o co prosisz, może sam napisać umiejętność, zaplanować ją (codziennie lub co tydzień), przetestować i pokazać wynik. Nowe umiejętności pojawiają się od razu w karcie Umiejętności i funkcje.",
-      "vi": "Tự mở rộng: nếu bot không làm được điều bạn yêu cầu, nó có thể tự viết một kỹ năng, lên lịch chạy (hàng ngày hoặc hàng tuần), kiểm thử và cho bạn xem kết quả. Kỹ năng mới xuất hiện ngay trong tab Kỹ năng & Tính năng.",
-      "th": "การขยายตัวเอง: หากบอททำสิ่งที่คุณขอไม่ได้ มันจะเขียนทักษะให้ตัวเอง ตั้งเวลาได้ (รายวันหรือรายสัปดาห์) ทดสอบ และแสดงผลลัพธ์ให้คุณเห็น ทักษะใหม่จะปรากฏทันทีในแท็บ ทักษะและฟีเจอร์",
-      "uk": "Саморозширення: якщо бот не вміє того, про що ви просите, він може написати навичку для себе, розписати її (щодня або щотижня), протестувати й показати результат. Нові навички відразу з'являються на вкладці Навички та функції."
+      "en": "On a Mac still running 1.0.7, updating to 1.0.8 inside the app could fail with “Verification failed — the download may be corrupt”. The download was fine: the installer just looked for the app in a place 1.0.8 had moved.",
+      "zh": "在仍运行 1.0.7 的 Mac 上，通过应用内更新升级到 1.0.8 可能失败并提示「验证失败——下载文件可能已损坏」。下载其实是完好的：只是安装程序在一个 1.0.8 已经移走的位置寻找应用。",
+      "es": "En un Mac que aún ejecuta 1.0.7, actualizar a 1.0.8 dentro de la app podía fallar con «Error de verificación: la descarga puede estar dañada». La descarga estaba bien: el instalador solo buscaba la app en un sitio que 1.0.8 había movido.",
+      "ja": "1.0.7を動かしているMacでアプリ内アップデートにより1.0.8へ更新すると「検証に失敗しました — ダウンロードが破損している可能性があります」で失敗することがありました。ダウンロードは正常です：インストーラーが1.0.8で移動した先の古い場所のアプリを探していました。",
+      "de": "Auf einem Mac mit 1.0.7 konnte das In-App-Update auf 1.0.8 mit „Überprüfung fehlgeschlagen – der Download könnte beschädigt sein“ fehlschlagen. Der Download war in Ordnung: Das Installationsprogramm suchte die App nur an einem Ort, den 1.0.8 verschoben hatte.",
+      "fr": "Sur un Mac encore sous 1.0.7, la mise à jour vers 1.0.8 dans l'app pouvait échouer avec « Échec de la vérification — le téléchargement est peut-être corrompu ». Le téléchargement allait bien : l'installateur cherchait l'app à un emplacement que 1.0.8 avait déplacé.",
+      "pt": "Num Mac ainda com o 1.0.7, atualizar para o 1.0.8 dentro do app podia falhar com «Falha na verificação — o download pode estar corrompido». O download estava bem: o instalador procurava o app num local que o 1.0.8 tinha movido.",
+      "ko": "1.0.7을 실행 중인 Mac에서 앱 내 업데이트로 1.0.8로 업그레이드하면 '확인 실패 — 다운로드가 손상되었을 수 있습니다'로 실패할 수 있었습니다. 다운로드는 정상입니다: 설치 프로그램이 1.0.8에서 이동한 위치의 앱을 찾고 있었습니다.",
+      "it": "Su un Mac che esegue ancora 1.0.7, l'aggiornamento a 1.0.8 dentro l'app poteva fallire con «Verificazione fallita — il download potrebbe essere corrotto». Il download andava bene: il programma di installazione cercava l'app in un punto che 1.0.8 aveva spostato.",
+      "ru": "На Mac с 1.0.7 обновление до 1.0.8 внутри приложения могло завершаться ошибкой «Проверка не пройдена — возможно, загрузка повреждена». С загрузкой было всё в порядке: установщик искал приложение в расположении, которое 1.0.8 переместил.",
+      "ar": "على جهاز Mac ما يزال يعمل بإصدار 1.0.7، كان التحديث إلى 1.0.8 داخل التطبيق قد يفشل مع رسالة «فشل التحقق — قد يكون التنزيل تالفًا». التنزيل كان سليمًا: كان برنامج التثبيت يبحث عن التطبيق في موضع كان إصدار 1.0.8 قد نقله.",
+      "hi": "1.0.7 चला रहे Mac पर ऐप के अंदर 1.0.8 में अपडेट «सत्यापन विफल — डाउनलोड भ्रष्ट हो सकता है» पर असफल हो सकता था। डाउनलोड ठीक था: इंस्टॉलर ऐप को उसी स्थान पर ढूँढ रहा था जिसे 1.0.8 ने हटा दिया था।",
+      "id": "Di Mac yang masih menjalankan 1.0.7, pembaruan ke 1.0.8 di dalam app bisa gagal dengan «Verifikasi gagal — unduhan mungkin rusak». Unduhannya baik-baik saja: penginstal mencari app di lokasi yang sudah dipindahkan 1.0.8.",
+      "tr": "Hâlâ 1.0.7 çalıştıran bir Mac'te uygulama içinden 1.0.8'e güncelleme «Doğrulama başarısız — indirme bozuk olabilir» hatasıyla başarısız olabiliyordu. İndirme sorunsuzdu: yükleyici, 1.0.8'in taşıdığı konumdaki uygulamayı arıyordu.",
+      "nl": "Op een Mac die nog 1.0.7 draait kon het updaten naar 1.0.8 in de app mislukken met «Verificatie mislukt — de download kan beschadigd zijn». De download was in orde: het installatieprogramma zocht de app op een plek die 1.0.8 had verplaatst.",
+      "pl": "Na Macu nadal uruchomionym 1.0.7 aktualizacja do 1.0.8 wewnątrz aplikacji mogła kończyć się błędem „Weryfikacja nie powiodła się — pobrany plik może być uszkodzony”. Pobieranie było w porządku: instalator szukał aplikacji w miejscu, które 1.0.8 przeniósł.",
+      "vi": "Trên một chiếc Mac vẫn đang chạy 1.0.7, việc cập nhật lên 1.0.8 ngay trong ứng dụng có thể thất bại với thông báo «Xác minh thất bại — tệp tải xuống có thể đã hỏng». Tệp tải xuống vẫn nguyên vẹn: trình cài đặt chỉ đi tìm ứng dụng ở một vị trí mà 1.0.8 đã di dời.",
+      "th": "บน Mac ที่ยังรันเวอร์ชัน 1.0.7 การอัปเดตเป็น 1.0.8 ภายในแอปอาจล้มเหลวพร้อมข้อความ «การตรวจสอบล้มเหลว — การดาวน์โหลดอาจเสียหาย» แท้จริงแล้วการดาวน์โหลดไม่มีความผิดใด: โปรแกรมติดตั้งหาแอปในตำแหน่งที่เวอร์ชัน 1.0.8 ได้ย้ายไปแล้ว",
+      "uk": "На Mac, що досі працює на 1.0.7, оновлення до 1.0.8 у межах застосунку могло завершитися помилкою «Помилка перевірки — завантаження може бути пошкодженим». Із завантаженням усе було гаразд: встановлювач шукав застосунок у місці, яке 1.0.8 перемістив."
     },
     "c7.l2": {
-      "en": "Bot-authored skills are yours to manage: toggle or remove them in the app; the bot can never overwrite the built-in ones.",
-      "zh": "机器人自己编写的技能由你管理：可以在应用里开关或移除；机器人永远无法覆盖内置技能。",
-      "es": "Las habilidades escritas por el bot son tuyas: actívalas o elimínalas en la app; el bot nunca puede sobrescribir las integradas.",
-      "ja": "ボットが書いたスキルはあなたのもの：アプリでON/OFFや削除が可能。ボットは内蔵スキルを上書きできません。",
-      "de": "Vom Bot geschriebene Skills gehören dir: im App aktivier- oder löschbar; der Bot überschreibt niemals die integrierten Skills.",
-      "fr": "Les compétences écrites par le bot vous appartiennent : activez-les ou retirez-les dans l'app ; le bot ne peut jamais écraser celles intégrées.",
-      "pt": "As habilidades escritas pelo bot são suas: ative ou remova no app; o bot nunca sobrescreve as embutidas.",
-      "ko": "봇이 만든 스킬은 사용자의 것입니다: 앱에서 켜거나 제거할 수 있고, 봇은 내장 스킬을 절대 덮어쓸 수 없습니다.",
-      "it": "Le abilità scritte dal bot sono tue: attivale o rimuovile nell'app; il bot non può mai sovrascrivere quelle integrate.",
-      "ru": "Навыки, написанные ботом, принадлежат вам: их можно включить или удалить в приложении; бот никогда не перезапишет встроенные.",
-      "ar": "المهارات التي يكتبها الروبوت ملك لك: يمكنك تفعيلها أو إزالتها من التطبيق، ولن يستطيع أبدًا استبدال المهارات المدمجة.",
-      "hi": "बॉट द्वारा लिखे स्किल आपके हैं: ऐप में इन्हें चालू/बंद या हटाएं; बॉट अंतर्निहित स्किल को कभी ओवरराइट नहीं कर सकता।",
-      "id": "Keterampilan tulisan bot adalah milik Anda: aktifkan atau hapus di app; bot tidak bisa menimpa yang bawaan.",
-      "tr": "Botun yazdığı beceriler size ait: uygulamada açıp kapatabilir veya kaldırabilirsiniz; bot yerleşik olanları asla üzerine yazamaz.",
-      "nl": "Door de bot geschreven vaardigheden zijn van jou: schakel of verwijder ze in de app; de bot kan de ingebouwde nooit overschrijven.",
-      "pl": "Umiejętności napisane przez bota są twoje: możesz je włączać lub usuwać w aplikacji; bot nigdy nie nadpisze wbudowanych.",
-      "vi": "Các kỹ năng do bot viết thuộc về bạn: bạn có thể bật/tắt hoặc xóa trong ứng dụng; bot không bao giờ ghi đè được các kỹ năng tích hợp sẵn.",
-      "th": "ทักษะที่บอทเขียนเป็นของคุณ: เปิดหรือปิด และลบได้ในแอป บอทจะไม่มีวันเขียนทับทักษะที่มีอยู่เดิม",
-      "uk": "Навички, написані ботом, належать вам: увімкніть або вилучіть їх у застосунку; бот ніколи не перезапише вбудовані."
+      "en": "The installer keeps a compatibility link at the old location, so 1.0.7 installs now update cleanly and 1.0.8 installs use the direct path. The DMG still shows just one app to drag.",
+      "zh": "安装程序在旧位置保留了一个兼容链接，因此 1.0.7 现在可以顺利升级，1.0.8 则使用直接路径。安装镜像仍然只显示一个可拖拽的应用。",
+      "es": "El instalador conserva un enlace de compatibilidad en la ubicación antigua, así que las instalaciones de 1.0.7 se actualizan sin problemas y las de 1.0.8 usan la ruta directa. El DMG sigue mostrando una sola app para arrastrar.",
+      "ja": "インストールプログラムに旧場所の互換リンクを残したので、1.0.7からの更新は問題なく、1.0.8は直接パスを使います。DMGに表示されるドラッグ対象は引き続き1つのアプリです。",
+      "de": "Das Installationsprogramm behält einen Kompatibilitätslink am alten Ort: 1.0.7-Installationen aktualisieren wieder sauber, 1.0.8 nutzt den direkten Pfad. Das DMG zeigt weiterhin nur eine App zum Ziehen.",
+      "fr": "L'installateur conserve un lien de compatibilité à l'ancien emplacement : les installations 1.0.7 se mettent à jour proprement et les 1.0.8 utilisent le chemin direct. Le DMG n'affiche toujours qu'une seule app à glisser.",
+      "pt": "O instalador mantém um link de compatibilidade no local antigo: instalações do 1.0.7 atualizam sem problemas e as do 1.0.8 usam o caminho direto. O DMG ainda mostra um único app para arrastar.",
+      "ko": "설치 프로그램이 이전 위치에 호환 링크를 유지하므로 1.0.7 설치는 정상적으로 업그레이드되고 1.0.8은 직접 경로를 사용합니다. DMG에는 여전히 드래그할 앱 하나만 표시됩니다.",
+      "it": "Il programma di installazione mantiene un collegamento di compatibilità nel vecchio punto: le installazioni di 1.0.7 si aggiornano di nuovo correttamente e quelle di 1.0.8 usano il percorso diretto. Il DMG mostra sempre una sola app da trascinare.",
+      "ru": "Установщик сохраняет ссылку совместимости по старому пути: установки 1.0.7 снова обновляются корректно, а 1.0.8 используют прямой путь. DMG по-прежнему показывает одно приложение для перетаскивания.",
+      "ar": "يحتفظ برنامج التثبيت برابط توافق في الموضع القديم، لذا تُحدَّث installations إصدار 1.0.7 بنجاح بينما يستخدم إصدار 1.0.8 المسار المباشر. وما زال ملف القرص يعرض تطبيقًا واحدًا للسحب.",
+      "hi": "इंस्टॉलर पुराने स्थान पर एक संगतता लिंक रखता है, इसलिए 1.0.7 इंस्टॉल ठीक से अपडेट होते हैं और 1.0.8 सीधे पथ का उपयोग करते हैं। डिस्क इमेज में अब भी खींचने के लिए केवल एक ऐप दिखता है।",
+      "id": "Penginstal menyimpan tautan kompatibilitas di lokasi lama, sehingga instalasi 1.0.7 kembali memperbarui dengan bersih dan 1.0.8 memakai jalur langsung. DMG tetap hanya menampilkan satu app untuk diseret.",
+      "tr": "Yükleyici eski konumda bir uyumluluk bağlantısı bulunduruyor; böylece 1.0.7 kurulumları yeniden sorunsuz güncelleniyor ve 1.0.8 doğrudan yolu kullanıyor. DMG sürüklemek için hâlâ tek uygulama gösteriyor.",
+      "nl": "Het installatieprogramma bewaart een compatibilheidskoppeling op de oude plek: 1.0.7-installaties werken weer netjes bij en 1.0.8 gebruiken het directe pad. Het DMG toont nog steeds slechts één app om te slepen.",
+      "pl": "Instalator zachowuje link zgodności w starym miejscu, więc instalacje 1.0.7 znowu aktualizują się poprawnie, a 1.0.8 używają ścieżki bezpośredniej. Obraz DMG nadal pokazuje tylko jedną aplikację do przeciągnięcia.",
+      "vi": "Trình cài đặt giữ lại một liên kết tương thích ở vị trí cũ, nhờ vậy các bản cài đặt 1.0.7 lại nâng cấp suôn sẻ còn 1.0.8 dùng đường dẫn trực tiếp. Ổ đĩa cài đặt vẫn chỉ hiển thị một ứng dụng duy nhất để kéo thả.",
+      "th": "โปรแกรมติดตั้งยังคงลิงก์สำรองความเข้ากันได้ไว้ที่ตำแหน่งเดิม การติดตั้งเวอร์ชัน 1.0.7 จึงอัปเดตได้ราบรื่นอีกครั้ง ส่วน 1.0.8 ใช้เส้นทางตรง ภาพดิสก์ยังคงแสดงแอปเพียงตัวเดียวให้ลากวาง",
+      "uk": "Встановлювач зберігає посилання сумісності за старим шляхом, тож встановлення 1.0.7 знову оновлюються без проблем, а 1.0.8 використовують прямий шлях. DMG досі показує лише один застосунок для перетягування."
     },
     "c7.l3": {
-      "en": "When the local model server is asleep, the bot now wakes it and tells you it’s starting up, instead of showing a false ‘all providers failed’ error.",
-      "zh": "当本地模型服务器处于睡眠状态时，机器人现在会唤醒它并告诉你正在启动，而不是显示虚假的「所有提供方均失败」错误。",
-      "es": "Cuando el servidor del modelo local está dormido, el bot lo despierta y te avisa de que se está iniciando, en lugar de mostrar un falso error de «todos los proveedores fallaron».",
-      "ja": "ローカルモデルサーバーが眠っているとき、ボットが起動させて「起動中」と教えてくれるようになり、「すべてのプロバイダーが失敗した」という誤ったエラーは出なくなりました。",
-      "de": "Wenn der lokale Modellserver schläft, weckt der Bot ihn jetzt und sagt dir, dass er startet – statt einer falschen „Alle Anbieter fehlgeschlagen“-Meldung.",
-      "fr": "Quand le serveur local du modèle est endormi, le bot le réveille maintenant et vous indique qu'il démarre, au lieu d'afficher une fausse erreur « tous les fournisseurs ont échoué ».",
-      "pt": "Quando o servidor do modelo local está dormindo, o bot agora o acorda e avisa que está iniciando, em vez de mostrar um falso erro de «todos os provedores falharam».",
-      "ko": "로컬 모델 서버가 절전 상태일 때 봇이 깨우고 '시작 중'이라고 알려주며, '모든 제공자 실패'라는 잘못된 오류는 더 이상 표시되지 않습니다.",
-      "it": "Quando il server del modello locale è addormentato, il bot ora lo sveglia e ti dice che si sta avviando, invece di mostrare un falso errore «tutti i provider non funzionanti».",
-      "ru": "Когда локальный сервер модели спит, бот теперь будит его и сообщает, что запускается, вместо ложной ошибки «все провайдеры не работают».",
-      "ar": "عندما يكون خادم النموذج المحلي نائمًا، يوقظه الروبوت الآن ويخبرك أنه قيد التشغيل، بدلًا من إظهار خطأ مضلل يفيد بفشل جميع المزودين.",
-      "hi": "जब लोकल मॉडल सर्वर सो रहा हो, बॉट अब उसे जगाता है और बताता है कि वह शुरू हो रहा है, बजाय झूठी 'सभी प्रोवाइडर विफल' त्रुटि दिखाए।",
-      "id": "Ketika server model lokal sedang tidur, bot kini membangunkannya dan memberi tahu bahwa ia sedang memulai, alih-alih menampilkan error palsu bahwa 'semua penyedia gagal'.",
-      "tr": "Yerel model sunucusu uyuduğunda bot artık onu uyandırıyor ve başladığını söylüyor; 'tüm sağlayıcılar başarısız' gibi yanlış bir hata göstermek yerine.",
-      "nl": "Als de lokale modelserver slaapt, wekt de bot hem nu en laat hij weten dat hij start, in plaats van een onterechte foutmelding dat alle providers zijn mislukt.",
-      "pl": "Kiedy serwer lokalnego modelu śpi, bot teraz go budzi i mówi, że się uruchamia, zamiast pokazywać fałszywy błąd „wszyscy dostawcy zawiedli”.",
-      "vi": "Khi máy chủ mô hình cục bộ đang ngủ, bot giờ sẽ đánh thức nó và cho bạn biết đang khởi động, thay vì hiện thông báo sai rằng 'tất cả nhà cung cấp đều thất bại'.",
-      "th": "เมื่อเซิร์ฟเวอร์โมเดลในตัวเครื่องหลับอยู่ บอทจะปลุกขึ้นมาและบอกคุณว่ากำลังเริ่มทำงาน แทนที่จะแสดงข้อความผิดพลาดลวงว่า 'ผู้ให้บริการทั้งหมดล้มเหลว'",
-      "uk": "Коли локальний сервер моделі спить, бот тепер розбуджує його та повідомляє, що запускається, замість хибної помилки «усі провайдери не працюють»."
-    },
-    "c7.l4": {
-      "en": "The installer now contains one app: just drag “Telebot AI” to Applications — settings travel inside it.",
-      "zh": "安装程序现在只包含一个应用：只需把「Telebot AI」拖到「应用程序」即可——设置应用已包含在其中。",
-      "es": "El instalador ahora contiene una sola app: solo arrastra «Telebot AI» a Aplicaciones; los ajustes viajan dentro.",
-      "ja": "インストーラーに含まれるアプリは1つだけ：「Telebot AI」をアプリケーションにドラッグするだけ——設定は中に入っています。",
-      "de": "Der Installer enthält jetzt nur noch eine App: „Telebot AI“ einfach in Programme ziehen — die Einstellungen reisen mit.",
-      "fr": "L'installateur ne contient plus qu'une seule app : faites glisser « Telebot AI » vers Applications ; les réglages voyagent à l'intérieur.",
-      "pt": "O instalador agora contém um único app: arraste «Telebot AI» para Aplicativos; as configurações vão dentro.",
-      "ko": "설치 프로그램에는 이제 하나의 앱만 들어 있습니다: 'Telebot AI'를 '응용 프로그램'에 끌어다 놓으면 끝 — 설정은 그 안에 있습니다.",
-      "it": "L'installer ora contiene una sola app: trascina «Telebot AI» in Applicazioni; le impostazioni viaggiano all'interno.",
-      "ru": "Установщик теперь содержит одно приложение: просто перетащите «Telebot AI» в «Программы» — настройки внутри.",
-      "ar": "يضم برنامج التثبيت الآن تطبيقًا واحدًا فقط: اسحب «Telebot AI» إلى مجلد التطبيقات، وستجد الإعدادات بداخله.",
-      "hi": "इंस्टॉलर में अब केवल एक ऐप है: 'Telebot AI' को Applications में खींचें — सेटिंग्स उसके अंदर ही आती हैं।",
-      "id": "Installer kini hanya berisi satu app: seret 'Telebot AI' ke Applications — pengaturan ikut di dalamnya.",
-      "tr": "Kurulum artık tek uygulama içeriyor: 'Telebot AI'ı Uygulamalar'a sürükleyin — ayarlar onun içinde gelir.",
-      "nl": "Het installatieprogramma bevat nu slechts één app: sleep 'Telebot AI' naar Programma's — de instellingen zitten erin.",
-      "pl": "Instalator zawiera teraz tylko jedną aplikację: przeciągnij „Telebot AI” do Aplikacji — ustawienia znajdują się wewnątrz.",
-      "vi": "Trình cài đặt giờ chỉ chứa một ứng dụng: chỉ cần kéo 'Telebot AI' vào thư mục Applications — phần cài đặt nằm bên trong.",
-      "th": "โปรแกรมติดตั้งตอนนี้มีแอปเดียวเท่านั้น: ลาก 'Telebot AI' ไปที่ Applications ได้เลย — หน้าต่างการตั้งค่าอยู่ในนั้นเอง",
-      "uk": "Встановлювач тепер містить лише один застосунок: перетягніть «Telebot AI» у Програми — налаштування йдуть усередині."
-    },
-    "c7.l5": {
-      "en": "Start in Settings repairs a broken launch setup by itself, and the in-app update now relaunches the menu bar app afterwards.",
-      "zh": "设置中的「启动」现在会自行修复损坏的启动配置，应用内更新完成后还会重新启动菜单栏应用。",
-      "es": "Iniciar en Ajustes repara por sí solo una configuración de arranque dañada, y la actualización dentro de la app relanza la app de la barra de menú después.",
-      "ja": "設定画面の「開始」は壊れた起動設定を自分で修復し、アプリ内アップデート後はメニューバーアプリも再起動します。",
-      "de": "„Starten“ in den Einstellungen repariert eine defekte Start-Konfiguration nun selbst, und das In-App-Update startet die Menüleiste-App danach neu.",
-      "fr": "« Démarrer » dans les Réglages répare tout seul une configuration de lancement cassée, et la mise à jour intégrée relance l'app de la barre des menus après.",
-      "pt": "Iniciar em Configurações repara sozinho uma configuração de inicialização quebrada, e a atualização no app relança o app da barra de menus depois.",
-      "ko": "설정에서 '시작'이 깨진 실행 설정을 스스로 복구하며, 앱 내 업데이트 후 메뉴 막대 앱도 다시 실행합니다.",
-      "it": "Avvia nelle Impostazioni ripara da solo una configurazione di avvio danneggiata, e l'aggiornamento in-app riavvia l'app della barra dei menu dopo.",
-      "ru": "«Запуск» в настройках сам чинит повреждённую конфигурацию запуска, а обновление в приложении после установки перезапускает приложение в строке меню.",
-      "ar": "أصبح زر «ابدأ» في الإعدادات يصلح إعدادات التشغيل المعطلة بنفسه، وأصبح التحديث داخل التطبيق يعيد تشغيل تطبيق شريط القوائم بعد الانتهاء.",
-      "hi": "सेटिंग्स में 'स्टार्ट' टूटी लॉन्च सेटिंग को खुद ठीक कर देता है, और इन-ऐप अपडेट के बाद मेनू बार ऐप फिर से चलता है।",
-      "id": "Mulai di Pengaturan memperbaiki pengaturan startup yang rusak sendiri, dan pembaruan dalam app meluncurkan ulang app bilah menu setelahnya.",
-      "tr": "Ayarlar'daki Başlat, bozuk başlangıç ayarını kendi onarır ve uygulama içi güncelleme sonrası menü çubuğu uygulamasını yeniden başlatır.",
-      "nl": "Starten in Instellingen repareert zelf een kapotte opstartconfiguratie, en de in-app-update herstart na afloop de menubalk-app.",
-      "pl": "Start w Ustawieniach sam naprawia uszkodzoną konfigurację startową, a aktualizacja w aplikacji po instalacji ponownie uruchamia aplikację paska menu.",
-      "vi": "Nút Start trong Cài đặt tự sửa cấu hình khởi động bị hỏng, và bản cập nhật trong ứng dụng sẽ khởi động lại ứng dụng trên thanh menu sau khi cập nhật.",
-      "th": "ปุ่ม Start ในการตั้งค่าจะซ่อมการตั้งค่าการเปิดใช้ที่เสียได้เอง และการอัปเดตในแอปจะเปิดแอปบนแถบบาร์เมนูใหม่ให้อัตโนมัติหลังอัปเดต",
-      "uk": "Кнопка «Запуск» у Налаштуваннях самостійно відновлює пошкоджену конфігурацію запуску, а оновлення в застосунку після встановлення перезапускає застосунок у меню."
+      "en": "Every release build now mounts its own DMG and proves both updater paths can install it before it ships.",
+      "zh": "每次发布构建现在都会挂载自己的安装镜像，并在发布前证明两条更新路径都能安装它。",
+      "es": "Cada compilación de lanzamiento ahora monta su propio DMG y comprueba que ambas rutas de actualización pueden instalarlo antes de publicarse.",
+      "ja": "リリースビルドでは毎回、作成されたDMGをマウントし、両方の更新経路でインストールできることを確認してから配布します。",
+      "de": "Jeder Release-Build mountet jetzt sein eigenes DMG und belegt, dass beide Update-Pfade es installieren können, bevor es ausgeliefert wird.",
+      "fr": "Chaque version montée est vérifiée : le DMG est monté et les deux chemins de mise à jour sont prouvés installables avant la publication.",
+      "pt": "Cada build de lançamento agora monta o seu próprio DMG e comprova que os dois caminhos de atualização conseguem instalá-lo antes de ser publicado.",
+      "ko": "모든 릴리스 빌드는 이제 자체 DMG를 마운트하고 두 업데이트 경로로 설치 가능함을 확인한 뒤 배포합니다.",
+      "it": "Ogni build di rilascio ora monta il proprio DMG e verifica che entrambi i percorsi di aggiornamento possano installarlo prima della distribuzione.",
+      "ru": "Каждая сборка релиза теперь монтирует свой DMG и подтверждает, что оба пути обновления могут установить его, до выпуска.",
+      "ar": "أصبح كل إصدار جديد يَحمِل ملف القرص الخاص به أثناء البناء ويتحقق من أن كلا مساري التحديث يستطيعان تثبيته قبل النشر.",
+      "hi": "अब हर रिलीज़ बिल्ड अपनी DMG माउंट करता है और रिलीज़ से पहले सिद्ध करता है कि दोनों अपडेट पथ उसे इंस्टॉल कर सकते हैं।",
+      "id": "Setiap build rilis kini meng-mount DMG-nya sendiri dan membuktikan kedua jalur pembaruan bisa menginstalnya sebelum dirilis.",
+      "tr": "Her sürüm derlemesi artık kendi DMG'sini bağlar ve yayımlanmadan önce her iki güncelleme yolunun onu kurabildiğini kanıtlar.",
+      "nl": "Elke releasebuild mount nu zijn eigen DMG en bewijst dat beide updatepaden het kunnen installeren vóórdat het wordt uitgebracht.",
+      "pl": "Każdy build wydania montuje teraz własny DMG i potwierdza, że obie ścieżki aktualizacji potrafią go zainstalować, zanim zostanie opublikowany.",
+      "vi": "Mỗi bản dựng phát hành giờ đây sẽ gắn (mount) chính tệp DMG của nó và xác minh rằng cả hai đường dẫn cập nhật đều cài đặt được trước khi phát hành.",
+      "th": "ทุกรอบการสร้างเวอร์ชันจะเมานต์ DMG ของตัวเองและพิสูจน์ว่าเส้นทางอัปเดตทั้งสองสามารถติดตั้งได้ ก่อนจะเผยแพร่",
+      "uk": "Кожна збірка релізу тепер монтуеть власний DMG і підтверджує, що обидва шляхи оновлення можуть встановити його, до випуску."
     },
     "c6.date": {
       "en": "Oct 9, 2026",
@@ -8086,88 +8191,88 @@
       "uk": "9 жовтня 2026 р."
     },
     "c6.summary": {
-      "en": "Fixed: the in-app update could report a good download as “corrupt”.",
-      "zh": "修复：应用内更新可能把正常下载误报为「已损坏」。",
-      "es": "Corregido: la actualización dentro de la app podía marcar una descarga válida como «dañada».",
-      "ja": "修正：アプリ内アップデートで正常なダウンロードが「破損している」と表示される場合がありました。",
-      "de": "Behoben: Das In-App-Update konnte einen einwandfreien Download als „beschädigt“ melden.",
-      "fr": "Corrigé : la mise à jour intégrée pouvait signaler un téléchargement valide comme « corrompu ».",
-      "pt": "Corrigido: a atualização no app podia marcar um download válido como «corrompido».",
-      "ko": "수정: 앱 내 업데이트가 정상 다운로드를 '손상됨'으로 표시할 수 있었습니다.",
-      "it": "Corretto: l'aggiornamento in-app poteva segnalare un download integro come «corrotto».",
-      "ru": "Исправлено: обновление в приложении могло помечать корректную загрузку как «повреждённую».",
-      "ar": "إصلاح: كان التحديث داخل التطبيق قد يسمّي تنزيلًا سليمًا بأنه «تالف».",
-      "hi": "ठीक किया: इन-ऐप अपडेट सही डाउनलोड को भी «भ्रष्ट» बता सकता था।",
-      "id": "Diperbaiki: pembaruan dalam app bisa menandai unduhan yang utuh sebagai «rusak».",
-      "tr": "Düzeltildi: uygulama içi güncelleme sağlam bir indirmeyi «bozuk» olarak işaretleyebiliyordu.",
-      "nl": "Opgelost: de in-app-update kon een geldige download als «beschadigd» markeren.",
-      "pl": "Naprawione: aktualizacja w aplikacji mogła oznaczać poprawne pobranie jako „uszkodzone”.",
-      "vi": "Đã sửa: bản cập nhật trong ứng dụng có thể báo một tệp tải xuống hợp lệ là «bị hỏng».",
-      "th": "แก้ไขแล้ว: การอัปเดตในแอปอาจแจ้งว่าการดาวน์โหลดที่ครบถ้วนสมบูรณ์นั้น «เสียหาย»",
-      "uk": "Виправлено: оновлення в застосунку могло позначити коректне завантаження як «пошкоджене»."
+      "en": "Fixed: fresh installs had no skills.",
+      "zh": "修复：全新安装没有任何技能。",
+      "es": "Corregido: las instalaciones nuevas no tenían habilidades.",
+      "ja": "修正：新規インストールにスキルがありませんでした。",
+      "de": "Behoben: Neuinstallationen hatten keine Skills.",
+      "fr": "Corrigé : les nouvelles installations n'avaient aucune compétence.",
+      "pt": "Corrigido: instalações novas não tinham habilidades.",
+      "ko": "수정: 새로 설치한 기기에 스킬이 없었습니다.",
+      "it": "Corretto: le installazioni nuove non avevano abilità.",
+      "ru": "Исправлено: на новых установках не было навыков.",
+      "ar": "إصلاح: التثبيتات الجديدة لم تكن تحتوي على أي مهارات.",
+      "hi": "ठीक किया: नए इंस्टॉल में कोई स्किल नहीं थीं।",
+      "id": "Diperbaiki: instalasi baru tidak memiliki skill apa pun.",
+      "tr": "Düzeltildi: yeni kurulumlarda hiçbir beceri yoktu.",
+      "nl": "Opgelost: nieuwe installaties hadden geen skills.",
+      "pl": "Naprawione: nowe instalacje nie miały żadnych umiejętności.",
+      "vi": "Đã sửa: bản cài mới không có kỹ năng nào.",
+      "th": "แก้ไขแล้ว: การติดตั้งใหม่ไม่มีทักษะเลย",
+      "uk": "Виправлено: на свіжих встановленнях не було жодних навичок."
     },
     "c6.l1": {
-      "en": "On a Mac still running 1.0.7, updating to 1.0.8 inside the app could fail with “Verification failed — the download may be corrupt”. The download was fine: the installer just looked for the app in a place 1.0.8 had moved.",
-      "zh": "在仍运行 1.0.7 的 Mac 上，通过应用内更新升级到 1.0.8 可能失败并提示「验证失败——下载文件可能已损坏」。下载其实是完好的：只是安装程序在一个 1.0.8 已经移走的位置寻找应用。",
-      "es": "En un Mac que aún ejecuta 1.0.7, actualizar a 1.0.8 dentro de la app podía fallar con «Error de verificación: la descarga puede estar dañada». La descarga estaba bien: el instalador solo buscaba la app en un sitio que 1.0.8 había movido.",
-      "ja": "1.0.7を動かしているMacでアプリ内アップデートにより1.0.8へ更新すると「検証に失敗しました — ダウンロードが破損している可能性があります」で失敗することがありました。ダウンロードは正常です：インストーラーが1.0.8で移動した先の古い場所のアプリを探していました。",
-      "de": "Auf einem Mac mit 1.0.7 konnte das In-App-Update auf 1.0.8 mit „Überprüfung fehlgeschlagen – der Download könnte beschädigt sein“ fehlschlagen. Der Download war in Ordnung: Das Installationsprogramm suchte die App nur an einem Ort, den 1.0.8 verschoben hatte.",
-      "fr": "Sur un Mac encore sous 1.0.7, la mise à jour vers 1.0.8 dans l'app pouvait échouer avec « Échec de la vérification — le téléchargement est peut-être corrompu ». Le téléchargement allait bien : l'installateur cherchait l'app à un emplacement que 1.0.8 avait déplacé.",
-      "pt": "Num Mac ainda com o 1.0.7, atualizar para o 1.0.8 dentro do app podia falhar com «Falha na verificação — o download pode estar corrompido». O download estava bem: o instalador procurava o app num local que o 1.0.8 tinha movido.",
-      "ko": "1.0.7을 실행 중인 Mac에서 앱 내 업데이트로 1.0.8로 업그레이드하면 '확인 실패 — 다운로드가 손상되었을 수 있습니다'로 실패할 수 있었습니다. 다운로드는 정상입니다: 설치 프로그램이 1.0.8에서 이동한 위치의 앱을 찾고 있었습니다.",
-      "it": "Su un Mac che esegue ancora 1.0.7, l'aggiornamento a 1.0.8 dentro l'app poteva fallire con «Verificazione fallita — il download potrebbe essere corrotto». Il download andava bene: il programma di installazione cercava l'app in un punto che 1.0.8 aveva spostato.",
-      "ru": "На Mac с 1.0.7 обновление до 1.0.8 внутри приложения могло завершаться ошибкой «Проверка не пройдена — возможно, загрузка повреждена». С загрузкой было всё в порядке: установщик искал приложение в расположении, которое 1.0.8 переместил.",
-      "ar": "على جهاز Mac ما يزال يعمل بإصدار 1.0.7، كان التحديث إلى 1.0.8 داخل التطبيق قد يفشل مع رسالة «فشل التحقق — قد يكون التنزيل تالفًا». التنزيل كان سليمًا: كان برنامج التثبيت يبحث عن التطبيق في موضع كان إصدار 1.0.8 قد نقله.",
-      "hi": "1.0.7 चला रहे Mac पर ऐप के अंदर 1.0.8 में अपडेट «सत्यापन विफल — डाउनलोड भ्रष्ट हो सकता है» पर असफल हो सकता था। डाउनलोड ठीक था: इंस्टॉलर ऐप को उसी स्थान पर ढूँढ रहा था जिसे 1.0.8 ने हटा दिया था।",
-      "id": "Di Mac yang masih menjalankan 1.0.7, pembaruan ke 1.0.8 di dalam app bisa gagal dengan «Verifikasi gagal — unduhan mungkin rusak». Unduhannya baik-baik saja: penginstal mencari app di lokasi yang sudah dipindahkan 1.0.8.",
-      "tr": "Hâlâ 1.0.7 çalıştıran bir Mac'te uygulama içinden 1.0.8'e güncelleme «Doğrulama başarısız — indirme bozuk olabilir» hatasıyla başarısız olabiliyordu. İndirme sorunsuzdu: yükleyici, 1.0.8'in taşıdığı konumdaki uygulamayı arıyordu.",
-      "nl": "Op een Mac die nog 1.0.7 draait kon het updaten naar 1.0.8 in de app mislukken met «Verificatie mislukt — de download kan beschadigd zijn». De download was in orde: het installatieprogramma zocht de app op een plek die 1.0.8 had verplaatst.",
-      "pl": "Na Macu nadal uruchomionym 1.0.7 aktualizacja do 1.0.8 wewnątrz aplikacji mogła kończyć się błędem „Weryfikacja nie powiodła się — pobrany plik może być uszkodzony”. Pobieranie było w porządku: instalator szukał aplikacji w miejscu, które 1.0.8 przeniósł.",
-      "vi": "Trên một chiếc Mac vẫn đang chạy 1.0.7, việc cập nhật lên 1.0.8 ngay trong ứng dụng có thể thất bại với thông báo «Xác minh thất bại — tệp tải xuống có thể đã hỏng». Tệp tải xuống vẫn nguyên vẹn: trình cài đặt chỉ đi tìm ứng dụng ở một vị trí mà 1.0.8 đã di dời.",
-      "th": "บน Mac ที่ยังรันเวอร์ชัน 1.0.7 การอัปเดตเป็น 1.0.8 ภายในแอปอาจล้มเหลวพร้อมข้อความ «การตรวจสอบล้มเหลว — การดาวน์โหลดอาจเสียหาย» แท้จริงแล้วการดาวน์โหลดไม่มีความผิดใด: โปรแกรมติดตั้งหาแอปในตำแหน่งที่เวอร์ชัน 1.0.8 ได้ย้ายไปแล้ว",
-      "uk": "На Mac, що досі працює на 1.0.7, оновлення до 1.0.8 у межах застосунку могло завершитися помилкою «Помилка перевірки — завантаження може бути пошкодженим». Із завантаженням усе було гаразд: встановлювач шукав застосунок у місці, яке 1.0.8 перемістив."
+      "en": "The app now ships the full skill library (Voice, Briefing, Reminders, Stocks and more — 21 playbooks). On first run the bot installs them into its skills folder; your own edits and bot-authored skills are never overwritten.",
+      "zh": "应用现在自带完整技能库（语音、简报、提醒、股票等 21 个流程）。首次运行时机器人会把它们装入技能文件夹；你自己的修改和机器人自创的技能绝不会被覆盖。",
+      "es": "La app ahora incluye la biblioteca completa de habilidades (Voz, Briefing, Recordatorios, Acciones y más — 21 procedimientos). En la primera ejecución el bot los instala en su carpeta de habilidades; tus ediciones y las habilidades creadas por el bot nunca se sobrescriben.",
+      "ja": "アプリがフルのスキルライブラリ（音声・ブリーフィング・リマインダー・株式など21の手順）を同梱しました。初回起動時にボットがスキルフォルダへインストールします。あなた自身の編集やボットが作成したスキルは上書きされません。",
+      "de": "Die App enthält jetzt die vollständige Skill-Bibliothek (Sprache, Briefing, Erinnerungen, Aktien u. a. — 21 Abläufe). Beim ersten Start installiert der Bot sie in seinen Skill-Ordner; eigene Bearbeitungen und vom Bot erstellte Skills werden nie überschrieben.",
+      "fr": "L'app embarque désormais la bibliothèque complète de compétences (Voix, Briefing, Rappels, Actions, etc. — 21 procédures). Au premier lancement, le bot les installe dans son dossier de compétences ; vos modifications et les compétences créées par le bot ne sont jamais écrasées.",
+      "pt": "O app agora inclui a biblioteca completa de habilidades (Voz, Briefing, Lembretes, Ações e mais — 21 procedimentos). Na primeira execução o bot instala-as na sua pasta de habilidades; suas edições e habilidades criadas pelo bot nunca são sobrescritas.",
+      "ko": "앱이 전체 스킬 라이브러리(음성, 브리핑, 리마인더, 주식 등 21개 절차)를 함께 제공합니다. 첫 실행 때 봇이 스킬 폴더에 설치하며, 사용자의 편집과 봇이 만든 스킬은 절대 덮어쓰지 않습니다.",
+      "it": "L'app ora include l'intera libreria di abilità (Voce, Briefing, Promemoria, Azioni e altro — 21 procedure). Al primo avvio il bot le installa nella sua cartella delle abilità; le tue modifiche e le abilità create dal bot non vengono mai sovrascritte.",
+      "ru": "Приложение теперь поставляется с полной библиотекой навыков (Голос, Брифинг, Напоминания, Акции и др. — 21 процедура). При первом запуске бот устанавливает их в свою папку навыков; ваши правки и авторские навыки бота никогда не перезаписываются.",
+      "ar": "يضم التطبيق الآن مكتبة المهارات الكاملة (الصوت، الإحاطة، التذكيرات، الأسهم وغيرها — 21 إجراءً). يثبّت الروت هذه المهارات في مجلدها عند أول تشغيل؛ ولا تُستبدل أبدًا تعديلاتك أو المهارات التي أنشأها الروت.",
+      "hi": "ऐप अब पूरी स्किल लाइब्रेरी के साथ आता है (वॉइस, ब्रीफिंग, रिमाइंडर, स्टॉक्स आदि — 21 प्रक्रियाएँ)। पहली बार चलने पर बॉट इन्हें अपने स्किल फ़ोल्डर में इंस्टॉल करता है; आपके अपने संपादन और बॉट-निर्मित स्किल कभी ओवरराइट नहीं होते।",
+      "id": "App kini menyertakan pustaka skill lengkap (Suara, Briefing, Pengingat, Saham, dll. — 21 prosedur). Pada jalankan pertama, bot menginstalnya ke folder skill-nya; editan Anda dan skill buatan bot tidak pernah ditimpa.",
+      "tr": "Uygulama artık tam beceri kitaplığıyla geliyor (Ses, Brifing, Hatırlatıcılar, Hisseler ve daha fazlası — 21 yordam). İlk çalıştırmada bot bunları beceri klasörüne kurar; kendi düzenlemeleriniz ve botun yazdığı beceriler asla üzerine yazılmaz.",
+      "nl": "De app wordt nu geleverd met de volledige skill-bibliotheek (Spraak, Briefing, Herinneringen, Aandelen en meer — 21 procedures). Bij de eerste run installeert de bot ze in zijn skill-map; je eigen bewerkingen en door de bot gemaakte skills worden nooit overschreven.",
+      "pl": "Aplikacja zawiera teraz pełną bibliotekę umiejętności (Głos, Briefing, Przypomnienia, Akcje i inne — 21 procedur). Przy pierwszym uruchomieniu bot instaluje je w swoim folderze umiejętności; Twoje własne edycje i umiejętności stworzone przez bota nigdy nie są nadpisywane.",
+      "vi": "Ứng dụng nay kèm đủ thư viện kỹ năng (Giọng đọc, Điếm điểm, Nhắc nhở, Cổ phiều v.v. — 21 quy trình). Lần chạy đầu, tự động cài chúng vào thư mục kỹ năng của bot; chỉnh sửa của bạn và kỹ năng do bot tự tạo không bao giờ bị ghi đè.",
+      "th": "แอปมาพร้อมคลังทักษะครบถ้วน (เสียง, บรีฟ, การเตือน, หุ้น ฯลฯ — 21 ขั้นตอน) บอตจะติดตั้งลงโฟลเดอร์ทักษะในการรันครั้งแรก การแก้ไขของคุณและทักษะที่บอตสร้างเองจะไม่ถูกเขียนทับ",
+      "uk": "Додаток тепер постачається з повною бібліотекою навичок (Голос, Брифінг, Нагадування, Акції тощо — 21 процедура). Уперше запускаючись, бот встановлює їх у свою теку навичок; ваші правки та авторські навички бота ніколи не перезаписуються."
     },
     "c6.l2": {
-      "en": "The installer keeps a compatibility link at the old location, so 1.0.7 installs now update cleanly and 1.0.8 installs use the direct path. The DMG still shows just one app to drag.",
-      "zh": "安装程序在旧位置保留了一个兼容链接，因此 1.0.7 现在可以顺利升级，1.0.8 则使用直接路径。安装镜像仍然只显示一个可拖拽的应用。",
-      "es": "El instalador conserva un enlace de compatibilidad en la ubicación antigua, así que las instalaciones de 1.0.7 se actualizan sin problemas y las de 1.0.8 usan la ruta directa. El DMG sigue mostrando una sola app para arrastrar.",
-      "ja": "インストールプログラムに旧場所の互換リンクを残したので、1.0.7からの更新は問題なく、1.0.8は直接パスを使います。DMGに表示されるドラッグ対象は引き続き1つのアプリです。",
-      "de": "Das Installationsprogramm behält einen Kompatibilitätslink am alten Ort: 1.0.7-Installationen aktualisieren wieder sauber, 1.0.8 nutzt den direkten Pfad. Das DMG zeigt weiterhin nur eine App zum Ziehen.",
-      "fr": "L'installateur conserve un lien de compatibilité à l'ancien emplacement : les installations 1.0.7 se mettent à jour proprement et les 1.0.8 utilisent le chemin direct. Le DMG n'affiche toujours qu'une seule app à glisser.",
-      "pt": "O instalador mantém um link de compatibilidade no local antigo: instalações do 1.0.7 atualizam sem problemas e as do 1.0.8 usam o caminho direto. O DMG ainda mostra um único app para arrastar.",
-      "ko": "설치 프로그램이 이전 위치에 호환 링크를 유지하므로 1.0.7 설치는 정상적으로 업그레이드되고 1.0.8은 직접 경로를 사용합니다. DMG에는 여전히 드래그할 앱 하나만 표시됩니다.",
-      "it": "Il programma di installazione mantiene un collegamento di compatibilità nel vecchio punto: le installazioni di 1.0.7 si aggiornano di nuovo correttamente e quelle di 1.0.8 usano il percorso diretto. Il DMG mostra sempre una sola app da trascinare.",
-      "ru": "Установщик сохраняет ссылку совместимости по старому пути: установки 1.0.7 снова обновляются корректно, а 1.0.8 используют прямой путь. DMG по-прежнему показывает одно приложение для перетаскивания.",
-      "ar": "يحتفظ برنامج التثبيت برابط توافق في الموضع القديم، لذا تُحدَّث installations إصدار 1.0.7 بنجاح بينما يستخدم إصدار 1.0.8 المسار المباشر. وما زال ملف القرص يعرض تطبيقًا واحدًا للسحب.",
-      "hi": "इंस्टॉलर पुराने स्थान पर एक संगतता लिंक रखता है, इसलिए 1.0.7 इंस्टॉल ठीक से अपडेट होते हैं और 1.0.8 सीधे पथ का उपयोग करते हैं। डिस्क इमेज में अब भी खींचने के लिए केवल एक ऐप दिखता है।",
-      "id": "Penginstal menyimpan tautan kompatibilitas di lokasi lama, sehingga instalasi 1.0.7 kembali memperbarui dengan bersih dan 1.0.8 memakai jalur langsung. DMG tetap hanya menampilkan satu app untuk diseret.",
-      "tr": "Yükleyici eski konumda bir uyumluluk bağlantısı bulunduruyor; böylece 1.0.7 kurulumları yeniden sorunsuz güncelleniyor ve 1.0.8 doğrudan yolu kullanıyor. DMG sürüklemek için hâlâ tek uygulama gösteriyor.",
-      "nl": "Het installatieprogramma bewaart een compatibilheidskoppeling op de oude plek: 1.0.7-installaties werken weer netjes bij en 1.0.8 gebruiken het directe pad. Het DMG toont nog steeds slechts één app om te slepen.",
-      "pl": "Instalator zachowuje link zgodności w starym miejscu, więc instalacje 1.0.7 znowu aktualizują się poprawnie, a 1.0.8 używają ścieżki bezpośredniej. Obraz DMG nadal pokazuje tylko jedną aplikację do przeciągnięcia.",
-      "vi": "Trình cài đặt giữ lại một liên kết tương thích ở vị trí cũ, nhờ vậy các bản cài đặt 1.0.7 lại nâng cấp suôn sẻ còn 1.0.8 dùng đường dẫn trực tiếp. Ổ đĩa cài đặt vẫn chỉ hiển thị một ứng dụng duy nhất để kéo thả.",
-      "th": "โปรแกรมติดตั้งยังคงลิงก์สำรองความเข้ากันได้ไว้ที่ตำแหน่งเดิม การติดตั้งเวอร์ชัน 1.0.7 จึงอัปเดตได้ราบรื่นอีกครั้ง ส่วน 1.0.8 ใช้เส้นทางตรง ภาพดิสก์ยังคงแสดงแอปเพียงตัวเดียวให้ลากวาง",
-      "uk": "Встановлювач зберігає посилання сумісності за старим шляхом, тож встановлення 1.0.7 знову оновлюються без проблем, а 1.0.8 використовують прямий шлях. DMG досі показує лише один застосунок для перетягування."
+      "en": "The Self-extension skill — the bot creating, updating and retiring its own skills and standing tasks — now installs itself on every machine, with card titles in all 19 languages.",
+      "zh": "「自我扩展」技能——机器人创建、更新和退役自己的技能与常驻任务——现在会在每台机器上自动安装，并且卡片标题支持全部 19 种语言。",
+      "es": "La habilidad Autoextensión —el bot crea, actualiza y retira sus propias habilidades y tareas permanentes— ahora se instala sola en cada máquina, con títulos de tarjeta en los 19 idiomas.",
+      "ja": "自己拡張スキル（ボットが自分のスキルや定期タスクを作成・更新・廃止する機能）がすべてのマシンで自動インストールされ、カードのタイトルは19言語に対応しました。",
+      "de": "Der Selbsterweiterungs-Skill — der Bot erstellt, aktualisiert und stilllegt eigene Skills und wiederkehrende Aufgaben — installiert sich jetzt auf jedem Rechner selbst, mit Kartentiteln in allen 19 Sprachen.",
+      "fr": "La compétence Auto-extension — le bot crée, met à jour et retire ses propres compétences et tâches récurrentes — s'installe désormais toute seule sur chaque machine, avec des titres de carte dans les 19 langues.",
+      "pt": "A habilidade Autoextensão — o bot cria, atualiza e aposenta as suas próprias habilidades e tarefas fixas — agora se instala sozinha em cada máquina, com títulos de cartão nos 19 idiomas.",
+      "ko": "자가 확장 스킬 — 봇이 자신의 스킬과 상시 작업을 만들고 갱신하고 폐기하는 기능 — 이제 모든 기기에 자동으로 설치되며 카드 제목이 19개 언어를 지원합니다.",
+      "it": "L'abilità Auto-estensione — il bot crea, aggiorna e ritira le proprie abilità e task ricorrenti — ora si installa da sola su ogni macchina, con titoli delle card in tutte le 19 lingue.",
+      "ru": "Навык «Саморасширение» — бот создаёт, обновляет и выводит собственные навыки и периодические задачи — теперь устанавливается автоматически на каждом устройстве, с заголовками карточек на всех 19 языках.",
+      "ar": "مهارة التمدد الذاتي — حيث ينشئ الروت مهاراته ومهامه الدورية ويحدّثها ويحيلها إلى التقاعد — أصبحت تُثبَّت تلقائيًا على كل جهاز، مع عناوين البطاقات بجميع اللغات الـ19.",
+      "hi": "स्व-विस्तार स्किल — बॉट अपनी स्किल और स्थायी कार्य बनाता, अपडेट और सेवानिवृत्त करता है — अब हर मशीन पर स्वयं इंस्टॉल होती है, सभी 19 भाषाओं में कार्ड शीर्षकों के साथ।",
+      "id": "Skill Perluasan mandiri — bot membuat, memperbarui, dan mempensiunkan skill serta tugas tetapnya sendiri — kini memasang dirinya sendiri di setiap mesin, dengan judul kartu dalam 19 bahasa.",
+      "tr": "Kendi kendini genişletme becerisi — botun kendi becerilerini ve kalıcı görevlerini oluşturması, güncellemesi ve emekliye ayırması — artık her makineye kendiliğinden kuruluyor ve kart başlıkları 19 dilin tamamında geliyor.",
+      "nl": "De skill Automatische uitbreiding — de bot maakt, werkt bij en metouteert eigen skills en staande taken — installeert zichzelf nu op elke machine, met kaarten in alle 19 talen.",
+      "pl": "Umiejętność Rozszerzalność własna — bot tworzy, aktualizuje i wycofuje własne umiejętności oraz zadania stałe — instaluje się teraz samodzielnie na każdym urządzeniu, z tytułami kart we wszystkich 19 językach.",
+      "vi": "Kỹ năng Tự mở rộng — bot tự tạo, cập nhật và nghỉ hưu các kỹ năng cùng vệc định kỳ của mình — nay tự cài trên mợi máy, vớ tiêu đề thê trong đủ 19 ngôn ngữ.",
+      "th": "ทักษะขยายตัวเอง — บอตสร้าง อัปเดต และปลดระวางทักษะกับงานประจำของตนเอง — จะติดตั้งตัวเองบนทุกเครื่อง พร้อมชื่อการ์ดครบทั้ง 19 ภาษา",
+      "uk": "Навичка Саморозширення — бот створює, оновлює й виводить із експлуатації власні навички та сталі задачі — тепер встановлюється сам на кожному пристрої, з заголовками карток усіма 19 мовами."
     },
     "c6.l3": {
-      "en": "Every release build now mounts its own DMG and proves both updater paths can install it before it ships.",
-      "zh": "每次发布构建现在都会挂载自己的安装镜像，并在发布前证明两条更新路径都能安装它。",
-      "es": "Cada compilación de lanzamiento ahora monta su propio DMG y comprueba que ambas rutas de actualización pueden instalarlo antes de publicarse.",
-      "ja": "リリースビルドでは毎回、作成されたDMGをマウントし、両方の更新経路でインストールできることを確認してから配布します。",
-      "de": "Jeder Release-Build mountet jetzt sein eigenes DMG und belegt, dass beide Update-Pfade es installieren können, bevor es ausgeliefert wird.",
-      "fr": "Chaque version montée est vérifiée : le DMG est monté et les deux chemins de mise à jour sont prouvés installables avant la publication.",
-      "pt": "Cada build de lançamento agora monta o seu próprio DMG e comprova que os dois caminhos de atualização conseguem instalá-lo antes de ser publicado.",
-      "ko": "모든 릴리스 빌드는 이제 자체 DMG를 마운트하고 두 업데이트 경로로 설치 가능함을 확인한 뒤 배포합니다.",
-      "it": "Ogni build di rilascio ora monta il proprio DMG e verifica che entrambi i percorsi di aggiornamento possano installarlo prima della distribuzione.",
-      "ru": "Каждая сборка релиза теперь монтирует свой DMG и подтверждает, что оба пути обновления могут установить его, до выпуска.",
-      "ar": "أصبح كل إصدار جديد يَحمِل ملف القرص الخاص به أثناء البناء ويتحقق من أن كلا مساري التحديث يستطيعان تثبيته قبل النشر.",
-      "hi": "अब हर रिलीज़ बिल्ड अपनी DMG माउंट करता है और रिलीज़ से पहले सिद्ध करता है कि दोनों अपडेट पथ उसे इंस्टॉल कर सकते हैं।",
-      "id": "Setiap build rilis kini meng-mount DMG-nya sendiri dan membuktikan kedua jalur pembaruan bisa menginstalnya sebelum dirilis.",
-      "tr": "Her sürüm derlemesi artık kendi DMG'sini bağlar ve yayımlanmadan önce her iki güncelleme yolunun onu kurabildiğini kanıtlar.",
-      "nl": "Elke releasebuild mount nu zijn eigen DMG en bewijst dat beide updatepaden het kunnen installeren vóórdat het wordt uitgebracht.",
-      "pl": "Każdy build wydania montuje teraz własny DMG i potwierdza, że obie ścieżki aktualizacji potrafią go zainstalować, zanim zostanie opublikowany.",
-      "vi": "Mỗi bản dựng phát hành giờ đây sẽ gắn (mount) chính tệp DMG của nó và xác minh rằng cả hai đường dẫn cập nhật đều cài đặt được trước khi phát hành.",
-      "th": "ทุกรอบการสร้างเวอร์ชันจะเมานต์ DMG ของตัวเองและพิสูจน์ว่าเส้นทางอัปเดตทั้งสองสามารถติดตั้งได้ ก่อนจะเผยแพร่",
-      "uk": "Кожна збірка релізу тепер монтуеть власний DMG і підтверджує, що обидва шляхи оновлення можуть встановити його, до випуску."
+      "en": "After an in-app update, the settings window now opens directly on the Updates page showing the new installed version, with a “What's new” recap.",
+      "zh": "应用内更新完成后，设置窗口现在会直接打开到「更新」页面，显示新安装的版本，并附带「新功能」回顾。",
+      "es": "Tras una actualización dentro de la app, la ventana de ajustes se abre directamente en la página Actualizaciones mostrando la nueva versión instalada, con un resumen de «Novedades».",
+      "ja": "アプリ内アップデート後、設定ウィンドウが更新ページに直接開き、新しくインストールされたバージョンと「新機能」の要約を表示します。",
+      "de": "Nach einem In-App-Update öffnet das Einstellungsfenster direkt auf der Seite Updates mit der neu installierten Version und einer „Neu in“-Übersicht.",
+      "fr": "Après une mise à jour dans l'app, la fenêtre des réglages s'ouvre directement sur la page Mise à jour avec la nouvelle version installée et un rappel des « nouveautés ».",
+      "pt": "Depois de uma atualização no app, a janela de ajustes abre direto na página Atualizações mostrando a nova versão instalada, com um resumo do «Que há de novo».",
+      "ko": "앱 내 업데이트 후 설정 창이 새 설치 버전을 표시하는 업데이트 페이지로 바로 열리며 '새 기능' 요약을 제공합니다.",
+      "it": "Dopo un aggiornamento in-app, la finestra delle impostazioni si apre direttamente sulla pagina Aggiornamenti con la nuova versione installata e un riepilogo delle «novità».",
+      "ru": "После обновления в приложении окно настроек открывается сразу на странице Обновления с новой установленной версией и обзором «Нового».",
+      "ar": "بعد التحديث داخل التطبيق، تفتح نافذة الإعدادات مباشرة على صفحة التحديثات تعرض الإصدار الجديد المثبّت، مع موجز «الجديد».",
+      "hi": "इन-ऐप अपडेट के बाद सेटिंग्स विंडो सीधे अपडेट पृष्ठ पर खुलती है जो नया इंस्टॉल संस्करण दिखाती है, साथ में «क्या नया है» का सारांश।",
+      "id": "Setelah pembaruan dalam app, jendela pengaturan terbuka langsung ke halaman Pembaruan yang menampilkan versi baru yang terpasang, dengan ringkasan «Ada yang baru».",
+      "tr": "Uygulama içi güncellemeden sonra ayarlar penceresi doğrudan Güncellemeler sayfasında açılır, yeni kurulan sürümü gösterir ve bir «Yenilikler» özeti sunar.",
+      "nl": "Na een in-app-update opent het instellingenvenster direct op de pagina Updates met de nieuw geïnstalleerde versie, plus een «Nieuw»-overzicht.",
+      "pl": "Po aktualizacji w aplikacji okno ustawień otwiera się od razu na karcie Aktualizacje z nowo zainstalowaną wersją i przeglądem „Co nowego”.",
+      "vi": "Sau khi cập nhật trong ứng dụng, cửa sổ cài đặt mở thẳng trang Cập nhật hiển thị phiên bản mớ đã cài, kèm tóm tắt «Có gì mớị”.",
+      "th": "หลังอัปเดตในแอป หน้าต่างการตั้งค่าจะเปิดตรงหน้าอัปเดต แสดงเวอร์ชันที่ติดตั้งใหม่ พร้อมสรุป «มีอะไรใหม่»",
+      "uk": "Після оновлення в застосунку вікно налаштувань відкривається одразу на сторінці Оновлення з новою встановленою версією та оглядом «Що нового»."
     },
     "c5.date": {
       "en": "Oct 9, 2026",
@@ -8191,111 +8296,6 @@
       "uk": "9 жовтня 2026 р."
     },
     "c5.summary": {
-      "en": "Fixed: fresh installs had no skills.",
-      "zh": "修复：全新安装没有任何技能。",
-      "es": "Corregido: las instalaciones nuevas no tenían habilidades.",
-      "ja": "修正：新規インストールにスキルがありませんでした。",
-      "de": "Behoben: Neuinstallationen hatten keine Skills.",
-      "fr": "Corrigé : les nouvelles installations n'avaient aucune compétence.",
-      "pt": "Corrigido: instalações novas não tinham habilidades.",
-      "ko": "수정: 새로 설치한 기기에 스킬이 없었습니다.",
-      "it": "Corretto: le installazioni nuove non avevano abilità.",
-      "ru": "Исправлено: на новых установках не было навыков.",
-      "ar": "إصلاح: التثبيتات الجديدة لم تكن تحتوي على أي مهارات.",
-      "hi": "ठीक किया: नए इंस्टॉल में कोई स्किल नहीं थीं।",
-      "id": "Diperbaiki: instalasi baru tidak memiliki skill apa pun.",
-      "tr": "Düzeltildi: yeni kurulumlarda hiçbir beceri yoktu.",
-      "nl": "Opgelost: nieuwe installaties hadden geen skills.",
-      "pl": "Naprawione: nowe instalacje nie miały żadnych umiejętności.",
-      "vi": "Đã sửa: bản cài mới không có kỹ năng nào.",
-      "th": "แก้ไขแล้ว: การติดตั้งใหม่ไม่มีทักษะเลย",
-      "uk": "Виправлено: на свіжих встановленнях не було жодних навичок."
-    },
-    "c5.l1": {
-      "en": "The app now ships the full skill library (Voice, Briefing, Reminders, Stocks and more — 21 playbooks). On first run the bot installs them into its skills folder; your own edits and bot-authored skills are never overwritten.",
-      "zh": "应用现在自带完整技能库（语音、简报、提醒、股票等 21 个流程）。首次运行时机器人会把它们装入技能文件夹；你自己的修改和机器人自创的技能绝不会被覆盖。",
-      "es": "La app ahora incluye la biblioteca completa de habilidades (Voz, Briefing, Recordatorios, Acciones y más — 21 procedimientos). En la primera ejecución el bot los instala en su carpeta de habilidades; tus ediciones y las habilidades creadas por el bot nunca se sobrescriben.",
-      "ja": "アプリがフルのスキルライブラリ（音声・ブリーフィング・リマインダー・株式など21の手順）を同梱しました。初回起動時にボットがスキルフォルダへインストールします。あなた自身の編集やボットが作成したスキルは上書きされません。",
-      "de": "Die App enthält jetzt die vollständige Skill-Bibliothek (Sprache, Briefing, Erinnerungen, Aktien u. a. — 21 Abläufe). Beim ersten Start installiert der Bot sie in seinen Skill-Ordner; eigene Bearbeitungen und vom Bot erstellte Skills werden nie überschrieben.",
-      "fr": "L'app embarque désormais la bibliothèque complète de compétences (Voix, Briefing, Rappels, Actions, etc. — 21 procédures). Au premier lancement, le bot les installe dans son dossier de compétences ; vos modifications et les compétences créées par le bot ne sont jamais écrasées.",
-      "pt": "O app agora inclui a biblioteca completa de habilidades (Voz, Briefing, Lembretes, Ações e mais — 21 procedimentos). Na primeira execução o bot instala-as na sua pasta de habilidades; suas edições e habilidades criadas pelo bot nunca são sobrescritas.",
-      "ko": "앱이 전체 스킬 라이브러리(음성, 브리핑, 리마인더, 주식 등 21개 절차)를 함께 제공합니다. 첫 실행 때 봇이 스킬 폴더에 설치하며, 사용자의 편집과 봇이 만든 스킬은 절대 덮어쓰지 않습니다.",
-      "it": "L'app ora include l'intera libreria di abilità (Voce, Briefing, Promemoria, Azioni e altro — 21 procedure). Al primo avvio il bot le installa nella sua cartella delle abilità; le tue modifiche e le abilità create dal bot non vengono mai sovrascritte.",
-      "ru": "Приложение теперь поставляется с полной библиотекой навыков (Голос, Брифинг, Напоминания, Акции и др. — 21 процедура). При первом запуске бот устанавливает их в свою папку навыков; ваши правки и авторские навыки бота никогда не перезаписываются.",
-      "ar": "يضم التطبيق الآن مكتبة المهارات الكاملة (الصوت، الإحاطة، التذكيرات، الأسهم وغيرها — 21 إجراءً). يثبّت الروت هذه المهارات في مجلدها عند أول تشغيل؛ ولا تُستبدل أبدًا تعديلاتك أو المهارات التي أنشأها الروت.",
-      "hi": "ऐप अब पूरी स्किल लाइब्रेरी के साथ आता है (वॉइस, ब्रीफिंग, रिमाइंडर, स्टॉक्स आदि — 21 प्रक्रियाएँ)। पहली बार चलने पर बॉट इन्हें अपने स्किल फ़ोल्डर में इंस्टॉल करता है; आपके अपने संपादन और बॉट-निर्मित स्किल कभी ओवरराइट नहीं होते।",
-      "id": "App kini menyertakan pustaka skill lengkap (Suara, Briefing, Pengingat, Saham, dll. — 21 prosedur). Pada jalankan pertama, bot menginstalnya ke folder skill-nya; editan Anda dan skill buatan bot tidak pernah ditimpa.",
-      "tr": "Uygulama artık tam beceri kitaplığıyla geliyor (Ses, Brifing, Hatırlatıcılar, Hisseler ve daha fazlası — 21 yordam). İlk çalıştırmada bot bunları beceri klasörüne kurar; kendi düzenlemeleriniz ve botun yazdığı beceriler asla üzerine yazılmaz.",
-      "nl": "De app wordt nu geleverd met de volledige skill-bibliotheek (Spraak, Briefing, Herinneringen, Aandelen en meer — 21 procedures). Bij de eerste run installeert de bot ze in zijn skill-map; je eigen bewerkingen en door de bot gemaakte skills worden nooit overschreven.",
-      "pl": "Aplikacja zawiera teraz pełną bibliotekę umiejętności (Głos, Briefing, Przypomnienia, Akcje i inne — 21 procedur). Przy pierwszym uruchomieniu bot instaluje je w swoim folderze umiejętności; Twoje własne edycje i umiejętności stworzone przez bota nigdy nie są nadpisywane.",
-      "vi": "Ứng dụng nay kèm đủ thư viện kỹ năng (Giọng đọc, Điếm điểm, Nhắc nhở, Cổ phiều v.v. — 21 quy trình). Lần chạy đầu, tự động cài chúng vào thư mục kỹ năng của bot; chỉnh sửa của bạn và kỹ năng do bot tự tạo không bao giờ bị ghi đè.",
-      "th": "แอปมาพร้อมคลังทักษะครบถ้วน (เสียง, บรีฟ, การเตือน, หุ้น ฯลฯ — 21 ขั้นตอน) บอตจะติดตั้งลงโฟลเดอร์ทักษะในการรันครั้งแรก การแก้ไขของคุณและทักษะที่บอตสร้างเองจะไม่ถูกเขียนทับ",
-      "uk": "Додаток тепер постачається з повною бібліотекою навичок (Голос, Брифінг, Нагадування, Акції тощо — 21 процедура). Уперше запускаючись, бот встановлює їх у свою теку навичок; ваші правки та авторські навички бота ніколи не перезаписуються."
-    },
-    "c5.l2": {
-      "en": "The Self-extension skill — the bot creating, updating and retiring its own skills and standing tasks — now installs itself on every machine, with card titles in all 19 languages.",
-      "zh": "「自我扩展」技能——机器人创建、更新和退役自己的技能与常驻任务——现在会在每台机器上自动安装，并且卡片标题支持全部 19 种语言。",
-      "es": "La habilidad Autoextensión —el bot crea, actualiza y retira sus propias habilidades y tareas permanentes— ahora se instala sola en cada máquina, con títulos de tarjeta en los 19 idiomas.",
-      "ja": "自己拡張スキル（ボットが自分のスキルや定期タスクを作成・更新・廃止する機能）がすべてのマシンで自動インストールされ、カードのタイトルは19言語に対応しました。",
-      "de": "Der Selbsterweiterungs-Skill — der Bot erstellt, aktualisiert und stilllegt eigene Skills und wiederkehrende Aufgaben — installiert sich jetzt auf jedem Rechner selbst, mit Kartentiteln in allen 19 Sprachen.",
-      "fr": "La compétence Auto-extension — le bot crée, met à jour et retire ses propres compétences et tâches récurrentes — s'installe désormais toute seule sur chaque machine, avec des titres de carte dans les 19 langues.",
-      "pt": "A habilidade Autoextensão — o bot cria, atualiza e aposenta as suas próprias habilidades e tarefas fixas — agora se instala sozinha em cada máquina, com títulos de cartão nos 19 idiomas.",
-      "ko": "자가 확장 스킬 — 봇이 자신의 스킬과 상시 작업을 만들고 갱신하고 폐기하는 기능 — 이제 모든 기기에 자동으로 설치되며 카드 제목이 19개 언어를 지원합니다.",
-      "it": "L'abilità Auto-estensione — il bot crea, aggiorna e ritira le proprie abilità e task ricorrenti — ora si installa da sola su ogni macchina, con titoli delle card in tutte le 19 lingue.",
-      "ru": "Навык «Саморасширение» — бот создаёт, обновляет и выводит собственные навыки и периодические задачи — теперь устанавливается автоматически на каждом устройстве, с заголовками карточек на всех 19 языках.",
-      "ar": "مهارة التمدد الذاتي — حيث ينشئ الروت مهاراته ومهامه الدورية ويحدّثها ويحيلها إلى التقاعد — أصبحت تُثبَّت تلقائيًا على كل جهاز، مع عناوين البطاقات بجميع اللغات الـ19.",
-      "hi": "स्व-विस्तार स्किल — बॉट अपनी स्किल और स्थायी कार्य बनाता, अपडेट और सेवानिवृत्त करता है — अब हर मशीन पर स्वयं इंस्टॉल होती है, सभी 19 भाषाओं में कार्ड शीर्षकों के साथ।",
-      "id": "Skill Perluasan mandiri — bot membuat, memperbarui, dan mempensiunkan skill serta tugas tetapnya sendiri — kini memasang dirinya sendiri di setiap mesin, dengan judul kartu dalam 19 bahasa.",
-      "tr": "Kendi kendini genişletme becerisi — botun kendi becerilerini ve kalıcı görevlerini oluşturması, güncellemesi ve emekliye ayırması — artık her makineye kendiliğinden kuruluyor ve kart başlıkları 19 dilin tamamında geliyor.",
-      "nl": "De skill Automatische uitbreiding — de bot maakt, werkt bij en metouteert eigen skills en staande taken — installeert zichzelf nu op elke machine, met kaarten in alle 19 talen.",
-      "pl": "Umiejętność Rozszerzalność własna — bot tworzy, aktualizuje i wycofuje własne umiejętności oraz zadania stałe — instaluje się teraz samodzielnie na każdym urządzeniu, z tytułami kart we wszystkich 19 językach.",
-      "vi": "Kỹ năng Tự mở rộng — bot tự tạo, cập nhật và nghỉ hưu các kỹ năng cùng vệc định kỳ của mình — nay tự cài trên mợi máy, vớ tiêu đề thê trong đủ 19 ngôn ngữ.",
-      "th": "ทักษะขยายตัวเอง — บอตสร้าง อัปเดต และปลดระวางทักษะกับงานประจำของตนเอง — จะติดตั้งตัวเองบนทุกเครื่อง พร้อมชื่อการ์ดครบทั้ง 19 ภาษา",
-      "uk": "Навичка Саморозширення — бот створює, оновлює й виводить із експлуатації власні навички та сталі задачі — тепер встановлюється сам на кожному пристрої, з заголовками карток усіма 19 мовами."
-    },
-    "c5.l3": {
-      "en": "After an in-app update, the settings window now opens directly on the Updates page showing the new installed version, with a “What's new” recap.",
-      "zh": "应用内更新完成后，设置窗口现在会直接打开到「更新」页面，显示新安装的版本，并附带「新功能」回顾。",
-      "es": "Tras una actualización dentro de la app, la ventana de ajustes se abre directamente en la página Actualizaciones mostrando la nueva versión instalada, con un resumen de «Novedades».",
-      "ja": "アプリ内アップデート後、設定ウィンドウが更新ページに直接開き、新しくインストールされたバージョンと「新機能」の要約を表示します。",
-      "de": "Nach einem In-App-Update öffnet das Einstellungsfenster direkt auf der Seite Updates mit der neu installierten Version und einer „Neu in“-Übersicht.",
-      "fr": "Après une mise à jour dans l'app, la fenêtre des réglages s'ouvre directement sur la page Mise à jour avec la nouvelle version installée et un rappel des « nouveautés ».",
-      "pt": "Depois de uma atualização no app, a janela de ajustes abre direto na página Atualizações mostrando a nova versão instalada, com um resumo do «Que há de novo».",
-      "ko": "앱 내 업데이트 후 설정 창이 새 설치 버전을 표시하는 업데이트 페이지로 바로 열리며 '새 기능' 요약을 제공합니다.",
-      "it": "Dopo un aggiornamento in-app, la finestra delle impostazioni si apre direttamente sulla pagina Aggiornamenti con la nuova versione installata e un riepilogo delle «novità».",
-      "ru": "После обновления в приложении окно настроек открывается сразу на странице Обновления с новой установленной версией и обзором «Нового».",
-      "ar": "بعد التحديث داخل التطبيق، تفتح نافذة الإعدادات مباشرة على صفحة التحديثات تعرض الإصدار الجديد المثبّت، مع موجز «الجديد».",
-      "hi": "इन-ऐप अपडेट के बाद सेटिंग्स विंडो सीधे अपडेट पृष्ठ पर खुलती है जो नया इंस्टॉल संस्करण दिखाती है, साथ में «क्या नया है» का सारांश।",
-      "id": "Setelah pembaruan dalam app, jendela pengaturan terbuka langsung ke halaman Pembaruan yang menampilkan versi baru yang terpasang, dengan ringkasan «Ada yang baru».",
-      "tr": "Uygulama içi güncellemeden sonra ayarlar penceresi doğrudan Güncellemeler sayfasında açılır, yeni kurulan sürümü gösterir ve bir «Yenilikler» özeti sunar.",
-      "nl": "Na een in-app-update opent het instellingenvenster direct op de pagina Updates met de nieuw geïnstalleerde versie, plus een «Nieuw»-overzicht.",
-      "pl": "Po aktualizacji w aplikacji okno ustawień otwiera się od razu na karcie Aktualizacje z nowo zainstalowaną wersją i przeglądem „Co nowego”.",
-      "vi": "Sau khi cập nhật trong ứng dụng, cửa sổ cài đặt mở thẳng trang Cập nhật hiển thị phiên bản mớ đã cài, kèm tóm tắt «Có gì mớị”.",
-      "th": "หลังอัปเดตในแอป หน้าต่างการตั้งค่าจะเปิดตรงหน้าอัปเดต แสดงเวอร์ชันที่ติดตั้งใหม่ พร้อมสรุป «มีอะไรใหม่»",
-      "uk": "Після оновлення в застосунку вікно налаштувань відкривається одразу на сторінці Оновлення з новою встановленою версією та оглядом «Що нового»."
-    },
-    "c4.date": {
-      "en": "Oct 9, 2026",
-      "zh": "2026年10月9日",
-      "es": "9 de octubre de 2026",
-      "ja": "2026年10月9日",
-      "de": "9. Oktober 2026",
-      "fr": "9 octobre 2026",
-      "pt": "9 de outubro de 2026",
-      "ko": "2026년 10월 9일",
-      "it": "9 ottobre 2026",
-      "ru": "9 октября 2026 г.",
-      "ar": "9 أكتوبر 2026",
-      "hi": "9 अक्टूबर 2026",
-      "id": "9 Oktober 2026",
-      "tr": "9 Ekim 2026",
-      "nl": "9 oktober 2026",
-      "pl": "9 października 2026 r.",
-      "vi": "9 tháng 10 năm 2026",
-      "th": "9 ตุลาคม 2026",
-      "uk": "9 жовтня 2026 р."
-    },
-    "c4.summary": {
       "en": "Fixed: skills from an update didn't appear until a manual restart.",
       "zh": "修复：更新后的技能要手动重启才会出现。",
       "es": "Corregido: las habilidades de la actualización no aparecían hasta reiniciar manualmente.",
@@ -8316,7 +8316,7 @@
       "th": "แก้ไขแล้ว: ทักษะจากอัปเดตจะไม่แสดงจนกว่าจะรีสตาร์ตเอง",
       "uk": "Виправлено: навички з оновлення з'являлися лише після ручного перезапуску."
     },
-    "c4.l1": {
+    "c5.l1": {
       "en": "The in-app updater now restarts the bot after swapping the apps. The bot runs as a separate process that survived updates — so the new skill library (which installs itself at bot startup) never ran, and the Skills tab stayed empty after updating.",
       "zh": "应用内更新器现在会在换装应用后重启机器人。机器人是独立进程，更新后仍在运行——所以会在机器人启动时自行安装的新技能库从未执行，更新后技能页仍是空的。",
       "es": "El actualizador dentro de la app ahora reinicia el bot después de intercambiar las apps. El bot es un proceso independiente que sobrevivía a las actualizaciones — así que la nueva biblioteca de habilidades (que se instala al iniciar el bot) nunca se ejecutó y la pestaña de habilidades quedaba vacía tras actualizar.",
@@ -8337,7 +8337,7 @@
       "th": "ตัวอัปเดตในแอปจะรีสตาร์ตบอตหลังสลับแอปแล้ว บอตทำงานเป็นโปรเซสแยกที่อยู่รอดหลังอัปเดต — คลังทักษะใหม่ซึ่งติดตั้งตัวเองตอนบอตเริ่มทำงานจึงไม่เคยถูกรัน และแท็บทักษะยังว่างหลังอัปเดต",
       "uk": "Вбудований оновлювач тепер перезапускає бота після заміни застосунків. Бот працює як окремий процес, що переживав оновлення — тож нова бібліотека навичок (яка встановлюється під час запуску бота) ніколи не виконувалася, і вкладка навичок лишалася порожньою після оновлення."
     },
-    "c4.l2": {
+    "c5.l2": {
       "en": "It uses the same restart as the menu bar's “Restart server”.",
       "zh": "它使用的重启方式与菜单栏的「重启服务」相同。",
       "es": "Usa el mismo reinicio que «Reiniciar servidor» de la barra de menú.",
@@ -8358,7 +8358,7 @@
       "th": "ใช้การรีสตาร์ตแบบเดียวกับ «รีสตาร์ตเซิร์ฟเวอร์» บนแถบบุตรเมนู",
       "uk": "Використовує той самий перезапуск, що й «Перезапустити сервер» у меню."
     },
-    "c4.l3": {
+    "c5.l3": {
       "en": "Right after an update, the Skills & Features tab now re-scans automatically, so freshly installed skills show up without tab-hopping.",
       "zh": "更新完成后，「技能与功能」页现在会自动重新扫描，新安装的技能无需切换页面即可看到。",
       "es": "Justo después de actualizar, la pestaña Habilidades y funciones vuelve a escanear automáticamente: las habilidades recién instaladas aparecen sin cambiar de pestaña.",
@@ -8379,7 +8379,7 @@
       "th": "หลังอัปเดตทันที แท็บทักษะและฟีเจอร์จะสแกนใหม่อัตโนมัติ ทักษะที่ติดตั้งใหม่จะแสดงโดยไม่ต้องสลับแท็บ",
       "uk": "Одразу після оновлення вкладка «Навички та можливості» сканується автоматично — свіжі навички з'являються без перемикання вкладок."
     },
-    "c3.summary": {
+    "c4.summary": {
       "en": "Fixed: replies failing while the local model is starting up — and “Launch at Login” not sticking.",
       "zh": "修复：本地模型启动中导致回复失败——以及“开机自动启动”开关不生效。",
       "es": "Corregido: las respuestas fallaban mientras el modelo local se iniciaba — y “Abrir al iniciar sesión” no se aplicaba.",
@@ -8400,7 +8400,7 @@
       "th": "แก้ไขแล้ว: คำตอบล้มเหลวระหว่างโมเดลในเครื่องกำลังเริ่มทำงาน — และสวิตช์ 'เปิดเมื่อเข้าสู่ระบบ' ไม่มีผล",
       "uk": "Виправлено: відповіді падали, поки локальна модель запускалася, — і перемикач «Відкривати під час входу» не застосовувався."
     },
-    "c3.l1": {
+    "c4.l1": {
       "en": "The local model is now recognized even when its Server URL is spelled as your Mac’s own network address — not just “localhost” — so the startup handling finally applies to every setup.",
       "zh": "即使服务器地址填的是这台 Mac 自身的网络地址（而非仅“localhost”），本地模型也能被正确识别，启动等待逻辑终于对所有配置生效。",
       "es": "El modelo local ahora se reconoce incluso cuando la URL del servidor usa la dirección de red de tu propio Mac — no solo “localhost” — así la lógica de arranque por fin vale en toda configuración.",
@@ -8421,7 +8421,7 @@
       "th": "โมเดลในเครื่องถูกจดจำได้แม้ URL เซิร์ฟเวอร์จะเป็นที่อยู่เครือข่ายของ Mac เอง (ไม่ใช่แค่ 'localhost') ตรรกะการเริ่มทำงานจึงใช้ได้กับทุกการตั้งค่า",
       "uk": "Локальна модель тепер розпізнається навіть коли URL сервера вказаний як мережеву адресу вашого власного Mac — а не лише «localhost» — логіка запуску нарешті діє в будь-якому налаштуванні."
     },
-    "c3.l2": {
+    "c4.l2": {
       "en": "If every provider is down while the model is loading, the bot now waits for it to finish starting (about 2–4 minutes, with a note in chat) and then answers — instead of “all providers failed”. Healthy API providers still answer right away; nothing gets slower.",
       "zh": "如果模型加载时所有提供方都不可用，机器人现在会等待模型完成启动（约 2–4 分钟，并在聊天中提示）后再回答，而不是报“所有提供方均失败”。健康的 API 提供方仍会立即响应，速度不受影响。",
       "es": "Si todos los proveedores están caídos mientras el modelo carga, el bot ahora espera a que termine de iniciarse (unos 2–4 min, con un aviso en el chat) y luego responde — en lugar de “todos los proveedores fallaron”. Los proveedores de API sanos siguen respondiendo al instante.",
@@ -8442,7 +8442,7 @@
       "th": "หากผู้ให้บริการทั้งหมดล่มขณะกำลังโหลดโมเดล บอทจะรอจนโมเดลเริ่มทำงานเสร็จ (ราว 2–4 นาที พร้อมแจ้งในแชท) แล้วจึงตอบ — แทนที่จะบอกว่า 'ผู้ให้บริการทั้งหมดล้มเหลว' ผู้ให้บริการ API ที่ปกติยังคงตอบทันที",
       "uk": "Якщо всі провайдери недоступні, а модель завантажується, бот тепер чекає на завершення запуску (приблизно 2–4 хв, з нотаткою в чаті) і відповідає — замість «усі провайдери не спрацювали». Робочі API-провайдери й далі відповідають миттєво."
     },
-    "c3.l3": {
+    "c4.l3": {
       "en": "Launch at Login now applies in both directions — and switching it off also removes a leftover background launch entry that kept opening the app at login even when the setting was off.",
       "zh": "“开机自动启动”现在双向真正生效——关闭时还会清除那个让应用在登录时仍被启动的旧后台启动项。",
       "es": "“Abrir al iniciar sesión” ahora se aplica en ambas direcciones — y al desactivarlo también se elimina una entrada de arranque en segundo plano que seguía abriendo la app al iniciar sesión.",
@@ -8463,7 +8463,7 @@
       "th": "'เปิดเมื่อเข้าสู่ระบบ' มีผลทั้งสองทิศทางแล้ว — และเมื่อปิดจะลบรายการเริ่มทำงานเบื้องหลังที่ค้างอยู่ ซึ่งเคยเปิดแอปทุกครั้งเมื่อเข้าสู่ระบบแม้ปิดตัวเลือกไว้",
       "uk": "«Відкривати під час входу» тепер діє в обидва боки — а вимкнення також прибирає зайвий фоновий запис запуску, який усе одно відкривав застосунок під час входу, навіть коли вимкнено."
     },
-    "c3.date": {
+    "c4.date": {
       "en": "Oct 19, 2026",
       "zh": "2026年10月19日",
       "es": "19 de octubre de 2026",
@@ -8484,7 +8484,7 @@
       "th": "19 ตุลาคม 2026",
       "uk": "19 жовтня 2026 р."
     },
-    "c2.date": {
+    "c3.date": {
       "en": "Oct 24, 2026",
       "zh": "2026年10月24日",
       "es": "24 de octubre de 2026",
@@ -8505,7 +8505,7 @@
       "th": "24 ตุลาคม 2026",
       "uk": "24 жовтня 2026 р."
     },
-    "c2.summary": {
+    "c3.summary": {
       "en": "Built-in web search — searching, reading pages and news questions now work on every Mac, no setup.",
       "zh": "内置网络搜索——搜索、读网页、问新闻，在任何 Mac 上开箱即用。",
       "es": "Búsqueda web integrada: buscar, leer páginas y preguntas de noticias ya funcionan en cualquier Mac, sin configuración.",
@@ -8526,7 +8526,7 @@
       "th": "ค้นหาเว็บในตัว — ค้นหา อ่านหน้าเว็บ และถามข่าวใช้งานได้เลยบนทุก Mac โดยไม่ต้องตั้งค่า",
       "uk": "Вбудований вебпошук — пошук, читання сторінок і питання про новини тепер працюють на будь-якому Mac без налаштування."
     },
-    "c2.l1": {
+    "c3.l1": {
       "en": "The bot’s web search and page-reading tools no longer depend on a hidden developer component most Macs don’t have — on affected Macs, requests like “What’s the latest news?” or “Check the BTC price” could fail.",
       "zh": "机器人的网页搜索和网页阅读工具不再依赖大多数 Mac 上并不存在的隐藏开发组件——此前在受影响的 Mac 上，“最新新闻有哪些”或“查一下 BTC 价格”这类请求可能会失败。",
       "es": "Las herramientas de búsqueda web y lectura de páginas del bot ya no dependen de un componente de desarrollo oculto que la mayoría de los Mac no tiene — antes, peticiones como “¿Qué noticias hay?” o “Comprueba el precio del BTC” podían fallar.",
@@ -8547,7 +8547,7 @@
       "th": "เครื่องมือค้นหาเว็บและอ่านหน้าเว็บของบอทไม่พึ่งพาองค์ประกอบนักพัฒนาที่ซ่อนอยู่ซึ่ง Mac ส่วนใหญ่ไม่มีอีกแล้ว — บน Mac ที่ได้รับผลกระทบ คำขออย่าง 'ข่าวล่าสุดคืออะไร?' หรือ 'เช็คราคา BTC ให้หน่อย' อาจล้มเหลว",
       "uk": "Інструменти вебпошуку й читання сторінок бота більше не залежать від прихованого службового компонента, якого більшість Mac не має — на затрагнутих Mac запити на кшталт «Що нового в новинах?» чи «Перевір ціну BTC» могли невдаватися."
     },
-    "c2.l2": {
+    "c3.l2": {
       "en": "One blocked search engine no longer kills searching: DuckDuckGo with automatic fallback to Bing, and results now show the real source links.",
       "zh": "单个搜索引擎被屏蔽不再导致搜索失灵：DuckDuckGo 失败时自动改用 Bing，且结果显示真实的来源链接。",
       "es": "Un buscador bloqueado ya no mata la búsqueda: DuckDuckGo con alternativa automática a Bing, y los resultados ahora muestran los enlaces reales de origen.",
@@ -8568,7 +8568,7 @@
       "th": "search engine ตัวหนึ่งที่ถูกบล็อกไม่ทำให้การค้นหาพังอีกต่อไป: DuckDuckGo สลับไป Bing ให้อัตโนมัติเมื่อล้มเหลว และผลลัพธ์แสดงลิงก์แหล่งที่มาจริง",
       "uk": "Один заблокований пошуковик більше не вбиває пошук: DuckDuckGo автоматично переходить на Bing, а результати тепер показують справжні посилання джерел."
     },
-    "c2.l3": {
+    "c3.l3": {
       "en": "Crypto quotes gained backup price sources (Binance, Coinbase) — if every source is unreachable, the bot now tells you which ones failed.",
       "zh": "加密货币行情新增备用价格源（Binance、Coinbase）——若所有价格源都无法访问，机器人会告诉你是哪些失败了。",
       "es": "Las cotizaciones cripto ganaron fuentes de precio de respaldo (Binance, Coinbase) — si ninguna fuente responde, el bot ahora indica cuáles fallaron.",
@@ -8589,7 +8589,7 @@
       "th": "ราคาคริปโตมีแหล่งราคาสำรอง (Binance, Coinbase) — ถ้าทุกแหล่งเข้าถึงไม่ได้ บอทจะบอกด้วยว่าแหล่งใดล้มเหลว",
       "uk": "Криптокурси отримали запасні джерела цін (Binance, Coinbase) — якщо жодне не відповідає, бот тепер називає, які саме не спрацювали."
     },
-    "c1.date": {
+    "c2.date": {
       "en": "24 Oct 2026",
       "zh": "2026年10月24日",
       "es": "24 de octubre de 2026",
@@ -8610,7 +8610,7 @@
       "th": "24 ต.ค. 2026",
       "uk": "24 жовт. 2026"
     },
-    "c1.summary": {
+    "c2.summary": {
       "en": "Search stopped answering: the API moved, and nothing covered for it",
       "zh": "搜索不再答不上来：模型服务改了接口，如今全部兜住",
       "es": "La búsqueda dejó de fallar en silencio: si el proveedor cambia, todo se cubre",
@@ -8631,7 +8631,7 @@
       "th": "การค้นหาไม่ล้มเงียบอีกต่อไป: การเปลี่ยนผู้ให้บริการมีตัวสำรองรองรับ",
       "uk": "Пошук більше не мовчки ламається: зміни провайдера тепер підстраховані"
     },
-    "c1.l1": {
+    "c2.l1": {
       "en": "When a model provider renames its models or changes its API overnight, every fallback now heals or explains itself — you see the real reason instead of a generic warning",
       "zh": "模型服务悄悄改名或改接口时，备用线路会自动修复或说明真正原因，不再只给一句笼统的警告",
       "es": "Cuando un proveedor renombra modelos o cambia su API, los respaldos se autorreparan o explican la causa real en lugar de una advertencia genérica",
@@ -8652,7 +8652,7 @@
       "th": "เมื่อผู้ให้บริการเปลี่ยนชื่อโมเดลหรือเปลี่ยน API ระบบสำรองจะซ่อมตัวเองหรือบอกเหตุผลจริง แทนคำเตือนทั่วไป",
       "uk": "Коли провайдер перейменовує моделі чи змінює API, резервні канали лагодять себе самі або називають справжню причину замість загального попередження"
     },
-    "c1.l2": {
+    "c2.l2": {
       "en": "One-stray-token “replies” (an “I”, a heart) are never sent to you — the next provider answers instead",
       "zh": "只有一个字的“假回复”（“我”、一个爱心）不会再发给你——会自动换下一个模型回答",
       "es": "Las «respuestas» de un solo token (una «I», un corazón) ya no se envían: responde el siguiente proveedor",
@@ -8673,7 +8673,7 @@
       "th": "“คำตอบ” ที่เหลือแค่โทเคียวเดียว (“I”, หัวใจดวงเดียว) จะไม่ถูกส่งอีก ผู้ให้บริการถัดไปจะตอบแทน",
       "uk": "“Відповіді” з одного токена (“I”, сердечко) більше не надсилаються — відповідає наступний провайдер"
     },
-    "c1.l3": {
+    "c2.l3": {
       "en": "Price and news questions always run a real lookup first — no more invented “latest news”",
       "zh": "价格、新闻类问题一定先做真实查询——不再凭空编“最新消息”",
       "es": "Las preguntas de precios y noticias siempre hacen una búsqueda real: nada de «últimas noticias» inventadas",
@@ -8693,6 +8693,111 @@
       "vi": "Câu hỏi giá và tin tức luôn tra cứu thật trước — hết chuyện bịa “tin mới nhất”",
       "th": "คำถามราคาและข่าวจะค้นหาจริงก่อนเสมอ — หมดข่าว “ล่าสุด” ที่แต่งขึ้น",
       "uk": "Питання про ціни та новини завжди спочатку роблять справжній пошук — жодних вигаданих “останніх новин”"
+    },
+    "c1.date": {
+      "en": "25 Oct 2026",
+      "zh": "2026年10月25日",
+      "es": "25 oct 2026",
+      "ja": "2026年10月25日",
+      "de": "25. Okt. 2026",
+      "fr": "25 oct. 2026",
+      "pt": "25 out. 2026",
+      "ko": "2026년 10월 25일",
+      "it": "25 ott 2026",
+      "ru": "25 окт. 2026",
+      "ar": "٢٥ أكتوبر ٢٠٢٦",
+      "hi": "25 अक्तूबर 2026",
+      "id": "25 Okt 2026",
+      "tr": "25 Eki 2026",
+      "nl": "25 okt 2026",
+      "pl": "25 paź 2026",
+      "vi": "25 Th10 2026",
+      "th": "25 ต.ค. 2026",
+      "uk": "25 жовт. 2026"
+    },
+    "c1.summary": {
+      "en": "Stock quotes now actually work on every Mac",
+      "zh": "股票行情现在在每一台 Mac 上都能用了",
+      "es": "Las cotizaciones ya funcionan de verdad en cada Mac",
+      "ja": "株式相場がすべてのMacで本当に動くようになりました",
+      "de": "Kursdaten funktionieren jetzt wirklich auf jedem Mac",
+      "fr": "Les cours de bourse fonctionnent enfin sur chaque Mac",
+      "pt": "Cotações de ações agora funcionam de verdade em todo Mac",
+      "ko": "주가 조회가 이제 모든 Mac에서 실제로 동작합니다",
+      "it": "I prezzi azionari ora funzionano davvero su ogni Mac",
+      "ru": "Котировки акций теперь действительно работают на каждом Mac",
+      "ar": "أسعار الأسهم أصبحت تعمل فعلاً على كل جهاز Mac",
+      "hi": "स्टॉक कोट अब हर Mac पर सच में काम करते हैं",
+      "id": "Kutipan saham kini benar-benar berfungsi di setiap Mac",
+      "tr": "Hisse fiyatları artık her Mac'te gerçekten çalışıyor",
+      "nl": "Koersopgaven werken nu echt op elke Mac",
+      "pl": "Kursy akcji naprawdę działają na każdym Macu",
+      "vi": "Giá cổ phiều bây giờ thật sự chạy trên mọi Mac",
+      "th": "ราคาหุ้นใช้งานได้เลยจริงบนทุก Mac",
+      "uk": "Котирування акцій тепер справді працюють на кожному Mac"
+    },
+    "c1.l1": {
+      "en": "Ticker lookups and price alerts were silently broken on installed Macs (a missing library only the dev machine had) — quotes, alerts, and price checks now run natively with zero setup",
+      "zh": "行情查询和价格提醒此前在安装的 Mac 上悄悄失灵（只有开发机装了某个库）——如今行情、提醒、价格检查全部原生运行，无需配置",
+      "es": "Consultas de tickers y alertas de precio estaban rotas en silencio en los Mac instalados (faltaba una librería que solo tenía la máquina de desarrollo): ahora todo funciona de forma nativa, sin configuración",
+      "ja": "ティッカー照会と価格アラートは導入済みMacでは静かに故障していました（開発環境だけのライブラリ依存）——相場・アラート・価格チェックはすべてセットアップ不要のネイティブ動作に",
+      "de": "Ticker-Abfragen und Preis-Alarme waren auf installierten Macs still defekt (eine Bibliothek fehlte, die nur der Entwicklungsrechner hatte) — Kurse, Alarme und Preisprüfungen laufen jetzt nativ ohne Einrichtung",
+      "fr": "Les recherches de tickers et alertes de prix étaient silencieusement cassées sur les Mac installés (une bibliothèque absente, présente seulement sur la machine de dev) — cours, alertes et vérifications tournent désormais en natif, sans configuration",
+      "pt": "Consultas de tickers e alertas de preço estavam silenciosamente quebrados nos Macs instalados (uma biblioteca só existia na máquina de desenvolvimento) — cotações, alertas e verificações rodam nativos, sem configuração",
+      "ko": "티커 조회와 가격 알림이 설치된 Mac에서 조용히 고장 나 있었습니다(개발 머신에만 있던 라이브러리 의존) — 시세·알림·가격 확인이 설정 없이 네이티브로 동작합니다",
+      "it": "Ricerche di ticker e avvisi di prezzo erano silenziosamente rotti sui Mac installati (una libreria presente solo sulla macchina di sviluppo) — quotazioni, avvisi e controlli funzionano nativi, senza configurazione",
+      "ru": "Запросы тикеров и ценовые оповещения молча не работали на установленных Mac (библиотека была только на машине разработчика) — котировки, оповещения и проверки цен теперь работают нативно, без настройки",
+      "ar": "كانت عمليات البحث عن الرموز وتنبيهات الأسعار معطلة بصمت على الأجهزة المثبّتة (مكتبة ناقصة كانت موجودة فقط على جهاز التطوير) — الآن الأسعار والتنبيهات تعمل أصليًا دون أي إعداد",
+      "hi": "टिकर खोज और मूल्य अलर्ट इंस्टॉल किए गए Mac पर चुपचाप टूटे हुए थे (एक लाइब्रेरी सिर्फ डेव मशीन पर थी) — कोट, अलर्ट और कीमत जाँच अब सेटअप के बिना नेटिव चलते हैं",
+      "id": "Pencarian ticker dan alert harga diam-diam rusak di Mac terpasang (sebuah pustaka hanya ada di mesin dev) — kutipan, alert, dan cek harga kini berjalan native tanpa penyetelan",
+      "tr": "Ticker sorguları ve fiyat uyarıları kurulu Mac'lerde sessizce bozuktu (yalnızca geliştirme makinesinde olan bir kitaplık) — fiyatlar, uyarılar ve kontrol artık kurulum gerektirmeden yerel çalışıyor",
+      "nl": "Tickeropgaves en prijsalerts waren stil defect op geïnstalleerde Macs (een bibliotheek die alleen de dev-machine had) — koers, alerts en prijscontroles draaien nu native zonder setup",
+      "pl": "Wyszukiwanie tickerów i alerty cenowe po cichu nie działały na zainstalowanych Macach (biblioteka była tylko na maszynie deweloperskiej) — kursy, alerty i sprawdzenia działają natywnie bez konfiguracji",
+      "vi": "Tra cứu mã chứng khoán và cảnh báo giá âm thầm hỏng trên các Mac cài đặt (một thư viện chỉ có ở máy phát triển) — giá, cảnh báo và kiểm tra giá nay chạy gốc mà không cần cấu hình",
+      "th": "การค้นหารหัสหุ้นและการแจ้งเตือนราคาพังเงียบ ๆ บนเครื่องที่ติดตั้ง (ไลบรารีมีแค่ในเครื่องนักพัฒนา) — ราคา การแจ้งเตือน และการเช็กราคาทำงานแบบเนทีฟโดยไม่ต้องตั้งค่า",
+      "uk": "Запити тікерів і цінові сповіщення мовчки не працювали на встановлених Mac (бібліотека існувала лише на машині розробника) — котирування, сповіщення й перевірки цін тепер працюють нативно, без налаштувань"
+    },
+    "c1.l2": {
+      "en": "Two free quote sources with automatic failover and honest errors when both are down",
+      "zh": "两个免费行情源自动切换，两边都不可用时给出诚实的错误提示",
+      "es": "Dos fuentes de cotizaciones gratuitas con cambio automático y errores honestos si ambas fallan",
+      "ja": "無料の相場ソースを2系統、自動フェイルオーバー、両方ダウン時は正直なエラー表示",
+      "de": "Zwei kostenlose Kursquellen mit automatischem Failover und ehrlichen Fehlern, wenn beide ausfallen",
+      "fr": "Deux sources de cours gratuites avec bascule automatique et des erreurs honnêtes si les deux tombent",
+      "pt": "Duas fontes gratuitas de cotação com alternância automática e erros honestos quando ambas caem",
+      "ko": "두 개의 무료 시세 소스, 자동 장애 조치, 둘 다 내려가면 정직한 오류 표시",
+      "it": "Due fonti di prezzi gratuite con failover automatico ed errori onesti quando cadono entrambe",
+      "ru": "Два бесплатных источника котировок с автоматическим переключением и честной ошибкой, когда оба недоступны",
+      "ar": "مصدران مجانيان لأسعار الأسهم مع تحويل تلقائي ورسالة خطأ صادقة عند تعطلهما معًا",
+      "hi": "दो कोट स्रोह स्वचालित फ़ेवर और दोनों गिरने पर ईमानदार त्रुटि",
+      "id": "Dua sumber kutipan gratis dengan failover otomatis dan galat jujur saat keduanya mati",
+      "tr": "İki ücretsiz fiyat kaynağı, otomatik yedekleme ve ikisi de düştüğünde dürüst hata",
+      "nl": "Twee gratis koersbronnen met automatische failover en eerlijke fouten als beide uitvallen",
+      "pl": "Dwa darmowe źródła kursów z automatycznym przełączaniem i uczciwym błędem, gdy oba padną",
+      "vi": "Hai nguón giá miến phí tự chuyễn đổi, và báo lỗi thật khi cả hai ngùng",
+      "th": "แหล่งราคาฟรีสองแห่ง สลับอัตโนมัติ และแจ้งข้อผิดพลาดตรงไปตรงมาเมื่อล่มทั้งคู่",
+      "uk": "Два безплатні джерела котирувань з автоматичним перемиканням і чесною помилкою, коли обидва недоступні"
+    },
+    "c1.l3": {
+      "en": "Canadian listings show real CAD prices — SHOP.TO now reads C$236.20 with the day range",
+      "zh": "加拿大股票显示真实加元价格——SHOP.TO 现在显示 C$236.20 及当日区间",
+      "es": "Los títulos canadienses muestran precios reales en CAD: SHOP.TO ahora se lee C$236.20 con el rango del día",
+      "ja": "カナダ上場銘柄は実勢CAD価格を表示——SHOP.TOは C$236.20 と当日レンジで",
+      "de": "Kanadische Titel zeigen echte CAD-Preise — SHOP.TO liest sich jetzt C$236.20 mit Tagesspanne",
+      "fr": "Les titres canadiens affichent de vrais prix en CAD — SHOP.TO s'affiche C$236.20 avec la plage du jour",
+      "pt": "Ações canadenses mostram preços reais em CAD — SHOP.TO agora aparece como C$236.20 com a faixa do dia",
+      "ko": "캐나다 상장 종목은 실제 CAD 가격을 표시 — SHOP.TO가 이제 C$236.20과 당일 레인지로 보입니다",
+      "it": "I titoli canadesi mostrano prezzi CAD reali — SHOP.TO ora si legge C$236.20 con il range giornaliero",
+      "ru": "Канадские бумаги показывают реальные цены в CAD — SHOP.TO теперь читается как C$236.20 с дневным диапазоном",
+      "ar": "الأسهم الكندية تعرض أسعارًا حقيقية بالدولار الكندي — SHOP.TO أصبح يظهر C$236.20 مع نطاق اليوم",
+      "hi": "कनाडाई लिस्टिंग असली CAD कीमत दिखाते हैं — SHOP.TO अब C$236.20 और दिन की सीमा के साथ",
+      "id": "Saham Kanada menampilkan harga CAD nyata — SHOP.TO kini terbaca C$236.20 dengan rentang hari",
+      "tr": "Kanada hisseleri gerçek CAD fiyat gösteriyor — SHOP.TO artık C$236.20 ve gün aralığıyla okunuyor",
+      "nl": "Canadese titels tonen echte CAD-prijzen — SHOP.TO leest nu C$236.20 met de dagspreiding",
+      "pl": "Kanadyjskie spółki pokazują realne ceny w CAD — SHOP.TO czyta się teraz C$236.20 z zakresem dnia",
+      "vi": "Cổ phiều Canada hiển thị giá CAD thật — SHOP.TO nay đọc là C$236.20 kèm biên độ trong ngày",
+      "th": "หุ้นแคนาดาแสดงราคา CAD จริง — SHOP.TO อ่านเป็น C$236.20 พร้อมช่วงราคาของวัน",
+      "uk": "Канадські папери показують реальні ціни в CAD — SHOP.TO тепер читається як C$236.20 із денним діапазоном"
     },
     "c0.date": {
       "en": "25 Oct 2026",
@@ -8716,88 +8821,88 @@
       "uk": "25 жовт. 2026"
     },
     "c0.summary": {
-      "en": "Stock quotes now actually work on every Mac",
-      "zh": "股票行情现在在每一台 Mac 上都能用了",
-      "es": "Las cotizaciones ya funcionan de verdad en cada Mac",
-      "ja": "株式相場がすべてのMacで本当に動くようになりました",
-      "de": "Kursdaten funktionieren jetzt wirklich auf jedem Mac",
-      "fr": "Les cours de bourse fonctionnent enfin sur chaque Mac",
-      "pt": "Cotações de ações agora funcionam de verdade em todo Mac",
-      "ko": "주가 조회가 이제 모든 Mac에서 실제로 동작합니다",
-      "it": "I prezzi azionari ora funzionano davvero su ogni Mac",
-      "ru": "Котировки акций теперь действительно работают на каждом Mac",
-      "ar": "أسعار الأسهم أصبحت تعمل فعلاً على كل جهاز Mac",
-      "hi": "स्टॉक कोट अब हर Mac पर सच में काम करते हैं",
-      "id": "Kutipan saham kini benar-benar berfungsi di setiap Mac",
-      "tr": "Hisse fiyatları artık her Mac'te gerçekten çalışıyor",
-      "nl": "Koersopgaven werken nu echt op elke Mac",
-      "pl": "Kursy akcji naprawdę działają na każdym Macu",
-      "vi": "Giá cổ phiều bây giờ thật sự chạy trên mọi Mac",
-      "th": "ราคาหุ้นใช้งานได้เลยจริงบนทุก Mac",
-      "uk": "Котирування акцій тепер справді працюють на кожному Mac"
+      "en": "A dependency audit — the features that secretly needed extra software now work out of the box",
+      "zh": "一次依赖体检——那些暗地里需要额外软件的功能，现在开箱即用",
+      "es": "Una auditoría de dependencias: lo que necesitaba software extra ya funciona de fábrica",
+      "ja": "依存関係の監査——裏で追加ソフトを必要としていた機能がそのまま動くように",
+      "de": "Ein Abhängigkeits-Audit: Funktionen, die heimlich Zusatzsoftware brauchten, gehen jetzt ab Werk",
+      "fr": "Un audit des dépendances : ce qui exigeait en secret des logiciels supplémentaires fonctionne d'emblée",
+      "pt": "Uma auditoria de dependências: o que exigia software extra agora funciona de fábrica",
+      "ko": "의존성 감사 — 몰래 추가 소프트웨어를 필요로 하던 기능들이 이제 바로 동작합니다",
+      "it": "Un'audit delle dipendenze: ciò che richiedeva software extra ora funziona subito",
+      "ru": "Ревизия зависимостей: функции, которым тайно нужно было дополнительное ПО, теперь работают из коробки",
+      "ar": "تدقيق الاعتماديات: ما كان خلسةً يتطلب برمجيات إضافية يعمل الآن مباشرة",
+      "hi": "डिपेंडेंसी ऑडिट — जो फीचर छुपे-छुपे अतिरिक्त सॉफ़्टवेयर माँगते थे, अब सीधे चलते हैं",
+      "id": "Audit dependensi: fitur yang diam-diam butuh perangkat lunak tambahan kini langsung jalan",
+      "tr": "Bağımlılık denetimi — gizlice ek yazılım isteyen özellikler artık kutudan çıkar çıkmaz çalışıyor",
+      "nl": "Een afhankelijkheidsaudit — functies die stiekem extra software nodig hadden werken nu meteen",
+      "pl": "Audyt zależności: funkcje, które po cichu wymagały dodatkowego oprogramowania, działają od razu",
+      "vi": "Kiểm tra phụ thuộc — những tính năng âm thầm cần phần mềm thêm nay chạy ngay",
+      "th": "ตรวจDependencies — ฟีเจอร์ที่เคยแอบต้องใช้ซอฟต์แวร์เพิ่ม ตอนนี้ใช้งานได้ทันที",
+      "uk": "Ревізія залежностей: функції, які таємно вимагали додаткового ПЗ, тепер працюють одразу"
     },
     "c0.l1": {
-      "en": "Ticker lookups and price alerts were silently broken on installed Macs (a missing library only the dev machine had) — quotes, alerts, and price checks now run natively with zero setup",
-      "zh": "行情查询和价格提醒此前在安装的 Mac 上悄悄失灵（只有开发机装了某个库）——如今行情、提醒、价格检查全部原生运行，无需配置",
-      "es": "Consultas de tickers y alertas de precio estaban rotas en silencio en los Mac instalados (faltaba una librería que solo tenía la máquina de desarrollo): ahora todo funciona de forma nativa, sin configuración",
-      "ja": "ティッカー照会と価格アラートは導入済みMacでは静かに故障していました（開発環境だけのライブラリ依存）——相場・アラート・価格チェックはすべてセットアップ不要のネイティブ動作に",
-      "de": "Ticker-Abfragen und Preis-Alarme waren auf installierten Macs still defekt (eine Bibliothek fehlte, die nur der Entwicklungsrechner hatte) — Kurse, Alarme und Preisprüfungen laufen jetzt nativ ohne Einrichtung",
-      "fr": "Les recherches de tickers et alertes de prix étaient silencieusement cassées sur les Mac installés (une bibliothèque absente, présente seulement sur la machine de dev) — cours, alertes et vérifications tournent désormais en natif, sans configuration",
-      "pt": "Consultas de tickers e alertas de preço estavam silenciosamente quebrados nos Macs instalados (uma biblioteca só existia na máquina de desenvolvimento) — cotações, alertas e verificações rodam nativos, sem configuração",
-      "ko": "티커 조회와 가격 알림이 설치된 Mac에서 조용히 고장 나 있었습니다(개발 머신에만 있던 라이브러리 의존) — 시세·알림·가격 확인이 설정 없이 네이티브로 동작합니다",
-      "it": "Ricerche di ticker e avvisi di prezzo erano silenziosamente rotti sui Mac installati (una libreria presente solo sulla macchina di sviluppo) — quotazioni, avvisi e controlli funzionano nativi, senza configurazione",
-      "ru": "Запросы тикеров и ценовые оповещения молча не работали на установленных Mac (библиотека была только на машине разработчика) — котировки, оповещения и проверки цен теперь работают нативно, без настройки",
-      "ar": "كانت عمليات البحث عن الرموز وتنبيهات الأسعار معطلة بصمت على الأجهزة المثبّتة (مكتبة ناقصة كانت موجودة فقط على جهاز التطوير) — الآن الأسعار والتنبيهات تعمل أصليًا دون أي إعداد",
-      "hi": "टिकर खोज और मूल्य अलर्ट इंस्टॉल किए गए Mac पर चुपचाप टूटे हुए थे (एक लाइब्रेरी सिर्फ डेव मशीन पर थी) — कोट, अलर्ट और कीमत जाँच अब सेटअप के बिना नेटिव चलते हैं",
-      "id": "Pencarian ticker dan alert harga diam-diam rusak di Mac terpasang (sebuah pustaka hanya ada di mesin dev) — kutipan, alert, dan cek harga kini berjalan native tanpa penyetelan",
-      "tr": "Ticker sorguları ve fiyat uyarıları kurulu Mac'lerde sessizce bozuktu (yalnızca geliştirme makinesinde olan bir kitaplık) — fiyatlar, uyarılar ve kontrol artık kurulum gerektirmeden yerel çalışıyor",
-      "nl": "Tickeropgaves en prijsalerts waren stil defect op geïnstalleerde Macs (een bibliotheek die alleen de dev-machine had) — koers, alerts en prijscontroles draaien nu native zonder setup",
-      "pl": "Wyszukiwanie tickerów i alerty cenowe po cichu nie działały na zainstalowanych Macach (biblioteka była tylko na maszynie deweloperskiej) — kursy, alerty i sprawdzenia działają natywnie bez konfiguracji",
-      "vi": "Tra cứu mã chứng khoán và cảnh báo giá âm thầm hỏng trên các Mac cài đặt (một thư viện chỉ có ở máy phát triển) — giá, cảnh báo và kiểm tra giá nay chạy gốc mà không cần cấu hình",
-      "th": "การค้นหารหัสหุ้นและการแจ้งเตือนราคาพังเงียบ ๆ บนเครื่องที่ติดตั้ง (ไลบรารีมีแค่ในเครื่องนักพัฒนา) — ราคา การแจ้งเตือน และการเช็กราคาทำงานแบบเนทีฟโดยไม่ต้องตั้งค่า",
-      "uk": "Запити тікерів і цінові сповіщення мовчки не працювали на встановлених Mac (бібліотека існувала лише на машині розробника) — котирування, сповіщення й перевірки цін тепер працюють нативно, без налаштувань"
+      "en": "Reminders understand real English times (\"tomorrow at 9am\", \"friday 5pm\", \"in two hours\") with no extra libraries",
+      "zh": "提醒功能直接理解真实英语时间（“明天上午9点”“周五下午5点”“两小时后”），不再依赖额外库",
+      "es": "Los recordatorios entienden horas en inglés real (“mañana a las 9”, “viernes 5pm”, “en dos horas”) sin librerías extra",
+      "ja": "リマインダーは余計なライブラリなしで自然な英語の時刻（“tomorrow at 9am”“friday 5pm”）を理解",
+      "de": "Erinnerungen verstehen echte englischen Zeitangaben (“tomorrow at 9am”, “friday 5pm”) ganz ohne Zusatzbibliotheken",
+      "fr": "Les rappels comprennent les heures en anglais réel (“demain 9 h”, “vendredi 17 h”, “dans deux heures”) sans bibliothèque supplémentaire",
+      "pt": "Lembretes entendem horários reais em inglês (“tomorrow at 9am”, “friday 5pm”) sem bibliotecas extras",
+      "ko": "리마인더가 추가 라이브러리 없이 자연스러운 영어 시각(“내일 오전 9시”, “금요일 오후 5시”)을 이해합니다",
+      "it": "I promemoria capiscono orari in inglese reale (“domani alle 9”, “venerdì 17”) senza librerie aggiuntive",
+      "ru": "Напоминания понимают настоящие английские времена (“завтра в 9”, “в пятницу в 5”) без дополнительных библиотек",
+      "ar": "التذكيرات تفهم أوقاتًا إنجليزية حقيقية («غدًا ٩ صباحًا»، «الجمعة ٥ مساءً») دون مكتبات إضافية",
+      "hi": "रिमाइंडर असली अंग्रेज़ी समय समझते हैं (“kal 9 बजे”, “शुक्रवार 5 बजे”) बिना अतिरिक्त लाइब्रेरी",
+      "id": "Pengingat memahami waktu bahasa Inggris asli (“besok jam 9”, “jumat 5 sore”) tanpa pustaka tambahan",
+      "tr": "Hatırlatmalar ek kütüphane olmadan gerçek İngilizce saatleri anlıyor (“yarın 9”, “cuma 5”)",
+      "nl": "Herinneringen begrijpen echte Engelse tijden (“tomorrow at 9am”, “friday 5pm”) zonder extra bibliotheken",
+      "pl": "Przypomnienia rozumieją prawdziwe angielskie godziny (“jutro 9 rano”, “piątek 17:00”) bez dodatkowych bibliotek",
+      "vi": "Nhắc nhở hiểu giờ tiếng Anh thật (“mai 9 giờ”, “thứ sáu 5 giờ chiều”) mà không cần thư viện thêm",
+      "th": "การเตือนเข้าใจเวลาภาษาอังกฤษจริง (“พรุ่งนี้ 9 โมง” “ศุกร์ 5 โมง”) โดยไม่ต้องมีไลบรารีเพิ่ม",
+      "uk": "Нагадування розуміють справжній англійський час (“завтра о 9”, “пʼятниця 17:00”) без додаткових бібліотек"
     },
     "c0.l2": {
-      "en": "Two free quote sources with automatic failover and honest errors when both are down",
-      "zh": "两个免费行情源自动切换，两边都不可用时给出诚实的错误提示",
-      "es": "Dos fuentes de cotizaciones gratuitas con cambio automático y errores honestos si ambas fallan",
-      "ja": "無料の相場ソースを2系統、自動フェイルオーバー、両方ダウン時は正直なエラー表示",
-      "de": "Zwei kostenlose Kursquellen mit automatischem Failover und ehrlichen Fehlern, wenn beide ausfallen",
-      "fr": "Deux sources de cours gratuites avec bascule automatique et des erreurs honnêtes si les deux tombent",
-      "pt": "Duas fontes gratuitas de cotação com alternância automática e erros honestos quando ambas caem",
-      "ko": "두 개의 무료 시세 소스, 자동 장애 조치, 둘 다 내려가면 정직한 오류 표시",
-      "it": "Due fonti di prezzi gratuite con failover automatico ed errori onesti quando cadono entrambe",
-      "ru": "Два бесплатных источника котировок с автоматическим переключением и честной ошибкой, когда оба недоступны",
-      "ar": "مصدران مجانيان لأسعار الأسهم مع تحويل تلقائي ورسالة خطأ صادقة عند تعطلهما معًا",
-      "hi": "दो कोट स्रोह स्वचालित फ़ेवर और दोनों गिरने पर ईमानदार त्रुटि",
-      "id": "Dua sumber kutipan gratis dengan failover otomatis dan galat jujur saat keduanya mati",
-      "tr": "İki ücretsiz fiyat kaynağı, otomatik yedekleme ve ikisi de düştüğünde dürüst hata",
-      "nl": "Twee gratis koersbronnen met automatische failover en eerlijke fouten als beide uitvallen",
-      "pl": "Dwa darmowe źródła kursów z automatycznym przełączaniem i uczciwym błędem, gdy oba padną",
-      "vi": "Hai nguón giá miến phí tự chuyễn đổi, và báo lỗi thật khi cả hai ngùng",
-      "th": "แหล่งราคาฟรีสองแห่ง สลับอัตโนมัติ และแจ้งข้อผิดพลาดตรงไปตรงมาเมื่อล่มทั้งคู่",
-      "uk": "Два безплатні джерела котирувань з автоматичним перемиканням і чесною помилкою, коли обидва недоступні"
+      "en": "Voice notes and spoken replies now use what your Mac already has: the local model server for transcription, macOS's own voice for replies",
+      "zh": "语音转文字用本机模型服务器，语音回复用 macOS 自带嗓音——都用你 Mac 已有的能力",
+      "es": "Las notas de voz y las respuestas habladas usan lo que tu Mac ya tiene: el servidor local para transcribir y la voz del sistema para responder",
+      "ja": "ボイスメモの文字起こしはローカルモデルサーバー、音声返信はmacOS標準の声と、Macにあるものだけを使用",
+      "de": "Sprachnotizen und gesprochene Antworten nutzen, was der Mac schon hat: lokaler Modellserver zum Transkribieren, die Systemstimme zum Antworten",
+      "fr": "Notes vocales et réponses parlées n'utilisent que ce que le Mac possède : le serveur local pour transcrire, la voix du système pour répondre",
+      "pt": "Notas de voz e respostas faladas usam o que o Mac já tem: o servidor local para transcrever e a voz do sistema para responder",
+      "ko": "음성 메모 전사는 로컬 모델 서버, 음성 답장은 macOS 기본 음성 — Mac에 이미 있는 것만 사용합니다",
+      "it": "Note vocali e risposte parlate usano ciò che il Mac ha già: il server locale per trascrivere e la voce di sistema per rispondere",
+      "ru": "Голосовые заметки и ответы озвучкой используют то, что уже есть в Mac: локальный сервер для распознавания и системный голос",
+      "ar": "التدوين الصوتي والردود المنطوقة تستخدم ما يملكه جهازك أصلًا: الخادم المحلي للتفريغ وصوت النظام للرد",
+      "hi": "वॉइस नोट और बोलकर जवाब आपके Mac में पहले से जो है उसी से: ट्रांसक्रिप्शन लोकल सर्वर से, आवाज़ macOS की अपनी",
+      "id": "Note suara dan balasan bicara memakai yang sudah ada di Mac: server lokal untuk transkripsi, suara bawaan macOS untuk balasan",
+      "tr": "Sesli notlar ve sesli yanıtlar Mac'in zaten sahip olduklarını kullanır: yazıya çevirme yerel sunucudan, ses macOS'un kendisinden",
+      "nl": "Voicenotities en gesproken antwoorden gebruiken wat je Mac al heeft: de lokale modelserver voor transcriptie, de systeemstem voor antwoorden",
+      "pl": "Notatki głosowe i odpowiedzi mową korzystają z tego, co Mac już ma: lokalny serwer do transkrypcji i głos systemowy",
+      "vi": "Ghi âm và trài nghiệm gióng nói dùng ngay thứ Mac đang có: máy chủ cục bộ đễ chuyễn văn, gióng nói macOS đễ trài lời",
+      "th": "บันทึกเสียงและตอบด้วยเสียงใช้สิ่งที่ Mac มีอยู่แล้ว: เซิร์ฟเวอร์ในเครื่องสำหรับถอดเสียง และเสียงของ macOS สำหรับตอบ",
+      "uk": "Голосові нотатки й відповіді голосом використовують те, що Mac уже має: локальний сервер для розпізнавання й системний голос"
     },
     "c0.l3": {
-      "en": "Canadian listings show real CAD prices — SHOP.TO now reads C$236.20 with the day range",
-      "zh": "加拿大股票显示真实加元价格——SHOP.TO 现在显示 C$236.20 及当日区间",
-      "es": "Los títulos canadienses muestran precios reales en CAD: SHOP.TO ahora se lee C$236.20 con el rango del día",
-      "ja": "カナダ上場銘柄は実勢CAD価格を表示——SHOP.TOは C$236.20 と当日レンジで",
-      "de": "Kanadische Titel zeigen echte CAD-Preise — SHOP.TO liest sich jetzt C$236.20 mit Tagesspanne",
-      "fr": "Les titres canadiens affichent de vrais prix en CAD — SHOP.TO s'affiche C$236.20 avec la plage du jour",
-      "pt": "Ações canadenses mostram preços reais em CAD — SHOP.TO agora aparece como C$236.20 com a faixa do dia",
-      "ko": "캐나다 상장 종목은 실제 CAD 가격을 표시 — SHOP.TO가 이제 C$236.20과 당일 레인지로 보입니다",
-      "it": "I titoli canadesi mostrano prezzi CAD reali — SHOP.TO ora si legge C$236.20 con il range giornaliero",
-      "ru": "Канадские бумаги показывают реальные цены в CAD — SHOP.TO теперь читается как C$236.20 с дневным диапазоном",
-      "ar": "الأسهم الكندية تعرض أسعارًا حقيقية بالدولار الكندي — SHOP.TO أصبح يظهر C$236.20 مع نطاق اليوم",
-      "hi": "कनाडाई लिस्टिंग असली CAD कीमत दिखाते हैं — SHOP.TO अब C$236.20 और दिन की सीमा के साथ",
-      "id": "Saham Kanada menampilkan harga CAD nyata — SHOP.TO kini terbaca C$236.20 dengan rentang hari",
-      "tr": "Kanada hisseleri gerçek CAD fiyat gösteriyor — SHOP.TO artık C$236.20 ve gün aralığıyla okunuyor",
-      "nl": "Canadese titels tonen echte CAD-prijzen — SHOP.TO leest nu C$236.20 met de dagspreiding",
-      "pl": "Kanadyjskie spółki pokazują realne ceny w CAD — SHOP.TO czyta się teraz C$236.20 z zakresem dnia",
-      "vi": "Cổ phiều Canada hiển thị giá CAD thật — SHOP.TO nay đọc là C$236.20 kèm biên độ trong ngày",
-      "th": "หุ้นแคนาดาแสดงราคา CAD จริง — SHOP.TO อ่านเป็น C$236.20 พร้อมช่วงราคาของวัน",
-      "uk": "Канадські папери показують реальні ціни в CAD — SHOP.TO тепер читається як C$236.20 із денним діапазоном"
+      "en": "QR codes, big-letter ASCII art, link summaries and PDF attachments all built in — no setup, no keys, no surprises",
+      "zh": "二维码、大字 ASCII、链接摘要、PDF 附件解析全部内置——无需配置、无需密钥",
+      "es": "Códigos QR, arte ASCII, resumen de enlaces y PDFs: todo integrado, sin configuración ni claves",
+      "ja": "QRコード・ASCIIアート・リンク要約・PDF添付すべて内蔵——セットアップ不要、キー不要",
+      "de": "QR-Codes, ASCII-Kunst, Link-Zusammenfassungen und PDFs — alles eingebaut, ohne Setup und ohne Schlüssel",
+      "fr": "QR codes, art ASCII, résumés de liens et PDF : tout est intégré, sans configuration ni clés",
+      "pt": "QR codes, arte ASCII, resumo de links e PDFs — tudo embutido, sem configuração nem chaves",
+      "ko": "QR 코드, 큰 글자 ASCII 아트, 링크 요약, PDF 첨부까지 전부 내장 — 설정도 키도 필요 없습니다",
+      "it": "Codici QR, arte ASCII, riepiloghi di link e PDF: tutto integrato, senza configurazione né chiavi",
+      "ru": "QR-коды, ASCII-арт, саммари ссылок и PDF — всё встроено, без настройки и ключей",
+      "ar": "رموز QR وفن ASCII وملخصات الروابط وملفات PDF — كلها مدمجة بلا إعدادات ولا مفاتيح",
+      "hi": "QR कोड, बड़ा ASCII आर्ट, लिंक सारांश और PDF — सब अंदरूनी, कोई सेटअप या की नहीं",
+      "id": "Kode QR, seni ASCII, ringkasan tautan, dan PDF — semua bawaan, tanpa penyetelan atau kunci",
+      "tr": "QR kodları, büyük ASCII yazılar, bağlantı özetleri ve PDF'ler — hepsi dahili, kurulum ve anahtar yok",
+      "nl": "QR-codes, grote ASCII-lettertekens, link-samenvattingen en PDFs — allemaal ingebouwd, zonder setup of sleutels",
+      "pl": "Kody QR, sztuka ASCII, streszczenia linków i PDF-y — wszystko wbudowane, bez konfiguracji i kluczy",
+      "vi": "Mã QR, chử ASCII lốn, tóm tắt liên kết và PDF — tât cả đều tích hợp, không cần cài đặt hay khóa",
+      "th": "QR code, ตัวอักษร ASCII ใหญ่, สรุป链接และไฟล์ PDF — ฝังมาให้หมด ไม่ต้องตั้งค่า ไม่ต้องมีคีย์",
+      "uk": "QR-коди, ASCII-мистецтво, перекази посилань і PDF — усе вбудоване, без налаштувань і ключів"
     }
   }
 }
