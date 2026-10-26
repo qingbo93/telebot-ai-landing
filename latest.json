@@ -1,13 +1,13 @@
 {
-  "version": "1.0.23",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.23.dmg",
-  "notes": "Voice replies no longer repeat the \"I heard\" receipt: the display header leaked into chat history and the model learned to parrot it. It is now stripped from output, never stored, and polluted histories are healed at startup.",
+  "version": "1.0.24",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.24.dmg",
+  "notes": "Recurring reminders and daily tasks now survive restarts and app updates — and reminders can do real work: ask for a daily weather report or news recap and the actual report arrives. The update progress bar finally tracks the download.",
   "published": "2026-10-26",
-  "notes_zh": "语音回复不再重复“我听到”回执——显示用的回执头曾进入聊天历史，模型学会了鹦鹉学舌。如今它从模型输出中剥离、永不被存储，被旧版本污染的历史会在启动时自动治愈。",
+  "notes_zh": "定时提醒和每日任务不再因重启或更新而消失；提醒现在还能“干活”——设置每天早上的天气报告或新闻摘要，到点自动把真正的报告送到你手里。更新进度条也不再卡住了。",
   "changelog": {
-    "v1.0.23": {
-      "en": "Voice replies no longer repeat the \"I heard\" receipt — the display header leaked into chat history and the model learned to parrot it. It is now stripped from output, never stored, and polluted histories are healed at startup.",
-      "zh": "语音回复不再重复“我听到”回执——显示用的回执头曾进入聊天历史，模型学会了鹦鹉学舌。如今它从模型输出中剥离、永不被存储，被旧版本污染的历史会在启动时自动治愈。"
+    "v1.0.24": {
+      "en": "Recurring reminders and daily tasks now survive restarts and app updates — and reminders can do real work: ask for a daily weather report or news recap and the actual report arrives. The update progress bar finally tracks the download.",
+      "zh": "定时提醒和每日任务不再因重启或更新而消失；提醒现在还能“干活”——设置每天早上的天气报告或新闻摘要，到点自动把真正的报告送到你手里。更新进度条也不再卡住了。"
     }
   }
 }
