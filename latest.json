@@ -1,7 +1,7 @@
 {
-  "version": "1.0.20",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.20.dmg",
-  "notes": "Voice notes actually transcribe now. The bot discovers the speech-to-text model on your server instead of asking for one it doesn't have, and decodes Telegram's audio format before sending it. The 'not supported' message now names exactly what's missing instead of guessing.",
+  "version": "1.0.21",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.21.dmg",
+  "notes": "Voice notes now transcribe even on machines without MLX Core: the bot uses the model providers you already configured (OpenAI, Groq, or any OpenAI-compatible endpoint with a whisper model). Anthropic is skipped automatically. Free-tier users never consume the owner's paid keys.",
   "published": "2026-10-26",
-  "notes_zh": "语音消息现在真正能转成文字了。bot 会自动发现服务器上的语音转写模型，并在发送前先解码 Telegram 的音频格式。“暂不支持”的提示现在会明确说出缺什么，而不是瞎猜。"
+  "notes_zh": "没有 MLX Core 的电脑现在也能转写语音消息了：bot 会使用你已配置的模型服务商（OpenAI、Groq 或任何带 whisper 模型的 OpenAI 兼容端点）。Anthropic 会被自动跳过。免费用户不会消耗拥有者的付费密钥。"
 }
