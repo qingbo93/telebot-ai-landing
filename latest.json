@@ -1,7 +1,7 @@
 {
-  "version": "1.0.18",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.18.dmg",
-  "notes": "Voice notes actually get heard now. Two plumbing bugs were fixed: the transcription request called a malformed URL and the fallback speech model had an invalid name. If your model server keeps transcription host-local, the bot now retries over loopback automatically, and real failure reasons land in the log instead of vanishing.",
+  "version": "1.0.19",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.19.dmg",
+  "notes": "No more one-word mystery replies. When the model server is busy it can cut an answer after a single word — those stubs are now caught and retried silently before you ever see them. Truncated replies no longer pollute chat history (they were teaching the bot to answer in one word), and old ones are cleaned out on startup.",
   "published": "2026-10-25",
-  "notes_zh": "语音消息现在真的能被听懂了。修复两个底层问题：转写请求曾拼出格式错误的网址，本地兜底语音模型名称也无效。模型服务器将转写接口限制为本机访问时，bot 会自动改用回环地址重试；失败时真实原因会记入日志而不是消失。"
+  "notes_zh": "不再有一句话的神秘回复。模型服务器繁忙时可能只回一个词就截断——现在这些残缺回复会被识别并在你看到之前自动静默重试。被截断的回复不再污染聊天记忆（它们曾把 bot 教成单词回复），旧记录会在启动时清理。"
 }
