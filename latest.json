@@ -1,7 +1,7 @@
 {
-  "version": "1.0.17",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.17.dmg",
-  "notes": "Ask for a voice note in plain words: say \\u201creply with a voice note: \\u2026\\u201d or \\u201csay that out loud\\u201d and momo sends a real audio bubble \\u2014 using the Mac's own voice when cloud text-to-speech isn't set up. The /voice on toggle still speaks every answer automatically.",
+  "version": "1.0.18",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.18.dmg",
+  "notes": "Voice notes actually get heard now. Two plumbing bugs were fixed: the transcription request called a malformed URL and the fallback speech model had an invalid name. If your model server keeps transcription host-local, the bot now retries over loopback automatically, and real failure reasons land in the log instead of vanishing.",
   "published": "2026-10-25",
-  "notes_zh": "一句话就能要一条语音：说\\u201c用语音回复：……\\u201d或\\u201c大声读出来\\u201d，momo 就会发出真正的语音气泡——没配置云端语音时用 Mac 自带的嗓音。/voice on 开关依然会自动把每条回答读出来。"
+  "notes_zh": "语音消息现在真的能被听懂了。修复两个底层问题：转写请求曾拼出格式错误的网址，本地兜底语音模型名称也无效。模型服务器将转写接口限制为本机访问时，bot 会自动改用回环地址重试；失败时真实原因会记入日志而不是消失。"
 }
