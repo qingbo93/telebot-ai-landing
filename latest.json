@@ -3,5 +3,11 @@
   "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.22.dmg",
   "notes": "Your bot now reports its own build: /status shows the version and the 'can't transcribe' message carries the build number. One glance at the chat tells you whether the fixes on a far-away Mac have arrived.",
   "published": "2026-10-26",
-  "notes_zh": "你的 bot 现在会报告自己的版本：/status 显示版本号，“无法转写”的消息里也带构建号。在聊天里看一眼，就知道远程那台电脑上的修复到了没有。"
+  "notes_zh": "你的 bot 现在会报告自己的版本：/status 显示版本号，“无法转写”的消息里也带构建号。在聊天里看一眼，就知道远程那台电脑上的修复到了没有。",
+  "changelog": {
+    "v1.0.23": {
+      "en": "Voice replies no longer repeat the \"I heard\" receipt — the display header leaked into chat history and the model learned to parrot it. It is now stripped from output, never stored, and polluted histories are healed at startup.",
+      "zh": "语音回复不再重复“我听到”回执——显示用的回执头曾进入聊天历史，模型学会了鹦鹉学舌。如今它从模型输出中剥离、永不被存储，被旧版本污染的历史会在启动时自动治愈。"
+    }
+  }
 }
