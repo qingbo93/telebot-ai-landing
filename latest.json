@@ -1,7 +1,7 @@
 {
-  "version": "1.0.21",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.21.dmg",
-  "notes": "Voice notes now transcribe even on machines without MLX Core: the bot uses the model providers you already configured (OpenAI, Groq, or any OpenAI-compatible endpoint with a whisper model). Anthropic is skipped automatically. Free-tier users never consume the owner's paid keys.",
+  "version": "1.0.22",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.22.dmg",
+  "notes": "Your bot now reports its own build: /status shows the version and the 'can't transcribe' message carries the build number. One glance at the chat tells you whether the fixes on a far-away Mac have arrived.",
   "published": "2026-10-26",
-  "notes_zh": "没有 MLX Core 的电脑现在也能转写语音消息了：bot 会使用你已配置的模型服务商（OpenAI、Groq 或任何带 whisper 模型的 OpenAI 兼容端点）。Anthropic 会被自动跳过。免费用户不会消耗拥有者的付费密钥。"
+  "notes_zh": "你的 bot 现在会报告自己的版本：/status 显示版本号，“无法转写”的消息里也带构建号。在聊天里看一眼，就知道远程那台电脑上的修复到了没有。"
 }
