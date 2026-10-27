@@ -1,13 +1,13 @@
 {
-  "version": "1.0.24",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.0.24.dmg",
-  "notes": "Recurring reminders and daily tasks now survive restarts and app updates — and reminders can do real work: ask for a daily weather report or news recap and the actual report arrives. The update progress bar finally tracks the download.",
+  "version": "1.1.0",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.1.0.dmg",
+  "notes": "Reminders are now private per user — each member of a shared group sees only their own. New shortcuts: /reminders, /editreminder <number> <new time>, /cancelreminder <number>.",
   "published": "2026-10-26",
-  "notes_zh": "定时提醒和每日任务不再因重启或更新而消失；提醒现在还能“干活”——设置每天早上的天气报告或新闻摘要，到点自动把真正的报告送到你手里。更新进度条也不再卡住了。",
+  "notes_zh": "提醒现在按用户私有——共享群组里每位成员只看到自己的提醒。新增快捷命令：/reminders、/editreminder <序号> <新时间>、/cancelreminder <序号>。",
   "changelog": {
-    "v1.0.24": {
-      "en": "Recurring reminders and daily tasks now survive restarts and app updates — and reminders can do real work: ask for a daily weather report or news recap and the actual report arrives. The update progress bar finally tracks the download.",
-      "zh": "定时提醒和每日任务不再因重启或更新而消失；提醒现在还能“干活”——设置每天早上的天气报告或新闻摘要，到点自动把真正的报告送到你手里。更新进度条也不再卡住了。"
+    "v1.1.0": {
+      "en": "Reminders are personal now: in a shared group every member sees only their own list, and scheduled tasks run as the person who set them. New shortcuts: /reminders, /editreminder <number> <new time>, /cancelreminder <number>.",
+      "zh": "提醒现在是私人的：共享群组里每位成员只看到自己的列表，定时任务以创建者身份运行。新增快捷命令：/reminders、/editreminder <序号> <新时间>、/cancelreminder <序号>。"
     }
   }
 }
