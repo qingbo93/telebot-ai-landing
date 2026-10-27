@@ -1,10 +1,14 @@
 {
-  "version": "1.1.0",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.1.0.dmg",
-  "notes": "Reminders are now private per user — each member of a shared group sees only their own. New shortcuts: /reminders, /editreminder <number> <new time>, /cancelreminder <number>.",
-  "published": "2026-10-26",
-  "notes_zh": "提醒现在按用户私有——共享群组里每位成员只看到自己的提醒。新增快捷命令：/reminders、/editreminder <序号> <新时间>、/cancelreminder <序号>。",
+  "version": "1.1.1",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.1.1.dmg",
+  "notes": "Any schedule can now run on the spot: /runreminder <number> executes the real job right away and delivers the real result — and 'run a sample now' just works in chat. Scheduling confirmations now state what was set before anything else.",
+  "published": "2026-10-27",
+  "notes_zh": "任何计划现在都可以立即运行：/runreminder <序号> 立刻执行真正的任务并给出真实结果——在聊天里说“先跑一个看看”也会真的运行。安排确认消息会先说明已设置的内容。",
   "changelog": {
+    "v1.1.1": {
+      "en": "Run any schedule on demand: /runreminder <number> (or \"run a sample now\" in chat) executes the real job immediately — the real price, the real report — and your schedule stays untouched. Confirmations now always confirm the schedule first.",
+      "zh": "随时运行任何计划：/runreminder <序号>（或在聊天里说“先跑一个看看”）会立即执行真正的任务——真实价格、真实报告——并且不会影响你的计划安排。确认消息现在总会先确认已设置的计划。"
+    },
     "v1.1.0": {
       "en": "Reminders are personal now: in a shared group every member sees only their own list, and scheduled tasks run as the person who set them. New shortcuts: /reminders, /editreminder <number> <new time>, /cancelreminder <number>.",
       "zh": "提醒现在是私人的：共享群组里每位成员只看到自己的列表，定时任务以创建者身份运行。新增快捷命令：/reminders、/editreminder <序号> <新时间>、/cancelreminder <序号>。"
