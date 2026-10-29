@@ -1,6 +1,8 @@
 {
   "version": "1.1.3",
   "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.1.3.dmg",
+  "sha256": "f79b0973d4a4ec0bf4c3193f15d7c58f998128855bdd1d68de62d7aaccc055ec",
+  "sig": "zFC78Q3FQKjcbiqs+hbmoM4hKy4bL68QmPIC2yr43sWeWmsuve7snqDcl6hxWvFpGfQA5MC8wh2ln3F1oOgeAg==",
   "notes": "Reminder edits and cancels are now honest: 'edit reminder 2' or 'cancel my reminder' always performs the real change before replying — and a failed edit says so plainly instead of pretending success.",
   "published": "2026-10-28",
   "notes_zh": "提醒的修改与取消现在完全可信：“修改提醒 2”或“取消我的提醒”都会先真正执行再回复——如果失败会如实说明，而不会假装成功。",
