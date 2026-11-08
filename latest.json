@@ -1,12 +1,16 @@
 {
-  "version": "1.1.6",
-  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.1.6.dmg",
-  "sha256": "6d61a92faf2e05dbb225c86a5d5c74f6873f8faffc2b7a805274f6d580e5668b",
-  "sig": "frJ3Muz8VAtCzW5gGqtgnFA9vHATh25fNlJvgmAifs9Hb2cBRFtfkXUbmsOmdb/WFFT5u6homA3+23FEKFbJDw==",
-  "notes": "Critical: app updates no longer reset macOS Local Network access. The embedded interpreter now keeps a stable identity across builds, so your permission grant survives updates.",
-  "published": "2026-10-30",
-  "notes_zh": "关键修复:应用更新不再重置 macOS 本地网络权限;内嵌解释符跨构建保持同一身份,授权将随更新保留。",
+  "version": "1.1.7",
+  "url": "https://qingbojiang.com/telebot-ai-landing/downloads/Telebot-AI-1.1.7.dmg",
+  "sha256": "6f877df74a9812c5102c4e4776767cfbd09b36d577a8bf00daf898a010528c10",
+  "sig": "3nkoTkmWyMLRq3tBkZJp6tAj8kNao+xpu/SFypFXFxUNLau7LX0aJwU1HyUWgpzMmoTYuiWSo5v3iu/BoBhIAA==",
+  "notes": "Fixed: 'Launch at Login' now actually works on Mac — it registers even when the menu bar app isn't running, and the switch reports the real system state.",
+  "published": "2026-11-08",
+  "notes_zh": "修复：“登录时启动”现在真正生效——即使菜单栏应用未运行也会完成注册，开关状态与系统实际注册保持一致。",
   "changelog": {
+    "v1.1.6": {
+      "en": "Critical: app updates no longer reset macOS Local Network access. The embedded interpreter now keeps a stable identity across builds, so your permission grant survives updates.",
+      "zh": "关键修复:应用更新不再重置 macOS 本地网络权限;内嵌解释符跨构建保持同一身份,授权将随更新保留。"
+    },
     "v1.1.3": {
       "en": "Trustworthy reminder edits: natural-language \"edit reminder 2\" and \"cancel my reminder\" now force the real tool to run before any reply; only what you asked for changes, and failures are admitted.",
       "zh": "提醒修改更可信：自然语言说“修改提醒 2”或“取消我的提醒”时，必须先真正执行工具再回复；只修改你要求的部分，失败会如实告知。"
@@ -14,10 +18,6 @@
     "v1.1.2": {
       "en": "Your bot now reads X (Twitter) word for word: paste any post link for the exact text, author, date and likes — or ask what an account has been posting lately, read straight from X, newest first. No login, no API key; every result carries its real date, and an account that isn't archived is reported honestly.",
       "zh": "你的机器人现在能逐字阅读 X（推特）：粘贴任意帖子链接即可获得原文、作者、日期和点赞数；也可以询问某个账号最近发布了什么——直接从 X 读取，最新在前。无需登录，无需 API 密钥；每条结果都标注真实日期，未被收录的账号会如实说明。"
-    },
-    "v1.1.1": {
-      "en": "Run any schedule on demand: /runreminder <number> (or \"run a sample now\" in chat) executes the real job immediately — the real price, the real report — and your schedule stays untouched. Confirmations now always confirm the schedule first.",
-      "zh": "随时运行任何计划：/runreminder <序号>（或在聊天里说“先跑一个看看”）会立即执行真正的任务——真实价格、真实报告——并且不会影响你的计划安排。确认消息现在总会先确认已设置的计划。"
     }
   }
 }
